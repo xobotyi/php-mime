@@ -1,22 +1,46 @@
 {
-  "name": "xobotyi/php-mime",
-  "description": "PHP media types database",
+  "name": "xobotyi/php-mime-type",
+  "description": "A comprehensive MIME-types lib for PHP.",
+  "type": "library",
   "license": "MIT",
+  "keywords": [
+    "mimetype",
+    "mime",
+    "type",
+    "extension",
+    "ext",
+    "file",
+    "util",
+    "library"
+  ],
   "authors": [
     {
       "name": "Anton Zinovyev",
       "homepage": "https://github.com/xobotyi"
     }
   ],
+  "homepage": "https://github.com/xobotyi/php-mime-type",
+  "support": {
+    "issues": "https://github.com/xobotyi/php-mime-type/issues"
+  },
   "require": {
     "php": ">=7.1"
   },
   "require-dev": {
-    "phpunit/phpunit": "^7"
+    "phpunit/phpunit": "^7",
+    "codacy/coverage": "1.4.2"
   },
   "autoload": {
     "psr-4": {
       "xobotyi\\MimeType\\": "src"
+    }
+  },
+  "include-path": [
+    "src/"
+  ],
+  "autoload-dev": {
+    "psr-4": {
+      "xobotyi\\MimeType\\": "tests"
     }
   }
 }
