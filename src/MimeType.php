@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace xobotyi\MimeType;
+namespace xobotyi;
 
 /**
  * Class MimeType
@@ -11485,8 +11485,8 @@ class MimeType
     }
 
     /**
-     * Check whether file extension is supported.<br/>
-     * <b>NOTE: there can be more tahan one mimtetype </b>
+     * Return known relative mime-types.<br/>
+     * <b>NOTE: there can be more than one mime-type </b>
      *w
      * @param string $extension
      *
@@ -11497,7 +11497,7 @@ class MimeType
     }
 
     /**
-     * Return the plain list of supported file extensions
+     * Return the plain list of supported file extensions.
      *
      * @return string[]
      */

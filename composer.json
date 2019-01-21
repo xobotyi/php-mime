@@ -34,7 +34,7 @@
   },
   "autoload": {
     "psr-4": {
-      "xobotyi\\MimeType\\": "src"
+      "xobotyi\\": "src/"
     }
   },
   "include-path": [
@@ -42,7 +42,7 @@
   ],
   "autoload-dev": {
     "psr-4": {
-      "xobotyi\\MimeType\\": "tests"
+      "xobotyi\\": "tests/"
     }
   }
 }

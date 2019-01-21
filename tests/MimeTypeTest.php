@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace xobotyi\MimeType;
+namespace xobotyi;
 
 use PHPUnit\Framework\TestCase;
 
