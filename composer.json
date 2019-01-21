@@ -1,0 +1,22 @@
+{
+  "name": "xobotyi/php-mime",
+  "description": "PHP media types database",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anton Zinovyev",
+      "homepage": "https://github.com/xobotyi"
+    }
+  ],
+  "require": {
+    "php": ">=7.1"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^7"
+  },
+  "autoload": {
+    "psr-4": {
+      "xobotyi\\MimeType\\": "src"
+    }
+  }
+}
