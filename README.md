@@ -1,11 +1,11 @@
 <h1 align="center">xobotyi/php-mime-type</h1>
 <p align="center">
-    <img src="https://poser.pugx.org/xobotyi/php-mime-type/version?format=flat-square">
-    <img src="https://img.shields.io/travis/xobotyi/php-mime-type.svg?style=flat-square">
-    <img src="https://img.shields.io/codacy/grade/10c5af00007949b280a8d8a06242801a.svg?style=flat-square">
-    <img src="https://img.shields.io/codacy/coverage/10c5af00007949b280a8d8a06242801a.svg?style=flat-square">
-    <img src="https://poser.pugx.org/xobotyi/php-mime-type/downloads?format=flat-square">
-    <img src="https://poser.pugx.org/xobotyi/php-mime-type/license?format=flat-square">
+    <a href="https://packagist.org/packages/xobotyi/php-mime-type"><img src="https://poser.pugx.org/xobotyi/php-mime-type/version?format=flat-square"></a>
+    <a href="https://travis-ci.org/xobotyi/php-mime-type"><img src="https://img.shields.io/travis/xobotyi/php-mime-type.svg?style=flat-square"></a>
+    <a href="https://app.codacy.com/project/xobotyi/php-mime-type"><img src="https://img.shields.io/codacy/grade/10c5af00007949b280a8d8a06242801a.svg?style=flat-square"></a>
+    <a href="https://app.codacy.com/project/xobotyi/php-mime-type"><img src="https://img.shields.io/codacy/coverage/10c5af00007949b280a8d8a06242801a.svg?style=flat-square"></a>
+    <a href="https://packagist.org/packages/xobotyi/php-mime-type"><img src="https://poser.pugx.org/xobotyi/php-mime-type/downloads?format=flat-square"></a>
+    <a href="https://packagist.org/packages/xobotyi/php-mime-type"><img src="https://poser.pugx.org/xobotyi/php-mime-type/license?format=flat-square"></a>
 </p>
 
 A comprehensive MIME-type lib allowing you to get known file extensions by mime-type and vice-versa.  
