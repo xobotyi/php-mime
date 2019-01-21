@@ -17,9 +17,13 @@ curl_setopt_array($curl, [
     CURLOPT_RETURNTRANSFER => true,
     CURLOPT_HEADER         => false,
     CURLOPT_FOLLOWLOCATION => true,
-    CURLOPT_SSL_VERIFYPEER => false,
-    CURLOPT_SSL_VERIFYHOST => false,
 ]);
+if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
+    curl_setopt_array($curl, [
+        CURLOPT_SSL_VERIFYPEER => false,
+        CURLOPT_SSL_VERIFYHOST => false,
+    ]);
+}
 
 $data       = curl_exec($curl);
 $statusCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
@@ -42,7 +46,7 @@ echo "\rDecoding DB ... OK\n";
 
 $extensions = [];
 
-echo "\nPreparing mimes ...\n";
+echo "\nPreparing mimes ...";
 foreach ($mimes as $type => $typeData) {
     if (empty($typeData['extensions'])) {
         //        echo "{$type} has no associated extension\n";
