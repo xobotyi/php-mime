@@ -13,11429 +13,11426 @@ class MimeType
     // this is auto generated, do not touch!
     // <-- mimes start --> \
     private static $mimes = [
-        'application/1d-interleaved-parityfec'                                                 => [
+    'application' => [
+        '1d-interleaved-parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/3gpdash-qoe-report+xml'                                                   => [
+        '3gpdash-qoe-report+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/3gpp-ims+xml'                                                             => [
+        '3gpp-ims+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/a2l'                                                                      => [
+        'a2l' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/activemessage'                                                            => [
+        'activemessage' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/activity+json'                                                            => [
+        'activity+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-costmap+json'                                                        => [
+        'alto-costmap+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-costmapfilter+json'                                                  => [
+        'alto-costmapfilter+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-directory+json'                                                      => [
+        'alto-directory+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-endpointcost+json'                                                   => [
+        'alto-endpointcost+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-endpointcostparams+json'                                             => [
+        'alto-endpointcostparams+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-endpointprop+json'                                                   => [
+        'alto-endpointprop+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-endpointpropparams+json'                                             => [
+        'alto-endpointpropparams+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-error+json'                                                          => [
+        'alto-error+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-networkmap+json'                                                     => [
+        'alto-networkmap+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/alto-networkmapfilter+json'                                               => [
+        'alto-networkmapfilter+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/aml'                                                                      => [
+        'aml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/andrew-inset'                                                             => [
+        'andrew-inset' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ez'],
+            'source' => 'iana',
+            'extensions' => ['ez'],
         ],
-        'application/applefile'                                                                => [
+        'applefile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/applixware'                                                               => [
+        'applixware' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['aw'],
+            'source' => 'apache',
+            'extensions' => ['aw'],
         ],
-        'application/atf'                                                                      => [
+        'atf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/atfx'                                                                     => [
+        'atfx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/atom+xml'                                                                 => [
+        'atom+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['atom'],
+            'source' => 'iana',
+            'extensions' => ['atom'],
         ],
-        'application/atomcat+xml'                                                              => [
+        'atomcat+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['atomcat'],
+            'source' => 'iana',
+            'extensions' => ['atomcat'],
         ],
-        'application/atomdeleted+xml'                                                          => [
+        'atomdeleted+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/atomicmail'                                                               => [
+        'atomicmail' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/atomsvc+xml'                                                              => [
+        'atomsvc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['atomsvc'],
+            'source' => 'iana',
+            'extensions' => ['atomsvc'],
         ],
-        'application/atxml'                                                                    => [
+        'atxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/auth-policy+xml'                                                          => [
+        'auth-policy+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/bacnet-xdd+zip'                                                           => [
+        'bacnet-xdd+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/batch-smtp'                                                               => [
+        'batch-smtp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/bdoc'                                                                     => [
+        'bdoc' => [
             'compressible' => true,
-            'extensions'   => ['bdoc'],
+            'extensions' => ['bdoc'],
         ],
-        'application/beep+xml'                                                                 => [
+        'beep+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/calendar+json'                                                            => [
+        'calendar+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/calendar+xml'                                                             => [
+        'calendar+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/call-completion'                                                          => [
+        'call-completion' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cals-1840'                                                                => [
+        'cals-1840' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cbor'                                                                     => [
+        'cbor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cccex'                                                                    => [
+        'cccex' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ccmp+xml'                                                                 => [
+        'ccmp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ccxml+xml'                                                                => [
+        'ccxml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ccxml'],
+            'source' => 'iana',
+            'extensions' => ['ccxml'],
         ],
-        'application/cdfx+xml'                                                                 => [
+        'cdfx+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cdmi-capability'                                                          => [
+        'cdmi-capability' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdmia'],
+            'source' => 'iana',
+            'extensions' => ['cdmia'],
         ],
-        'application/cdmi-container'                                                           => [
+        'cdmi-container' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdmic'],
+            'source' => 'iana',
+            'extensions' => ['cdmic'],
         ],
-        'application/cdmi-domain'                                                              => [
+        'cdmi-domain' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdmid'],
+            'source' => 'iana',
+            'extensions' => ['cdmid'],
         ],
-        'application/cdmi-object'                                                              => [
+        'cdmi-object' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdmio'],
+            'source' => 'iana',
+            'extensions' => ['cdmio'],
         ],
-        'application/cdmi-queue'                                                               => [
+        'cdmi-queue' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdmiq'],
+            'source' => 'iana',
+            'extensions' => ['cdmiq'],
         ],
-        'application/cdni'                                                                     => [
+        'cdni' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cea'                                                                      => [
+        'cea' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cea-2018+xml'                                                             => [
+        'cea-2018+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cellml+xml'                                                               => [
+        'cellml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cfw'                                                                      => [
+        'cfw' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/clue_info+xml'                                                            => [
+        'clue_info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cms'                                                                      => [
+        'cms' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cnrp+xml'                                                                 => [
+        'cnrp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/coap-group+json'                                                          => [
+        'coap-group+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/coap-payload'                                                             => [
+        'coap-payload' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/commonground'                                                             => [
+        'commonground' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/conference-info+xml'                                                      => [
+        'conference-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cose'                                                                     => [
+        'cose' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cose-key'                                                                 => [
+        'cose-key' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cose-key-set'                                                             => [
+        'cose-key-set' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cpl+xml'                                                                  => [
+        'cpl+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/csrattrs'                                                                 => [
+        'csrattrs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/csta+xml'                                                                 => [
+        'csta+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cstadata+xml'                                                             => [
+        'cstadata+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/csvm+json'                                                                => [
+        'csvm+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cu-seeme'                                                                 => [
+        'cu-seeme' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cu'],
+            'source' => 'apache',
+            'extensions' => ['cu'],
         ],
-        'application/cwt'                                                                      => [
+        'cwt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/cybercash'                                                                => [
+        'cybercash' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dart'                                                                     => [
+        'dart' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/dash+xml'                                                                 => [
+        'dash+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mpd'],
+            'source' => 'iana',
+            'extensions' => ['mpd'],
         ],
-        'application/dashdelta'                                                                => [
+        'dashdelta' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/davmount+xml'                                                             => [
+        'davmount+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['davmount'],
+            'source' => 'iana',
+            'extensions' => ['davmount'],
         ],
-        'application/dca-rft'                                                                  => [
+        'dca-rft' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dcd'                                                                      => [
+        'dcd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dec-dx'                                                                   => [
+        'dec-dx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dialog-info+xml'                                                          => [
+        'dialog-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dicom'                                                                    => [
+        'dicom' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dicom+json'                                                               => [
+        'dicom+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dicom+xml'                                                                => [
+        'dicom+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dii'                                                                      => [
+        'dii' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dit'                                                                      => [
+        'dit' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dns'                                                                      => [
+        'dns' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dns+json'                                                                 => [
+        'dns+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dns-message'                                                              => [
+        'dns-message' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/docbook+xml'                                                              => [
+        'docbook+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['dbk'],
+            'source' => 'apache',
+            'extensions' => ['dbk'],
         ],
-        'application/dskpp+xml'                                                                => [
+        'dskpp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/dssc+der'                                                                 => [
+        'dssc+der' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dssc'],
+            'source' => 'iana',
+            'extensions' => ['dssc'],
         ],
-        'application/dssc+xml'                                                                 => [
+        'dssc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xdssc'],
+            'source' => 'iana',
+            'extensions' => ['xdssc'],
         ],
-        'application/dvcs'                                                                     => [
+        'dvcs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ecmascript'                                                               => [
+        'ecmascript' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ecma', 'es'],
+            'source' => 'iana',
+            'extensions' => ['ecma','es'],
         ],
-        'application/edi-consent'                                                              => [
+        'edi-consent' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/edi-x12'                                                                  => [
+        'edi-x12' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/edifact'                                                                  => [
+        'edifact' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/efi'                                                                      => [
+        'efi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.comment+xml'                                            => [
+        'emergencycalldata.comment+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.control+xml'                                            => [
+        'emergencycalldata.control+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.deviceinfo+xml'                                         => [
+        'emergencycalldata.deviceinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.ecall.msd'                                              => [
+        'emergencycalldata.ecall.msd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.providerinfo+xml'                                       => [
+        'emergencycalldata.providerinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.serviceinfo+xml'                                        => [
+        'emergencycalldata.serviceinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.subscriberinfo+xml'                                     => [
+        'emergencycalldata.subscriberinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emergencycalldata.veds+xml'                                               => [
+        'emergencycalldata.veds+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/emma+xml'                                                                 => [
+        'emma+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['emma'],
+            'source' => 'iana',
+            'extensions' => ['emma'],
         ],
-        'application/emotionml+xml'                                                            => [
+        'emotionml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/encaprtp'                                                                 => [
+        'encaprtp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/epp+xml'                                                                  => [
+        'epp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/epub+zip'                                                                 => [
+        'epub+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['epub'],
+            'source' => 'iana',
+            'extensions' => ['epub'],
         ],
-        'application/eshop'                                                                    => [
+        'eshop' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/exi'                                                                      => [
+        'exi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['exi'],
+            'source' => 'iana',
+            'extensions' => ['exi'],
         ],
-        'application/fastinfoset'                                                              => [
+        'fastinfoset' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/fastsoap'                                                                 => [
+        'fastsoap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/fdt+xml'                                                                  => [
+        'fdt+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/fhir+json'                                                                => [
+        'fhir+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/fhir+xml'                                                                 => [
+        'fhir+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/fido.trusted-apps+json'                                                   => [
+        'fido.trusted-apps+json' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/fits'                                                                     => [
+        'fits' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/font-sfnt'                                                                => [
+        'font-sfnt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/font-tdpfr'                                                               => [
+        'font-tdpfr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pfr'],
+            'source' => 'iana',
+            'extensions' => ['pfr'],
         ],
-        'application/font-woff'                                                                => [
+        'font-woff' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/framework-attributes+xml'                                                 => [
+        'framework-attributes+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/geo+json'                                                                 => [
+        'geo+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['geojson'],
+            'source' => 'iana',
+            'extensions' => ['geojson'],
         ],
-        'application/geo+json-seq'                                                             => [
+        'geo+json-seq' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/geopackage+sqlite3'                                                       => [
+        'geopackage+sqlite3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/geoxacml+xml'                                                             => [
+        'geoxacml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/gltf-buffer'                                                              => [
+        'gltf-buffer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/gml+xml'                                                                  => [
+        'gml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['gml'],
+            'source' => 'iana',
+            'extensions' => ['gml'],
         ],
-        'application/gpx+xml'                                                                  => [
+        'gpx+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['gpx'],
+            'source' => 'apache',
+            'extensions' => ['gpx'],
         ],
-        'application/gxf'                                                                      => [
+        'gxf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gxf'],
+            'source' => 'apache',
+            'extensions' => ['gxf'],
         ],
-        'application/gzip'                                                                     => [
+        'gzip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['gz'],
+            'source' => 'iana',
+            'extensions' => ['gz'],
         ],
-        'application/h224'                                                                     => [
+        'h224' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/held+xml'                                                                 => [
+        'held+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/hjson'                                                                    => [
+        'hjson' => [
             'compressible' => false,
-            'extensions'   => ['hjson'],
+            'extensions' => ['hjson'],
         ],
-        'application/http'                                                                     => [
+        'http' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/hyperstudio'                                                              => [
+        'hyperstudio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['stk'],
+            'source' => 'iana',
+            'extensions' => ['stk'],
         ],
-        'application/ibe-key-request+xml'                                                      => [
+        'ibe-key-request+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ibe-pkg-reply+xml'                                                        => [
+        'ibe-pkg-reply+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ibe-pp-data'                                                              => [
+        'ibe-pp-data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/iges'                                                                     => [
+        'iges' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/im-iscomposing+xml'                                                       => [
+        'im-iscomposing+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/index'                                                                    => [
+        'index' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/index.cmd'                                                                => [
+        'index.cmd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/index.obj'                                                                => [
+        'index.obj' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/index.response'                                                           => [
+        'index.response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/index.vnd'                                                                => [
+        'index.vnd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/inkml+xml'                                                                => [
+        'inkml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ink', 'inkml'],
+            'source' => 'iana',
+            'extensions' => ['ink','inkml'],
         ],
-        'application/iotp'                                                                     => [
+        'iotp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ipfix'                                                                    => [
+        'ipfix' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ipfix'],
+            'source' => 'iana',
+            'extensions' => ['ipfix'],
         ],
-        'application/ipp'                                                                      => [
+        'ipp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/isup'                                                                     => [
+        'isup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/its+xml'                                                                  => [
+        'its+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/java-archive'                                                             => [
+        'java-archive' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['jar', 'war', 'ear'],
+            'source' => 'apache',
+            'extensions' => ['jar','war','ear'],
         ],
-        'application/java-serialized-object'                                                   => [
+        'java-serialized-object' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['ser'],
+            'source' => 'apache',
+            'extensions' => ['ser'],
         ],
-        'application/java-vm'                                                                  => [
+        'java-vm' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['class'],
+            'source' => 'apache',
+            'extensions' => ['class'],
         ],
-        'application/javascript'                                                               => [
+        'javascript' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'charset'      => 'UTF-8',
-            'extensions'   => ['js', 'mjs'],
+            'source' => 'iana',
+            'charset' => 'UTF-8',
+            'extensions' => ['js','mjs'],
         ],
-        'application/jf2feed+json'                                                             => [
+        'jf2feed+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/jose'                                                                     => [
+        'jose' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/jose+json'                                                                => [
+        'jose+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/jrd+json'                                                                 => [
+        'jrd+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/json'                                                                     => [
+        'json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'charset'      => 'UTF-8',
-            'extensions'   => ['json', 'map'],
+            'source' => 'iana',
+            'charset' => 'UTF-8',
+            'extensions' => ['json','map'],
         ],
-        'application/json-patch+json'                                                          => [
+        'json-patch+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/json-seq'                                                                 => [
+        'json-seq' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/json5'                                                                    => [
+        'json5' => [
             'compressible' => false,
-            'extensions'   => ['json5'],
+            'extensions' => ['json5'],
         ],
-        'application/jsonml+json'                                                              => [
+        'jsonml+json' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['jsonml'],
+            'source' => 'apache',
+            'extensions' => ['jsonml'],
         ],
-        'application/jwk+json'                                                                 => [
+        'jwk+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/jwk-set+json'                                                             => [
+        'jwk-set+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/jwt'                                                                      => [
+        'jwt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/kpml-request+xml'                                                         => [
+        'kpml-request+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/kpml-response+xml'                                                        => [
+        'kpml-response+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ld+json'                                                                  => [
+        'ld+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['jsonld'],
+            'source' => 'iana',
+            'extensions' => ['jsonld'],
         ],
-        'application/lgr+xml'                                                                  => [
+        'lgr+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/link-format'                                                              => [
+        'link-format' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/load-control+xml'                                                         => [
+        'load-control+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/lost+xml'                                                                 => [
+        'lost+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['lostxml'],
+            'source' => 'iana',
+            'extensions' => ['lostxml'],
         ],
-        'application/lostsync+xml'                                                             => [
+        'lostsync+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/lxf'                                                                      => [
+        'lxf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mac-binhex40'                                                             => [
+        'mac-binhex40' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hqx'],
+            'source' => 'iana',
+            'extensions' => ['hqx'],
         ],
-        'application/mac-compactpro'                                                           => [
+        'mac-compactpro' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cpt'],
+            'source' => 'apache',
+            'extensions' => ['cpt'],
         ],
-        'application/macwriteii'                                                               => [
+        'macwriteii' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mads+xml'                                                                 => [
+        'mads+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mads'],
+            'source' => 'iana',
+            'extensions' => ['mads'],
         ],
-        'application/manifest+json'                                                            => [
+        'manifest+json' => [
             'compressible' => true,
-            'charset'      => 'UTF-8',
-            'extensions'   => ['webmanifest'],
+            'charset' => 'UTF-8',
+            'extensions' => ['webmanifest'],
         ],
-        'application/marc'                                                                     => [
+        'marc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mrc'],
+            'source' => 'iana',
+            'extensions' => ['mrc'],
         ],
-        'application/marcxml+xml'                                                              => [
+        'marcxml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mrcx'],
+            'source' => 'iana',
+            'extensions' => ['mrcx'],
         ],
-        'application/mathematica'                                                              => [
+        'mathematica' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ma', 'nb', 'mb'],
+            'source' => 'iana',
+            'extensions' => ['ma','nb','mb'],
         ],
-        'application/mathml+xml'                                                               => [
+        'mathml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mathml'],
+            'source' => 'iana',
+            'extensions' => ['mathml'],
         ],
-        'application/mathml-content+xml'                                                       => [
+        'mathml-content+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mathml-presentation+xml'                                                  => [
+        'mathml-presentation+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-associated-procedure-description+xml'                                => [
+        'mbms-associated-procedure-description+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-deregister+xml'                                                      => [
+        'mbms-deregister+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-envelope+xml'                                                        => [
+        'mbms-envelope+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-msk+xml'                                                             => [
+        'mbms-msk+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-msk-response+xml'                                                    => [
+        'mbms-msk-response+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-protection-description+xml'                                          => [
+        'mbms-protection-description+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-reception-report+xml'                                                => [
+        'mbms-reception-report+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-register+xml'                                                        => [
+        'mbms-register+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-register-response+xml'                                               => [
+        'mbms-register-response+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-schedule+xml'                                                        => [
+        'mbms-schedule+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbms-user-service-description+xml'                                        => [
+        'mbms-user-service-description+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mbox'                                                                     => [
+        'mbox' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mbox'],
+            'source' => 'iana',
+            'extensions' => ['mbox'],
         ],
-        'application/media-policy-dataset+xml'                                                 => [
+        'media-policy-dataset+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/media_control+xml'                                                        => [
+        'media_control+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mediaservercontrol+xml'                                                   => [
+        'mediaservercontrol+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mscml'],
+            'source' => 'iana',
+            'extensions' => ['mscml'],
         ],
-        'application/merge-patch+json'                                                         => [
+        'merge-patch+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/metalink+xml'                                                             => [
+        'metalink+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['metalink'],
+            'source' => 'apache',
+            'extensions' => ['metalink'],
         ],
-        'application/metalink4+xml'                                                            => [
+        'metalink4+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['meta4'],
+            'source' => 'iana',
+            'extensions' => ['meta4'],
         ],
-        'application/mets+xml'                                                                 => [
+        'mets+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mets'],
+            'source' => 'iana',
+            'extensions' => ['mets'],
         ],
-        'application/mf4'                                                                      => [
+        'mf4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mikey'                                                                    => [
+        'mikey' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mmt-usd+xml'                                                              => [
+        'mmt-usd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mods+xml'                                                                 => [
+        'mods+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mods'],
+            'source' => 'iana',
+            'extensions' => ['mods'],
         ],
-        'application/moss-keys'                                                                => [
+        'moss-keys' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/moss-signature'                                                           => [
+        'moss-signature' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mosskey-data'                                                             => [
+        'mosskey-data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mosskey-request'                                                          => [
+        'mosskey-request' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mp21'                                                                     => [
+        'mp21' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['m21', 'mp21'],
+            'source' => 'iana',
+            'extensions' => ['m21','mp21'],
         ],
-        'application/mp4'                                                                      => [
+        'mp4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mp4s', 'm4p'],
+            'source' => 'iana',
+            'extensions' => ['mp4s','m4p'],
         ],
-        'application/mpeg4-generic'                                                            => [
+        'mpeg4-generic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mpeg4-iod'                                                                => [
+        'mpeg4-iod' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mpeg4-iod-xmt'                                                            => [
+        'mpeg4-iod-xmt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mrb-consumer+xml'                                                         => [
+        'mrb-consumer+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mrb-publish+xml'                                                          => [
+        'mrb-publish+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/msc-ivr+xml'                                                              => [
+        'msc-ivr+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/msc-mixer+xml'                                                            => [
+        'msc-mixer+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/msword'                                                                   => [
+        'msword' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['doc', 'dot'],
+            'source' => 'iana',
+            'extensions' => ['doc','dot'],
         ],
-        'application/mud+json'                                                                 => [
+        'mud+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/mxf'                                                                      => [
+        'mxf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mxf'],
+            'source' => 'iana',
+            'extensions' => ['mxf'],
         ],
-        'application/n-quads'                                                                  => [
+        'n-quads' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/n-triples'                                                                => [
+        'n-triples' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/nasdata'                                                                  => [
+        'nasdata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/news-checkgroups'                                                         => [
+        'news-checkgroups' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/news-groupinfo'                                                           => [
+        'news-groupinfo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/news-transmission'                                                        => [
+        'news-transmission' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/nlsml+xml'                                                                => [
+        'nlsml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/node'                                                                     => [
+        'node' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/nss'                                                                      => [
+        'nss' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ocsp-request'                                                             => [
+        'ocsp-request' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ocsp-response'                                                            => [
+        'ocsp-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/octet-stream'                                                             => [
+        'octet-stream' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [
-                'bin',
-                'dms',
-                'lrf',
-                'mar',
-                'so',
-                'dist',
-                'distz',
-                'pkg',
-                'bpk',
-                'dump',
-                'elc',
-                'deploy',
-                'exe',
-                'dll',
-                'deb',
-                'dmg',
-                'iso',
-                'img',
-                'msi',
-                'msp',
-                'msm',
-                'buffer',
-            ],
+            'source' => 'iana',
+            'extensions' => ['bin','dms','lrf','mar','so','dist','distz','pkg','bpk','dump','elc','deploy','exe','dll','deb','dmg','iso','img','msi','msp','msm','buffer'],
         ],
-        'application/oda'                                                                      => [
+        'oda' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oda'],
+            'source' => 'iana',
+            'extensions' => ['oda'],
         ],
-        'application/odx'                                                                      => [
+        'odx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/oebps-package+xml'                                                        => [
+        'oebps-package+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['opf'],
+            'source' => 'iana',
+            'extensions' => ['opf'],
         ],
-        'application/ogg'                                                                      => [
+        'ogg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ogx'],
+            'source' => 'iana',
+            'extensions' => ['ogx'],
         ],
-        'application/omdoc+xml'                                                                => [
+        'omdoc+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['omdoc'],
+            'source' => 'apache',
+            'extensions' => ['omdoc'],
         ],
-        'application/onenote'                                                                  => [
+        'onenote' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['onetoc', 'onetoc2', 'onetmp', 'onepkg'],
+            'source' => 'apache',
+            'extensions' => ['onetoc','onetoc2','onetmp','onepkg'],
         ],
-        'application/oxps'                                                                     => [
+        'oxps' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oxps'],
+            'source' => 'iana',
+            'extensions' => ['oxps'],
         ],
-        'application/p2p-overlay+xml'                                                          => [
+        'p2p-overlay+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/parityfec'                                                                => [
+        'parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/passport'                                                                 => [
+        'passport' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/patch-ops-error+xml'                                                      => [
+        'patch-ops-error+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xer'],
+            'source' => 'iana',
+            'extensions' => ['xer'],
         ],
-        'application/pdf'                                                                      => [
+        'pdf' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['pdf'],
+            'source' => 'iana',
+            'extensions' => ['pdf'],
         ],
-        'application/pdx'                                                                      => [
+        'pdx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pgp-encrypted'                                                            => [
+        'pgp-encrypted' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['pgp'],
+            'source' => 'iana',
+            'extensions' => ['pgp'],
         ],
-        'application/pgp-keys'                                                                 => [
+        'pgp-keys' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pgp-signature'                                                            => [
+        'pgp-signature' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['asc', 'sig'],
+            'source' => 'iana',
+            'extensions' => ['asc','sig'],
         ],
-        'application/pics-rules'                                                               => [
+        'pics-rules' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['prf'],
+            'source' => 'apache',
+            'extensions' => ['prf'],
         ],
-        'application/pidf+xml'                                                                 => [
+        'pidf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pidf-diff+xml'                                                            => [
+        'pidf-diff+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pkcs10'                                                                   => [
+        'pkcs10' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['p10'],
+            'source' => 'iana',
+            'extensions' => ['p10'],
         ],
-        'application/pkcs12'                                                                   => [
+        'pkcs12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pkcs7-mime'                                                               => [
+        'pkcs7-mime' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['p7m', 'p7c'],
+            'source' => 'iana',
+            'extensions' => ['p7m','p7c'],
         ],
-        'application/pkcs7-signature'                                                          => [
+        'pkcs7-signature' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['p7s'],
+            'source' => 'iana',
+            'extensions' => ['p7s'],
         ],
-        'application/pkcs8'                                                                    => [
+        'pkcs8' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['p8'],
+            'source' => 'iana',
+            'extensions' => ['p8'],
         ],
-        'application/pkcs8-encrypted'                                                          => [
+        'pkcs8-encrypted' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pkix-attr-cert'                                                           => [
+        'pkix-attr-cert' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ac'],
+            'source' => 'iana',
+            'extensions' => ['ac'],
         ],
-        'application/pkix-cert'                                                                => [
+        'pkix-cert' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cer'],
+            'source' => 'iana',
+            'extensions' => ['cer'],
         ],
-        'application/pkix-crl'                                                                 => [
+        'pkix-crl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['crl'],
+            'source' => 'iana',
+            'extensions' => ['crl'],
         ],
-        'application/pkix-pkipath'                                                             => [
+        'pkix-pkipath' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pkipath'],
+            'source' => 'iana',
+            'extensions' => ['pkipath'],
         ],
-        'application/pkixcmp'                                                                  => [
+        'pkixcmp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pki'],
+            'source' => 'iana',
+            'extensions' => ['pki'],
         ],
-        'application/pls+xml'                                                                  => [
+        'pls+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['pls'],
+            'source' => 'iana',
+            'extensions' => ['pls'],
         ],
-        'application/poc-settings+xml'                                                         => [
+        'poc-settings+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/postscript'                                                               => [
+        'postscript' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ai', 'eps', 'ps'],
+            'source' => 'iana',
+            'extensions' => ['ai','eps','ps'],
         ],
-        'application/ppsp-tracker+json'                                                        => [
+        'ppsp-tracker+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/problem+json'                                                             => [
+        'problem+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/problem+xml'                                                              => [
+        'problem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/provenance+xml'                                                           => [
+        'provenance+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.alvestrand.titrax-sheet'                                              => [
+        'prs.alvestrand.titrax-sheet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.cww'                                                                  => [
+        'prs.cww' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cww'],
+            'source' => 'iana',
+            'extensions' => ['cww'],
         ],
-        'application/prs.hpub+zip'                                                             => [
+        'prs.hpub+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.nprend'                                                               => [
+        'prs.nprend' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.plucker'                                                              => [
+        'prs.plucker' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.rdf-xml-crypt'                                                        => [
+        'prs.rdf-xml-crypt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/prs.xsf+xml'                                                              => [
+        'prs.xsf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/pskc+xml'                                                                 => [
+        'pskc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['pskcxml'],
+            'source' => 'iana',
+            'extensions' => ['pskcxml'],
         ],
-        'application/qsig'                                                                     => [
+        'qsig' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/raml+yaml'                                                                => [
+        'raml+yaml' => [
             'compressible' => true,
-            'extensions'   => ['raml'],
+            'extensions' => ['raml'],
         ],
-        'application/raptorfec'                                                                => [
+        'raptorfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rdap+json'                                                                => [
+        'rdap+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rdf+xml'                                                                  => [
+        'rdf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rdf', 'owl'],
+            'source' => 'iana',
+            'extensions' => ['rdf','owl'],
         ],
-        'application/reginfo+xml'                                                              => [
+        'reginfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rif'],
+            'source' => 'iana',
+            'extensions' => ['rif'],
         ],
-        'application/relax-ng-compact-syntax'                                                  => [
+        'relax-ng-compact-syntax' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rnc'],
+            'source' => 'iana',
+            'extensions' => ['rnc'],
         ],
-        'application/remote-printing'                                                          => [
+        'remote-printing' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/reputon+json'                                                             => [
+        'reputon+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/resource-lists+xml'                                                       => [
+        'resource-lists+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rl'],
+            'source' => 'iana',
+            'extensions' => ['rl'],
         ],
-        'application/resource-lists-diff+xml'                                                  => [
+        'resource-lists-diff+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rld'],
+            'source' => 'iana',
+            'extensions' => ['rld'],
         ],
-        'application/rfc+xml'                                                                  => [
+        'rfc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/riscos'                                                                   => [
+        'riscos' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rlmi+xml'                                                                 => [
+        'rlmi+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rls-services+xml'                                                         => [
+        'rls-services+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rs'],
+            'source' => 'iana',
+            'extensions' => ['rs'],
         ],
-        'application/route-apd+xml'                                                            => [
+        'route-apd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/route-s-tsid+xml'                                                         => [
+        'route-s-tsid+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/route-usd+xml'                                                            => [
+        'route-usd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rpki-ghostbusters'                                                        => [
+        'rpki-ghostbusters' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gbr'],
+            'source' => 'iana',
+            'extensions' => ['gbr'],
         ],
-        'application/rpki-manifest'                                                            => [
+        'rpki-manifest' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mft'],
+            'source' => 'iana',
+            'extensions' => ['mft'],
         ],
-        'application/rpki-publication'                                                         => [
+        'rpki-publication' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rpki-roa'                                                                 => [
+        'rpki-roa' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['roa'],
+            'source' => 'iana',
+            'extensions' => ['roa'],
         ],
-        'application/rpki-updown'                                                              => [
+        'rpki-updown' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rsd+xml'                                                                  => [
+        'rsd+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['rsd'],
+            'source' => 'apache',
+            'extensions' => ['rsd'],
         ],
-        'application/rss+xml'                                                                  => [
+        'rss+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['rss'],
+            'source' => 'apache',
+            'extensions' => ['rss'],
         ],
-        'application/rtf'                                                                      => [
+        'rtf' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rtf'],
+            'source' => 'iana',
+            'extensions' => ['rtf'],
         ],
-        'application/rtploopback'                                                              => [
+        'rtploopback' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/rtx'                                                                      => [
+        'rtx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/samlassertion+xml'                                                        => [
+        'samlassertion+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/samlmetadata+xml'                                                         => [
+        'samlmetadata+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sbml+xml'                                                                 => [
+        'sbml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['sbml'],
+            'source' => 'iana',
+            'extensions' => ['sbml'],
         ],
-        'application/scaip+xml'                                                                => [
+        'scaip+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/scim+json'                                                                => [
+        'scim+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/scvp-cv-request'                                                          => [
+        'scvp-cv-request' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['scq'],
+            'source' => 'iana',
+            'extensions' => ['scq'],
         ],
-        'application/scvp-cv-response'                                                         => [
+        'scvp-cv-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['scs'],
+            'source' => 'iana',
+            'extensions' => ['scs'],
         ],
-        'application/scvp-vp-request'                                                          => [
+        'scvp-vp-request' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['spq'],
+            'source' => 'iana',
+            'extensions' => ['spq'],
         ],
-        'application/scvp-vp-response'                                                         => [
+        'scvp-vp-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['spp'],
+            'source' => 'iana',
+            'extensions' => ['spp'],
         ],
-        'application/sdp'                                                                      => [
+        'sdp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sdp'],
+            'source' => 'iana',
+            'extensions' => ['sdp'],
         ],
-        'application/secevent+jwt'                                                             => [
+        'secevent+jwt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/senml+cbor'                                                               => [
+        'senml+cbor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/senml+json'                                                               => [
+        'senml+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/senml+xml'                                                                => [
+        'senml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/senml-exi'                                                                => [
+        'senml-exi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sensml+cbor'                                                              => [
+        'sensml+cbor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sensml+json'                                                              => [
+        'sensml+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sensml+xml'                                                               => [
+        'sensml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sensml-exi'                                                               => [
+        'sensml-exi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sep+xml'                                                                  => [
+        'sep+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sep-exi'                                                                  => [
+        'sep-exi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/session-info'                                                             => [
+        'session-info' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/set-payment'                                                              => [
+        'set-payment' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/set-payment-initiation'                                                   => [
+        'set-payment-initiation' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['setpay'],
+            'source' => 'iana',
+            'extensions' => ['setpay'],
         ],
-        'application/set-registration'                                                         => [
+        'set-registration' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/set-registration-initiation'                                              => [
+        'set-registration-initiation' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['setreg'],
+            'source' => 'iana',
+            'extensions' => ['setreg'],
         ],
-        'application/sgml'                                                                     => [
+        'sgml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sgml-open-catalog'                                                        => [
+        'sgml-open-catalog' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/shf+xml'                                                                  => [
+        'shf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['shf'],
+            'source' => 'iana',
+            'extensions' => ['shf'],
         ],
-        'application/sieve'                                                                    => [
+        'sieve' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/simple-filter+xml'                                                        => [
+        'simple-filter+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/simple-message-summary'                                                   => [
+        'simple-message-summary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/simplesymbolcontainer'                                                    => [
+        'simplesymbolcontainer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/slate'                                                                    => [
+        'slate' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/smil'                                                                     => [
+        'smil' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/smil+xml'                                                                 => [
+        'smil+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['smi', 'smil'],
+            'source' => 'iana',
+            'extensions' => ['smi','smil'],
         ],
-        'application/smpte336m'                                                                => [
+        'smpte336m' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/soap+fastinfoset'                                                         => [
+        'soap+fastinfoset' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/soap+xml'                                                                 => [
+        'soap+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sparql-query'                                                             => [
+        'sparql-query' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rq'],
+            'source' => 'iana',
+            'extensions' => ['rq'],
         ],
-        'application/sparql-results+xml'                                                       => [
+        'sparql-results+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['srx'],
+            'source' => 'iana',
+            'extensions' => ['srx'],
         ],
-        'application/spirits-event+xml'                                                        => [
+        'spirits-event+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/sql'                                                                      => [
+        'sql' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/srgs'                                                                     => [
+        'srgs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gram'],
+            'source' => 'iana',
+            'extensions' => ['gram'],
         ],
-        'application/srgs+xml'                                                                 => [
+        'srgs+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['grxml'],
+            'source' => 'iana',
+            'extensions' => ['grxml'],
         ],
-        'application/sru+xml'                                                                  => [
+        'sru+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['sru'],
+            'source' => 'iana',
+            'extensions' => ['sru'],
         ],
-        'application/ssdl+xml'                                                                 => [
+        'ssdl+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['ssdl'],
+            'source' => 'apache',
+            'extensions' => ['ssdl'],
         ],
-        'application/ssml+xml'                                                                 => [
+        'ssml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ssml'],
+            'source' => 'iana',
+            'extensions' => ['ssml'],
         ],
-        'application/stix+json'                                                                => [
+        'stix+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-apex-update'                                                         => [
+        'tamp-apex-update' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-apex-update-confirm'                                                 => [
+        'tamp-apex-update-confirm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-community-update'                                                    => [
+        'tamp-community-update' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-community-update-confirm'                                            => [
+        'tamp-community-update-confirm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-error'                                                               => [
+        'tamp-error' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-sequence-adjust'                                                     => [
+        'tamp-sequence-adjust' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-sequence-adjust-confirm'                                             => [
+        'tamp-sequence-adjust-confirm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-status-query'                                                        => [
+        'tamp-status-query' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-status-response'                                                     => [
+        'tamp-status-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-update'                                                              => [
+        'tamp-update' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tamp-update-confirm'                                                      => [
+        'tamp-update-confirm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tar'                                                                      => [
+        'tar' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/taxii+json'                                                               => [
+        'taxii+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tei+xml'                                                                  => [
+        'tei+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['tei', 'teicorpus'],
+            'source' => 'iana',
+            'extensions' => ['tei','teicorpus'],
         ],
-        'application/thraud+xml'                                                               => [
+        'thraud+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['tfi'],
+            'source' => 'iana',
+            'extensions' => ['tfi'],
         ],
-        'application/timestamp-query'                                                          => [
+        'timestamp-query' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/timestamp-reply'                                                          => [
+        'timestamp-reply' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/timestamped-data'                                                         => [
+        'timestamped-data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tsd'],
+            'source' => 'iana',
+            'extensions' => ['tsd'],
         ],
-        'application/tlsrpt+gzip'                                                              => [
+        'tlsrpt+gzip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tlsrpt+json'                                                              => [
+        'tlsrpt+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tnauthlist'                                                               => [
+        'tnauthlist' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/trickle-ice-sdpfrag'                                                      => [
+        'trickle-ice-sdpfrag' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/trig'                                                                     => [
+        'trig' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ttml+xml'                                                                 => [
+        'ttml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/tve-trigger'                                                              => [
+        'tve-trigger' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/ulpfec'                                                                   => [
+        'ulpfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/urc-grpsheet+xml'                                                         => [
+        'urc-grpsheet+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/urc-ressheet+xml'                                                         => [
+        'urc-ressheet+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/urc-targetdesc+xml'                                                       => [
+        'urc-targetdesc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/urc-uisocketdesc+xml'                                                     => [
+        'urc-uisocketdesc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vcard+json'                                                               => [
+        'vcard+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vcard+xml'                                                                => [
+        'vcard+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vemmi'                                                                    => [
+        'vemmi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vividence.scriptfile'                                                     => [
+        'vividence.scriptfile' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/vnd.1000minds.decision-model+xml'                                         => [
+        'vnd.1000minds.decision-model+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp-prose+xml'                                                       => [
+        'vnd.3gpp-prose+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp-prose-pc3ch+xml'                                                 => [
+        'vnd.3gpp-prose-pc3ch+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp-v2x-local-service-information'                                   => [
+        'vnd.3gpp-v2x-local-service-information' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.access-transfer-events+xml'                                      => [
+        'vnd.3gpp.access-transfer-events+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.bsf+xml'                                                         => [
+        'vnd.3gpp.bsf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.gmop+xml'                                                        => [
+        'vnd.3gpp.gmop+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mc-signalling-ear'                                               => [
+        'vnd.3gpp.mc-signalling-ear' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcdata-payload'                                                  => [
+        'vnd.3gpp.mcdata-payload' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcdata-signalling'                                               => [
+        'vnd.3gpp.mcdata-signalling' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-affiliation-command+xml'                                   => [
+        'vnd.3gpp.mcptt-affiliation-command+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-floor-request+xml'                                         => [
+        'vnd.3gpp.mcptt-floor-request+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-info+xml'                                                  => [
+        'vnd.3gpp.mcptt-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-location-info+xml'                                         => [
+        'vnd.3gpp.mcptt-location-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-mbms-usage-info+xml'                                       => [
+        'vnd.3gpp.mcptt-mbms-usage-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mcptt-signed+xml'                                                => [
+        'vnd.3gpp.mcptt-signed+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.mid-call+xml'                                                    => [
+        'vnd.3gpp.mid-call+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.pic-bw-large'                                                    => [
+        'vnd.3gpp.pic-bw-large' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['plb'],
+            'source' => 'iana',
+            'extensions' => ['plb'],
         ],
-        'application/vnd.3gpp.pic-bw-small'                                                    => [
+        'vnd.3gpp.pic-bw-small' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['psb'],
+            'source' => 'iana',
+            'extensions' => ['psb'],
         ],
-        'application/vnd.3gpp.pic-bw-var'                                                      => [
+        'vnd.3gpp.pic-bw-var' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pvb'],
+            'source' => 'iana',
+            'extensions' => ['pvb'],
         ],
-        'application/vnd.3gpp.sms'                                                             => [
+        'vnd.3gpp.sms' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.sms+xml'                                                         => [
+        'vnd.3gpp.sms+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.srvcc-ext+xml'                                                   => [
+        'vnd.3gpp.srvcc-ext+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.srvcc-info+xml'                                                  => [
+        'vnd.3gpp.srvcc-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.state-and-event-info+xml'                                        => [
+        'vnd.3gpp.state-and-event-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp.ussd+xml'                                                        => [
+        'vnd.3gpp.ussd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp2.bcmcsinfo+xml'                                                  => [
+        'vnd.3gpp2.bcmcsinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp2.sms'                                                            => [
+        'vnd.3gpp2.sms' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3gpp2.tcap'                                                           => [
+        'vnd.3gpp2.tcap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tcap'],
+            'source' => 'iana',
+            'extensions' => ['tcap'],
         ],
-        'application/vnd.3lightssoftware.imagescal'                                            => [
+        'vnd.3lightssoftware.imagescal' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.3m.post-it-notes'                                                     => [
+        'vnd.3m.post-it-notes' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pwn'],
+            'source' => 'iana',
+            'extensions' => ['pwn'],
         ],
-        'application/vnd.accpac.simply.aso'                                                    => [
+        'vnd.accpac.simply.aso' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['aso'],
+            'source' => 'iana',
+            'extensions' => ['aso'],
         ],
-        'application/vnd.accpac.simply.imp'                                                    => [
+        'vnd.accpac.simply.imp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['imp'],
+            'source' => 'iana',
+            'extensions' => ['imp'],
         ],
-        'application/vnd.acucobol'                                                             => [
+        'vnd.acucobol' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['acu'],
+            'source' => 'iana',
+            'extensions' => ['acu'],
         ],
-        'application/vnd.acucorp'                                                              => [
+        'vnd.acucorp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['atc', 'acutc'],
+            'source' => 'iana',
+            'extensions' => ['atc','acutc'],
         ],
-        'application/vnd.adobe.air-application-installer-package+zip'                          => [
+        'vnd.adobe.air-application-installer-package+zip' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['air'],
+            'source' => 'apache',
+            'extensions' => ['air'],
         ],
-        'application/vnd.adobe.flash.movie'                                                    => [
+        'vnd.adobe.flash.movie' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.adobe.formscentral.fcdt'                                              => [
+        'vnd.adobe.formscentral.fcdt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fcdt'],
+            'source' => 'iana',
+            'extensions' => ['fcdt'],
         ],
-        'application/vnd.adobe.fxp'                                                            => [
+        'vnd.adobe.fxp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fxp', 'fxpl'],
+            'source' => 'iana',
+            'extensions' => ['fxp','fxpl'],
         ],
-        'application/vnd.adobe.partial-upload'                                                 => [
+        'vnd.adobe.partial-upload' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.adobe.xdp+xml'                                                        => [
+        'vnd.adobe.xdp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xdp'],
+            'source' => 'iana',
+            'extensions' => ['xdp'],
         ],
-        'application/vnd.adobe.xfdf'                                                           => [
+        'vnd.adobe.xfdf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xfdf'],
+            'source' => 'iana',
+            'extensions' => ['xfdf'],
         ],
-        'application/vnd.aether.imp'                                                           => [
+        'vnd.aether.imp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.afpc.afplinedata'                                                     => [
+        'vnd.afpc.afplinedata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.afpc.modca'                                                           => [
+        'vnd.afpc.modca' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ah-barcode'                                                           => [
+        'vnd.ah-barcode' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ahead.space'                                                          => [
+        'vnd.ahead.space' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ahead'],
+            'source' => 'iana',
+            'extensions' => ['ahead'],
         ],
-        'application/vnd.airzip.filesecure.azf'                                                => [
+        'vnd.airzip.filesecure.azf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['azf'],
+            'source' => 'iana',
+            'extensions' => ['azf'],
         ],
-        'application/vnd.airzip.filesecure.azs'                                                => [
+        'vnd.airzip.filesecure.azs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['azs'],
+            'source' => 'iana',
+            'extensions' => ['azs'],
         ],
-        'application/vnd.amadeus+json'                                                         => [
+        'vnd.amadeus+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.amazon.ebook'                                                         => [
+        'vnd.amazon.ebook' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['azw'],
+            'source' => 'apache',
+            'extensions' => ['azw'],
         ],
-        'application/vnd.amazon.mobi8-ebook'                                                   => [
+        'vnd.amazon.mobi8-ebook' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.americandynamics.acc'                                                 => [
+        'vnd.americandynamics.acc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['acc'],
+            'source' => 'iana',
+            'extensions' => ['acc'],
         ],
-        'application/vnd.amiga.ami'                                                            => [
+        'vnd.amiga.ami' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ami'],
+            'source' => 'iana',
+            'extensions' => ['ami'],
         ],
-        'application/vnd.amundsen.maze+xml'                                                    => [
+        'vnd.amundsen.maze+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.android.package-archive'                                              => [
+        'vnd.android.package-archive' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['apk'],
+            'source' => 'apache',
+            'extensions' => ['apk'],
         ],
-        'application/vnd.anki'                                                                 => [
+        'vnd.anki' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.anser-web-certificate-issue-initiation'                               => [
+        'vnd.anser-web-certificate-issue-initiation' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cii'],
+            'source' => 'iana',
+            'extensions' => ['cii'],
         ],
-        'application/vnd.anser-web-funds-transfer-initiation'                                  => [
+        'vnd.anser-web-funds-transfer-initiation' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['fti'],
+            'source' => 'apache',
+            'extensions' => ['fti'],
         ],
-        'application/vnd.antix.game-component'                                                 => [
+        'vnd.antix.game-component' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['atx'],
+            'source' => 'iana',
+            'extensions' => ['atx'],
         ],
-        'application/vnd.apache.thrift.binary'                                                 => [
+        'vnd.apache.thrift.binary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.apache.thrift.compact'                                                => [
+        'vnd.apache.thrift.compact' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.apache.thrift.json'                                                   => [
+        'vnd.apache.thrift.json' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.api+json'                                                             => [
+        'vnd.api+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.apothekende.reservation+json'                                         => [
+        'vnd.apothekende.reservation+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.apple.installer+xml'                                                  => [
+        'vnd.apple.installer+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mpkg'],
+            'source' => 'iana',
+            'extensions' => ['mpkg'],
         ],
-        'application/vnd.apple.keynote'                                                        => [
+        'vnd.apple.keynote' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['keynote'],
+            'source' => 'iana',
+            'extensions' => ['keynote'],
         ],
-        'application/vnd.apple.mpegurl'                                                        => [
+        'vnd.apple.mpegurl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['m3u8'],
+            'source' => 'iana',
+            'extensions' => ['m3u8'],
         ],
-        'application/vnd.apple.numbers'                                                        => [
+        'vnd.apple.numbers' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['numbers'],
+            'source' => 'iana',
+            'extensions' => ['numbers'],
         ],
-        'application/vnd.apple.pages'                                                          => [
+        'vnd.apple.pages' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pages'],
+            'source' => 'iana',
+            'extensions' => ['pages'],
         ],
-        'application/vnd.apple.pkpass'                                                         => [
+        'vnd.apple.pkpass' => [
             'compressible' => true,
-            'extensions'   => ['pkpass'],
+            'extensions' => ['pkpass'],
         ],
-        'application/vnd.arastra.swi'                                                          => [
+        'vnd.arastra.swi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.aristanetworks.swi'                                                   => [
+        'vnd.aristanetworks.swi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['swi'],
+            'source' => 'iana',
+            'extensions' => ['swi'],
         ],
-        'application/vnd.artisan+json'                                                         => [
+        'vnd.artisan+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.artsquare'                                                            => [
+        'vnd.artsquare' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.astraea-software.iota'                                                => [
+        'vnd.astraea-software.iota' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['iota'],
+            'source' => 'iana',
+            'extensions' => ['iota'],
         ],
-        'application/vnd.audiograph'                                                           => [
+        'vnd.audiograph' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['aep'],
+            'source' => 'iana',
+            'extensions' => ['aep'],
         ],
-        'application/vnd.autopackage'                                                          => [
+        'vnd.autopackage' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.avalon+json'                                                          => [
+        'vnd.avalon+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.avistar+xml'                                                          => [
+        'vnd.avistar+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.balsamiq.bmml+xml'                                                    => [
+        'vnd.balsamiq.bmml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.balsamiq.bmpr'                                                        => [
+        'vnd.balsamiq.bmpr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.banana-accounting'                                                    => [
+        'vnd.banana-accounting' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bbf.usp.msg'                                                          => [
+        'vnd.bbf.usp.msg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bbf.usp.msg+json'                                                     => [
+        'vnd.bbf.usp.msg+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bekitzur-stech+json'                                                  => [
+        'vnd.bekitzur-stech+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bint.med-content'                                                     => [
+        'vnd.bint.med-content' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.biopax.rdf+xml'                                                       => [
+        'vnd.biopax.rdf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.blink-idb-value-wrapper'                                              => [
+        'vnd.blink-idb-value-wrapper' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.blueice.multipass'                                                    => [
+        'vnd.blueice.multipass' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mpm'],
+            'source' => 'iana',
+            'extensions' => ['mpm'],
         ],
-        'application/vnd.bluetooth.ep.oob'                                                     => [
+        'vnd.bluetooth.ep.oob' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bluetooth.le.oob'                                                     => [
+        'vnd.bluetooth.le.oob' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.bmi'                                                                  => [
+        'vnd.bmi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['bmi'],
+            'source' => 'iana',
+            'extensions' => ['bmi'],
         ],
-        'application/vnd.businessobjects'                                                      => [
+        'vnd.businessobjects' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rep'],
+            'source' => 'iana',
+            'extensions' => ['rep'],
         ],
-        'application/vnd.byu.uapi+json'                                                        => [
+        'vnd.byu.uapi+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cab-jscript'                                                          => [
+        'vnd.cab-jscript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.canon-cpdl'                                                           => [
+        'vnd.canon-cpdl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.canon-lips'                                                           => [
+        'vnd.canon-lips' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.capasystems-pg+json'                                                  => [
+        'vnd.capasystems-pg+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cendio.thinlinc.clientconf'                                           => [
+        'vnd.cendio.thinlinc.clientconf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.century-systems.tcp_stream'                                           => [
+        'vnd.century-systems.tcp_stream' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.chemdraw+xml'                                                         => [
+        'vnd.chemdraw+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['cdxml'],
+            'source' => 'iana',
+            'extensions' => ['cdxml'],
         ],
-        'application/vnd.chess-pgn'                                                            => [
+        'vnd.chess-pgn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.chipnuts.karaoke-mmd'                                                 => [
+        'vnd.chipnuts.karaoke-mmd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mmd'],
+            'source' => 'iana',
+            'extensions' => ['mmd'],
         ],
-        'application/vnd.cinderella'                                                           => [
+        'vnd.cinderella' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdy'],
+            'source' => 'iana',
+            'extensions' => ['cdy'],
         ],
-        'application/vnd.cirpack.isdn-ext'                                                     => [
+        'vnd.cirpack.isdn-ext' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.citationstyles.style+xml'                                             => [
+        'vnd.citationstyles.style+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['csl'],
+            'source' => 'iana',
+            'extensions' => ['csl'],
         ],
-        'application/vnd.claymore'                                                             => [
+        'vnd.claymore' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cla'],
+            'source' => 'iana',
+            'extensions' => ['cla'],
         ],
-        'application/vnd.cloanto.rp9'                                                          => [
+        'vnd.cloanto.rp9' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rp9'],
+            'source' => 'iana',
+            'extensions' => ['rp9'],
         ],
-        'application/vnd.clonk.c4group'                                                        => [
+        'vnd.clonk.c4group' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['c4g', 'c4d', 'c4f', 'c4p', 'c4u'],
+            'source' => 'iana',
+            'extensions' => ['c4g','c4d','c4f','c4p','c4u'],
         ],
-        'application/vnd.cluetrust.cartomobile-config'                                         => [
+        'vnd.cluetrust.cartomobile-config' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['c11amc'],
+            'source' => 'iana',
+            'extensions' => ['c11amc'],
         ],
-        'application/vnd.cluetrust.cartomobile-config-pkg'                                     => [
+        'vnd.cluetrust.cartomobile-config-pkg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['c11amz'],
+            'source' => 'iana',
+            'extensions' => ['c11amz'],
         ],
-        'application/vnd.coffeescript'                                                         => [
+        'vnd.coffeescript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.document'                                        => [
+        'vnd.collabio.xodocuments.document' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.document-template'                               => [
+        'vnd.collabio.xodocuments.document-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.presentation'                                    => [
+        'vnd.collabio.xodocuments.presentation' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.presentation-template'                           => [
+        'vnd.collabio.xodocuments.presentation-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.spreadsheet'                                     => [
+        'vnd.collabio.xodocuments.spreadsheet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collabio.xodocuments.spreadsheet-template'                            => [
+        'vnd.collabio.xodocuments.spreadsheet-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collection+json'                                                      => [
+        'vnd.collection+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collection.doc+json'                                                  => [
+        'vnd.collection.doc+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.collection.next+json'                                                 => [
+        'vnd.collection.next+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.comicbook+zip'                                                        => [
+        'vnd.comicbook+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.comicbook-rar'                                                        => [
+        'vnd.comicbook-rar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.commerce-battelle'                                                    => [
+        'vnd.commerce-battelle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.commonspace'                                                          => [
+        'vnd.commonspace' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['csp'],
+            'source' => 'iana',
+            'extensions' => ['csp'],
         ],
-        'application/vnd.contact.cmsg'                                                         => [
+        'vnd.contact.cmsg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdbcmsg'],
+            'source' => 'iana',
+            'extensions' => ['cdbcmsg'],
         ],
-        'application/vnd.coreos.ignition+json'                                                 => [
+        'vnd.coreos.ignition+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cosmocaller'                                                          => [
+        'vnd.cosmocaller' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cmc'],
+            'source' => 'iana',
+            'extensions' => ['cmc'],
         ],
-        'application/vnd.crick.clicker'                                                        => [
+        'vnd.crick.clicker' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['clkx'],
+            'source' => 'iana',
+            'extensions' => ['clkx'],
         ],
-        'application/vnd.crick.clicker.keyboard'                                               => [
+        'vnd.crick.clicker.keyboard' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['clkk'],
+            'source' => 'iana',
+            'extensions' => ['clkk'],
         ],
-        'application/vnd.crick.clicker.palette'                                                => [
+        'vnd.crick.clicker.palette' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['clkp'],
+            'source' => 'iana',
+            'extensions' => ['clkp'],
         ],
-        'application/vnd.crick.clicker.template'                                               => [
+        'vnd.crick.clicker.template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['clkt'],
+            'source' => 'iana',
+            'extensions' => ['clkt'],
         ],
-        'application/vnd.crick.clicker.wordbank'                                               => [
+        'vnd.crick.clicker.wordbank' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['clkw'],
+            'source' => 'iana',
+            'extensions' => ['clkw'],
         ],
-        'application/vnd.criticaltools.wbs+xml'                                                => [
+        'vnd.criticaltools.wbs+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['wbs'],
+            'source' => 'iana',
+            'extensions' => ['wbs'],
         ],
-        'application/vnd.ctc-posml'                                                            => [
+        'vnd.ctc-posml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pml'],
+            'source' => 'iana',
+            'extensions' => ['pml'],
         ],
-        'application/vnd.ctct.ws+xml'                                                          => [
+        'vnd.ctct.ws+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cups-pdf'                                                             => [
+        'vnd.cups-pdf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cups-postscript'                                                      => [
+        'vnd.cups-postscript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cups-ppd'                                                             => [
+        'vnd.cups-ppd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ppd'],
+            'source' => 'iana',
+            'extensions' => ['ppd'],
         ],
-        'application/vnd.cups-raster'                                                          => [
+        'vnd.cups-raster' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cups-raw'                                                             => [
+        'vnd.cups-raw' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.curl'                                                                 => [
+        'vnd.curl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.curl.car'                                                             => [
+        'vnd.curl.car' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['car'],
+            'source' => 'apache',
+            'extensions' => ['car'],
         ],
-        'application/vnd.curl.pcurl'                                                           => [
+        'vnd.curl.pcurl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pcurl'],
+            'source' => 'apache',
+            'extensions' => ['pcurl'],
         ],
-        'application/vnd.cyan.dean.root+xml'                                                   => [
+        'vnd.cyan.dean.root+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.cybank'                                                               => [
+        'vnd.cybank' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.d2l.coursepackage1p0+zip'                                             => [
+        'vnd.d2l.coursepackage1p0+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dart'                                                                 => [
+        'vnd.dart' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['dart'],
+            'source' => 'iana',
+            'extensions' => ['dart'],
         ],
-        'application/vnd.data-vision.rdz'                                                      => [
+        'vnd.data-vision.rdz' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rdz'],
+            'source' => 'iana',
+            'extensions' => ['rdz'],
         ],
-        'application/vnd.datapackage+json'                                                     => [
+        'vnd.datapackage+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dataresource+json'                                                    => [
+        'vnd.dataresource+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.debian.binary-package'                                                => [
+        'vnd.debian.binary-package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dece.data'                                                            => [
+        'vnd.dece.data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvf', 'uvvf', 'uvd', 'uvvd'],
+            'source' => 'iana',
+            'extensions' => ['uvf','uvvf','uvd','uvvd'],
         ],
-        'application/vnd.dece.ttml+xml'                                                        => [
+        'vnd.dece.ttml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['uvt', 'uvvt'],
+            'source' => 'iana',
+            'extensions' => ['uvt','uvvt'],
         ],
-        'application/vnd.dece.unspecified'                                                     => [
+        'vnd.dece.unspecified' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvx', 'uvvx'],
+            'source' => 'iana',
+            'extensions' => ['uvx','uvvx'],
         ],
-        'application/vnd.dece.zip'                                                             => [
+        'vnd.dece.zip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvz', 'uvvz'],
+            'source' => 'iana',
+            'extensions' => ['uvz','uvvz'],
         ],
-        'application/vnd.denovo.fcselayout-link'                                               => [
+        'vnd.denovo.fcselayout-link' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fe_launch'],
+            'source' => 'iana',
+            'extensions' => ['fe_launch'],
         ],
-        'application/vnd.desmume.movie'                                                        => [
+        'vnd.desmume.movie' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dir-bi.plate-dl-nosuffix'                                             => [
+        'vnd.dir-bi.plate-dl-nosuffix' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dm.delegation+xml'                                                    => [
+        'vnd.dm.delegation+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dna'                                                                  => [
+        'vnd.dna' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dna'],
+            'source' => 'iana',
+            'extensions' => ['dna'],
         ],
-        'application/vnd.document+json'                                                        => [
+        'vnd.document+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dolby.mlp'                                                            => [
+        'vnd.dolby.mlp' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mlp'],
+            'source' => 'apache',
+            'extensions' => ['mlp'],
         ],
-        'application/vnd.dolby.mobile.1'                                                       => [
+        'vnd.dolby.mobile.1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dolby.mobile.2'                                                       => [
+        'vnd.dolby.mobile.2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.doremir.scorecloud-binary-document'                                   => [
+        'vnd.doremir.scorecloud-binary-document' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dpgraph'                                                              => [
+        'vnd.dpgraph' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dpg'],
+            'source' => 'iana',
+            'extensions' => ['dpg'],
         ],
-        'application/vnd.dreamfactory'                                                         => [
+        'vnd.dreamfactory' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dfac'],
+            'source' => 'iana',
+            'extensions' => ['dfac'],
         ],
-        'application/vnd.drive+json'                                                           => [
+        'vnd.drive+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ds-keypoint'                                                          => [
+        'vnd.ds-keypoint' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['kpxx'],
+            'source' => 'apache',
+            'extensions' => ['kpxx'],
         ],
-        'application/vnd.dtg.local'                                                            => [
+        'vnd.dtg.local' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dtg.local.flash'                                                      => [
+        'vnd.dtg.local.flash' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dtg.local.html'                                                       => [
+        'vnd.dtg.local.html' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ait'                                                              => [
+        'vnd.dvb.ait' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ait'],
+            'source' => 'iana',
+            'extensions' => ['ait'],
         ],
-        'application/vnd.dvb.dvbj'                                                             => [
+        'vnd.dvb.dvbj' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.esgcontainer'                                                     => [
+        'vnd.dvb.esgcontainer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ipdcdftnotifaccess'                                               => [
+        'vnd.dvb.ipdcdftnotifaccess' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ipdcesgaccess'                                                    => [
+        'vnd.dvb.ipdcesgaccess' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ipdcesgaccess2'                                                   => [
+        'vnd.dvb.ipdcesgaccess2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ipdcesgpdd'                                                       => [
+        'vnd.dvb.ipdcesgpdd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.ipdcroaming'                                                      => [
+        'vnd.dvb.ipdcroaming' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.iptv.alfec-base'                                                  => [
+        'vnd.dvb.iptv.alfec-base' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.iptv.alfec-enhancement'                                           => [
+        'vnd.dvb.iptv.alfec-enhancement' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-aggregate-root+xml'                                         => [
+        'vnd.dvb.notif-aggregate-root+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-container+xml'                                              => [
+        'vnd.dvb.notif-container+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-generic+xml'                                                => [
+        'vnd.dvb.notif-generic+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-ia-msglist+xml'                                             => [
+        'vnd.dvb.notif-ia-msglist+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-ia-registration-request+xml'                                => [
+        'vnd.dvb.notif-ia-registration-request+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-ia-registration-response+xml'                               => [
+        'vnd.dvb.notif-ia-registration-response+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.notif-init+xml'                                                   => [
+        'vnd.dvb.notif-init+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.pfr'                                                              => [
+        'vnd.dvb.pfr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dvb.service'                                                          => [
+        'vnd.dvb.service' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['svc'],
+            'source' => 'iana',
+            'extensions' => ['svc'],
         ],
-        'application/vnd.dxr'                                                                  => [
+        'vnd.dxr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.dynageo'                                                              => [
+        'vnd.dynageo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['geo'],
+            'source' => 'iana',
+            'extensions' => ['geo'],
         ],
-        'application/vnd.dzr'                                                                  => [
+        'vnd.dzr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.easykaraoke.cdgdownload'                                              => [
+        'vnd.easykaraoke.cdgdownload' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecdis-update'                                                         => [
+        'vnd.ecdis-update' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecip.rlp'                                                             => [
+        'vnd.ecip.rlp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecowin.chart'                                                         => [
+        'vnd.ecowin.chart' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mag'],
+            'source' => 'iana',
+            'extensions' => ['mag'],
         ],
-        'application/vnd.ecowin.filerequest'                                                   => [
+        'vnd.ecowin.filerequest' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecowin.fileupdate'                                                    => [
+        'vnd.ecowin.fileupdate' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecowin.series'                                                        => [
+        'vnd.ecowin.series' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecowin.seriesrequest'                                                 => [
+        'vnd.ecowin.seriesrequest' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ecowin.seriesupdate'                                                  => [
+        'vnd.ecowin.seriesupdate' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.efi.img'                                                              => [
+        'vnd.efi.img' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.efi.iso'                                                              => [
+        'vnd.efi.iso' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.emclient.accessrequest+xml'                                           => [
+        'vnd.emclient.accessrequest+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.enliven'                                                              => [
+        'vnd.enliven' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nml'],
+            'source' => 'iana',
+            'extensions' => ['nml'],
         ],
-        'application/vnd.enphase.envoy'                                                        => [
+        'vnd.enphase.envoy' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.eprints.data+xml'                                                     => [
+        'vnd.eprints.data+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.epson.esf'                                                            => [
+        'vnd.epson.esf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['esf'],
+            'source' => 'iana',
+            'extensions' => ['esf'],
         ],
-        'application/vnd.epson.msf'                                                            => [
+        'vnd.epson.msf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['msf'],
+            'source' => 'iana',
+            'extensions' => ['msf'],
         ],
-        'application/vnd.epson.quickanime'                                                     => [
+        'vnd.epson.quickanime' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['qam'],
+            'source' => 'iana',
+            'extensions' => ['qam'],
         ],
-        'application/vnd.epson.salt'                                                           => [
+        'vnd.epson.salt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['slt'],
+            'source' => 'iana',
+            'extensions' => ['slt'],
         ],
-        'application/vnd.epson.ssf'                                                            => [
+        'vnd.epson.ssf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ssf'],
+            'source' => 'iana',
+            'extensions' => ['ssf'],
         ],
-        'application/vnd.ericsson.quickcall'                                                   => [
+        'vnd.ericsson.quickcall' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.espass-espass+zip'                                                    => [
+        'vnd.espass-espass+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.eszigno3+xml'                                                         => [
+        'vnd.eszigno3+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['es3', 'et3'],
+            'source' => 'iana',
+            'extensions' => ['es3','et3'],
         ],
-        'application/vnd.etsi.aoc+xml'                                                         => [
+        'vnd.etsi.aoc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.asic-e+zip'                                                      => [
+        'vnd.etsi.asic-e+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.asic-s+zip'                                                      => [
+        'vnd.etsi.asic-s+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.cug+xml'                                                         => [
+        'vnd.etsi.cug+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvcommand+xml'                                                 => [
+        'vnd.etsi.iptvcommand+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvdiscovery+xml'                                               => [
+        'vnd.etsi.iptvdiscovery+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvprofile+xml'                                                 => [
+        'vnd.etsi.iptvprofile+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvsad-bc+xml'                                                  => [
+        'vnd.etsi.iptvsad-bc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvsad-cod+xml'                                                 => [
+        'vnd.etsi.iptvsad-cod+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvsad-npvr+xml'                                                => [
+        'vnd.etsi.iptvsad-npvr+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvservice+xml'                                                 => [
+        'vnd.etsi.iptvservice+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvsync+xml'                                                    => [
+        'vnd.etsi.iptvsync+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.iptvueprofile+xml'                                               => [
+        'vnd.etsi.iptvueprofile+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.mcid+xml'                                                        => [
+        'vnd.etsi.mcid+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.mheg5'                                                           => [
+        'vnd.etsi.mheg5' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.overload-control-policy-dataset+xml'                             => [
+        'vnd.etsi.overload-control-policy-dataset+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.pstn+xml'                                                        => [
+        'vnd.etsi.pstn+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.sci+xml'                                                         => [
+        'vnd.etsi.sci+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.simservs+xml'                                                    => [
+        'vnd.etsi.simservs+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.timestamp-token'                                                 => [
+        'vnd.etsi.timestamp-token' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.tsl+xml'                                                         => [
+        'vnd.etsi.tsl+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.etsi.tsl.der'                                                         => [
+        'vnd.etsi.tsl.der' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.eudora.data'                                                          => [
+        'vnd.eudora.data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.evolv.ecig.profile'                                                   => [
+        'vnd.evolv.ecig.profile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.evolv.ecig.settings'                                                  => [
+        'vnd.evolv.ecig.settings' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.evolv.ecig.theme'                                                     => [
+        'vnd.evolv.ecig.theme' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.exstream-empower+zip'                                                 => [
+        'vnd.exstream-empower+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ezpix-album'                                                          => [
+        'vnd.ezpix-album' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ez2'],
+            'source' => 'iana',
+            'extensions' => ['ez2'],
         ],
-        'application/vnd.ezpix-package'                                                        => [
+        'vnd.ezpix-package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ez3'],
+            'source' => 'iana',
+            'extensions' => ['ez3'],
         ],
-        'application/vnd.f-secure.mobile'                                                      => [
+        'vnd.f-secure.mobile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fastcopy-disk-image'                                                  => [
+        'vnd.fastcopy-disk-image' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fdf'                                                                  => [
+        'vnd.fdf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fdf'],
+            'source' => 'iana',
+            'extensions' => ['fdf'],
         ],
-        'application/vnd.fdsn.mseed'                                                           => [
+        'vnd.fdsn.mseed' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mseed'],
+            'source' => 'iana',
+            'extensions' => ['mseed'],
         ],
-        'application/vnd.fdsn.seed'                                                            => [
+        'vnd.fdsn.seed' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['seed', 'dataless'],
+            'source' => 'iana',
+            'extensions' => ['seed','dataless'],
         ],
-        'application/vnd.ffsns'                                                                => [
+        'vnd.ffsns' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.filmit.zfc'                                                           => [
+        'vnd.filmit.zfc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fints'                                                                => [
+        'vnd.fints' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.firemonkeys.cloudcell'                                                => [
+        'vnd.firemonkeys.cloudcell' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.flographit'                                                           => [
+        'vnd.flographit' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gph'],
+            'source' => 'iana',
+            'extensions' => ['gph'],
         ],
-        'application/vnd.fluxtime.clip'                                                        => [
+        'vnd.fluxtime.clip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ftc'],
+            'source' => 'iana',
+            'extensions' => ['ftc'],
         ],
-        'application/vnd.font-fontforge-sfd'                                                   => [
+        'vnd.font-fontforge-sfd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.framemaker'                                                           => [
+        'vnd.framemaker' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fm', 'frame', 'maker', 'book'],
+            'source' => 'iana',
+            'extensions' => ['fm','frame','maker','book'],
         ],
-        'application/vnd.frogans.fnc'                                                          => [
+        'vnd.frogans.fnc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fnc'],
+            'source' => 'iana',
+            'extensions' => ['fnc'],
         ],
-        'application/vnd.frogans.ltf'                                                          => [
+        'vnd.frogans.ltf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ltf'],
+            'source' => 'iana',
+            'extensions' => ['ltf'],
         ],
-        'application/vnd.fsc.weblaunch'                                                        => [
+        'vnd.fsc.weblaunch' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fsc'],
+            'source' => 'iana',
+            'extensions' => ['fsc'],
         ],
-        'application/vnd.fujitsu.oasys'                                                        => [
+        'vnd.fujitsu.oasys' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oas'],
+            'source' => 'iana',
+            'extensions' => ['oas'],
         ],
-        'application/vnd.fujitsu.oasys2'                                                       => [
+        'vnd.fujitsu.oasys2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oa2'],
+            'source' => 'iana',
+            'extensions' => ['oa2'],
         ],
-        'application/vnd.fujitsu.oasys3'                                                       => [
+        'vnd.fujitsu.oasys3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oa3'],
+            'source' => 'iana',
+            'extensions' => ['oa3'],
         ],
-        'application/vnd.fujitsu.oasysgp'                                                      => [
+        'vnd.fujitsu.oasysgp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fg5'],
+            'source' => 'iana',
+            'extensions' => ['fg5'],
         ],
-        'application/vnd.fujitsu.oasysprs'                                                     => [
+        'vnd.fujitsu.oasysprs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['bh2'],
+            'source' => 'iana',
+            'extensions' => ['bh2'],
         ],
-        'application/vnd.fujixerox.art-ex'                                                     => [
+        'vnd.fujixerox.art-ex' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fujixerox.art4'                                                       => [
+        'vnd.fujixerox.art4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fujixerox.ddd'                                                        => [
+        'vnd.fujixerox.ddd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ddd'],
+            'source' => 'iana',
+            'extensions' => ['ddd'],
         ],
-        'application/vnd.fujixerox.docuworks'                                                  => [
+        'vnd.fujixerox.docuworks' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xdw'],
+            'source' => 'iana',
+            'extensions' => ['xdw'],
         ],
-        'application/vnd.fujixerox.docuworks.binder'                                           => [
+        'vnd.fujixerox.docuworks.binder' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xbd'],
+            'source' => 'iana',
+            'extensions' => ['xbd'],
         ],
-        'application/vnd.fujixerox.docuworks.container'                                        => [
+        'vnd.fujixerox.docuworks.container' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fujixerox.hbpl'                                                       => [
+        'vnd.fujixerox.hbpl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fut-misnet'                                                           => [
+        'vnd.fut-misnet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.futoin+cbor'                                                          => [
+        'vnd.futoin+cbor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.futoin+json'                                                          => [
+        'vnd.futoin+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.fuzzysheet'                                                           => [
+        'vnd.fuzzysheet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fzs'],
+            'source' => 'iana',
+            'extensions' => ['fzs'],
         ],
-        'application/vnd.genomatix.tuxedo'                                                     => [
+        'vnd.genomatix.tuxedo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['txd'],
+            'source' => 'iana',
+            'extensions' => ['txd'],
         ],
-        'application/vnd.geo+json'                                                             => [
+        'vnd.geo+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.geocube+xml'                                                          => [
+        'vnd.geocube+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.geogebra.file'                                                        => [
+        'vnd.geogebra.file' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ggb'],
+            'source' => 'iana',
+            'extensions' => ['ggb'],
         ],
-        'application/vnd.geogebra.tool'                                                        => [
+        'vnd.geogebra.tool' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ggt'],
+            'source' => 'iana',
+            'extensions' => ['ggt'],
         ],
-        'application/vnd.geometry-explorer'                                                    => [
+        'vnd.geometry-explorer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gex', 'gre'],
+            'source' => 'iana',
+            'extensions' => ['gex','gre'],
         ],
-        'application/vnd.geonext'                                                              => [
+        'vnd.geonext' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gxt'],
+            'source' => 'iana',
+            'extensions' => ['gxt'],
         ],
-        'application/vnd.geoplan'                                                              => [
+        'vnd.geoplan' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['g2w'],
+            'source' => 'iana',
+            'extensions' => ['g2w'],
         ],
-        'application/vnd.geospace'                                                             => [
+        'vnd.geospace' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['g3w'],
+            'source' => 'iana',
+            'extensions' => ['g3w'],
         ],
-        'application/vnd.gerber'                                                               => [
+        'vnd.gerber' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.globalplatform.card-content-mgt'                                      => [
+        'vnd.globalplatform.card-content-mgt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.globalplatform.card-content-mgt-response'                             => [
+        'vnd.globalplatform.card-content-mgt-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.gmx'                                                                  => [
+        'vnd.gmx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gmx'],
+            'source' => 'iana',
+            'extensions' => ['gmx'],
         ],
-        'application/vnd.google-apps.document'                                                 => [
+        'vnd.google-apps.document' => [
             'compressible' => true,
-            'extensions'   => ['gdoc'],
+            'extensions' => ['gdoc'],
         ],
-        'application/vnd.google-apps.presentation'                                             => [
+        'vnd.google-apps.presentation' => [
             'compressible' => true,
-            'extensions'   => ['gslides'],
+            'extensions' => ['gslides'],
         ],
-        'application/vnd.google-apps.spreadsheet'                                              => [
+        'vnd.google-apps.spreadsheet' => [
             'compressible' => true,
-            'extensions'   => ['gsheet'],
+            'extensions' => ['gsheet'],
         ],
-        'application/vnd.google-earth.kml+xml'                                                 => [
+        'vnd.google-earth.kml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['kml'],
+            'source' => 'iana',
+            'extensions' => ['kml'],
         ],
-        'application/vnd.google-earth.kmz'                                                     => [
+        'vnd.google-earth.kmz' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['kmz'],
+            'source' => 'iana',
+            'extensions' => ['kmz'],
         ],
-        'application/vnd.gov.sk.e-form+xml'                                                    => [
+        'vnd.gov.sk.e-form+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.gov.sk.e-form+zip'                                                    => [
+        'vnd.gov.sk.e-form+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.gov.sk.xmldatacontainer+xml'                                          => [
+        'vnd.gov.sk.xmldatacontainer+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.grafeq'                                                               => [
+        'vnd.grafeq' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gqf', 'gqs'],
+            'source' => 'iana',
+            'extensions' => ['gqf','gqs'],
         ],
-        'application/vnd.gridmp'                                                               => [
+        'vnd.gridmp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.groove-account'                                                       => [
+        'vnd.groove-account' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gac'],
+            'source' => 'iana',
+            'extensions' => ['gac'],
         ],
-        'application/vnd.groove-help'                                                          => [
+        'vnd.groove-help' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ghf'],
+            'source' => 'iana',
+            'extensions' => ['ghf'],
         ],
-        'application/vnd.groove-identity-message'                                              => [
+        'vnd.groove-identity-message' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gim'],
+            'source' => 'iana',
+            'extensions' => ['gim'],
         ],
-        'application/vnd.groove-injector'                                                      => [
+        'vnd.groove-injector' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['grv'],
+            'source' => 'iana',
+            'extensions' => ['grv'],
         ],
-        'application/vnd.groove-tool-message'                                                  => [
+        'vnd.groove-tool-message' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gtm'],
+            'source' => 'iana',
+            'extensions' => ['gtm'],
         ],
-        'application/vnd.groove-tool-template'                                                 => [
+        'vnd.groove-tool-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tpl'],
+            'source' => 'iana',
+            'extensions' => ['tpl'],
         ],
-        'application/vnd.groove-vcard'                                                         => [
+        'vnd.groove-vcard' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vcg'],
+            'source' => 'iana',
+            'extensions' => ['vcg'],
         ],
-        'application/vnd.hal+json'                                                             => [
+        'vnd.hal+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hal+xml'                                                              => [
+        'vnd.hal+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['hal'],
+            'source' => 'iana',
+            'extensions' => ['hal'],
         ],
-        'application/vnd.handheld-entertainment+xml'                                           => [
+        'vnd.handheld-entertainment+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['zmm'],
+            'source' => 'iana',
+            'extensions' => ['zmm'],
         ],
-        'application/vnd.hbci'                                                                 => [
+        'vnd.hbci' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hbci'],
+            'source' => 'iana',
+            'extensions' => ['hbci'],
         ],
-        'application/vnd.hc+json'                                                              => [
+        'vnd.hc+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hcl-bireports'                                                        => [
+        'vnd.hcl-bireports' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hdt'                                                                  => [
+        'vnd.hdt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.heroku+json'                                                          => [
+        'vnd.heroku+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hhe.lesson-player'                                                    => [
+        'vnd.hhe.lesson-player' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['les'],
+            'source' => 'iana',
+            'extensions' => ['les'],
         ],
-        'application/vnd.hp-hpgl'                                                              => [
+        'vnd.hp-hpgl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hpgl'],
+            'source' => 'iana',
+            'extensions' => ['hpgl'],
         ],
-        'application/vnd.hp-hpid'                                                              => [
+        'vnd.hp-hpid' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hpid'],
+            'source' => 'iana',
+            'extensions' => ['hpid'],
         ],
-        'application/vnd.hp-hps'                                                               => [
+        'vnd.hp-hps' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hps'],
+            'source' => 'iana',
+            'extensions' => ['hps'],
         ],
-        'application/vnd.hp-jlyt'                                                              => [
+        'vnd.hp-jlyt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jlt'],
+            'source' => 'iana',
+            'extensions' => ['jlt'],
         ],
-        'application/vnd.hp-pcl'                                                               => [
+        'vnd.hp-pcl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pcl'],
+            'source' => 'iana',
+            'extensions' => ['pcl'],
         ],
-        'application/vnd.hp-pclxl'                                                             => [
+        'vnd.hp-pclxl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pclxl'],
+            'source' => 'iana',
+            'extensions' => ['pclxl'],
         ],
-        'application/vnd.httphone'                                                             => [
+        'vnd.httphone' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hydrostatix.sof-data'                                                 => [
+        'vnd.hydrostatix.sof-data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sfd-hdstx'],
+            'source' => 'iana',
+            'extensions' => ['sfd-hdstx'],
         ],
-        'application/vnd.hyper+json'                                                           => [
+        'vnd.hyper+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hyper-item+json'                                                      => [
+        'vnd.hyper-item+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hyperdrive+json'                                                      => [
+        'vnd.hyperdrive+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.hzn-3d-crossword'                                                     => [
+        'vnd.hzn-3d-crossword' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ibm.afplinedata'                                                      => [
+        'vnd.ibm.afplinedata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ibm.electronic-media'                                                 => [
+        'vnd.ibm.electronic-media' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ibm.minipay'                                                          => [
+        'vnd.ibm.minipay' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mpy'],
+            'source' => 'iana',
+            'extensions' => ['mpy'],
         ],
-        'application/vnd.ibm.modcap'                                                           => [
+        'vnd.ibm.modcap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['afp', 'listafp', 'list3820'],
+            'source' => 'iana',
+            'extensions' => ['afp','listafp','list3820'],
         ],
-        'application/vnd.ibm.rights-management'                                                => [
+        'vnd.ibm.rights-management' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['irm'],
+            'source' => 'iana',
+            'extensions' => ['irm'],
         ],
-        'application/vnd.ibm.secure-container'                                                 => [
+        'vnd.ibm.secure-container' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sc'],
+            'source' => 'iana',
+            'extensions' => ['sc'],
         ],
-        'application/vnd.iccprofile'                                                           => [
+        'vnd.iccprofile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['icc', 'icm'],
+            'source' => 'iana',
+            'extensions' => ['icc','icm'],
         ],
-        'application/vnd.ieee.1905'                                                            => [
+        'vnd.ieee.1905' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.igloader'                                                             => [
+        'vnd.igloader' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['igl'],
+            'source' => 'iana',
+            'extensions' => ['igl'],
         ],
-        'application/vnd.imagemeter.folder+zip'                                                => [
+        'vnd.imagemeter.folder+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.imagemeter.image+zip'                                                 => [
+        'vnd.imagemeter.image+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.immervision-ivp'                                                      => [
+        'vnd.immervision-ivp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ivp'],
+            'source' => 'iana',
+            'extensions' => ['ivp'],
         ],
-        'application/vnd.immervision-ivu'                                                      => [
+        'vnd.immervision-ivu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ivu'],
+            'source' => 'iana',
+            'extensions' => ['ivu'],
         ],
-        'application/vnd.ims.imsccv1p1'                                                        => [
+        'vnd.ims.imsccv1p1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.imsccv1p2'                                                        => [
+        'vnd.ims.imsccv1p2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.imsccv1p3'                                                        => [
+        'vnd.ims.imsccv1p3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lis.v2.result+json'                                               => [
+        'vnd.ims.lis.v2.result+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lti.v2.toolconsumerprofile+json'                                  => [
+        'vnd.ims.lti.v2.toolconsumerprofile+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lti.v2.toolproxy+json'                                            => [
+        'vnd.ims.lti.v2.toolproxy+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lti.v2.toolproxy.id+json'                                         => [
+        'vnd.ims.lti.v2.toolproxy.id+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lti.v2.toolsettings+json'                                         => [
+        'vnd.ims.lti.v2.toolsettings+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ims.lti.v2.toolsettings.simple+json'                                  => [
+        'vnd.ims.lti.v2.toolsettings.simple+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.informedcontrol.rms+xml'                                              => [
+        'vnd.informedcontrol.rms+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.informix-visionary'                                                   => [
+        'vnd.informix-visionary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.infotech.project'                                                     => [
+        'vnd.infotech.project' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.infotech.project+xml'                                                 => [
+        'vnd.infotech.project+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.innopath.wamp.notification'                                           => [
+        'vnd.innopath.wamp.notification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.insors.igm'                                                           => [
+        'vnd.insors.igm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['igm'],
+            'source' => 'iana',
+            'extensions' => ['igm'],
         ],
-        'application/vnd.intercon.formnet'                                                     => [
+        'vnd.intercon.formnet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xpw', 'xpx'],
+            'source' => 'iana',
+            'extensions' => ['xpw','xpx'],
         ],
-        'application/vnd.intergeo'                                                             => [
+        'vnd.intergeo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['i2g'],
+            'source' => 'iana',
+            'extensions' => ['i2g'],
         ],
-        'application/vnd.intertrust.digibox'                                                   => [
+        'vnd.intertrust.digibox' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.intertrust.nncp'                                                      => [
+        'vnd.intertrust.nncp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.intu.qbo'                                                             => [
+        'vnd.intu.qbo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['qbo'],
+            'source' => 'iana',
+            'extensions' => ['qbo'],
         ],
-        'application/vnd.intu.qfx'                                                             => [
+        'vnd.intu.qfx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['qfx'],
+            'source' => 'iana',
+            'extensions' => ['qfx'],
         ],
-        'application/vnd.iptc.g2.catalogitem+xml'                                              => [
+        'vnd.iptc.g2.catalogitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.conceptitem+xml'                                              => [
+        'vnd.iptc.g2.conceptitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.knowledgeitem+xml'                                            => [
+        'vnd.iptc.g2.knowledgeitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.newsitem+xml'                                                 => [
+        'vnd.iptc.g2.newsitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.newsmessage+xml'                                              => [
+        'vnd.iptc.g2.newsmessage+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.packageitem+xml'                                              => [
+        'vnd.iptc.g2.packageitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.iptc.g2.planningitem+xml'                                             => [
+        'vnd.iptc.g2.planningitem+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ipunplugged.rcprofile'                                                => [
+        'vnd.ipunplugged.rcprofile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rcprofile'],
+            'source' => 'iana',
+            'extensions' => ['rcprofile'],
         ],
-        'application/vnd.irepository.package+xml'                                              => [
+        'vnd.irepository.package+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['irp'],
+            'source' => 'iana',
+            'extensions' => ['irp'],
         ],
-        'application/vnd.is-xpr'                                                               => [
+        'vnd.is-xpr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xpr'],
+            'source' => 'iana',
+            'extensions' => ['xpr'],
         ],
-        'application/vnd.isac.fcs'                                                             => [
+        'vnd.isac.fcs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fcs'],
+            'source' => 'iana',
+            'extensions' => ['fcs'],
         ],
-        'application/vnd.jam'                                                                  => [
+        'vnd.jam' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jam'],
+            'source' => 'iana',
+            'extensions' => ['jam'],
         ],
-        'application/vnd.japannet-directory-service'                                           => [
+        'vnd.japannet-directory-service' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-jpnstore-wakeup'                                             => [
+        'vnd.japannet-jpnstore-wakeup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-payment-wakeup'                                              => [
+        'vnd.japannet-payment-wakeup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-registration'                                                => [
+        'vnd.japannet-registration' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-registration-wakeup'                                         => [
+        'vnd.japannet-registration-wakeup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-setstore-wakeup'                                             => [
+        'vnd.japannet-setstore-wakeup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-verification'                                                => [
+        'vnd.japannet-verification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.japannet-verification-wakeup'                                         => [
+        'vnd.japannet-verification-wakeup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.jcp.javame.midlet-rms'                                                => [
+        'vnd.jcp.javame.midlet-rms' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rms'],
+            'source' => 'iana',
+            'extensions' => ['rms'],
         ],
-        'application/vnd.jisp'                                                                 => [
+        'vnd.jisp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jisp'],
+            'source' => 'iana',
+            'extensions' => ['jisp'],
         ],
-        'application/vnd.joost.joda-archive'                                                   => [
+        'vnd.joost.joda-archive' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['joda'],
+            'source' => 'iana',
+            'extensions' => ['joda'],
         ],
-        'application/vnd.jsk.isdn-ngn'                                                         => [
+        'vnd.jsk.isdn-ngn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.kahootz'                                                              => [
+        'vnd.kahootz' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ktz', 'ktr'],
+            'source' => 'iana',
+            'extensions' => ['ktz','ktr'],
         ],
-        'application/vnd.kde.karbon'                                                           => [
+        'vnd.kde.karbon' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['karbon'],
+            'source' => 'iana',
+            'extensions' => ['karbon'],
         ],
-        'application/vnd.kde.kchart'                                                           => [
+        'vnd.kde.kchart' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['chrt'],
+            'source' => 'iana',
+            'extensions' => ['chrt'],
         ],
-        'application/vnd.kde.kformula'                                                         => [
+        'vnd.kde.kformula' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kfo'],
+            'source' => 'iana',
+            'extensions' => ['kfo'],
         ],
-        'application/vnd.kde.kivio'                                                            => [
+        'vnd.kde.kivio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['flw'],
+            'source' => 'iana',
+            'extensions' => ['flw'],
         ],
-        'application/vnd.kde.kontour'                                                          => [
+        'vnd.kde.kontour' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kon'],
+            'source' => 'iana',
+            'extensions' => ['kon'],
         ],
-        'application/vnd.kde.kpresenter'                                                       => [
+        'vnd.kde.kpresenter' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kpr', 'kpt'],
+            'source' => 'iana',
+            'extensions' => ['kpr','kpt'],
         ],
-        'application/vnd.kde.kspread'                                                          => [
+        'vnd.kde.kspread' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ksp'],
+            'source' => 'iana',
+            'extensions' => ['ksp'],
         ],
-        'application/vnd.kde.kword'                                                            => [
+        'vnd.kde.kword' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kwd', 'kwt'],
+            'source' => 'iana',
+            'extensions' => ['kwd','kwt'],
         ],
-        'application/vnd.kenameaapp'                                                           => [
+        'vnd.kenameaapp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['htke'],
+            'source' => 'iana',
+            'extensions' => ['htke'],
         ],
-        'application/vnd.kidspiration'                                                         => [
+        'vnd.kidspiration' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kia'],
+            'source' => 'iana',
+            'extensions' => ['kia'],
         ],
-        'application/vnd.kinar'                                                                => [
+        'vnd.kinar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['kne', 'knp'],
+            'source' => 'iana',
+            'extensions' => ['kne','knp'],
         ],
-        'application/vnd.koan'                                                                 => [
+        'vnd.koan' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['skp', 'skd', 'skt', 'skm'],
+            'source' => 'iana',
+            'extensions' => ['skp','skd','skt','skm'],
         ],
-        'application/vnd.kodak-descriptor'                                                     => [
+        'vnd.kodak-descriptor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sse'],
+            'source' => 'iana',
+            'extensions' => ['sse'],
         ],
-        'application/vnd.las.las+json'                                                         => [
+        'vnd.las.las+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.las.las+xml'                                                          => [
+        'vnd.las.las+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['lasxml'],
+            'source' => 'iana',
+            'extensions' => ['lasxml'],
         ],
-        'application/vnd.leap+json'                                                            => [
+        'vnd.leap+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.liberty-request+xml'                                                  => [
+        'vnd.liberty-request+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.llamagraphics.life-balance.desktop'                                   => [
+        'vnd.llamagraphics.life-balance.desktop' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['lbd'],
+            'source' => 'iana',
+            'extensions' => ['lbd'],
         ],
-        'application/vnd.llamagraphics.life-balance.exchange+xml'                              => [
+        'vnd.llamagraphics.life-balance.exchange+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['lbe'],
+            'source' => 'iana',
+            'extensions' => ['lbe'],
         ],
-        'application/vnd.lotus-1-2-3'                                                          => [
+        'vnd.lotus-1-2-3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['123'],
+            'source' => 'iana',
+            'extensions' => ['123'],
         ],
-        'application/vnd.lotus-approach'                                                       => [
+        'vnd.lotus-approach' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['apr'],
+            'source' => 'iana',
+            'extensions' => ['apr'],
         ],
-        'application/vnd.lotus-freelance'                                                      => [
+        'vnd.lotus-freelance' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pre'],
+            'source' => 'iana',
+            'extensions' => ['pre'],
         ],
-        'application/vnd.lotus-notes'                                                          => [
+        'vnd.lotus-notes' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nsf'],
+            'source' => 'iana',
+            'extensions' => ['nsf'],
         ],
-        'application/vnd.lotus-organizer'                                                      => [
+        'vnd.lotus-organizer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['org'],
+            'source' => 'iana',
+            'extensions' => ['org'],
         ],
-        'application/vnd.lotus-screencam'                                                      => [
+        'vnd.lotus-screencam' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['scm'],
+            'source' => 'iana',
+            'extensions' => ['scm'],
         ],
-        'application/vnd.lotus-wordpro'                                                        => [
+        'vnd.lotus-wordpro' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['lwp'],
+            'source' => 'iana',
+            'extensions' => ['lwp'],
         ],
-        'application/vnd.macports.portpkg'                                                     => [
+        'vnd.macports.portpkg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['portpkg'],
+            'source' => 'iana',
+            'extensions' => ['portpkg'],
         ],
-        'application/vnd.mapbox-vector-tile'                                                   => [
+        'vnd.mapbox-vector-tile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.marlin.drm.actiontoken+xml'                                           => [
+        'vnd.marlin.drm.actiontoken+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.marlin.drm.conftoken+xml'                                             => [
+        'vnd.marlin.drm.conftoken+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.marlin.drm.license+xml'                                               => [
+        'vnd.marlin.drm.license+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.marlin.drm.mdcf'                                                      => [
+        'vnd.marlin.drm.mdcf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mason+json'                                                           => [
+        'vnd.mason+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.maxmind.maxmind-db'                                                   => [
+        'vnd.maxmind.maxmind-db' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mcd'                                                                  => [
+        'vnd.mcd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mcd'],
+            'source' => 'iana',
+            'extensions' => ['mcd'],
         ],
-        'application/vnd.medcalcdata'                                                          => [
+        'vnd.medcalcdata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mc1'],
+            'source' => 'iana',
+            'extensions' => ['mc1'],
         ],
-        'application/vnd.mediastation.cdkey'                                                   => [
+        'vnd.mediastation.cdkey' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cdkey'],
+            'source' => 'iana',
+            'extensions' => ['cdkey'],
         ],
-        'application/vnd.meridian-slingshot'                                                   => [
+        'vnd.meridian-slingshot' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mfer'                                                                 => [
+        'vnd.mfer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mwf'],
+            'source' => 'iana',
+            'extensions' => ['mwf'],
         ],
-        'application/vnd.mfmp'                                                                 => [
+        'vnd.mfmp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mfm'],
+            'source' => 'iana',
+            'extensions' => ['mfm'],
         ],
-        'application/vnd.micro+json'                                                           => [
+        'vnd.micro+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.micrografx.flo'                                                       => [
+        'vnd.micrografx.flo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['flo'],
+            'source' => 'iana',
+            'extensions' => ['flo'],
         ],
-        'application/vnd.micrografx.igx'                                                       => [
+        'vnd.micrografx.igx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['igx'],
+            'source' => 'iana',
+            'extensions' => ['igx'],
         ],
-        'application/vnd.microsoft.portable-executable'                                        => [
+        'vnd.microsoft.portable-executable' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.microsoft.windows.thumbnail-cache'                                    => [
+        'vnd.microsoft.windows.thumbnail-cache' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.miele+json'                                                           => [
+        'vnd.miele+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mif'                                                                  => [
+        'vnd.mif' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mif'],
+            'source' => 'iana',
+            'extensions' => ['mif'],
         ],
-        'application/vnd.minisoft-hp3000-save'                                                 => [
+        'vnd.minisoft-hp3000-save' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mitsubishi.misty-guard.trustweb'                                      => [
+        'vnd.mitsubishi.misty-guard.trustweb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mobius.daf'                                                           => [
+        'vnd.mobius.daf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['daf'],
+            'source' => 'iana',
+            'extensions' => ['daf'],
         ],
-        'application/vnd.mobius.dis'                                                           => [
+        'vnd.mobius.dis' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dis'],
+            'source' => 'iana',
+            'extensions' => ['dis'],
         ],
-        'application/vnd.mobius.mbk'                                                           => [
+        'vnd.mobius.mbk' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mbk'],
+            'source' => 'iana',
+            'extensions' => ['mbk'],
         ],
-        'application/vnd.mobius.mqy'                                                           => [
+        'vnd.mobius.mqy' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mqy'],
+            'source' => 'iana',
+            'extensions' => ['mqy'],
         ],
-        'application/vnd.mobius.msl'                                                           => [
+        'vnd.mobius.msl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['msl'],
+            'source' => 'iana',
+            'extensions' => ['msl'],
         ],
-        'application/vnd.mobius.plc'                                                           => [
+        'vnd.mobius.plc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['plc'],
+            'source' => 'iana',
+            'extensions' => ['plc'],
         ],
-        'application/vnd.mobius.txf'                                                           => [
+        'vnd.mobius.txf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['txf'],
+            'source' => 'iana',
+            'extensions' => ['txf'],
         ],
-        'application/vnd.mophun.application'                                                   => [
+        'vnd.mophun.application' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mpn'],
+            'source' => 'iana',
+            'extensions' => ['mpn'],
         ],
-        'application/vnd.mophun.certificate'                                                   => [
+        'vnd.mophun.certificate' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mpc'],
+            'source' => 'iana',
+            'extensions' => ['mpc'],
         ],
-        'application/vnd.motorola.flexsuite'                                                   => [
+        'vnd.motorola.flexsuite' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.adsi'                                              => [
+        'vnd.motorola.flexsuite.adsi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.fis'                                               => [
+        'vnd.motorola.flexsuite.fis' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.gotap'                                             => [
+        'vnd.motorola.flexsuite.gotap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.kmr'                                               => [
+        'vnd.motorola.flexsuite.kmr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.ttc'                                               => [
+        'vnd.motorola.flexsuite.ttc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.flexsuite.wem'                                               => [
+        'vnd.motorola.flexsuite.wem' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.motorola.iprm'                                                        => [
+        'vnd.motorola.iprm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mozilla.xul+xml'                                                      => [
+        'vnd.mozilla.xul+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xul'],
+            'source' => 'iana',
+            'extensions' => ['xul'],
         ],
-        'application/vnd.ms-3mfdocument'                                                       => [
+        'vnd.ms-3mfdocument' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-artgalry'                                                          => [
+        'vnd.ms-artgalry' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cil'],
+            'source' => 'iana',
+            'extensions' => ['cil'],
         ],
-        'application/vnd.ms-asf'                                                               => [
+        'vnd.ms-asf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-cab-compressed'                                                    => [
+        'vnd.ms-cab-compressed' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cab'],
+            'source' => 'iana',
+            'extensions' => ['cab'],
         ],
-        'application/vnd.ms-color.iccprofile'                                                  => [
+        'vnd.ms-color.iccprofile' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/vnd.ms-excel'                                                             => [
+        'vnd.ms-excel' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xls', 'xlm', 'xla', 'xlc', 'xlt', 'xlw'],
+            'source' => 'iana',
+            'extensions' => ['xls','xlm','xla','xlc','xlt','xlw'],
         ],
-        'application/vnd.ms-excel.addin.macroenabled.12'                                       => [
+        'vnd.ms-excel.addin.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xlam'],
+            'source' => 'iana',
+            'extensions' => ['xlam'],
         ],
-        'application/vnd.ms-excel.sheet.binary.macroenabled.12'                                => [
+        'vnd.ms-excel.sheet.binary.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xlsb'],
+            'source' => 'iana',
+            'extensions' => ['xlsb'],
         ],
-        'application/vnd.ms-excel.sheet.macroenabled.12'                                       => [
+        'vnd.ms-excel.sheet.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xlsm'],
+            'source' => 'iana',
+            'extensions' => ['xlsm'],
         ],
-        'application/vnd.ms-excel.template.macroenabled.12'                                    => [
+        'vnd.ms-excel.template.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xltm'],
+            'source' => 'iana',
+            'extensions' => ['xltm'],
         ],
-        'application/vnd.ms-fontobject'                                                        => [
+        'vnd.ms-fontobject' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['eot'],
+            'source' => 'iana',
+            'extensions' => ['eot'],
         ],
-        'application/vnd.ms-htmlhelp'                                                          => [
+        'vnd.ms-htmlhelp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['chm'],
+            'source' => 'iana',
+            'extensions' => ['chm'],
         ],
-        'application/vnd.ms-ims'                                                               => [
+        'vnd.ms-ims' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ims'],
+            'source' => 'iana',
+            'extensions' => ['ims'],
         ],
-        'application/vnd.ms-lrm'                                                               => [
+        'vnd.ms-lrm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['lrm'],
+            'source' => 'iana',
+            'extensions' => ['lrm'],
         ],
-        'application/vnd.ms-office.activex+xml'                                                => [
+        'vnd.ms-office.activex+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-officetheme'                                                       => [
+        'vnd.ms-officetheme' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['thmx'],
+            'source' => 'iana',
+            'extensions' => ['thmx'],
         ],
-        'application/vnd.ms-opentype'                                                          => [
+        'vnd.ms-opentype' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/vnd.ms-outlook'                                                           => [
+        'vnd.ms-outlook' => [
             'compressible' => true,
-            'extensions'   => ['msg'],
+            'extensions' => ['msg'],
         ],
-        'application/vnd.ms-package.obfuscated-opentype'                                       => [
+        'vnd.ms-package.obfuscated-opentype' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/vnd.ms-pki.seccat'                                                        => [
+        'vnd.ms-pki.seccat' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cat'],
+            'source' => 'apache',
+            'extensions' => ['cat'],
         ],
-        'application/vnd.ms-pki.stl'                                                           => [
+        'vnd.ms-pki.stl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['stl'],
+            'source' => 'apache',
+            'extensions' => ['stl'],
         ],
-        'application/vnd.ms-playready.initiator+xml'                                           => [
+        'vnd.ms-playready.initiator+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-powerpoint'                                                        => [
+        'vnd.ms-powerpoint' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ppt', 'pps', 'pot'],
+            'source' => 'iana',
+            'extensions' => ['ppt','pps','pot'],
         ],
-        'application/vnd.ms-powerpoint.addin.macroenabled.12'                                  => [
+        'vnd.ms-powerpoint.addin.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ppam'],
+            'source' => 'iana',
+            'extensions' => ['ppam'],
         ],
-        'application/vnd.ms-powerpoint.presentation.macroenabled.12'                           => [
+        'vnd.ms-powerpoint.presentation.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pptm'],
+            'source' => 'iana',
+            'extensions' => ['pptm'],
         ],
-        'application/vnd.ms-powerpoint.slide.macroenabled.12'                                  => [
+        'vnd.ms-powerpoint.slide.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sldm'],
+            'source' => 'iana',
+            'extensions' => ['sldm'],
         ],
-        'application/vnd.ms-powerpoint.slideshow.macroenabled.12'                              => [
+        'vnd.ms-powerpoint.slideshow.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ppsm'],
+            'source' => 'iana',
+            'extensions' => ['ppsm'],
         ],
-        'application/vnd.ms-powerpoint.template.macroenabled.12'                               => [
+        'vnd.ms-powerpoint.template.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['potm'],
+            'source' => 'iana',
+            'extensions' => ['potm'],
         ],
-        'application/vnd.ms-printdevicecapabilities+xml'                                       => [
+        'vnd.ms-printdevicecapabilities+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-printing.printticket+xml'                                          => [
+        'vnd.ms-printing.printticket+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/vnd.ms-printschematicket+xml'                                             => [
+        'vnd.ms-printschematicket+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-project'                                                           => [
+        'vnd.ms-project' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mpp', 'mpt'],
+            'source' => 'iana',
+            'extensions' => ['mpp','mpt'],
         ],
-        'application/vnd.ms-tnef'                                                              => [
+        'vnd.ms-tnef' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-windows.devicepairing'                                             => [
+        'vnd.ms-windows.devicepairing' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-windows.nwprinting.oob'                                            => [
+        'vnd.ms-windows.nwprinting.oob' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-windows.printerpairing'                                            => [
+        'vnd.ms-windows.printerpairing' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-windows.wsd.oob'                                                   => [
+        'vnd.ms-windows.wsd.oob' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-wmdrm.lic-chlg-req'                                                => [
+        'vnd.ms-wmdrm.lic-chlg-req' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-wmdrm.lic-resp'                                                    => [
+        'vnd.ms-wmdrm.lic-resp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-wmdrm.meter-chlg-req'                                              => [
+        'vnd.ms-wmdrm.meter-chlg-req' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-wmdrm.meter-resp'                                                  => [
+        'vnd.ms-wmdrm.meter-resp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ms-word.document.macroenabled.12'                                     => [
+        'vnd.ms-word.document.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['docm'],
+            'source' => 'iana',
+            'extensions' => ['docm'],
         ],
-        'application/vnd.ms-word.template.macroenabled.12'                                     => [
+        'vnd.ms-word.template.macroenabled.12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dotm'],
+            'source' => 'iana',
+            'extensions' => ['dotm'],
         ],
-        'application/vnd.ms-works'                                                             => [
+        'vnd.ms-works' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wps', 'wks', 'wcm', 'wdb'],
+            'source' => 'iana',
+            'extensions' => ['wps','wks','wcm','wdb'],
         ],
-        'application/vnd.ms-wpl'                                                               => [
+        'vnd.ms-wpl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wpl'],
+            'source' => 'iana',
+            'extensions' => ['wpl'],
         ],
-        'application/vnd.ms-xpsdocument'                                                       => [
+        'vnd.ms-xpsdocument' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xps'],
+            'source' => 'iana',
+            'extensions' => ['xps'],
         ],
-        'application/vnd.msa-disk-image'                                                       => [
+        'vnd.msa-disk-image' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.mseq'                                                                 => [
+        'vnd.mseq' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mseq'],
+            'source' => 'iana',
+            'extensions' => ['mseq'],
         ],
-        'application/vnd.msign'                                                                => [
+        'vnd.msign' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.multiad.creator'                                                      => [
+        'vnd.multiad.creator' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.multiad.creator.cif'                                                  => [
+        'vnd.multiad.creator.cif' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.music-niff'                                                           => [
+        'vnd.music-niff' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.musician'                                                             => [
+        'vnd.musician' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mus'],
+            'source' => 'iana',
+            'extensions' => ['mus'],
         ],
-        'application/vnd.muvee.style'                                                          => [
+        'vnd.muvee.style' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['msty'],
+            'source' => 'iana',
+            'extensions' => ['msty'],
         ],
-        'application/vnd.mynfc'                                                                => [
+        'vnd.mynfc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['taglet'],
+            'source' => 'iana',
+            'extensions' => ['taglet'],
         ],
-        'application/vnd.ncd.control'                                                          => [
+        'vnd.ncd.control' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ncd.reference'                                                        => [
+        'vnd.ncd.reference' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nearst.inv+json'                                                      => [
+        'vnd.nearst.inv+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nervana'                                                              => [
+        'vnd.nervana' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.netfpx'                                                               => [
+        'vnd.netfpx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.neurolanguage.nlu'                                                    => [
+        'vnd.neurolanguage.nlu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nlu'],
+            'source' => 'iana',
+            'extensions' => ['nlu'],
         ],
-        'application/vnd.nimn'                                                                 => [
+        'vnd.nimn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nintendo.nitro.rom'                                                   => [
+        'vnd.nintendo.nitro.rom' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nintendo.snes.rom'                                                    => [
+        'vnd.nintendo.snes.rom' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nitf'                                                                 => [
+        'vnd.nitf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ntf', 'nitf'],
+            'source' => 'iana',
+            'extensions' => ['ntf','nitf'],
         ],
-        'application/vnd.noblenet-directory'                                                   => [
+        'vnd.noblenet-directory' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nnd'],
+            'source' => 'iana',
+            'extensions' => ['nnd'],
         ],
-        'application/vnd.noblenet-sealer'                                                      => [
+        'vnd.noblenet-sealer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nns'],
+            'source' => 'iana',
+            'extensions' => ['nns'],
         ],
-        'application/vnd.noblenet-web'                                                         => [
+        'vnd.noblenet-web' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nnw'],
+            'source' => 'iana',
+            'extensions' => ['nnw'],
         ],
-        'application/vnd.nokia.catalogs'                                                       => [
+        'vnd.nokia.catalogs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.conml+wbxml'                                                    => [
+        'vnd.nokia.conml+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.conml+xml'                                                      => [
+        'vnd.nokia.conml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.iptv.config+xml'                                                => [
+        'vnd.nokia.iptv.config+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.isds-radio-presets'                                             => [
+        'vnd.nokia.isds-radio-presets' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.landmark+wbxml'                                                 => [
+        'vnd.nokia.landmark+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.landmark+xml'                                                   => [
+        'vnd.nokia.landmark+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.landmarkcollection+xml'                                         => [
+        'vnd.nokia.landmarkcollection+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.n-gage.ac+xml'                                                  => [
+        'vnd.nokia.n-gage.ac+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.n-gage.data'                                                    => [
+        'vnd.nokia.n-gage.data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ngdat'],
+            'source' => 'iana',
+            'extensions' => ['ngdat'],
         ],
-        'application/vnd.nokia.n-gage.symbian.install'                                         => [
+        'vnd.nokia.n-gage.symbian.install' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['n-gage'],
+            'source' => 'iana',
+            'extensions' => ['n-gage'],
         ],
-        'application/vnd.nokia.ncd'                                                            => [
+        'vnd.nokia.ncd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.pcd+wbxml'                                                      => [
+        'vnd.nokia.pcd+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.pcd+xml'                                                        => [
+        'vnd.nokia.pcd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.nokia.radio-preset'                                                   => [
+        'vnd.nokia.radio-preset' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rpst'],
+            'source' => 'iana',
+            'extensions' => ['rpst'],
         ],
-        'application/vnd.nokia.radio-presets'                                                  => [
+        'vnd.nokia.radio-presets' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rpss'],
+            'source' => 'iana',
+            'extensions' => ['rpss'],
         ],
-        'application/vnd.novadigm.edm'                                                         => [
+        'vnd.novadigm.edm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['edm'],
+            'source' => 'iana',
+            'extensions' => ['edm'],
         ],
-        'application/vnd.novadigm.edx'                                                         => [
+        'vnd.novadigm.edx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['edx'],
+            'source' => 'iana',
+            'extensions' => ['edx'],
         ],
-        'application/vnd.novadigm.ext'                                                         => [
+        'vnd.novadigm.ext' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ext'],
+            'source' => 'iana',
+            'extensions' => ['ext'],
         ],
-        'application/vnd.ntt-local.content-share'                                              => [
+        'vnd.ntt-local.content-share' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ntt-local.file-transfer'                                              => [
+        'vnd.ntt-local.file-transfer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ntt-local.ogw_remote-access'                                          => [
+        'vnd.ntt-local.ogw_remote-access' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ntt-local.sip-ta_remote'                                              => [
+        'vnd.ntt-local.sip-ta_remote' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ntt-local.sip-ta_tcp_stream'                                          => [
+        'vnd.ntt-local.sip-ta_tcp_stream' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oasis.opendocument.chart'                                             => [
+        'vnd.oasis.opendocument.chart' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odc'],
+            'source' => 'iana',
+            'extensions' => ['odc'],
         ],
-        'application/vnd.oasis.opendocument.chart-template'                                    => [
+        'vnd.oasis.opendocument.chart-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['otc'],
+            'source' => 'iana',
+            'extensions' => ['otc'],
         ],
-        'application/vnd.oasis.opendocument.database'                                          => [
+        'vnd.oasis.opendocument.database' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odb'],
+            'source' => 'iana',
+            'extensions' => ['odb'],
         ],
-        'application/vnd.oasis.opendocument.formula'                                           => [
+        'vnd.oasis.opendocument.formula' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odf'],
+            'source' => 'iana',
+            'extensions' => ['odf'],
         ],
-        'application/vnd.oasis.opendocument.formula-template'                                  => [
+        'vnd.oasis.opendocument.formula-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odft'],
+            'source' => 'iana',
+            'extensions' => ['odft'],
         ],
-        'application/vnd.oasis.opendocument.graphics'                                          => [
+        'vnd.oasis.opendocument.graphics' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['odg'],
+            'source' => 'iana',
+            'extensions' => ['odg'],
         ],
-        'application/vnd.oasis.opendocument.graphics-template'                                 => [
+        'vnd.oasis.opendocument.graphics-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['otg'],
+            'source' => 'iana',
+            'extensions' => ['otg'],
         ],
-        'application/vnd.oasis.opendocument.image'                                             => [
+        'vnd.oasis.opendocument.image' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odi'],
+            'source' => 'iana',
+            'extensions' => ['odi'],
         ],
-        'application/vnd.oasis.opendocument.image-template'                                    => [
+        'vnd.oasis.opendocument.image-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oti'],
+            'source' => 'iana',
+            'extensions' => ['oti'],
         ],
-        'application/vnd.oasis.opendocument.presentation'                                      => [
+        'vnd.oasis.opendocument.presentation' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['odp'],
+            'source' => 'iana',
+            'extensions' => ['odp'],
         ],
-        'application/vnd.oasis.opendocument.presentation-template'                             => [
+        'vnd.oasis.opendocument.presentation-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['otp'],
+            'source' => 'iana',
+            'extensions' => ['otp'],
         ],
-        'application/vnd.oasis.opendocument.spreadsheet'                                       => [
+        'vnd.oasis.opendocument.spreadsheet' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ods'],
+            'source' => 'iana',
+            'extensions' => ['ods'],
         ],
-        'application/vnd.oasis.opendocument.spreadsheet-template'                              => [
+        'vnd.oasis.opendocument.spreadsheet-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ots'],
+            'source' => 'iana',
+            'extensions' => ['ots'],
         ],
-        'application/vnd.oasis.opendocument.text'                                              => [
+        'vnd.oasis.opendocument.text' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['odt'],
+            'source' => 'iana',
+            'extensions' => ['odt'],
         ],
-        'application/vnd.oasis.opendocument.text-master'                                       => [
+        'vnd.oasis.opendocument.text-master' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['odm'],
+            'source' => 'iana',
+            'extensions' => ['odm'],
         ],
-        'application/vnd.oasis.opendocument.text-template'                                     => [
+        'vnd.oasis.opendocument.text-template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ott'],
+            'source' => 'iana',
+            'extensions' => ['ott'],
         ],
-        'application/vnd.oasis.opendocument.text-web'                                          => [
+        'vnd.oasis.opendocument.text-web' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['oth'],
+            'source' => 'iana',
+            'extensions' => ['oth'],
         ],
-        'application/vnd.obn'                                                                  => [
+        'vnd.obn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ocf+cbor'                                                             => [
+        'vnd.ocf+cbor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oftn.l10n+json'                                                       => [
+        'vnd.oftn.l10n+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.contentaccessdownload+xml'                                       => [
+        'vnd.oipf.contentaccessdownload+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.contentaccessstreaming+xml'                                      => [
+        'vnd.oipf.contentaccessstreaming+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.cspg-hexbinary'                                                  => [
+        'vnd.oipf.cspg-hexbinary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.dae.svg+xml'                                                     => [
+        'vnd.oipf.dae.svg+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.dae.xhtml+xml'                                                   => [
+        'vnd.oipf.dae.xhtml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.mippvcontrolmessage+xml'                                         => [
+        'vnd.oipf.mippvcontrolmessage+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.pae.gem'                                                         => [
+        'vnd.oipf.pae.gem' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.spdiscovery+xml'                                                 => [
+        'vnd.oipf.spdiscovery+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.spdlist+xml'                                                     => [
+        'vnd.oipf.spdlist+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.ueprofile+xml'                                                   => [
+        'vnd.oipf.ueprofile+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oipf.userprofile+xml'                                                 => [
+        'vnd.oipf.userprofile+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.olpc-sugar'                                                           => [
+        'vnd.olpc-sugar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xo'],
+            'source' => 'iana',
+            'extensions' => ['xo'],
         ],
-        'application/vnd.oma-scws-config'                                                      => [
+        'vnd.oma-scws-config' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma-scws-http-request'                                                => [
+        'vnd.oma-scws-http-request' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma-scws-http-response'                                               => [
+        'vnd.oma-scws-http-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.associated-procedure-parameter+xml'                         => [
+        'vnd.oma.bcast.associated-procedure-parameter+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.drm-trigger+xml'                                            => [
+        'vnd.oma.bcast.drm-trigger+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.imd+xml'                                                    => [
+        'vnd.oma.bcast.imd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.ltkm'                                                       => [
+        'vnd.oma.bcast.ltkm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.notification+xml'                                           => [
+        'vnd.oma.bcast.notification+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.provisioningtrigger'                                        => [
+        'vnd.oma.bcast.provisioningtrigger' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.sgboot'                                                     => [
+        'vnd.oma.bcast.sgboot' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.sgdd+xml'                                                   => [
+        'vnd.oma.bcast.sgdd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.sgdu'                                                       => [
+        'vnd.oma.bcast.sgdu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.simple-symbol-container'                                    => [
+        'vnd.oma.bcast.simple-symbol-container' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.smartcard-trigger+xml'                                      => [
+        'vnd.oma.bcast.smartcard-trigger+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.sprov+xml'                                                  => [
+        'vnd.oma.bcast.sprov+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.bcast.stkm'                                                       => [
+        'vnd.oma.bcast.stkm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.cab-address-book+xml'                                             => [
+        'vnd.oma.cab-address-book+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.cab-feature-handler+xml'                                          => [
+        'vnd.oma.cab-feature-handler+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.cab-pcc+xml'                                                      => [
+        'vnd.oma.cab-pcc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.cab-subs-invite+xml'                                              => [
+        'vnd.oma.cab-subs-invite+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.cab-user-prefs+xml'                                               => [
+        'vnd.oma.cab-user-prefs+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.dcd'                                                              => [
+        'vnd.oma.dcd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.dcdc'                                                             => [
+        'vnd.oma.dcdc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.dd2+xml'                                                          => [
+        'vnd.oma.dd2+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['dd2'],
+            'source' => 'iana',
+            'extensions' => ['dd2'],
         ],
-        'application/vnd.oma.drm.risd+xml'                                                     => [
+        'vnd.oma.drm.risd+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.group-usage-list+xml'                                             => [
+        'vnd.oma.group-usage-list+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.lwm2m+json'                                                       => [
+        'vnd.oma.lwm2m+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.lwm2m+tlv'                                                        => [
+        'vnd.oma.lwm2m+tlv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.pal+xml'                                                          => [
+        'vnd.oma.pal+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.poc.detailed-progress-report+xml'                                 => [
+        'vnd.oma.poc.detailed-progress-report+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.poc.final-report+xml'                                             => [
+        'vnd.oma.poc.final-report+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.poc.groups+xml'                                                   => [
+        'vnd.oma.poc.groups+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.poc.invocation-descriptor+xml'                                    => [
+        'vnd.oma.poc.invocation-descriptor+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.poc.optimized-progress-report+xml'                                => [
+        'vnd.oma.poc.optimized-progress-report+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.push'                                                             => [
+        'vnd.oma.push' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.scidm.messages+xml'                                               => [
+        'vnd.oma.scidm.messages+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oma.xcap-directory+xml'                                               => [
+        'vnd.oma.xcap-directory+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.omads-email+xml'                                                      => [
+        'vnd.omads-email+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.omads-file+xml'                                                       => [
+        'vnd.omads-file+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.omads-folder+xml'                                                     => [
+        'vnd.omads-folder+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.omaloc-supl-init'                                                     => [
+        'vnd.omaloc-supl-init' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepager'                                                             => [
+        'vnd.onepager' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepagertamp'                                                         => [
+        'vnd.onepagertamp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepagertamx'                                                         => [
+        'vnd.onepagertamx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepagertat'                                                          => [
+        'vnd.onepagertat' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepagertatp'                                                         => [
+        'vnd.onepagertatp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.onepagertatx'                                                         => [
+        'vnd.onepagertatx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openblox.game+xml'                                                    => [
+        'vnd.openblox.game+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openblox.game-binary'                                                 => [
+        'vnd.openblox.game-binary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openeye.oeb'                                                          => [
+        'vnd.openeye.oeb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openofficeorg.extension'                                              => [
+        'vnd.openofficeorg.extension' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['oxt'],
+            'source' => 'apache',
+            'extensions' => ['oxt'],
         ],
-        'application/vnd.openstreetmap.data+xml'                                               => [
+        'vnd.openstreetmap.data+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.custom-properties+xml'                  => [
+        'vnd.openxmlformats-officedocument.custom-properties+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.customxmlproperties+xml'                => [
+        'vnd.openxmlformats-officedocument.customxmlproperties+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawing+xml'                            => [
+        'vnd.openxmlformats-officedocument.drawing+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.chart+xml'                    => [
+        'vnd.openxmlformats-officedocument.drawingml.chart+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml'              => [
+        'vnd.openxmlformats-officedocument.drawingml.chartshapes+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml'            => [
+        'vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.diagramdata+xml'              => [
+        'vnd.openxmlformats-officedocument.drawingml.diagramdata+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml'            => [
+        'vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml'             => [
+        'vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.extended-properties+xml'                => [
+        'vnd.openxmlformats-officedocument.extended-properties+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.commentauthors+xml'      => [
+        'vnd.openxmlformats-officedocument.presentationml.commentauthors+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.comments+xml'            => [
+        'vnd.openxmlformats-officedocument.presentationml.comments+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml'       => [
+        'vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.notesmaster+xml'         => [
+        'vnd.openxmlformats-officedocument.presentationml.notesmaster+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.notesslide+xml'          => [
+        'vnd.openxmlformats-officedocument.presentationml.notesslide+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.presentation'            => [
+        'vnd.openxmlformats-officedocument.presentationml.presentation' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['pptx'],
+            'source' => 'iana',
+            'extensions' => ['pptx'],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml'   => [
+        'vnd.openxmlformats-officedocument.presentationml.presentation.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.presprops+xml'           => [
+        'vnd.openxmlformats-officedocument.presentationml.presprops+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slide'                   => [
+        'vnd.openxmlformats-officedocument.presentationml.slide' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sldx'],
+            'source' => 'iana',
+            'extensions' => ['sldx'],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slide+xml'               => [
+        'vnd.openxmlformats-officedocument.presentationml.slide+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slidelayout+xml'         => [
+        'vnd.openxmlformats-officedocument.presentationml.slidelayout+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slidemaster+xml'         => [
+        'vnd.openxmlformats-officedocument.presentationml.slidemaster+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slideshow'               => [
+        'vnd.openxmlformats-officedocument.presentationml.slideshow' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ppsx'],
+            'source' => 'iana',
+            'extensions' => ['ppsx'],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml'      => [
+        'vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml'     => [
+        'vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.tablestyles+xml'         => [
+        'vnd.openxmlformats-officedocument.presentationml.tablestyles+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.tags+xml'                => [
+        'vnd.openxmlformats-officedocument.presentationml.tags+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.template'                => [
+        'vnd.openxmlformats-officedocument.presentationml.template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['potx'],
+            'source' => 'iana',
+            'extensions' => ['potx'],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.template.main+xml'       => [
+        'vnd.openxmlformats-officedocument.presentationml.template.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.presentationml.viewprops+xml'           => [
+        'vnd.openxmlformats-officedocument.presentationml.viewprops+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml'            => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml'           => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml'             => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.comments+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml'          => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.connections+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml'          => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml'         => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml' => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml'    => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml'           => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml'           => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml'      => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml'          => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml'        => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'                    => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.sheet' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xlsx'],
+            'source' => 'iana',
+            'extensions' => ['xlsx'],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml'           => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml'        => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml'               => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.styles+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml'                => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.table+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml'     => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.template'                 => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xltx'],
+            'source' => 'iana',
+            'extensions' => ['xltx'],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml'        => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml'            => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml' => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml'            => [
+        'vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.theme+xml'                              => [
+        'vnd.openxmlformats-officedocument.theme+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.themeoverride+xml'                      => [
+        'vnd.openxmlformats-officedocument.themeoverride+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.vmldrawing'                             => [
+        'vnd.openxmlformats-officedocument.vmldrawing' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.comments+xml'          => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.comments+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.document'              => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.document' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['docx'],
+            'source' => 'iana',
+            'extensions' => ['docx'],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml' => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml'     => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml'          => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml'         => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.footer+xml'            => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.footer+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml'         => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml'         => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.settings+xml'          => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.settings+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.styles+xml'            => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.styles+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.template'              => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.template' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dotx'],
+            'source' => 'iana',
+            'extensions' => ['dotx'],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml'     => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml'       => [
+        'vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-package.core-properties+xml'                           => [
+        'vnd.openxmlformats-package.core-properties+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml'            => [
+        'vnd.openxmlformats-package.digital-signature-xmlsignature+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.openxmlformats-package.relationships+xml'                             => [
+        'vnd.openxmlformats-package.relationships+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oracle.resource+json'                                                 => [
+        'vnd.oracle.resource+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.orange.indata'                                                        => [
+        'vnd.orange.indata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.osa.netdeploy'                                                        => [
+        'vnd.osa.netdeploy' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.osgeo.mapguide.package'                                               => [
+        'vnd.osgeo.mapguide.package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mgp'],
+            'source' => 'iana',
+            'extensions' => ['mgp'],
         ],
-        'application/vnd.osgi.bundle'                                                          => [
+        'vnd.osgi.bundle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.osgi.dp'                                                              => [
+        'vnd.osgi.dp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dp'],
+            'source' => 'iana',
+            'extensions' => ['dp'],
         ],
-        'application/vnd.osgi.subsystem'                                                       => [
+        'vnd.osgi.subsystem' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['esa'],
+            'source' => 'iana',
+            'extensions' => ['esa'],
         ],
-        'application/vnd.otps.ct-kip+xml'                                                      => [
+        'vnd.otps.ct-kip+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.oxli.countgraph'                                                      => [
+        'vnd.oxli.countgraph' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.pagerduty+json'                                                       => [
+        'vnd.pagerduty+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.palm'                                                                 => [
+        'vnd.palm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pdb', 'pqa', 'oprc'],
+            'source' => 'iana',
+            'extensions' => ['pdb','pqa','oprc'],
         ],
-        'application/vnd.panoply'                                                              => [
+        'vnd.panoply' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.paos.xml'                                                             => [
+        'vnd.paos.xml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.patentdive'                                                           => [
+        'vnd.patentdive' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.pawaafile'                                                            => [
+        'vnd.pawaafile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['paw'],
+            'source' => 'iana',
+            'extensions' => ['paw'],
         ],
-        'application/vnd.pcos'                                                                 => [
+        'vnd.pcos' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.pg.format'                                                            => [
+        'vnd.pg.format' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['str'],
+            'source' => 'iana',
+            'extensions' => ['str'],
         ],
-        'application/vnd.pg.osasli'                                                            => [
+        'vnd.pg.osasli' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ei6'],
+            'source' => 'iana',
+            'extensions' => ['ei6'],
         ],
-        'application/vnd.piaccess.application-licence'                                         => [
+        'vnd.piaccess.application-licence' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.picsel'                                                               => [
+        'vnd.picsel' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['efif'],
+            'source' => 'iana',
+            'extensions' => ['efif'],
         ],
-        'application/vnd.pmi.widget'                                                           => [
+        'vnd.pmi.widget' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wg'],
+            'source' => 'iana',
+            'extensions' => ['wg'],
         ],
-        'application/vnd.poc.group-advertisement+xml'                                          => [
+        'vnd.poc.group-advertisement+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.pocketlearn'                                                          => [
+        'vnd.pocketlearn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['plf'],
+            'source' => 'iana',
+            'extensions' => ['plf'],
         ],
-        'application/vnd.powerbuilder6'                                                        => [
+        'vnd.powerbuilder6' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pbd'],
+            'source' => 'iana',
+            'extensions' => ['pbd'],
         ],
-        'application/vnd.powerbuilder6-s'                                                      => [
+        'vnd.powerbuilder6-s' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.powerbuilder7'                                                        => [
+        'vnd.powerbuilder7' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.powerbuilder7-s'                                                      => [
+        'vnd.powerbuilder7-s' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.powerbuilder75'                                                       => [
+        'vnd.powerbuilder75' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.powerbuilder75-s'                                                     => [
+        'vnd.powerbuilder75-s' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.preminet'                                                             => [
+        'vnd.preminet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.previewsystems.box'                                                   => [
+        'vnd.previewsystems.box' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['box'],
+            'source' => 'iana',
+            'extensions' => ['box'],
         ],
-        'application/vnd.proteus.magazine'                                                     => [
+        'vnd.proteus.magazine' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mgz'],
+            'source' => 'iana',
+            'extensions' => ['mgz'],
         ],
-        'application/vnd.psfs'                                                                 => [
+        'vnd.psfs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.publishare-delta-tree'                                                => [
+        'vnd.publishare-delta-tree' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['qps'],
+            'source' => 'iana',
+            'extensions' => ['qps'],
         ],
-        'application/vnd.pvi.ptid1'                                                            => [
+        'vnd.pvi.ptid1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ptid'],
+            'source' => 'iana',
+            'extensions' => ['ptid'],
         ],
-        'application/vnd.pwg-multiplexed'                                                      => [
+        'vnd.pwg-multiplexed' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.pwg-xhtml-print+xml'                                                  => [
+        'vnd.pwg-xhtml-print+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.qualcomm.brew-app-res'                                                => [
+        'vnd.qualcomm.brew-app-res' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.quarantainenet'                                                       => [
+        'vnd.quarantainenet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.quark.quarkxpress'                                                    => [
+        'vnd.quark.quarkxpress' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['qxd', 'qxt', 'qwd', 'qwt', 'qxl', 'qxb'],
+            'source' => 'iana',
+            'extensions' => ['qxd','qxt','qwd','qwt','qxl','qxb'],
         ],
-        'application/vnd.quobject-quoxdocument'                                                => [
+        'vnd.quobject-quoxdocument' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.moml+xml'                                                     => [
+        'vnd.radisys.moml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml+xml'                                                     => [
+        'vnd.radisys.msml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-audit+xml'                                               => [
+        'vnd.radisys.msml-audit+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-audit-conf+xml'                                          => [
+        'vnd.radisys.msml-audit-conf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-audit-conn+xml'                                          => [
+        'vnd.radisys.msml-audit-conn+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-audit-dialog+xml'                                        => [
+        'vnd.radisys.msml-audit-dialog+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-audit-stream+xml'                                        => [
+        'vnd.radisys.msml-audit-stream+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-conf+xml'                                                => [
+        'vnd.radisys.msml-conf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog+xml'                                              => [
+        'vnd.radisys.msml-dialog+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-base+xml'                                         => [
+        'vnd.radisys.msml-dialog-base+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-fax-detect+xml'                                   => [
+        'vnd.radisys.msml-dialog-fax-detect+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-fax-sendrecv+xml'                                 => [
+        'vnd.radisys.msml-dialog-fax-sendrecv+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-group+xml'                                        => [
+        'vnd.radisys.msml-dialog-group+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-speech+xml'                                       => [
+        'vnd.radisys.msml-dialog-speech+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.radisys.msml-dialog-transform+xml'                                    => [
+        'vnd.radisys.msml-dialog-transform+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.rainstor.data'                                                        => [
+        'vnd.rainstor.data' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.rapid'                                                                => [
+        'vnd.rapid' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.rar'                                                                  => [
+        'vnd.rar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.realvnc.bed'                                                          => [
+        'vnd.realvnc.bed' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['bed'],
+            'source' => 'iana',
+            'extensions' => ['bed'],
         ],
-        'application/vnd.recordare.musicxml'                                                   => [
+        'vnd.recordare.musicxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mxl'],
+            'source' => 'iana',
+            'extensions' => ['mxl'],
         ],
-        'application/vnd.recordare.musicxml+xml'                                               => [
+        'vnd.recordare.musicxml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['musicxml'],
+            'source' => 'iana',
+            'extensions' => ['musicxml'],
         ],
-        'application/vnd.renlearn.rlprint'                                                     => [
+        'vnd.renlearn.rlprint' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.restful+json'                                                         => [
+        'vnd.restful+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.rig.cryptonote'                                                       => [
+        'vnd.rig.cryptonote' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cryptonote'],
+            'source' => 'iana',
+            'extensions' => ['cryptonote'],
         ],
-        'application/vnd.rim.cod'                                                              => [
+        'vnd.rim.cod' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cod'],
+            'source' => 'apache',
+            'extensions' => ['cod'],
         ],
-        'application/vnd.rn-realmedia'                                                         => [
+        'vnd.rn-realmedia' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['rm'],
+            'source' => 'apache',
+            'extensions' => ['rm'],
         ],
-        'application/vnd.rn-realmedia-vbr'                                                     => [
+        'vnd.rn-realmedia-vbr' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['rmvb'],
+            'source' => 'apache',
+            'extensions' => ['rmvb'],
         ],
-        'application/vnd.route66.link66+xml'                                                   => [
+        'vnd.route66.link66+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['link66'],
+            'source' => 'iana',
+            'extensions' => ['link66'],
         ],
-        'application/vnd.rs-274x'                                                              => [
+        'vnd.rs-274x' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ruckus.download'                                                      => [
+        'vnd.ruckus.download' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.s3sms'                                                                => [
+        'vnd.s3sms' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sailingtracker.track'                                                 => [
+        'vnd.sailingtracker.track' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['st'],
+            'source' => 'iana',
+            'extensions' => ['st'],
         ],
-        'application/vnd.sbm.cid'                                                              => [
+        'vnd.sbm.cid' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sbm.mid2'                                                             => [
+        'vnd.sbm.mid2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.scribus'                                                              => [
+        'vnd.scribus' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.3df'                                                           => [
+        'vnd.sealed.3df' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.csf'                                                           => [
+        'vnd.sealed.csf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.doc'                                                           => [
+        'vnd.sealed.doc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.eml'                                                           => [
+        'vnd.sealed.eml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.mht'                                                           => [
+        'vnd.sealed.mht' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.net'                                                           => [
+        'vnd.sealed.net' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.ppt'                                                           => [
+        'vnd.sealed.ppt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.tiff'                                                          => [
+        'vnd.sealed.tiff' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealed.xls'                                                           => [
+        'vnd.sealed.xls' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealedmedia.softseal.html'                                            => [
+        'vnd.sealedmedia.softseal.html' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sealedmedia.softseal.pdf'                                             => [
+        'vnd.sealedmedia.softseal.pdf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.seemail'                                                              => [
+        'vnd.seemail' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['see'],
+            'source' => 'iana',
+            'extensions' => ['see'],
         ],
-        'application/vnd.sema'                                                                 => [
+        'vnd.sema' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sema'],
+            'source' => 'iana',
+            'extensions' => ['sema'],
         ],
-        'application/vnd.semd'                                                                 => [
+        'vnd.semd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['semd'],
+            'source' => 'iana',
+            'extensions' => ['semd'],
         ],
-        'application/vnd.semf'                                                                 => [
+        'vnd.semf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['semf'],
+            'source' => 'iana',
+            'extensions' => ['semf'],
         ],
-        'application/vnd.shana.informed.formdata'                                              => [
+        'vnd.shana.informed.formdata' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ifm'],
+            'source' => 'iana',
+            'extensions' => ['ifm'],
         ],
-        'application/vnd.shana.informed.formtemplate'                                          => [
+        'vnd.shana.informed.formtemplate' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['itp'],
+            'source' => 'iana',
+            'extensions' => ['itp'],
         ],
-        'application/vnd.shana.informed.interchange'                                           => [
+        'vnd.shana.informed.interchange' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['iif'],
+            'source' => 'iana',
+            'extensions' => ['iif'],
         ],
-        'application/vnd.shana.informed.package'                                               => [
+        'vnd.shana.informed.package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ipk'],
+            'source' => 'iana',
+            'extensions' => ['ipk'],
         ],
-        'application/vnd.shootproof+json'                                                      => [
+        'vnd.shootproof+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sigrok.session'                                                       => [
+        'vnd.sigrok.session' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.simtech-mindmapper'                                                   => [
+        'vnd.simtech-mindmapper' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['twd', 'twds'],
+            'source' => 'iana',
+            'extensions' => ['twd','twds'],
         ],
-        'application/vnd.siren+json'                                                           => [
+        'vnd.siren+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.smaf'                                                                 => [
+        'vnd.smaf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mmf'],
+            'source' => 'iana',
+            'extensions' => ['mmf'],
         ],
-        'application/vnd.smart.notebook'                                                       => [
+        'vnd.smart.notebook' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.smart.teacher'                                                        => [
+        'vnd.smart.teacher' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['teacher'],
+            'source' => 'iana',
+            'extensions' => ['teacher'],
         ],
-        'application/vnd.software602.filler.form+xml'                                          => [
+        'vnd.software602.filler.form+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.software602.filler.form-xml-zip'                                      => [
+        'vnd.software602.filler.form-xml-zip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.solent.sdkm+xml'                                                      => [
+        'vnd.solent.sdkm+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['sdkm', 'sdkd'],
+            'source' => 'iana',
+            'extensions' => ['sdkm','sdkd'],
         ],
-        'application/vnd.spotfire.dxp'                                                         => [
+        'vnd.spotfire.dxp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dxp'],
+            'source' => 'iana',
+            'extensions' => ['dxp'],
         ],
-        'application/vnd.spotfire.sfs'                                                         => [
+        'vnd.spotfire.sfs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sfs'],
+            'source' => 'iana',
+            'extensions' => ['sfs'],
         ],
-        'application/vnd.sqlite3'                                                              => [
+        'vnd.sqlite3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sss-cod'                                                              => [
+        'vnd.sss-cod' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sss-dtf'                                                              => [
+        'vnd.sss-dtf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sss-ntf'                                                              => [
+        'vnd.sss-ntf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.stardivision.calc'                                                    => [
+        'vnd.stardivision.calc' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sdc'],
+            'source' => 'apache',
+            'extensions' => ['sdc'],
         ],
-        'application/vnd.stardivision.draw'                                                    => [
+        'vnd.stardivision.draw' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sda'],
+            'source' => 'apache',
+            'extensions' => ['sda'],
         ],
-        'application/vnd.stardivision.impress'                                                 => [
+        'vnd.stardivision.impress' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sdd'],
+            'source' => 'apache',
+            'extensions' => ['sdd'],
         ],
-        'application/vnd.stardivision.math'                                                    => [
+        'vnd.stardivision.math' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['smf'],
+            'source' => 'apache',
+            'extensions' => ['smf'],
         ],
-        'application/vnd.stardivision.writer'                                                  => [
+        'vnd.stardivision.writer' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sdw', 'vor'],
+            'source' => 'apache',
+            'extensions' => ['sdw','vor'],
         ],
-        'application/vnd.stardivision.writer-global'                                           => [
+        'vnd.stardivision.writer-global' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sgl'],
+            'source' => 'apache',
+            'extensions' => ['sgl'],
         ],
-        'application/vnd.stepmania.package'                                                    => [
+        'vnd.stepmania.package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['smzip'],
+            'source' => 'iana',
+            'extensions' => ['smzip'],
         ],
-        'application/vnd.stepmania.stepchart'                                                  => [
+        'vnd.stepmania.stepchart' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sm'],
+            'source' => 'iana',
+            'extensions' => ['sm'],
         ],
-        'application/vnd.street-stream'                                                        => [
+        'vnd.street-stream' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.sun.wadl+xml'                                                         => [
+        'vnd.sun.wadl+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['wadl'],
+            'source' => 'iana',
+            'extensions' => ['wadl'],
         ],
-        'application/vnd.sun.xml.calc'                                                         => [
+        'vnd.sun.xml.calc' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxc'],
+            'source' => 'apache',
+            'extensions' => ['sxc'],
         ],
-        'application/vnd.sun.xml.calc.template'                                                => [
+        'vnd.sun.xml.calc.template' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['stc'],
+            'source' => 'apache',
+            'extensions' => ['stc'],
         ],
-        'application/vnd.sun.xml.draw'                                                         => [
+        'vnd.sun.xml.draw' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxd'],
+            'source' => 'apache',
+            'extensions' => ['sxd'],
         ],
-        'application/vnd.sun.xml.draw.template'                                                => [
+        'vnd.sun.xml.draw.template' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['std'],
+            'source' => 'apache',
+            'extensions' => ['std'],
         ],
-        'application/vnd.sun.xml.impress'                                                      => [
+        'vnd.sun.xml.impress' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxi'],
+            'source' => 'apache',
+            'extensions' => ['sxi'],
         ],
-        'application/vnd.sun.xml.impress.template'                                             => [
+        'vnd.sun.xml.impress.template' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sti'],
+            'source' => 'apache',
+            'extensions' => ['sti'],
         ],
-        'application/vnd.sun.xml.math'                                                         => [
+        'vnd.sun.xml.math' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxm'],
+            'source' => 'apache',
+            'extensions' => ['sxm'],
         ],
-        'application/vnd.sun.xml.writer'                                                       => [
+        'vnd.sun.xml.writer' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxw'],
+            'source' => 'apache',
+            'extensions' => ['sxw'],
         ],
-        'application/vnd.sun.xml.writer.global'                                                => [
+        'vnd.sun.xml.writer.global' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sxg'],
+            'source' => 'apache',
+            'extensions' => ['sxg'],
         ],
-        'application/vnd.sun.xml.writer.template'                                              => [
+        'vnd.sun.xml.writer.template' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['stw'],
+            'source' => 'apache',
+            'extensions' => ['stw'],
         ],
-        'application/vnd.sus-calendar'                                                         => [
+        'vnd.sus-calendar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sus', 'susp'],
+            'source' => 'iana',
+            'extensions' => ['sus','susp'],
         ],
-        'application/vnd.svd'                                                                  => [
+        'vnd.svd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['svd'],
+            'source' => 'iana',
+            'extensions' => ['svd'],
         ],
-        'application/vnd.swiftview-ics'                                                        => [
+        'vnd.swiftview-ics' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.symbian.install'                                                      => [
+        'vnd.symbian.install' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sis', 'sisx'],
+            'source' => 'apache',
+            'extensions' => ['sis','sisx'],
         ],
-        'application/vnd.syncml+xml'                                                           => [
+        'vnd.syncml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xsm'],
+            'source' => 'iana',
+            'extensions' => ['xsm'],
         ],
-        'application/vnd.syncml.dm+wbxml'                                                      => [
+        'vnd.syncml.dm+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['bdm'],
+            'source' => 'iana',
+            'extensions' => ['bdm'],
         ],
-        'application/vnd.syncml.dm+xml'                                                        => [
+        'vnd.syncml.dm+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xdm'],
+            'source' => 'iana',
+            'extensions' => ['xdm'],
         ],
-        'application/vnd.syncml.dm.notification'                                               => [
+        'vnd.syncml.dm.notification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.syncml.dmddf+wbxml'                                                   => [
+        'vnd.syncml.dmddf+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.syncml.dmddf+xml'                                                     => [
+        'vnd.syncml.dmddf+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.syncml.dmtnds+wbxml'                                                  => [
+        'vnd.syncml.dmtnds+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.syncml.dmtnds+xml'                                                    => [
+        'vnd.syncml.dmtnds+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.syncml.ds.notification'                                               => [
+        'vnd.syncml.ds.notification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.tableschema+json'                                                     => [
+        'vnd.tableschema+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.tao.intent-module-archive'                                            => [
+        'vnd.tao.intent-module-archive' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tao'],
+            'source' => 'iana',
+            'extensions' => ['tao'],
         ],
-        'application/vnd.tcpdump.pcap'                                                         => [
+        'vnd.tcpdump.pcap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pcap', 'cap', 'dmp'],
+            'source' => 'iana',
+            'extensions' => ['pcap','cap','dmp'],
         ],
-        'application/vnd.think-cell.ppttc+json'                                                => [
+        'vnd.think-cell.ppttc+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.tmd.mediaflex.api+xml'                                                => [
+        'vnd.tmd.mediaflex.api+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.tml'                                                                  => [
+        'vnd.tml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.tmobile-livetv'                                                       => [
+        'vnd.tmobile-livetv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tmo'],
+            'source' => 'iana',
+            'extensions' => ['tmo'],
         ],
-        'application/vnd.tri.onesource'                                                        => [
+        'vnd.tri.onesource' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.trid.tpt'                                                             => [
+        'vnd.trid.tpt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tpt'],
+            'source' => 'iana',
+            'extensions' => ['tpt'],
         ],
-        'application/vnd.triscape.mxs'                                                         => [
+        'vnd.triscape.mxs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mxs'],
+            'source' => 'iana',
+            'extensions' => ['mxs'],
         ],
-        'application/vnd.trueapp'                                                              => [
+        'vnd.trueapp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tra'],
+            'source' => 'iana',
+            'extensions' => ['tra'],
         ],
-        'application/vnd.truedoc'                                                              => [
+        'vnd.truedoc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ubisoft.webplayer'                                                    => [
+        'vnd.ubisoft.webplayer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.ufdl'                                                                 => [
+        'vnd.ufdl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ufd', 'ufdl'],
+            'source' => 'iana',
+            'extensions' => ['ufd','ufdl'],
         ],
-        'application/vnd.uiq.theme'                                                            => [
+        'vnd.uiq.theme' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['utz'],
+            'source' => 'iana',
+            'extensions' => ['utz'],
         ],
-        'application/vnd.umajin'                                                               => [
+        'vnd.umajin' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['umj'],
+            'source' => 'iana',
+            'extensions' => ['umj'],
         ],
-        'application/vnd.unity'                                                                => [
+        'vnd.unity' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['unityweb'],
+            'source' => 'iana',
+            'extensions' => ['unityweb'],
         ],
-        'application/vnd.uoml+xml'                                                             => [
+        'vnd.uoml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['uoml'],
+            'source' => 'iana',
+            'extensions' => ['uoml'],
         ],
-        'application/vnd.uplanet.alert'                                                        => [
+        'vnd.uplanet.alert' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.alert-wbxml'                                                  => [
+        'vnd.uplanet.alert-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.bearer-choice'                                                => [
+        'vnd.uplanet.bearer-choice' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.bearer-choice-wbxml'                                          => [
+        'vnd.uplanet.bearer-choice-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.cacheop'                                                      => [
+        'vnd.uplanet.cacheop' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.cacheop-wbxml'                                                => [
+        'vnd.uplanet.cacheop-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.channel'                                                      => [
+        'vnd.uplanet.channel' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.channel-wbxml'                                                => [
+        'vnd.uplanet.channel-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.list'                                                         => [
+        'vnd.uplanet.list' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.list-wbxml'                                                   => [
+        'vnd.uplanet.list-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.listcmd'                                                      => [
+        'vnd.uplanet.listcmd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.listcmd-wbxml'                                                => [
+        'vnd.uplanet.listcmd-wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uplanet.signal'                                                       => [
+        'vnd.uplanet.signal' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.uri-map'                                                              => [
+        'vnd.uri-map' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.valve.source.material'                                                => [
+        'vnd.valve.source.material' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.vcx'                                                                  => [
+        'vnd.vcx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vcx'],
+            'source' => 'iana',
+            'extensions' => ['vcx'],
         ],
-        'application/vnd.vd-study'                                                             => [
+        'vnd.vd-study' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.vectorworks'                                                          => [
+        'vnd.vectorworks' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.vel+json'                                                             => [
+        'vnd.vel+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.verimatrix.vcas'                                                      => [
+        'vnd.verimatrix.vcas' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.vidsoft.vidconference'                                                => [
+        'vnd.vidsoft.vidconference' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.visio'                                                                => [
+        'vnd.visio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vsd', 'vst', 'vss', 'vsw'],
+            'source' => 'iana',
+            'extensions' => ['vsd','vst','vss','vsw'],
         ],
-        'application/vnd.visionary'                                                            => [
+        'vnd.visionary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vis'],
+            'source' => 'iana',
+            'extensions' => ['vis'],
         ],
-        'application/vnd.vividence.scriptfile'                                                 => [
+        'vnd.vividence.scriptfile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.vsf'                                                                  => [
+        'vnd.vsf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vsf'],
+            'source' => 'iana',
+            'extensions' => ['vsf'],
         ],
-        'application/vnd.wap.sic'                                                              => [
+        'vnd.wap.sic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wap.slc'                                                              => [
+        'vnd.wap.slc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wap.wbxml'                                                            => [
+        'vnd.wap.wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wbxml'],
+            'source' => 'iana',
+            'extensions' => ['wbxml'],
         ],
-        'application/vnd.wap.wmlc'                                                             => [
+        'vnd.wap.wmlc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wmlc'],
+            'source' => 'iana',
+            'extensions' => ['wmlc'],
         ],
-        'application/vnd.wap.wmlscriptc'                                                       => [
+        'vnd.wap.wmlscriptc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wmlsc'],
+            'source' => 'iana',
+            'extensions' => ['wmlsc'],
         ],
-        'application/vnd.webturbo'                                                             => [
+        'vnd.webturbo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wtb'],
+            'source' => 'iana',
+            'extensions' => ['wtb'],
         ],
-        'application/vnd.wfa.p2p'                                                              => [
+        'vnd.wfa.p2p' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wfa.wsc'                                                              => [
+        'vnd.wfa.wsc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.windows.devicepairing'                                                => [
+        'vnd.windows.devicepairing' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wmc'                                                                  => [
+        'vnd.wmc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wmf.bootstrap'                                                        => [
+        'vnd.wmf.bootstrap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wolfram.mathematica'                                                  => [
+        'vnd.wolfram.mathematica' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wolfram.mathematica.package'                                          => [
+        'vnd.wolfram.mathematica.package' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wolfram.player'                                                       => [
+        'vnd.wolfram.player' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['nbp'],
+            'source' => 'iana',
+            'extensions' => ['nbp'],
         ],
-        'application/vnd.wordperfect'                                                          => [
+        'vnd.wordperfect' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wpd'],
+            'source' => 'iana',
+            'extensions' => ['wpd'],
         ],
-        'application/vnd.wqd'                                                                  => [
+        'vnd.wqd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wqd'],
+            'source' => 'iana',
+            'extensions' => ['wqd'],
         ],
-        'application/vnd.wrq-hp3000-labelled'                                                  => [
+        'vnd.wrq-hp3000-labelled' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wt.stf'                                                               => [
+        'vnd.wt.stf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['stf'],
+            'source' => 'iana',
+            'extensions' => ['stf'],
         ],
-        'application/vnd.wv.csp+wbxml'                                                         => [
+        'vnd.wv.csp+wbxml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wv.csp+xml'                                                           => [
+        'vnd.wv.csp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.wv.ssp+xml'                                                           => [
+        'vnd.wv.ssp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xacml+json'                                                           => [
+        'vnd.xacml+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xara'                                                                 => [
+        'vnd.xara' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xar'],
+            'source' => 'iana',
+            'extensions' => ['xar'],
         ],
-        'application/vnd.xfdl'                                                                 => [
+        'vnd.xfdl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xfdl'],
+            'source' => 'iana',
+            'extensions' => ['xfdl'],
         ],
-        'application/vnd.xfdl.webform'                                                         => [
+        'vnd.xfdl.webform' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmi+xml'                                                              => [
+        'vnd.xmi+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmpie.cpkg'                                                           => [
+        'vnd.xmpie.cpkg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmpie.dpkg'                                                           => [
+        'vnd.xmpie.dpkg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmpie.plan'                                                           => [
+        'vnd.xmpie.plan' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmpie.ppkg'                                                           => [
+        'vnd.xmpie.ppkg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.xmpie.xlim'                                                           => [
+        'vnd.xmpie.xlim' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.yamaha.hv-dic'                                                        => [
+        'vnd.yamaha.hv-dic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hvd'],
+            'source' => 'iana',
+            'extensions' => ['hvd'],
         ],
-        'application/vnd.yamaha.hv-script'                                                     => [
+        'vnd.yamaha.hv-script' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hvs'],
+            'source' => 'iana',
+            'extensions' => ['hvs'],
         ],
-        'application/vnd.yamaha.hv-voice'                                                      => [
+        'vnd.yamaha.hv-voice' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['hvp'],
+            'source' => 'iana',
+            'extensions' => ['hvp'],
         ],
-        'application/vnd.yamaha.openscoreformat'                                               => [
+        'vnd.yamaha.openscoreformat' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['osf'],
+            'source' => 'iana',
+            'extensions' => ['osf'],
         ],
-        'application/vnd.yamaha.openscoreformat.osfpvg+xml'                                    => [
+        'vnd.yamaha.openscoreformat.osfpvg+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['osfpvg'],
+            'source' => 'iana',
+            'extensions' => ['osfpvg'],
         ],
-        'application/vnd.yamaha.remote-setup'                                                  => [
+        'vnd.yamaha.remote-setup' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.yamaha.smaf-audio'                                                    => [
+        'vnd.yamaha.smaf-audio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['saf'],
+            'source' => 'iana',
+            'extensions' => ['saf'],
         ],
-        'application/vnd.yamaha.smaf-phrase'                                                   => [
+        'vnd.yamaha.smaf-phrase' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['spf'],
+            'source' => 'iana',
+            'extensions' => ['spf'],
         ],
-        'application/vnd.yamaha.through-ngn'                                                   => [
+        'vnd.yamaha.through-ngn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.yamaha.tunnel-udpencap'                                               => [
+        'vnd.yamaha.tunnel-udpencap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.yaoweme'                                                              => [
+        'vnd.yaoweme' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.yellowriver-custom-menu'                                              => [
+        'vnd.yellowriver-custom-menu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cmp'],
+            'source' => 'iana',
+            'extensions' => ['cmp'],
         ],
-        'application/vnd.youtube.yt'                                                           => [
+        'vnd.youtube.yt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vnd.zul'                                                                  => [
+        'vnd.zul' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['zir', 'zirz'],
+            'source' => 'iana',
+            'extensions' => ['zir','zirz'],
         ],
-        'application/vnd.zzazz.deck+xml'                                                       => [
+        'vnd.zzazz.deck+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['zaz'],
+            'source' => 'iana',
+            'extensions' => ['zaz'],
         ],
-        'application/voicexml+xml'                                                             => [
+        'voicexml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['vxml'],
+            'source' => 'iana',
+            'extensions' => ['vxml'],
         ],
-        'application/voucher-cms+json'                                                         => [
+        'voucher-cms+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/vq-rtcpxr'                                                                => [
+        'vq-rtcpxr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/wasm'                                                                     => [
+        'wasm' => [
             'compressible' => true,
-            'extensions'   => ['wasm'],
+            'extensions' => ['wasm'],
         ],
-        'application/watcherinfo+xml'                                                          => [
+        'watcherinfo+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/webpush-options+json'                                                     => [
+        'webpush-options+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/whoispp-query'                                                            => [
+        'whoispp-query' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/whoispp-response'                                                         => [
+        'whoispp-response' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/widget'                                                                   => [
+        'widget' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wgt'],
+            'source' => 'iana',
+            'extensions' => ['wgt'],
         ],
-        'application/winhlp'                                                                   => [
+        'winhlp' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['hlp'],
+            'source' => 'apache',
+            'extensions' => ['hlp'],
         ],
-        'application/wita'                                                                     => [
+        'wita' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/wordperfect5.1'                                                           => [
+        'wordperfect5.1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/wsdl+xml'                                                                 => [
+        'wsdl+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['wsdl'],
+            'source' => 'iana',
+            'extensions' => ['wsdl'],
         ],
-        'application/wspolicy+xml'                                                             => [
+        'wspolicy+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['wspolicy'],
+            'source' => 'iana',
+            'extensions' => ['wspolicy'],
         ],
-        'application/x-7z-compressed'                                                          => [
+        'x-7z-compressed' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['7z'],
+            'source' => 'apache',
+            'extensions' => ['7z'],
         ],
-        'application/x-abiword'                                                                => [
+        'x-abiword' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['abw'],
+            'source' => 'apache',
+            'extensions' => ['abw'],
         ],
-        'application/x-ace-compressed'                                                         => [
+        'x-ace-compressed' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ace'],
+            'source' => 'apache',
+            'extensions' => ['ace'],
         ],
-        'application/x-amf'                                                                    => [
+        'x-amf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-apple-diskimage'                                                        => [
+        'x-apple-diskimage' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['dmg'],
+            'source' => 'apache',
+            'extensions' => ['dmg'],
         ],
-        'application/x-arj'                                                                    => [
+        'x-arj' => [
             'compressible' => true,
-            'extensions'   => ['arj'],
+            'extensions' => ['arj'],
         ],
-        'application/x-authorware-bin'                                                         => [
+        'x-authorware-bin' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['aab', 'x32', 'u32', 'vox'],
+            'source' => 'apache',
+            'extensions' => ['aab','x32','u32','vox'],
         ],
-        'application/x-authorware-map'                                                         => [
+        'x-authorware-map' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['aam'],
+            'source' => 'apache',
+            'extensions' => ['aam'],
         ],
-        'application/x-authorware-seg'                                                         => [
+        'x-authorware-seg' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['aas'],
+            'source' => 'apache',
+            'extensions' => ['aas'],
         ],
-        'application/x-bcpio'                                                                  => [
+        'x-bcpio' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['bcpio'],
+            'source' => 'apache',
+            'extensions' => ['bcpio'],
         ],
-        'application/x-bdoc'                                                                   => [
+        'x-bdoc' => [
             'compressible' => true,
-            'extensions'   => ['bdoc'],
+            'extensions' => ['bdoc'],
         ],
-        'application/x-bittorrent'                                                             => [
+        'x-bittorrent' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['torrent'],
+            'source' => 'apache',
+            'extensions' => ['torrent'],
         ],
-        'application/x-blorb'                                                                  => [
+        'x-blorb' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['blb', 'blorb'],
+            'source' => 'apache',
+            'extensions' => ['blb','blorb'],
         ],
-        'application/x-bzip'                                                                   => [
+        'x-bzip' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['bz'],
+            'source' => 'apache',
+            'extensions' => ['bz'],
         ],
-        'application/x-bzip2'                                                                  => [
+        'x-bzip2' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['bz2', 'boz'],
+            'source' => 'apache',
+            'extensions' => ['bz2','boz'],
         ],
-        'application/x-cbr'                                                                    => [
+        'x-cbr' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cbr', 'cba', 'cbt', 'cbz', 'cb7'],
+            'source' => 'apache',
+            'extensions' => ['cbr','cba','cbt','cbz','cb7'],
         ],
-        'application/x-cdlink'                                                                 => [
+        'x-cdlink' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['vcd'],
+            'source' => 'apache',
+            'extensions' => ['vcd'],
         ],
-        'application/x-cfs-compressed'                                                         => [
+        'x-cfs-compressed' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cfs'],
+            'source' => 'apache',
+            'extensions' => ['cfs'],
         ],
-        'application/x-chat'                                                                   => [
+        'x-chat' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['chat'],
+            'source' => 'apache',
+            'extensions' => ['chat'],
         ],
-        'application/x-chess-pgn'                                                              => [
+        'x-chess-pgn' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pgn'],
+            'source' => 'apache',
+            'extensions' => ['pgn'],
         ],
-        'application/x-chrome-extension'                                                       => [
+        'x-chrome-extension' => [
             'compressible' => false,
-            'extensions'   => ['crx'],
+            'extensions' => ['crx'],
         ],
-        'application/x-cocoa'                                                                  => [
+        'x-cocoa' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['cco'],
+            'source' => 'nginx',
+            'extensions' => ['cco'],
         ],
-        'application/x-compress'                                                               => [
+        'x-compress' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-conference'                                                             => [
+        'x-conference' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['nsc'],
+            'source' => 'apache',
+            'extensions' => ['nsc'],
         ],
-        'application/x-cpio'                                                                   => [
+        'x-cpio' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cpio'],
+            'source' => 'apache',
+            'extensions' => ['cpio'],
         ],
-        'application/x-csh'                                                                    => [
+        'x-csh' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['csh'],
+            'source' => 'apache',
+            'extensions' => ['csh'],
         ],
-        'application/x-deb'                                                                    => [
+        'x-deb' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/x-debian-package'                                                         => [
+        'x-debian-package' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['deb', 'udeb'],
+            'source' => 'apache',
+            'extensions' => ['deb','udeb'],
         ],
-        'application/x-dgc-compressed'                                                         => [
+        'x-dgc-compressed' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['dgc'],
+            'source' => 'apache',
+            'extensions' => ['dgc'],
         ],
-        'application/x-director'                                                               => [
+        'x-director' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['dir', 'dcr', 'dxr', 'cst', 'cct', 'cxt', 'w3d', 'fgd', 'swa'],
+            'source' => 'apache',
+            'extensions' => ['dir','dcr','dxr','cst','cct','cxt','w3d','fgd','swa'],
         ],
-        'application/x-doom'                                                                   => [
+        'x-doom' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wad'],
+            'source' => 'apache',
+            'extensions' => ['wad'],
         ],
-        'application/x-dtbncx+xml'                                                             => [
+        'x-dtbncx+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['ncx'],
+            'source' => 'apache',
+            'extensions' => ['ncx'],
         ],
-        'application/x-dtbook+xml'                                                             => [
+        'x-dtbook+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['dtb'],
+            'source' => 'apache',
+            'extensions' => ['dtb'],
         ],
-        'application/x-dtbresource+xml'                                                        => [
+        'x-dtbresource+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['res'],
+            'source' => 'apache',
+            'extensions' => ['res'],
         ],
-        'application/x-dvi'                                                                    => [
+        'x-dvi' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['dvi'],
+            'source' => 'apache',
+            'extensions' => ['dvi'],
         ],
-        'application/x-envoy'                                                                  => [
+        'x-envoy' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['evy'],
+            'source' => 'apache',
+            'extensions' => ['evy'],
         ],
-        'application/x-eva'                                                                    => [
+        'x-eva' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['eva'],
+            'source' => 'apache',
+            'extensions' => ['eva'],
         ],
-        'application/x-font-bdf'                                                               => [
+        'x-font-bdf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['bdf'],
+            'source' => 'apache',
+            'extensions' => ['bdf'],
         ],
-        'application/x-font-dos'                                                               => [
+        'x-font-dos' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-font-framemaker'                                                        => [
+        'x-font-framemaker' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-font-ghostscript'                                                       => [
+        'x-font-ghostscript' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gsf'],
+            'source' => 'apache',
+            'extensions' => ['gsf'],
         ],
-        'application/x-font-libgrx'                                                            => [
+        'x-font-libgrx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-font-linux-psf'                                                         => [
+        'x-font-linux-psf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['psf'],
+            'source' => 'apache',
+            'extensions' => ['psf'],
         ],
-        'application/x-font-pcf'                                                               => [
+        'x-font-pcf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pcf'],
+            'source' => 'apache',
+            'extensions' => ['pcf'],
         ],
-        'application/x-font-snf'                                                               => [
+        'x-font-snf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['snf'],
+            'source' => 'apache',
+            'extensions' => ['snf'],
         ],
-        'application/x-font-speedo'                                                            => [
+        'x-font-speedo' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-font-sunos-news'                                                        => [
+        'x-font-sunos-news' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-font-type1'                                                             => [
+        'x-font-type1' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pfa', 'pfb', 'pfm', 'afm'],
+            'source' => 'apache',
+            'extensions' => ['pfa','pfb','pfm','afm'],
         ],
-        'application/x-font-vfont'                                                             => [
+        'x-font-vfont' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-freearc'                                                                => [
+        'x-freearc' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['arc'],
+            'source' => 'apache',
+            'extensions' => ['arc'],
         ],
-        'application/x-futuresplash'                                                           => [
+        'x-futuresplash' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['spl'],
+            'source' => 'apache',
+            'extensions' => ['spl'],
         ],
-        'application/x-gca-compressed'                                                         => [
+        'x-gca-compressed' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gca'],
+            'source' => 'apache',
+            'extensions' => ['gca'],
         ],
-        'application/x-glulx'                                                                  => [
+        'x-glulx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ulx'],
+            'source' => 'apache',
+            'extensions' => ['ulx'],
         ],
-        'application/x-gnumeric'                                                               => [
+        'x-gnumeric' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gnumeric'],
+            'source' => 'apache',
+            'extensions' => ['gnumeric'],
         ],
-        'application/x-gramps-xml'                                                             => [
+        'x-gramps-xml' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gramps'],
+            'source' => 'apache',
+            'extensions' => ['gramps'],
         ],
-        'application/x-gtar'                                                                   => [
+        'x-gtar' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gtar'],
+            'source' => 'apache',
+            'extensions' => ['gtar'],
         ],
-        'application/x-gzip'                                                                   => [
+        'x-gzip' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/x-hdf'                                                                    => [
+        'x-hdf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['hdf'],
+            'source' => 'apache',
+            'extensions' => ['hdf'],
         ],
-        'application/x-httpd-php'                                                              => [
+        'x-httpd-php' => [
             'compressible' => true,
-            'extensions'   => ['php'],
+            'extensions' => ['php'],
         ],
-        'application/x-install-instructions'                                                   => [
+        'x-install-instructions' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['install'],
+            'source' => 'apache',
+            'extensions' => ['install'],
         ],
-        'application/x-iso9660-image'                                                          => [
+        'x-iso9660-image' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['iso'],
+            'source' => 'apache',
+            'extensions' => ['iso'],
         ],
-        'application/x-java-archive-diff'                                                      => [
+        'x-java-archive-diff' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['jardiff'],
+            'source' => 'nginx',
+            'extensions' => ['jardiff'],
         ],
-        'application/x-java-jnlp-file'                                                         => [
+        'x-java-jnlp-file' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['jnlp'],
+            'source' => 'apache',
+            'extensions' => ['jnlp'],
         ],
-        'application/x-javascript'                                                             => [
+        'x-javascript' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/x-latex'                                                                  => [
+        'x-latex' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['latex'],
+            'source' => 'apache',
+            'extensions' => ['latex'],
         ],
-        'application/x-lua-bytecode'                                                           => [
+        'x-lua-bytecode' => [
             'compressible' => false,
-            'extensions'   => ['luac'],
+            'extensions' => ['luac'],
         ],
-        'application/x-lzh-compressed'                                                         => [
+        'x-lzh-compressed' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['lzh', 'lha'],
+            'source' => 'apache',
+            'extensions' => ['lzh','lha'],
         ],
-        'application/x-makeself'                                                               => [
+        'x-makeself' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['run'],
+            'source' => 'nginx',
+            'extensions' => ['run'],
         ],
-        'application/x-mie'                                                                    => [
+        'x-mie' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mie'],
+            'source' => 'apache',
+            'extensions' => ['mie'],
         ],
-        'application/x-mobipocket-ebook'                                                       => [
+        'x-mobipocket-ebook' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['prc', 'mobi'],
+            'source' => 'apache',
+            'extensions' => ['prc','mobi'],
         ],
-        'application/x-mpegurl'                                                                => [
+        'x-mpegurl' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'application/x-ms-application'                                                         => [
+        'x-ms-application' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['application'],
+            'source' => 'apache',
+            'extensions' => ['application'],
         ],
-        'application/x-ms-shortcut'                                                            => [
+        'x-ms-shortcut' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['lnk'],
+            'source' => 'apache',
+            'extensions' => ['lnk'],
         ],
-        'application/x-ms-wmd'                                                                 => [
+        'x-ms-wmd' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wmd'],
+            'source' => 'apache',
+            'extensions' => ['wmd'],
         ],
-        'application/x-ms-wmz'                                                                 => [
+        'x-ms-wmz' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wmz'],
+            'source' => 'apache',
+            'extensions' => ['wmz'],
         ],
-        'application/x-ms-xbap'                                                                => [
+        'x-ms-xbap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xbap'],
+            'source' => 'apache',
+            'extensions' => ['xbap'],
         ],
-        'application/x-msaccess'                                                               => [
+        'x-msaccess' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mdb'],
+            'source' => 'apache',
+            'extensions' => ['mdb'],
         ],
-        'application/x-msbinder'                                                               => [
+        'x-msbinder' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['obd'],
+            'source' => 'apache',
+            'extensions' => ['obd'],
         ],
-        'application/x-mscardfile'                                                             => [
+        'x-mscardfile' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['crd'],
+            'source' => 'apache',
+            'extensions' => ['crd'],
         ],
-        'application/x-msclip'                                                                 => [
+        'x-msclip' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['clp'],
+            'source' => 'apache',
+            'extensions' => ['clp'],
         ],
-        'application/x-msdos-program'                                                          => [
+        'x-msdos-program' => [
             'compressible' => false,
-            'extensions'   => ['exe'],
+            'extensions' => ['exe'],
         ],
-        'application/x-msdownload'                                                             => [
+        'x-msdownload' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['exe', 'dll', 'com', 'bat', 'msi'],
+            'source' => 'apache',
+            'extensions' => ['exe','dll','com','bat','msi'],
         ],
-        'application/x-msmediaview'                                                            => [
+        'x-msmediaview' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mvb', 'm13', 'm14'],
+            'source' => 'apache',
+            'extensions' => ['mvb','m13','m14'],
         ],
-        'application/x-msmetafile'                                                             => [
+        'x-msmetafile' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wmf', 'wmz', 'emf', 'emz'],
+            'source' => 'apache',
+            'extensions' => ['wmf','wmz','emf','emz'],
         ],
-        'application/x-msmoney'                                                                => [
+        'x-msmoney' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mny'],
+            'source' => 'apache',
+            'extensions' => ['mny'],
         ],
-        'application/x-mspublisher'                                                            => [
+        'x-mspublisher' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pub'],
+            'source' => 'apache',
+            'extensions' => ['pub'],
         ],
-        'application/x-msschedule'                                                             => [
+        'x-msschedule' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['scd'],
+            'source' => 'apache',
+            'extensions' => ['scd'],
         ],
-        'application/x-msterminal'                                                             => [
+        'x-msterminal' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['trm'],
+            'source' => 'apache',
+            'extensions' => ['trm'],
         ],
-        'application/x-mswrite'                                                                => [
+        'x-mswrite' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wri'],
+            'source' => 'apache',
+            'extensions' => ['wri'],
         ],
-        'application/x-netcdf'                                                                 => [
+        'x-netcdf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['nc', 'cdf'],
+            'source' => 'apache',
+            'extensions' => ['nc','cdf'],
         ],
-        'application/x-ns-proxy-autoconfig'                                                    => [
+        'x-ns-proxy-autoconfig' => [
             'compressible' => true,
-            'extensions'   => ['pac'],
+            'extensions' => ['pac'],
         ],
-        'application/x-nzb'                                                                    => [
+        'x-nzb' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['nzb'],
+            'source' => 'apache',
+            'extensions' => ['nzb'],
         ],
-        'application/x-perl'                                                                   => [
+        'x-perl' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['pl', 'pm'],
+            'source' => 'nginx',
+            'extensions' => ['pl','pm'],
         ],
-        'application/x-pilot'                                                                  => [
+        'x-pilot' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['prc', 'pdb'],
+            'source' => 'nginx',
+            'extensions' => ['prc','pdb'],
         ],
-        'application/x-pkcs12'                                                                 => [
+        'x-pkcs12' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['p12', 'pfx'],
+            'source' => 'apache',
+            'extensions' => ['p12','pfx'],
         ],
-        'application/x-pkcs7-certificates'                                                     => [
+        'x-pkcs7-certificates' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['p7b', 'spc'],
+            'source' => 'apache',
+            'extensions' => ['p7b','spc'],
         ],
-        'application/x-pkcs7-certreqresp'                                                      => [
+        'x-pkcs7-certreqresp' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['p7r'],
+            'source' => 'apache',
+            'extensions' => ['p7r'],
         ],
-        'application/x-rar-compressed'                                                         => [
+        'x-rar-compressed' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['rar'],
+            'source' => 'apache',
+            'extensions' => ['rar'],
         ],
-        'application/x-redhat-package-manager'                                                 => [
+        'x-redhat-package-manager' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['rpm'],
+            'source' => 'nginx',
+            'extensions' => ['rpm'],
         ],
-        'application/x-research-info-systems'                                                  => [
+        'x-research-info-systems' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ris'],
+            'source' => 'apache',
+            'extensions' => ['ris'],
         ],
-        'application/x-sea'                                                                    => [
+        'x-sea' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['sea'],
+            'source' => 'nginx',
+            'extensions' => ['sea'],
         ],
-        'application/x-sh'                                                                     => [
+        'x-sh' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['sh'],
+            'source' => 'apache',
+            'extensions' => ['sh'],
         ],
-        'application/x-shar'                                                                   => [
+        'x-shar' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['shar'],
+            'source' => 'apache',
+            'extensions' => ['shar'],
         ],
-        'application/x-shockwave-flash'                                                        => [
+        'x-shockwave-flash' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['swf'],
+            'source' => 'apache',
+            'extensions' => ['swf'],
         ],
-        'application/x-silverlight-app'                                                        => [
+        'x-silverlight-app' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xap'],
+            'source' => 'apache',
+            'extensions' => ['xap'],
         ],
-        'application/x-sql'                                                                    => [
+        'x-sql' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sql'],
+            'source' => 'apache',
+            'extensions' => ['sql'],
         ],
-        'application/x-stuffit'                                                                => [
+        'x-stuffit' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['sit'],
+            'source' => 'apache',
+            'extensions' => ['sit'],
         ],
-        'application/x-stuffitx'                                                               => [
+        'x-stuffitx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sitx'],
+            'source' => 'apache',
+            'extensions' => ['sitx'],
         ],
-        'application/x-subrip'                                                                 => [
+        'x-subrip' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['srt'],
+            'source' => 'apache',
+            'extensions' => ['srt'],
         ],
-        'application/x-sv4cpio'                                                                => [
+        'x-sv4cpio' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sv4cpio'],
+            'source' => 'apache',
+            'extensions' => ['sv4cpio'],
         ],
-        'application/x-sv4crc'                                                                 => [
+        'x-sv4crc' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sv4crc'],
+            'source' => 'apache',
+            'extensions' => ['sv4crc'],
         ],
-        'application/x-t3vm-image'                                                             => [
+        'x-t3vm-image' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['t3'],
+            'source' => 'apache',
+            'extensions' => ['t3'],
         ],
-        'application/x-tads'                                                                   => [
+        'x-tads' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['gam'],
+            'source' => 'apache',
+            'extensions' => ['gam'],
         ],
-        'application/x-tar'                                                                    => [
+        'x-tar' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['tar'],
+            'source' => 'apache',
+            'extensions' => ['tar'],
         ],
-        'application/x-tcl'                                                                    => [
+        'x-tcl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['tcl', 'tk'],
+            'source' => 'apache',
+            'extensions' => ['tcl','tk'],
         ],
-        'application/x-tex'                                                                    => [
+        'x-tex' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['tex'],
+            'source' => 'apache',
+            'extensions' => ['tex'],
         ],
-        'application/x-tex-tfm'                                                                => [
+        'x-tex-tfm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['tfm'],
+            'source' => 'apache',
+            'extensions' => ['tfm'],
         ],
-        'application/x-texinfo'                                                                => [
+        'x-texinfo' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['texinfo', 'texi'],
+            'source' => 'apache',
+            'extensions' => ['texinfo','texi'],
         ],
-        'application/x-tgif'                                                                   => [
+        'x-tgif' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['obj'],
+            'source' => 'apache',
+            'extensions' => ['obj'],
         ],
-        'application/x-ustar'                                                                  => [
+        'x-ustar' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ustar'],
+            'source' => 'apache',
+            'extensions' => ['ustar'],
         ],
-        'application/x-virtualbox-hdd'                                                         => [
+        'x-virtualbox-hdd' => [
             'compressible' => true,
-            'extensions'   => ['hdd'],
+            'extensions' => ['hdd'],
         ],
-        'application/x-virtualbox-ova'                                                         => [
+        'x-virtualbox-ova' => [
             'compressible' => true,
-            'extensions'   => ['ova'],
+            'extensions' => ['ova'],
         ],
-        'application/x-virtualbox-ovf'                                                         => [
+        'x-virtualbox-ovf' => [
             'compressible' => true,
-            'extensions'   => ['ovf'],
+            'extensions' => ['ovf'],
         ],
-        'application/x-virtualbox-vbox'                                                        => [
+        'x-virtualbox-vbox' => [
             'compressible' => true,
-            'extensions'   => ['vbox'],
+            'extensions' => ['vbox'],
         ],
-        'application/x-virtualbox-vbox-extpack'                                                => [
+        'x-virtualbox-vbox-extpack' => [
             'compressible' => true,
-            'extensions'   => ['vbox-extpack'],
+            'extensions' => ['vbox-extpack'],
         ],
-        'application/x-virtualbox-vdi'                                                         => [
+        'x-virtualbox-vdi' => [
             'compressible' => true,
-            'extensions'   => ['vdi'],
+            'extensions' => ['vdi'],
         ],
-        'application/x-virtualbox-vhd'                                                         => [
+        'x-virtualbox-vhd' => [
             'compressible' => true,
-            'extensions'   => ['vhd'],
+            'extensions' => ['vhd'],
         ],
-        'application/x-virtualbox-vmdk'                                                        => [
+        'x-virtualbox-vmdk' => [
             'compressible' => true,
-            'extensions'   => ['vmdk'],
+            'extensions' => ['vmdk'],
         ],
-        'application/x-wais-source'                                                            => [
+        'x-wais-source' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['src'],
+            'source' => 'apache',
+            'extensions' => ['src'],
         ],
-        'application/x-web-app-manifest+json'                                                  => [
+        'x-web-app-manifest+json' => [
             'compressible' => true,
-            'extensions'   => ['webapp'],
+            'extensions' => ['webapp'],
         ],
-        'application/x-www-form-urlencoded'                                                    => [
+        'x-www-form-urlencoded' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/x-x509-ca-cert'                                                           => [
+        'x-x509-ca-cert' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['der', 'crt', 'pem'],
+            'source' => 'apache',
+            'extensions' => ['der','crt','pem'],
         ],
-        'application/x-xfig'                                                                   => [
+        'x-xfig' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['fig'],
+            'source' => 'apache',
+            'extensions' => ['fig'],
         ],
-        'application/x-xliff+xml'                                                              => [
+        'x-xliff+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['xlf'],
+            'source' => 'apache',
+            'extensions' => ['xlf'],
         ],
-        'application/x-xpinstall'                                                              => [
+        'x-xpinstall' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['xpi'],
+            'source' => 'apache',
+            'extensions' => ['xpi'],
         ],
-        'application/x-xz'                                                                     => [
+        'x-xz' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xz'],
+            'source' => 'apache',
+            'extensions' => ['xz'],
         ],
-        'application/x-zmachine'                                                               => [
+        'x-zmachine' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['z1', 'z2', 'z3', 'z4', 'z5', 'z6', 'z7', 'z8'],
+            'source' => 'apache',
+            'extensions' => ['z1','z2','z3','z4','z5','z6','z7','z8'],
         ],
-        'application/x400-bp'                                                                  => [
+        'x400-bp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xacml+xml'                                                                => [
+        'xacml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xaml+xml'                                                                 => [
+        'xaml+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['xaml'],
+            'source' => 'apache',
+            'extensions' => ['xaml'],
         ],
-        'application/xcap-att+xml'                                                             => [
+        'xcap-att+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcap-caps+xml'                                                            => [
+        'xcap-caps+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcap-diff+xml'                                                            => [
+        'xcap-diff+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xdf'],
+            'source' => 'iana',
+            'extensions' => ['xdf'],
         ],
-        'application/xcap-el+xml'                                                              => [
+        'xcap-el+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcap-error+xml'                                                           => [
+        'xcap-error+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcap-ns+xml'                                                              => [
+        'xcap-ns+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcon-conference-info+xml'                                                 => [
+        'xcon-conference-info+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xcon-conference-info-diff+xml'                                            => [
+        'xcon-conference-info-diff+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xenc+xml'                                                                 => [
+        'xenc+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xenc'],
+            'source' => 'iana',
+            'extensions' => ['xenc'],
         ],
-        'application/xhtml+xml'                                                                => [
+        'xhtml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xhtml', 'xht'],
+            'source' => 'iana',
+            'extensions' => ['xhtml','xht'],
         ],
-        'application/xhtml-voice+xml'                                                          => [
+        'xhtml-voice+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'application/xliff+xml'                                                                => [
+        'xliff+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xml'                                                                      => [
+        'xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xml', 'xsl', 'xsd', 'rng'],
+            'source' => 'iana',
+            'extensions' => ['xml','xsl','xsd','rng'],
         ],
-        'application/xml-dtd'                                                                  => [
+        'xml-dtd' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['dtd'],
+            'source' => 'iana',
+            'extensions' => ['dtd'],
         ],
-        'application/xml-external-parsed-entity'                                               => [
+        'xml-external-parsed-entity' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xml-patch+xml'                                                            => [
+        'xml-patch+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xmpp+xml'                                                                 => [
+        'xmpp+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/xop+xml'                                                                  => [
+        'xop+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xop'],
+            'source' => 'iana',
+            'extensions' => ['xop'],
         ],
-        'application/xproc+xml'                                                                => [
+        'xproc+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['xpl'],
+            'source' => 'apache',
+            'extensions' => ['xpl'],
         ],
-        'application/xslt+xml'                                                                 => [
+        'xslt+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xslt'],
+            'source' => 'iana',
+            'extensions' => ['xslt'],
         ],
-        'application/xspf+xml'                                                                 => [
+        'xspf+xml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['xspf'],
+            'source' => 'apache',
+            'extensions' => ['xspf'],
         ],
-        'application/xv+xml'                                                                   => [
+        'xv+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mxml', 'xhvml', 'xvml', 'xvm'],
+            'source' => 'iana',
+            'extensions' => ['mxml','xhvml','xvml','xvm'],
         ],
-        'application/yang'                                                                     => [
+        'yang' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['yang'],
+            'source' => 'iana',
+            'extensions' => ['yang'],
         ],
-        'application/yang-data+json'                                                           => [
+        'yang-data+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/yang-data+xml'                                                            => [
+        'yang-data+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/yang-patch+json'                                                          => [
+        'yang-patch+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/yang-patch+xml'                                                           => [
+        'yang-patch+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/yin+xml'                                                                  => [
+        'yin+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['yin'],
+            'source' => 'iana',
+            'extensions' => ['yin'],
         ],
-        'application/zip'                                                                      => [
+        'zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['zip'],
+            'source' => 'iana',
+            'extensions' => ['zip'],
         ],
-        'application/zlib'                                                                     => [
+        'zlib' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'application/zstd'                                                                     => [
+        'zstd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/1d-interleaved-parityfec'                                                       => [
+    ],
+    'audio' => [
+        '1d-interleaved-parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/32kadpcm'                                                                       => [
+        '32kadpcm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/3gpp'                                                                           => [
+        '3gpp' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['3gpp'],
+            'source' => 'iana',
+            'extensions' => ['3gpp'],
         ],
-        'audio/3gpp2'                                                                          => [
+        '3gpp2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/aac'                                                                            => [
+        'aac' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/ac3'                                                                            => [
+        'ac3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/adpcm'                                                                          => [
+        'adpcm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['adp'],
+            'source' => 'apache',
+            'extensions' => ['adp'],
         ],
-        'audio/amr'                                                                            => [
+        'amr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/amr-wb'                                                                         => [
+        'amr-wb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/amr-wb+'                                                                        => [
+        'amr-wb+' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/aptx'                                                                           => [
+        'aptx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/asc'                                                                            => [
+        'asc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/atrac-advanced-lossless'                                                        => [
+        'atrac-advanced-lossless' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/atrac-x'                                                                        => [
+        'atrac-x' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/atrac3'                                                                         => [
+        'atrac3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/basic'                                                                          => [
+        'basic' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['au', 'snd'],
+            'source' => 'iana',
+            'extensions' => ['au','snd'],
         ],
-        'audio/bv16'                                                                           => [
+        'bv16' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/bv32'                                                                           => [
+        'bv32' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/clearmode'                                                                      => [
+        'clearmode' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/cn'                                                                             => [
+        'cn' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dat12'                                                                          => [
+        'dat12' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dls'                                                                            => [
+        'dls' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dsr-es201108'                                                                   => [
+        'dsr-es201108' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dsr-es202050'                                                                   => [
+        'dsr-es202050' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dsr-es202211'                                                                   => [
+        'dsr-es202211' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dsr-es202212'                                                                   => [
+        'dsr-es202212' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dv'                                                                             => [
+        'dv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/dvi4'                                                                           => [
+        'dvi4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/eac3'                                                                           => [
+        'eac3' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/encaprtp'                                                                       => [
+        'encaprtp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrc'                                                                           => [
+        'evrc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrc-qcp'                                                                       => [
+        'evrc-qcp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrc0'                                                                          => [
+        'evrc0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrc1'                                                                          => [
+        'evrc1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcb'                                                                          => [
+        'evrcb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcb0'                                                                         => [
+        'evrcb0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcb1'                                                                         => [
+        'evrcb1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcnw'                                                                         => [
+        'evrcnw' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcnw0'                                                                        => [
+        'evrcnw0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcnw1'                                                                        => [
+        'evrcnw1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcwb'                                                                         => [
+        'evrcwb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcwb0'                                                                        => [
+        'evrcwb0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evrcwb1'                                                                        => [
+        'evrcwb1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/evs'                                                                            => [
+        'evs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/fwdred'                                                                         => [
+        'fwdred' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g711-0'                                                                         => [
+        'g711-0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g719'                                                                           => [
+        'g719' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g722'                                                                           => [
+        'g722' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g7221'                                                                          => [
+        'g7221' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g723'                                                                           => [
+        'g723' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g726-16'                                                                        => [
+        'g726-16' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g726-24'                                                                        => [
+        'g726-24' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g726-32'                                                                        => [
+        'g726-32' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g726-40'                                                                        => [
+        'g726-40' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g728'                                                                           => [
+        'g728' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g729'                                                                           => [
+        'g729' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g7291'                                                                          => [
+        'g7291' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g729d'                                                                          => [
+        'g729d' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/g729e'                                                                          => [
+        'g729e' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/gsm'                                                                            => [
+        'gsm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/gsm-efr'                                                                        => [
+        'gsm-efr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/gsm-hr-08'                                                                      => [
+        'gsm-hr-08' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/ilbc'                                                                           => [
+        'ilbc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/ip-mr_v2.5'                                                                     => [
+        'ip-mr_v2.5' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/isac'                                                                           => [
+        'isac' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'audio/l16'                                                                            => [
+        'l16' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/l20'                                                                            => [
+        'l20' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/l24'                                                                            => [
+        'l24' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/l8'                                                                             => [
+        'l8' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/lpc'                                                                            => [
+        'lpc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/melp'                                                                           => [
+        'melp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/melp1200'                                                                       => [
+        'melp1200' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/melp2400'                                                                       => [
+        'melp2400' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/melp600'                                                                        => [
+        'melp600' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/midi'                                                                           => [
+        'midi' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mid', 'midi', 'kar', 'rmi'],
+            'source' => 'apache',
+            'extensions' => ['mid','midi','kar','rmi'],
         ],
-        'audio/mobile-xmf'                                                                     => [
+        'mobile-xmf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/mp3'                                                                            => [
+        'mp3' => [
             'compressible' => true,
-            'extensions'   => ['mp3'],
+            'extensions' => ['mp3'],
         ],
-        'audio/mp4'                                                                            => [
+        'mp4' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['m4a', 'mp4a'],
+            'source' => 'iana',
+            'extensions' => ['m4a','mp4a'],
         ],
-        'audio/mp4a-latm'                                                                      => [
+        'mp4a-latm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/mpa'                                                                            => [
+        'mpa' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/mpa-robust'                                                                     => [
+        'mpa-robust' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/mpeg'                                                                           => [
+        'mpeg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mpga', 'mp2', 'mp2a', 'mp3', 'm2a', 'm3a'],
+            'source' => 'iana',
+            'extensions' => ['mpga','mp2','mp2a','mp3','m2a','m3a'],
         ],
-        'audio/mpeg4-generic'                                                                  => [
+        'mpeg4-generic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/musepack'                                                                       => [
+        'musepack' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'audio/ogg'                                                                            => [
+        'ogg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['oga', 'ogg', 'spx'],
+            'source' => 'iana',
+            'extensions' => ['oga','ogg','spx'],
         ],
-        'audio/opus'                                                                           => [
+        'opus' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/parityfec'                                                                      => [
+        'parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/pcma'                                                                           => [
+        'pcma' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/pcma-wb'                                                                        => [
+        'pcma-wb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/pcmu'                                                                           => [
+        'pcmu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/pcmu-wb'                                                                        => [
+        'pcmu-wb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/prs.sid'                                                                        => [
+        'prs.sid' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/qcelp'                                                                          => [
+        'qcelp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/raptorfec'                                                                      => [
+        'raptorfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/red'                                                                            => [
+        'red' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/rtp-enc-aescm128'                                                               => [
+        'rtp-enc-aescm128' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/rtp-midi'                                                                       => [
+        'rtp-midi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/rtploopback'                                                                    => [
+        'rtploopback' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/rtx'                                                                            => [
+        'rtx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/s3m'                                                                            => [
+        's3m' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['s3m'],
+            'source' => 'apache',
+            'extensions' => ['s3m'],
         ],
-        'audio/silk'                                                                           => [
+        'silk' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sil'],
+            'source' => 'apache',
+            'extensions' => ['sil'],
         ],
-        'audio/smv'                                                                            => [
+        'smv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/smv-qcp'                                                                        => [
+        'smv-qcp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/smv0'                                                                           => [
+        'smv0' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/sp-midi'                                                                        => [
+        'sp-midi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/speex'                                                                          => [
+        'speex' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/t140c'                                                                          => [
+        't140c' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/t38'                                                                            => [
+        't38' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/telephone-event'                                                                => [
+        'telephone-event' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/tone'                                                                           => [
+        'tone' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/uemclip'                                                                        => [
+        'uemclip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/ulpfec'                                                                         => [
+        'ulpfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/usac'                                                                           => [
+        'usac' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vdvi'                                                                           => [
+        'vdvi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vmr-wb'                                                                         => [
+        'vmr-wb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.3gpp.iufp'                                                                  => [
+        'vnd.3gpp.iufp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.4sb'                                                                        => [
+        'vnd.4sb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.audiokoz'                                                                   => [
+        'vnd.audiokoz' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.celp'                                                                       => [
+        'vnd.celp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.cisco.nse'                                                                  => [
+        'vnd.cisco.nse' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.cmles.radio-events'                                                         => [
+        'vnd.cmles.radio-events' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.cns.anp1'                                                                   => [
+        'vnd.cns.anp1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.cns.inf1'                                                                   => [
+        'vnd.cns.inf1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dece.audio'                                                                 => [
+        'vnd.dece.audio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uva', 'uvva'],
+            'source' => 'iana',
+            'extensions' => ['uva','uvva'],
         ],
-        'audio/vnd.digital-winds'                                                              => [
+        'vnd.digital-winds' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['eol'],
+            'source' => 'iana',
+            'extensions' => ['eol'],
         ],
-        'audio/vnd.dlna.adts'                                                                  => [
+        'vnd.dlna.adts' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.heaac.1'                                                              => [
+        'vnd.dolby.heaac.1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.heaac.2'                                                              => [
+        'vnd.dolby.heaac.2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.mlp'                                                                  => [
+        'vnd.dolby.mlp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.mps'                                                                  => [
+        'vnd.dolby.mps' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.pl2'                                                                  => [
+        'vnd.dolby.pl2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.pl2x'                                                                 => [
+        'vnd.dolby.pl2x' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.pl2z'                                                                 => [
+        'vnd.dolby.pl2z' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dolby.pulse.1'                                                              => [
+        'vnd.dolby.pulse.1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.dra'                                                                        => [
+        'vnd.dra' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dra'],
+            'source' => 'iana',
+            'extensions' => ['dra'],
         ],
-        'audio/vnd.dts'                                                                        => [
+        'vnd.dts' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dts'],
+            'source' => 'iana',
+            'extensions' => ['dts'],
         ],
-        'audio/vnd.dts.hd'                                                                     => [
+        'vnd.dts.hd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dtshd'],
+            'source' => 'iana',
+            'extensions' => ['dtshd'],
         ],
-        'audio/vnd.dvb.file'                                                                   => [
+        'vnd.dvb.file' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.everad.plj'                                                                 => [
+        'vnd.everad.plj' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.hns.audio'                                                                  => [
+        'vnd.hns.audio' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.lucent.voice'                                                               => [
+        'vnd.lucent.voice' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['lvp'],
+            'source' => 'iana',
+            'extensions' => ['lvp'],
         ],
-        'audio/vnd.ms-playready.media.pya'                                                     => [
+        'vnd.ms-playready.media.pya' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pya'],
+            'source' => 'iana',
+            'extensions' => ['pya'],
         ],
-        'audio/vnd.nokia.mobile-xmf'                                                           => [
+        'vnd.nokia.mobile-xmf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.nortel.vbk'                                                                 => [
+        'vnd.nortel.vbk' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.nuera.ecelp4800'                                                            => [
+        'vnd.nuera.ecelp4800' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ecelp4800'],
+            'source' => 'iana',
+            'extensions' => ['ecelp4800'],
         ],
-        'audio/vnd.nuera.ecelp7470'                                                            => [
+        'vnd.nuera.ecelp7470' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ecelp7470'],
+            'source' => 'iana',
+            'extensions' => ['ecelp7470'],
         ],
-        'audio/vnd.nuera.ecelp9600'                                                            => [
+        'vnd.nuera.ecelp9600' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ecelp9600'],
+            'source' => 'iana',
+            'extensions' => ['ecelp9600'],
         ],
-        'audio/vnd.octel.sbc'                                                                  => [
+        'vnd.octel.sbc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.presonus.multitrack'                                                        => [
+        'vnd.presonus.multitrack' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.qcelp'                                                                      => [
+        'vnd.qcelp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.rhetorex.32kadpcm'                                                          => [
+        'vnd.rhetorex.32kadpcm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.rip'                                                                        => [
+        'vnd.rip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rip'],
+            'source' => 'iana',
+            'extensions' => ['rip'],
         ],
-        'audio/vnd.rn-realaudio'                                                               => [
+        'vnd.rn-realaudio' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'audio/vnd.sealedmedia.softseal.mpeg'                                                  => [
+        'vnd.sealedmedia.softseal.mpeg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.vmx.cvsd'                                                                   => [
+        'vnd.vmx.cvsd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vnd.wave'                                                                       => [
+        'vnd.wave' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'audio/vorbis'                                                                         => [
+        'vorbis' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/vorbis-config'                                                                  => [
+        'vorbis-config' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'audio/wav'                                                                            => [
+        'wav' => [
             'compressible' => true,
-            'extensions'   => ['wav'],
+            'extensions' => ['wav'],
         ],
-        'audio/wave'                                                                           => [
+        'wave' => [
             'compressible' => true,
-            'extensions'   => ['wav'],
+            'extensions' => ['wav'],
         ],
-        'audio/webm'                                                                           => [
+        'webm' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['weba'],
+            'source' => 'apache',
+            'extensions' => ['weba'],
         ],
-        'audio/x-aac'                                                                          => [
+        'x-aac' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['aac'],
+            'source' => 'apache',
+            'extensions' => ['aac'],
         ],
-        'audio/x-aiff'                                                                         => [
+        'x-aiff' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['aif', 'aiff', 'aifc'],
+            'source' => 'apache',
+            'extensions' => ['aif','aiff','aifc'],
         ],
-        'audio/x-caf'                                                                          => [
+        'x-caf' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['caf'],
+            'source' => 'apache',
+            'extensions' => ['caf'],
         ],
-        'audio/x-flac'                                                                         => [
+        'x-flac' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['flac'],
+            'source' => 'apache',
+            'extensions' => ['flac'],
         ],
-        'audio/x-m4a'                                                                          => [
+        'x-m4a' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['m4a'],
+            'source' => 'nginx',
+            'extensions' => ['m4a'],
         ],
-        'audio/x-matroska'                                                                     => [
+        'x-matroska' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mka'],
+            'source' => 'apache',
+            'extensions' => ['mka'],
         ],
-        'audio/x-mpegurl'                                                                      => [
+        'x-mpegurl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['m3u'],
+            'source' => 'apache',
+            'extensions' => ['m3u'],
         ],
-        'audio/x-ms-wax'                                                                       => [
+        'x-ms-wax' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wax'],
+            'source' => 'apache',
+            'extensions' => ['wax'],
         ],
-        'audio/x-ms-wma'                                                                       => [
+        'x-ms-wma' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wma'],
+            'source' => 'apache',
+            'extensions' => ['wma'],
         ],
-        'audio/x-pn-realaudio'                                                                 => [
+        'x-pn-realaudio' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ram', 'ra'],
+            'source' => 'apache',
+            'extensions' => ['ram','ra'],
         ],
-        'audio/x-pn-realaudio-plugin'                                                          => [
+        'x-pn-realaudio-plugin' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['rmp'],
+            'source' => 'apache',
+            'extensions' => ['rmp'],
         ],
-        'audio/x-realaudio'                                                                    => [
+        'x-realaudio' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['ra'],
+            'source' => 'nginx',
+            'extensions' => ['ra'],
         ],
-        'audio/x-tta'                                                                          => [
+        'x-tta' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'audio/x-wav'                                                                          => [
+        'x-wav' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wav'],
+            'source' => 'apache',
+            'extensions' => ['wav'],
         ],
-        'audio/xm'                                                                             => [
+        'xm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xm'],
+            'source' => 'apache',
+            'extensions' => ['xm'],
         ],
-        'chemical/x-cdx'                                                                       => [
+    ],
+    'chemical' => [
+        'x-cdx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cdx'],
+            'source' => 'apache',
+            'extensions' => ['cdx'],
         ],
-        'chemical/x-cif'                                                                       => [
+        'x-cif' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cif'],
+            'source' => 'apache',
+            'extensions' => ['cif'],
         ],
-        'chemical/x-cmdf'                                                                      => [
+        'x-cmdf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cmdf'],
+            'source' => 'apache',
+            'extensions' => ['cmdf'],
         ],
-        'chemical/x-cml'                                                                       => [
+        'x-cml' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cml'],
+            'source' => 'apache',
+            'extensions' => ['cml'],
         ],
-        'chemical/x-csml'                                                                      => [
+        'x-csml' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['csml'],
+            'source' => 'apache',
+            'extensions' => ['csml'],
         ],
-        'chemical/x-pdb'                                                                       => [
+        'x-pdb' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'chemical/x-xyz'                                                                       => [
+        'x-xyz' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xyz'],
+            'source' => 'apache',
+            'extensions' => ['xyz'],
         ],
-        'font/collection'                                                                      => [
+    ],
+    'font' => [
+        'collection' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ttc'],
+            'source' => 'iana',
+            'extensions' => ['ttc'],
         ],
-        'font/otf'                                                                             => [
+        'otf' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['otf'],
+            'source' => 'iana',
+            'extensions' => ['otf'],
         ],
-        'font/sfnt'                                                                            => [
+        'sfnt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'font/ttf'                                                                             => [
+        'ttf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ttf'],
+            'source' => 'iana',
+            'extensions' => ['ttf'],
         ],
-        'font/woff'                                                                            => [
+        'woff' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['woff'],
+            'source' => 'iana',
+            'extensions' => ['woff'],
         ],
-        'font/woff2'                                                                           => [
+        'woff2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['woff2'],
+            'source' => 'iana',
+            'extensions' => ['woff2'],
         ],
-        'image/aces'                                                                           => [
+    ],
+    'image' => [
+        'aces' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['exr'],
+            'source' => 'iana',
+            'extensions' => ['exr'],
         ],
-        'image/apng'                                                                           => [
+        'apng' => [
             'compressible' => true,
-            'extensions'   => ['apng'],
+            'extensions' => ['apng'],
         ],
-        'image/avci'                                                                           => [
+        'avci' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/avcs'                                                                           => [
+        'avcs' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/bmp'                                                                            => [
+        'bmp' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['bmp'],
+            'source' => 'iana',
+            'extensions' => ['bmp'],
         ],
-        'image/cgm'                                                                            => [
+        'cgm' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['cgm'],
+            'source' => 'iana',
+            'extensions' => ['cgm'],
         ],
-        'image/dicom-rle'                                                                      => [
+        'dicom-rle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['drle'],
+            'source' => 'iana',
+            'extensions' => ['drle'],
         ],
-        'image/emf'                                                                            => [
+        'emf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['emf'],
+            'source' => 'iana',
+            'extensions' => ['emf'],
         ],
-        'image/fits'                                                                           => [
+        'fits' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fits'],
+            'source' => 'iana',
+            'extensions' => ['fits'],
         ],
-        'image/g3fax'                                                                          => [
+        'g3fax' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['g3'],
+            'source' => 'iana',
+            'extensions' => ['g3'],
         ],
-        'image/gif'                                                                            => [
+        'gif' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['gif'],
+            'source' => 'iana',
+            'extensions' => ['gif'],
         ],
-        'image/heic'                                                                           => [
+        'heic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['heic'],
+            'source' => 'iana',
+            'extensions' => ['heic'],
         ],
-        'image/heic-sequence'                                                                  => [
+        'heic-sequence' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['heics'],
+            'source' => 'iana',
+            'extensions' => ['heics'],
         ],
-        'image/heif'                                                                           => [
+        'heif' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['heif'],
+            'source' => 'iana',
+            'extensions' => ['heif'],
         ],
-        'image/heif-sequence'                                                                  => [
+        'heif-sequence' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['heifs'],
+            'source' => 'iana',
+            'extensions' => ['heifs'],
         ],
-        'image/ief'                                                                            => [
+        'ief' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ief'],
+            'source' => 'iana',
+            'extensions' => ['ief'],
         ],
-        'image/jls'                                                                            => [
+        'jls' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jls'],
+            'source' => 'iana',
+            'extensions' => ['jls'],
         ],
-        'image/jp2'                                                                            => [
+        'jp2' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['jp2', 'jpg2'],
+            'source' => 'iana',
+            'extensions' => ['jp2','jpg2'],
         ],
-        'image/jpeg'                                                                           => [
+        'jpeg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['jpeg', 'jpg', 'jpe'],
+            'source' => 'iana',
+            'extensions' => ['jpeg','jpg','jpe'],
         ],
-        'image/jpm'                                                                            => [
+        'jpm' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['jpm'],
+            'source' => 'iana',
+            'extensions' => ['jpm'],
         ],
-        'image/jpx'                                                                            => [
+        'jpx' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['jpx', 'jpf'],
+            'source' => 'iana',
+            'extensions' => ['jpx','jpf'],
         ],
-        'image/ktx'                                                                            => [
+        'ktx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ktx'],
+            'source' => 'iana',
+            'extensions' => ['ktx'],
         ],
-        'image/naplps'                                                                         => [
+        'naplps' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/pjpeg'                                                                          => [
+        'pjpeg' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'image/png'                                                                            => [
+        'png' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['png'],
+            'source' => 'iana',
+            'extensions' => ['png'],
         ],
-        'image/prs.btif'                                                                       => [
+        'prs.btif' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['btif'],
+            'source' => 'iana',
+            'extensions' => ['btif'],
         ],
-        'image/prs.pti'                                                                        => [
+        'prs.pti' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pti'],
+            'source' => 'iana',
+            'extensions' => ['pti'],
         ],
-        'image/pwg-raster'                                                                     => [
+        'pwg-raster' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/sgi'                                                                            => [
+        'sgi' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sgi'],
+            'source' => 'apache',
+            'extensions' => ['sgi'],
         ],
-        'image/svg+xml'                                                                        => [
+        'svg+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['svg', 'svgz'],
+            'source' => 'iana',
+            'extensions' => ['svg','svgz'],
         ],
-        'image/t38'                                                                            => [
+        't38' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['t38'],
+            'source' => 'iana',
+            'extensions' => ['t38'],
         ],
-        'image/tiff'                                                                           => [
+        'tiff' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['tif', 'tiff'],
+            'source' => 'iana',
+            'extensions' => ['tif','tiff'],
         ],
-        'image/tiff-fx'                                                                        => [
+        'tiff-fx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tfx'],
+            'source' => 'iana',
+            'extensions' => ['tfx'],
         ],
-        'image/vnd.adobe.photoshop'                                                            => [
+        'vnd.adobe.photoshop' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['psd'],
+            'source' => 'iana',
+            'extensions' => ['psd'],
         ],
-        'image/vnd.airzip.accelerator.azv'                                                     => [
+        'vnd.airzip.accelerator.azv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['azv'],
+            'source' => 'iana',
+            'extensions' => ['azv'],
         ],
-        'image/vnd.cns.inf2'                                                                   => [
+        'vnd.cns.inf2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.dece.graphic'                                                               => [
+        'vnd.dece.graphic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvi', 'uvvi', 'uvg', 'uvvg'],
+            'source' => 'iana',
+            'extensions' => ['uvi','uvvi','uvg','uvvg'],
         ],
-        'image/vnd.djvu'                                                                       => [
+        'vnd.djvu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['djvu', 'djv'],
+            'source' => 'iana',
+            'extensions' => ['djvu','djv'],
         ],
-        'image/vnd.dvb.subtitle'                                                               => [
+        'vnd.dvb.subtitle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sub'],
+            'source' => 'iana',
+            'extensions' => ['sub'],
         ],
-        'image/vnd.dwg'                                                                        => [
+        'vnd.dwg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dwg'],
+            'source' => 'iana',
+            'extensions' => ['dwg'],
         ],
-        'image/vnd.dxf'                                                                        => [
+        'vnd.dxf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dxf'],
+            'source' => 'iana',
+            'extensions' => ['dxf'],
         ],
-        'image/vnd.fastbidsheet'                                                               => [
+        'vnd.fastbidsheet' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fbs'],
+            'source' => 'iana',
+            'extensions' => ['fbs'],
         ],
-        'image/vnd.fpx'                                                                        => [
+        'vnd.fpx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fpx'],
+            'source' => 'iana',
+            'extensions' => ['fpx'],
         ],
-        'image/vnd.fst'                                                                        => [
+        'vnd.fst' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fst'],
+            'source' => 'iana',
+            'extensions' => ['fst'],
         ],
-        'image/vnd.fujixerox.edmics-mmr'                                                       => [
+        'vnd.fujixerox.edmics-mmr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mmr'],
+            'source' => 'iana',
+            'extensions' => ['mmr'],
         ],
-        'image/vnd.fujixerox.edmics-rlc'                                                       => [
+        'vnd.fujixerox.edmics-rlc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['rlc'],
+            'source' => 'iana',
+            'extensions' => ['rlc'],
         ],
-        'image/vnd.globalgraphics.pgb'                                                         => [
+        'vnd.globalgraphics.pgb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.microsoft.icon'                                                             => [
+        'vnd.microsoft.icon' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ico'],
+            'source' => 'iana',
+            'extensions' => ['ico'],
         ],
-        'image/vnd.mix'                                                                        => [
+        'vnd.mix' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.mozilla.apng'                                                               => [
+        'vnd.mozilla.apng' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.ms-modi'                                                                    => [
+        'vnd.ms-modi' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mdi'],
+            'source' => 'iana',
+            'extensions' => ['mdi'],
         ],
-        'image/vnd.ms-photo'                                                                   => [
+        'vnd.ms-photo' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wdp'],
+            'source' => 'apache',
+            'extensions' => ['wdp'],
         ],
-        'image/vnd.net-fpx'                                                                    => [
+        'vnd.net-fpx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['npx'],
+            'source' => 'iana',
+            'extensions' => ['npx'],
         ],
-        'image/vnd.radiance'                                                                   => [
+        'vnd.radiance' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.sealed.png'                                                                 => [
+        'vnd.sealed.png' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.sealedmedia.softseal.gif'                                                   => [
+        'vnd.sealedmedia.softseal.gif' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.sealedmedia.softseal.jpg'                                                   => [
+        'vnd.sealedmedia.softseal.jpg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.svf'                                                                        => [
+        'vnd.svf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'image/vnd.tencent.tap'                                                                => [
+        'vnd.tencent.tap' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['tap'],
+            'source' => 'iana',
+            'extensions' => ['tap'],
         ],
-        'image/vnd.valve.source.texture'                                                       => [
+        'vnd.valve.source.texture' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vtf'],
+            'source' => 'iana',
+            'extensions' => ['vtf'],
         ],
-        'image/vnd.wap.wbmp'                                                                   => [
+        'vnd.wap.wbmp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wbmp'],
+            'source' => 'iana',
+            'extensions' => ['wbmp'],
         ],
-        'image/vnd.xiff'                                                                       => [
+        'vnd.xiff' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['xif'],
+            'source' => 'iana',
+            'extensions' => ['xif'],
         ],
-        'image/vnd.zbrush.pcx'                                                                 => [
+        'vnd.zbrush.pcx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pcx'],
+            'source' => 'iana',
+            'extensions' => ['pcx'],
         ],
-        'image/webp'                                                                           => [
+        'webp' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['webp'],
+            'source' => 'apache',
+            'extensions' => ['webp'],
         ],
-        'image/wmf'                                                                            => [
+        'wmf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wmf'],
+            'source' => 'iana',
+            'extensions' => ['wmf'],
         ],
-        'image/x-3ds'                                                                          => [
+        'x-3ds' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['3ds'],
+            'source' => 'apache',
+            'extensions' => ['3ds'],
         ],
-        'image/x-cmu-raster'                                                                   => [
+        'x-cmu-raster' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ras'],
+            'source' => 'apache',
+            'extensions' => ['ras'],
         ],
-        'image/x-cmx'                                                                          => [
+        'x-cmx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['cmx'],
+            'source' => 'apache',
+            'extensions' => ['cmx'],
         ],
-        'image/x-freehand'                                                                     => [
+        'x-freehand' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['fh', 'fhc', 'fh4', 'fh5', 'fh7'],
+            'source' => 'apache',
+            'extensions' => ['fh','fhc','fh4','fh5','fh7'],
         ],
-        'image/x-icon'                                                                         => [
+        'x-icon' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['ico'],
+            'source' => 'apache',
+            'extensions' => ['ico'],
         ],
-        'image/x-jng'                                                                          => [
+        'x-jng' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['jng'],
+            'source' => 'nginx',
+            'extensions' => ['jng'],
         ],
-        'image/x-mrsid-image'                                                                  => [
+        'x-mrsid-image' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sid'],
+            'source' => 'apache',
+            'extensions' => ['sid'],
         ],
-        'image/x-ms-bmp'                                                                       => [
+        'x-ms-bmp' => [
             'compressible' => true,
-            'source'       => 'nginx',
-            'extensions'   => ['bmp'],
+            'source' => 'nginx',
+            'extensions' => ['bmp'],
         ],
-        'image/x-pcx'                                                                          => [
+        'x-pcx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pcx'],
+            'source' => 'apache',
+            'extensions' => ['pcx'],
         ],
-        'image/x-pict'                                                                         => [
+        'x-pict' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pic', 'pct'],
+            'source' => 'apache',
+            'extensions' => ['pic','pct'],
         ],
-        'image/x-portable-anymap'                                                              => [
+        'x-portable-anymap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pnm'],
+            'source' => 'apache',
+            'extensions' => ['pnm'],
         ],
-        'image/x-portable-bitmap'                                                              => [
+        'x-portable-bitmap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pbm'],
+            'source' => 'apache',
+            'extensions' => ['pbm'],
         ],
-        'image/x-portable-graymap'                                                             => [
+        'x-portable-graymap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['pgm'],
+            'source' => 'apache',
+            'extensions' => ['pgm'],
         ],
-        'image/x-portable-pixmap'                                                              => [
+        'x-portable-pixmap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ppm'],
+            'source' => 'apache',
+            'extensions' => ['ppm'],
         ],
-        'image/x-rgb'                                                                          => [
+        'x-rgb' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['rgb'],
+            'source' => 'apache',
+            'extensions' => ['rgb'],
         ],
-        'image/x-tga'                                                                          => [
+        'x-tga' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['tga'],
+            'source' => 'apache',
+            'extensions' => ['tga'],
         ],
-        'image/x-xbitmap'                                                                      => [
+        'x-xbitmap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xbm'],
+            'source' => 'apache',
+            'extensions' => ['xbm'],
         ],
-        'image/x-xcf'                                                                          => [
+        'x-xcf' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'image/x-xpixmap'                                                                      => [
+        'x-xpixmap' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xpm'],
+            'source' => 'apache',
+            'extensions' => ['xpm'],
         ],
-        'image/x-xwindowdump'                                                                  => [
+        'x-xwindowdump' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['xwd'],
+            'source' => 'apache',
+            'extensions' => ['xwd'],
         ],
-        'message/cpim'                                                                         => [
+    ],
+    'message' => [
+        'cpim' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/delivery-status'                                                              => [
+        'delivery-status' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/disposition-notification'                                                     => [
+        'disposition-notification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['disposition-notification'],
+            'source' => 'iana',
+            'extensions' => ['disposition-notification'],
         ],
-        'message/external-body'                                                                => [
+        'external-body' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/feedback-report'                                                              => [
+        'feedback-report' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/global'                                                                       => [
+        'global' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['u8msg'],
+            'source' => 'iana',
+            'extensions' => ['u8msg'],
         ],
-        'message/global-delivery-status'                                                       => [
+        'global-delivery-status' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['u8dsn'],
+            'source' => 'iana',
+            'extensions' => ['u8dsn'],
         ],
-        'message/global-disposition-notification'                                              => [
+        'global-disposition-notification' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['u8mdn'],
+            'source' => 'iana',
+            'extensions' => ['u8mdn'],
         ],
-        'message/global-headers'                                                               => [
+        'global-headers' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['u8hdr'],
+            'source' => 'iana',
+            'extensions' => ['u8hdr'],
         ],
-        'message/http'                                                                         => [
+        'http' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/imdn+xml'                                                                     => [
+        'imdn+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/news'                                                                         => [
+        'news' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/partial'                                                                      => [
+        'partial' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/rfc822'                                                                       => [
+        'rfc822' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['eml', 'mime'],
+            'source' => 'iana',
+            'extensions' => ['eml','mime'],
         ],
-        'message/s-http'                                                                       => [
+        's-http' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/sip'                                                                          => [
+        'sip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/sipfrag'                                                                      => [
+        'sipfrag' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/tracking-status'                                                              => [
+        'tracking-status' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/vnd.si.simp'                                                                  => [
+        'vnd.si.simp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'message/vnd.wfa.wsc'                                                                  => [
+        'vnd.wfa.wsc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wsc'],
+            'source' => 'iana',
+            'extensions' => ['wsc'],
         ],
-        'model/3mf'                                                                            => [
+    ],
+    'model' => [
+        '3mf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/gltf+json'                                                                      => [
+        'gltf+json' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['gltf'],
+            'source' => 'iana',
+            'extensions' => ['gltf'],
         ],
-        'model/gltf-binary'                                                                    => [
+        'gltf-binary' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['glb'],
+            'source' => 'iana',
+            'extensions' => ['glb'],
         ],
-        'model/iges'                                                                           => [
+        'iges' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['igs', 'iges'],
+            'source' => 'iana',
+            'extensions' => ['igs','iges'],
         ],
-        'model/mesh'                                                                           => [
+        'mesh' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['msh', 'mesh', 'silo'],
+            'source' => 'iana',
+            'extensions' => ['msh','mesh','silo'],
         ],
-        'model/stl'                                                                            => [
+        'stl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.collada+xml'                                                                => [
+        'vnd.collada+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['dae'],
+            'source' => 'iana',
+            'extensions' => ['dae'],
         ],
-        'model/vnd.dwf'                                                                        => [
+        'vnd.dwf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dwf'],
+            'source' => 'iana',
+            'extensions' => ['dwf'],
         ],
-        'model/vnd.flatland.3dml'                                                              => [
+        'vnd.flatland.3dml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.gdl'                                                                        => [
+        'vnd.gdl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gdl'],
+            'source' => 'iana',
+            'extensions' => ['gdl'],
         ],
-        'model/vnd.gs-gdl'                                                                     => [
+        'vnd.gs-gdl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => [],
+            'source' => 'apache',
+            'extensions' => [],
         ],
-        'model/vnd.gs.gdl'                                                                     => [
+        'vnd.gs.gdl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.gtw'                                                                        => [
+        'vnd.gtw' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gtw'],
+            'source' => 'iana',
+            'extensions' => ['gtw'],
         ],
-        'model/vnd.moml+xml'                                                                   => [
+        'vnd.moml+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.mts'                                                                        => [
+        'vnd.mts' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mts'],
+            'source' => 'iana',
+            'extensions' => ['mts'],
         ],
-        'model/vnd.opengex'                                                                    => [
+        'vnd.opengex' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.parasolid.transmit.binary'                                                  => [
+        'vnd.parasolid.transmit.binary' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.parasolid.transmit.text'                                                    => [
+        'vnd.parasolid.transmit.text' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.rosette.annotated-data-model'                                               => [
+        'vnd.rosette.annotated-data-model' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.usdz+zip'                                                                   => [
+        'vnd.usdz+zip' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.valve.source.compiled-map'                                                  => [
+        'vnd.valve.source.compiled-map' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/vnd.vtu'                                                                        => [
+        'vnd.vtu' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['vtu'],
+            'source' => 'iana',
+            'extensions' => ['vtu'],
         ],
-        'model/vrml'                                                                           => [
+        'vrml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['wrl', 'vrml'],
+            'source' => 'iana',
+            'extensions' => ['wrl','vrml'],
         ],
-        'model/x3d+binary'                                                                     => [
+        'x3d+binary' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['x3db', 'x3dbz'],
+            'source' => 'apache',
+            'extensions' => ['x3db','x3dbz'],
         ],
-        'model/x3d+fastinfoset'                                                                => [
+        'x3d+fastinfoset' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'model/x3d+vrml'                                                                       => [
+        'x3d+vrml' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['x3dv', 'x3dvz'],
+            'source' => 'apache',
+            'extensions' => ['x3dv','x3dvz'],
         ],
-        'model/x3d+xml'                                                                        => [
+        'x3d+xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['x3d', 'x3dz'],
+            'source' => 'iana',
+            'extensions' => ['x3d','x3dz'],
         ],
-        'model/x3d-vrml'                                                                       => [
+        'x3d-vrml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/alternative'                                                                => [
+    ],
+    'multipart' => [
+        'alternative' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/appledouble'                                                                => [
+        'appledouble' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/byteranges'                                                                 => [
+        'byteranges' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/digest'                                                                     => [
+        'digest' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/encrypted'                                                                  => [
+        'encrypted' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/form-data'                                                                  => [
+        'form-data' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/header-set'                                                                 => [
+        'header-set' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/mixed'                                                                      => [
+        'mixed' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/multilingual'                                                               => [
+        'multilingual' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/parallel'                                                                   => [
+        'parallel' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/related'                                                                    => [
+        'related' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/report'                                                                     => [
+        'report' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/signed'                                                                     => [
+        'signed' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/vnd.bint.med-plus'                                                          => [
+        'vnd.bint.med-plus' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/voice-message'                                                              => [
+        'voice-message' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'multipart/x-mixed-replace'                                                            => [
+        'x-mixed-replace' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/1d-interleaved-parityfec'                                                        => [
+    ],
+    'text' => [
+        '1d-interleaved-parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/cache-manifest'                                                                  => [
+        'cache-manifest' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['appcache', 'manifest'],
+            'source' => 'iana',
+            'extensions' => ['appcache','manifest'],
         ],
-        'text/calendar'                                                                        => [
+        'calendar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ics', 'ifb'],
+            'source' => 'iana',
+            'extensions' => ['ics','ifb'],
         ],
-        'text/calender'                                                                        => [
+        'calender' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'text/cmd'                                                                             => [
+        'cmd' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'text/coffeescript'                                                                    => [
+        'coffeescript' => [
             'compressible' => false,
-            'extensions'   => ['coffee', 'litcoffee'],
+            'extensions' => ['coffee','litcoffee'],
         ],
-        'text/css'                                                                             => [
+        'css' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'charset'      => 'UTF-8',
-            'extensions'   => ['css'],
+            'source' => 'iana',
+            'charset' => 'UTF-8',
+            'extensions' => ['css'],
         ],
-        'text/csv'                                                                             => [
+        'csv' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['csv'],
+            'source' => 'iana',
+            'extensions' => ['csv'],
         ],
-        'text/csv-schema'                                                                      => [
+        'csv-schema' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/directory'                                                                       => [
+        'directory' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/dns'                                                                             => [
+        'dns' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/ecmascript'                                                                      => [
+        'ecmascript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/encaprtp'                                                                        => [
+        'encaprtp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/enriched'                                                                        => [
+        'enriched' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/fwdred'                                                                          => [
+        'fwdred' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/grammar-ref-list'                                                                => [
+        'grammar-ref-list' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/html'                                                                            => [
+        'html' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['html', 'htm', 'shtml'],
+            'source' => 'iana',
+            'extensions' => ['html','htm','shtml'],
         ],
-        'text/jade'                                                                            => [
+        'jade' => [
             'compressible' => false,
-            'extensions'   => ['jade'],
+            'extensions' => ['jade'],
         ],
-        'text/javascript'                                                                      => [
+        'javascript' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/jcr-cnd'                                                                         => [
+        'jcr-cnd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/jsx'                                                                             => [
+        'jsx' => [
             'compressible' => true,
-            'extensions'   => ['jsx'],
+            'extensions' => ['jsx'],
         ],
-        'text/less'                                                                            => [
+        'less' => [
             'compressible' => false,
-            'extensions'   => ['less'],
+            'extensions' => ['less'],
         ],
-        'text/markdown'                                                                        => [
+        'markdown' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['markdown', 'md'],
+            'source' => 'iana',
+            'extensions' => ['markdown','md'],
         ],
-        'text/mathml'                                                                          => [
+        'mathml' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['mml'],
+            'source' => 'nginx',
+            'extensions' => ['mml'],
         ],
-        'text/mizar'                                                                           => [
+        'mizar' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/n3'                                                                              => [
+        'n3' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['n3'],
+            'source' => 'iana',
+            'extensions' => ['n3'],
         ],
-        'text/parameters'                                                                      => [
+        'parameters' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/parityfec'                                                                       => [
+        'parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/plain'                                                                           => [
+        'plain' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['txt', 'text', 'conf', 'def', 'list', 'log', 'in', 'ini'],
+            'source' => 'iana',
+            'extensions' => ['txt','text','conf','def','list','log','in','ini'],
         ],
-        'text/provenance-notation'                                                             => [
+        'provenance-notation' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/prs.fallenstein.rst'                                                             => [
+        'prs.fallenstein.rst' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/prs.lines.tag'                                                                   => [
+        'prs.lines.tag' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dsc'],
+            'source' => 'iana',
+            'extensions' => ['dsc'],
         ],
-        'text/prs.prop.logic'                                                                  => [
+        'prs.prop.logic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/raptorfec'                                                                       => [
+        'raptorfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/red'                                                                             => [
+        'red' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/rfc822-headers'                                                                  => [
+        'rfc822-headers' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/richtext'                                                                        => [
+        'richtext' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rtx'],
+            'source' => 'iana',
+            'extensions' => ['rtx'],
         ],
-        'text/rtf'                                                                             => [
+        'rtf' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['rtf'],
+            'source' => 'iana',
+            'extensions' => ['rtf'],
         ],
-        'text/rtp-enc-aescm128'                                                                => [
+        'rtp-enc-aescm128' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/rtploopback'                                                                     => [
+        'rtploopback' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/rtx'                                                                             => [
+        'rtx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/sgml'                                                                            => [
+        'sgml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sgml', 'sgm'],
+            'source' => 'iana',
+            'extensions' => ['sgml','sgm'],
         ],
-        'text/shex'                                                                            => [
+        'shex' => [
             'compressible' => false,
-            'extensions'   => ['shex'],
+            'extensions' => ['shex'],
         ],
-        'text/slim'                                                                            => [
+        'slim' => [
             'compressible' => false,
-            'extensions'   => ['slim', 'slm'],
+            'extensions' => ['slim','slm'],
         ],
-        'text/strings'                                                                         => [
+        'strings' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/stylus'                                                                          => [
+        'stylus' => [
             'compressible' => false,
-            'extensions'   => ['stylus', 'styl'],
+            'extensions' => ['stylus','styl'],
         ],
-        'text/t140'                                                                            => [
+        't140' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/tab-separated-values'                                                            => [
+        'tab-separated-values' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['tsv'],
+            'source' => 'iana',
+            'extensions' => ['tsv'],
         ],
-        'text/troff'                                                                           => [
+        'troff' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['t', 'tr', 'roff', 'man', 'me', 'ms'],
+            'source' => 'iana',
+            'extensions' => ['t','tr','roff','man','me','ms'],
         ],
-        'text/turtle'                                                                          => [
+        'turtle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'charset'      => 'UTF-8',
-            'extensions'   => ['ttl'],
+            'source' => 'iana',
+            'charset' => 'UTF-8',
+            'extensions' => ['ttl'],
         ],
-        'text/ulpfec'                                                                          => [
+        'ulpfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/uri-list'                                                                        => [
+        'uri-list' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['uri', 'uris', 'urls'],
+            'source' => 'iana',
+            'extensions' => ['uri','uris','urls'],
         ],
-        'text/vcard'                                                                           => [
+        'vcard' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['vcard'],
+            'source' => 'iana',
+            'extensions' => ['vcard'],
         ],
-        'text/vnd.a'                                                                           => [
+        'vnd.a' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.abc'                                                                         => [
+        'vnd.abc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.ascii-art'                                                                   => [
+        'vnd.ascii-art' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.curl'                                                                        => [
+        'vnd.curl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['curl'],
+            'source' => 'iana',
+            'extensions' => ['curl'],
         ],
-        'text/vnd.curl.dcurl'                                                                  => [
+        'vnd.curl.dcurl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['dcurl'],
+            'source' => 'apache',
+            'extensions' => ['dcurl'],
         ],
-        'text/vnd.curl.mcurl'                                                                  => [
+        'vnd.curl.mcurl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mcurl'],
+            'source' => 'apache',
+            'extensions' => ['mcurl'],
         ],
-        'text/vnd.curl.scurl'                                                                  => [
+        'vnd.curl.scurl' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['scurl'],
+            'source' => 'apache',
+            'extensions' => ['scurl'],
         ],
-        'text/vnd.debian.copyright'                                                            => [
+        'vnd.debian.copyright' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.dmclientscript'                                                              => [
+        'vnd.dmclientscript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.dvb.subtitle'                                                                => [
+        'vnd.dvb.subtitle' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['sub'],
+            'source' => 'iana',
+            'extensions' => ['sub'],
         ],
-        'text/vnd.esmertec.theme-descriptor'                                                   => [
+        'vnd.esmertec.theme-descriptor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.fly'                                                                         => [
+        'vnd.fly' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fly'],
+            'source' => 'iana',
+            'extensions' => ['fly'],
         ],
-        'text/vnd.fmi.flexstor'                                                                => [
+        'vnd.fmi.flexstor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['flx'],
+            'source' => 'iana',
+            'extensions' => ['flx'],
         ],
-        'text/vnd.gml'                                                                         => [
+        'vnd.gml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.graphviz'                                                                    => [
+        'vnd.graphviz' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['gv'],
+            'source' => 'iana',
+            'extensions' => ['gv'],
         ],
-        'text/vnd.hgl'                                                                         => [
+        'vnd.hgl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.in3d.3dml'                                                                   => [
+        'vnd.in3d.3dml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['3dml'],
+            'source' => 'iana',
+            'extensions' => ['3dml'],
         ],
-        'text/vnd.in3d.spot'                                                                   => [
+        'vnd.in3d.spot' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['spot'],
+            'source' => 'iana',
+            'extensions' => ['spot'],
         ],
-        'text/vnd.iptc.newsml'                                                                 => [
+        'vnd.iptc.newsml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.iptc.nitf'                                                                   => [
+        'vnd.iptc.nitf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.latex-z'                                                                     => [
+        'vnd.latex-z' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.motorola.reflex'                                                             => [
+        'vnd.motorola.reflex' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.ms-mediapackage'                                                             => [
+        'vnd.ms-mediapackage' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.net2phone.commcenter.command'                                                => [
+        'vnd.net2phone.commcenter.command' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.radisys.msml-basic-layout'                                                   => [
+        'vnd.radisys.msml-basic-layout' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.si.uricatalogue'                                                             => [
+        'vnd.si.uricatalogue' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.sun.j2me.app-descriptor'                                                     => [
+        'vnd.sun.j2me.app-descriptor' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jad'],
+            'source' => 'iana',
+            'extensions' => ['jad'],
         ],
-        'text/vnd.trolltech.linguist'                                                          => [
+        'vnd.trolltech.linguist' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.wap.si'                                                                      => [
+        'vnd.wap.si' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.wap.sl'                                                                      => [
+        'vnd.wap.sl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/vnd.wap.wml'                                                                     => [
+        'vnd.wap.wml' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wml'],
+            'source' => 'iana',
+            'extensions' => ['wml'],
         ],
-        'text/vnd.wap.wmlscript'                                                               => [
+        'vnd.wap.wmlscript' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['wmls'],
+            'source' => 'iana',
+            'extensions' => ['wmls'],
         ],
-        'text/vtt'                                                                             => [
+        'vtt' => [
             'compressible' => true,
-            'charset'      => 'UTF-8',
-            'extensions'   => ['vtt'],
+            'charset' => 'UTF-8',
+            'extensions' => ['vtt'],
         ],
-        'text/x-asm'                                                                           => [
+        'x-asm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['s', 'asm'],
+            'source' => 'apache',
+            'extensions' => ['s','asm'],
         ],
-        'text/x-c'                                                                             => [
+        'x-c' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['c', 'cc', 'cxx', 'cpp', 'h', 'hh', 'dic'],
+            'source' => 'apache',
+            'extensions' => ['c','cc','cxx','cpp','h','hh','dic'],
         ],
-        'text/x-component'                                                                     => [
+        'x-component' => [
             'compressible' => false,
-            'source'       => 'nginx',
-            'extensions'   => ['htc'],
+            'source' => 'nginx',
+            'extensions' => ['htc'],
         ],
-        'text/x-fortran'                                                                       => [
+        'x-fortran' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['f', 'for', 'f77', 'f90'],
+            'source' => 'apache',
+            'extensions' => ['f','for','f77','f90'],
         ],
-        'text/x-gwt-rpc'                                                                       => [
+        'x-gwt-rpc' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'text/x-handlebars-template'                                                           => [
+        'x-handlebars-template' => [
             'compressible' => false,
-            'extensions'   => ['hbs'],
+            'extensions' => ['hbs'],
         ],
-        'text/x-java-source'                                                                   => [
+        'x-java-source' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['java'],
+            'source' => 'apache',
+            'extensions' => ['java'],
         ],
-        'text/x-jquery-tmpl'                                                                   => [
+        'x-jquery-tmpl' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'text/x-lua'                                                                           => [
+        'x-lua' => [
             'compressible' => false,
-            'extensions'   => ['lua'],
+            'extensions' => ['lua'],
         ],
-        'text/x-markdown'                                                                      => [
+        'x-markdown' => [
             'compressible' => true,
-            'extensions'   => ['mkd'],
+            'extensions' => ['mkd'],
         ],
-        'text/x-nfo'                                                                           => [
+        'x-nfo' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['nfo'],
+            'source' => 'apache',
+            'extensions' => ['nfo'],
         ],
-        'text/x-opml'                                                                          => [
+        'x-opml' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['opml'],
+            'source' => 'apache',
+            'extensions' => ['opml'],
         ],
-        'text/x-org'                                                                           => [
+        'x-org' => [
             'compressible' => true,
-            'extensions'   => ['org'],
+            'extensions' => ['org'],
         ],
-        'text/x-pascal'                                                                        => [
+        'x-pascal' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['p', 'pas'],
+            'source' => 'apache',
+            'extensions' => ['p','pas'],
         ],
-        'text/x-processing'                                                                    => [
+        'x-processing' => [
             'compressible' => true,
-            'extensions'   => ['pde'],
+            'extensions' => ['pde'],
         ],
-        'text/x-sass'                                                                          => [
+        'x-sass' => [
             'compressible' => false,
-            'extensions'   => ['sass'],
+            'extensions' => ['sass'],
         ],
-        'text/x-scss'                                                                          => [
+        'x-scss' => [
             'compressible' => false,
-            'extensions'   => ['scss'],
+            'extensions' => ['scss'],
         ],
-        'text/x-setext'                                                                        => [
+        'x-setext' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['etx'],
+            'source' => 'apache',
+            'extensions' => ['etx'],
         ],
-        'text/x-sfv'                                                                           => [
+        'x-sfv' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['sfv'],
+            'source' => 'apache',
+            'extensions' => ['sfv'],
         ],
-        'text/x-suse-ymp'                                                                      => [
+        'x-suse-ymp' => [
             'compressible' => true,
-            'extensions'   => ['ymp'],
+            'extensions' => ['ymp'],
         ],
-        'text/x-uuencode'                                                                      => [
+        'x-uuencode' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['uu'],
+            'source' => 'apache',
+            'extensions' => ['uu'],
         ],
-        'text/x-vcalendar'                                                                     => [
+        'x-vcalendar' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['vcs'],
+            'source' => 'apache',
+            'extensions' => ['vcs'],
         ],
-        'text/x-vcard'                                                                         => [
+        'x-vcard' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['vcf'],
+            'source' => 'apache',
+            'extensions' => ['vcf'],
         ],
-        'text/xml'                                                                             => [
+        'xml' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['xml'],
+            'source' => 'iana',
+            'extensions' => ['xml'],
         ],
-        'text/xml-external-parsed-entity'                                                      => [
+        'xml-external-parsed-entity' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'text/yaml'                                                                            => [
+        'yaml' => [
             'compressible' => false,
-            'extensions'   => ['yaml', 'yml'],
+            'extensions' => ['yaml','yml'],
         ],
-        'video/1d-interleaved-parityfec'                                                       => [
+    ],
+    'video' => [
+        '1d-interleaved-parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/3gpp'                                                                           => [
+        '3gpp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['3gp', '3gpp'],
+            'source' => 'iana',
+            'extensions' => ['3gp','3gpp'],
         ],
-        'video/3gpp-tt'                                                                        => [
+        '3gpp-tt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/3gpp2'                                                                          => [
+        '3gpp2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['3g2'],
+            'source' => 'iana',
+            'extensions' => ['3g2'],
         ],
-        'video/bmpeg'                                                                          => [
+        'bmpeg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/bt656'                                                                          => [
+        'bt656' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/celb'                                                                           => [
+        'celb' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/dv'                                                                             => [
+        'dv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/encaprtp'                                                                       => [
+        'encaprtp' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/h261'                                                                           => [
+        'h261' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['h261'],
+            'source' => 'iana',
+            'extensions' => ['h261'],
         ],
-        'video/h263'                                                                           => [
+        'h263' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['h263'],
+            'source' => 'iana',
+            'extensions' => ['h263'],
         ],
-        'video/h263-1998'                                                                      => [
+        'h263-1998' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/h263-2000'                                                                      => [
+        'h263-2000' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/h264'                                                                           => [
+        'h264' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['h264'],
+            'source' => 'iana',
+            'extensions' => ['h264'],
         ],
-        'video/h264-rcdo'                                                                      => [
+        'h264-rcdo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/h264-svc'                                                                       => [
+        'h264-svc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/h265'                                                                           => [
+        'h265' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/iso.segment'                                                                    => [
+        'iso.segment' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/jpeg'                                                                           => [
+        'jpeg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['jpgv'],
+            'source' => 'iana',
+            'extensions' => ['jpgv'],
         ],
-        'video/jpeg2000'                                                                       => [
+        'jpeg2000' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/jpm'                                                                            => [
+        'jpm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['jpm', 'jpgm'],
+            'source' => 'apache',
+            'extensions' => ['jpm','jpgm'],
         ],
-        'video/mj2'                                                                            => [
+        'mj2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mj2', 'mjp2'],
+            'source' => 'iana',
+            'extensions' => ['mj2','mjp2'],
         ],
-        'video/mp1s'                                                                           => [
+        'mp1s' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/mp2p'                                                                           => [
+        'mp2p' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/mp2t'                                                                           => [
+        'mp2t' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['ts'],
+            'source' => 'iana',
+            'extensions' => ['ts'],
         ],
-        'video/mp4'                                                                            => [
+        'mp4' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mp4', 'mp4v', 'mpg4'],
+            'source' => 'iana',
+            'extensions' => ['mp4','mp4v','mpg4'],
         ],
-        'video/mp4v-es'                                                                        => [
+        'mp4v-es' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/mpeg'                                                                           => [
+        'mpeg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['mpeg', 'mpg', 'mpe', 'm1v', 'm2v'],
+            'source' => 'iana',
+            'extensions' => ['mpeg','mpg','mpe','m1v','m2v'],
         ],
-        'video/mpeg4-generic'                                                                  => [
+        'mpeg4-generic' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/mpv'                                                                            => [
+        'mpv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/nv'                                                                             => [
+        'nv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/ogg'                                                                            => [
+        'ogg' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['ogv'],
+            'source' => 'iana',
+            'extensions' => ['ogv'],
         ],
-        'video/parityfec'                                                                      => [
+        'parityfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/pointer'                                                                        => [
+        'pointer' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/quicktime'                                                                      => [
+        'quicktime' => [
             'compressible' => true,
-            'source'       => 'iana',
-            'extensions'   => ['qt', 'mov'],
+            'source' => 'iana',
+            'extensions' => ['qt','mov'],
         ],
-        'video/raptorfec'                                                                      => [
+        'raptorfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/raw'                                                                            => [
+        'raw' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/rtp-enc-aescm128'                                                               => [
+        'rtp-enc-aescm128' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/rtploopback'                                                                    => [
+        'rtploopback' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/rtx'                                                                            => [
+        'rtx' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/smpte291'                                                                       => [
+        'smpte291' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/smpte292m'                                                                      => [
+        'smpte292m' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/ulpfec'                                                                         => [
+        'ulpfec' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vc1'                                                                            => [
+        'vc1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vc2'                                                                            => [
+        'vc2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.cctv'                                                                       => [
+        'vnd.cctv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.dece.hd'                                                                    => [
+        'vnd.dece.hd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvh', 'uvvh'],
+            'source' => 'iana',
+            'extensions' => ['uvh','uvvh'],
         ],
-        'video/vnd.dece.mobile'                                                                => [
+        'vnd.dece.mobile' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvm', 'uvvm'],
+            'source' => 'iana',
+            'extensions' => ['uvm','uvvm'],
         ],
-        'video/vnd.dece.mp4'                                                                   => [
+        'vnd.dece.mp4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.dece.pd'                                                                    => [
+        'vnd.dece.pd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvp', 'uvvp'],
+            'source' => 'iana',
+            'extensions' => ['uvp','uvvp'],
         ],
-        'video/vnd.dece.sd'                                                                    => [
+        'vnd.dece.sd' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvs', 'uvvs'],
+            'source' => 'iana',
+            'extensions' => ['uvs','uvvs'],
         ],
-        'video/vnd.dece.video'                                                                 => [
+        'vnd.dece.video' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvv', 'uvvv'],
+            'source' => 'iana',
+            'extensions' => ['uvv','uvvv'],
         ],
-        'video/vnd.directv.mpeg'                                                               => [
+        'vnd.directv.mpeg' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.directv.mpeg-tts'                                                           => [
+        'vnd.directv.mpeg-tts' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.dlna.mpeg-tts'                                                              => [
+        'vnd.dlna.mpeg-tts' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.dvb.file'                                                                   => [
+        'vnd.dvb.file' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['dvb'],
+            'source' => 'iana',
+            'extensions' => ['dvb'],
         ],
-        'video/vnd.fvt'                                                                        => [
+        'vnd.fvt' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['fvt'],
+            'source' => 'iana',
+            'extensions' => ['fvt'],
         ],
-        'video/vnd.hns.video'                                                                  => [
+        'vnd.hns.video' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.1dparityfec-1010'                                                 => [
+        'vnd.iptvforum.1dparityfec-1010' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.1dparityfec-2005'                                                 => [
+        'vnd.iptvforum.1dparityfec-2005' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.2dparityfec-1010'                                                 => [
+        'vnd.iptvforum.2dparityfec-1010' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.2dparityfec-2005'                                                 => [
+        'vnd.iptvforum.2dparityfec-2005' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.ttsavc'                                                           => [
+        'vnd.iptvforum.ttsavc' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.iptvforum.ttsmpeg2'                                                         => [
+        'vnd.iptvforum.ttsmpeg2' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.motorola.video'                                                             => [
+        'vnd.motorola.video' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.motorola.videop'                                                            => [
+        'vnd.motorola.videop' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.mpegurl'                                                                    => [
+        'vnd.mpegurl' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['mxu', 'm4u'],
+            'source' => 'iana',
+            'extensions' => ['mxu','m4u'],
         ],
-        'video/vnd.ms-playready.media.pyv'                                                     => [
+        'vnd.ms-playready.media.pyv' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['pyv'],
+            'source' => 'iana',
+            'extensions' => ['pyv'],
         ],
-        'video/vnd.nokia.interleaved-multimedia'                                               => [
+        'vnd.nokia.interleaved-multimedia' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.nokia.mp4vr'                                                                => [
+        'vnd.nokia.mp4vr' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.nokia.videovoip'                                                            => [
+        'vnd.nokia.videovoip' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.objectvideo'                                                                => [
+        'vnd.objectvideo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.radgamettools.bink'                                                         => [
+        'vnd.radgamettools.bink' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.radgamettools.smacker'                                                      => [
+        'vnd.radgamettools.smacker' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.sealed.mpeg1'                                                               => [
+        'vnd.sealed.mpeg1' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.sealed.mpeg4'                                                               => [
+        'vnd.sealed.mpeg4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.sealed.swf'                                                                 => [
+        'vnd.sealed.swf' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.sealedmedia.softseal.mov'                                                   => [
+        'vnd.sealedmedia.softseal.mov' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/vnd.uvvu.mp4'                                                                   => [
+        'vnd.uvvu.mp4' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['uvu', 'uvvu'],
+            'source' => 'iana',
+            'extensions' => ['uvu','uvvu'],
         ],
-        'video/vnd.vivo'                                                                       => [
+        'vnd.vivo' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => ['viv'],
+            'source' => 'iana',
+            'extensions' => ['viv'],
         ],
-        'video/vp8'                                                                            => [
+        'vp8' => [
             'compressible' => false,
-            'source'       => 'iana',
-            'extensions'   => [],
+            'source' => 'iana',
+            'extensions' => [],
         ],
-        'video/webm'                                                                           => [
+        'webm' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['webm'],
+            'source' => 'apache',
+            'extensions' => ['webm'],
         ],
-        'video/x-f4v'                                                                          => [
+        'x-f4v' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['f4v'],
+            'source' => 'apache',
+            'extensions' => ['f4v'],
         ],
-        'video/x-fli'                                                                          => [
+        'x-fli' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['fli'],
+            'source' => 'apache',
+            'extensions' => ['fli'],
         ],
-        'video/x-flv'                                                                          => [
+        'x-flv' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['flv'],
+            'source' => 'apache',
+            'extensions' => ['flv'],
         ],
-        'video/x-m4v'                                                                          => [
+        'x-m4v' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['m4v'],
+            'source' => 'apache',
+            'extensions' => ['m4v'],
         ],
-        'video/x-matroska'                                                                     => [
+        'x-matroska' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['mkv', 'mk3d', 'mks'],
+            'source' => 'apache',
+            'extensions' => ['mkv','mk3d','mks'],
         ],
-        'video/x-mng'                                                                          => [
+        'x-mng' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['mng'],
+            'source' => 'apache',
+            'extensions' => ['mng'],
         ],
-        'video/x-ms-asf'                                                                       => [
+        'x-ms-asf' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['asf', 'asx'],
+            'source' => 'apache',
+            'extensions' => ['asf','asx'],
         ],
-        'video/x-ms-vob'                                                                       => [
+        'x-ms-vob' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['vob'],
+            'source' => 'apache',
+            'extensions' => ['vob'],
         ],
-        'video/x-ms-wm'                                                                        => [
+        'x-ms-wm' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wm'],
+            'source' => 'apache',
+            'extensions' => ['wm'],
         ],
-        'video/x-ms-wmv'                                                                       => [
+        'x-ms-wmv' => [
             'compressible' => true,
-            'source'       => 'apache',
-            'extensions'   => ['wmv'],
+            'source' => 'apache',
+            'extensions' => ['wmv'],
         ],
-        'video/x-ms-wmx'                                                                       => [
+        'x-ms-wmx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wmx'],
+            'source' => 'apache',
+            'extensions' => ['wmx'],
         ],
-        'video/x-ms-wvx'                                                                       => [
+        'x-ms-wvx' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['wvx'],
+            'source' => 'apache',
+            'extensions' => ['wvx'],
         ],
-        'video/x-msvideo'                                                                      => [
+        'x-msvideo' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['avi'],
+            'source' => 'apache',
+            'extensions' => ['avi'],
         ],
-        'video/x-sgi-movie'                                                                    => [
+        'x-sgi-movie' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['movie'],
+            'source' => 'apache',
+            'extensions' => ['movie'],
         ],
-        'video/x-smv'                                                                          => [
+        'x-smv' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['smv'],
+            'source' => 'apache',
+            'extensions' => ['smv'],
         ],
-        'x-conference/x-cooltalk'                                                              => [
+    ],
+    'x-conference' => [
+        'x-cooltalk' => [
             'compressible' => false,
-            'source'       => 'apache',
-            'extensions'   => ['ice'],
+            'source' => 'apache',
+            'extensions' => ['ice'],
         ],
-        'x-shader/x-fragment'                                                                  => [
+    ],
+    'x-shader' => [
+        'x-fragment' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-        'x-shader/x-vertex'                                                                    => [
+        'x-vertex' => [
             'compressible' => true,
-            'extensions'   => [],
+            'extensions' => [],
         ],
-    ];
-    // <-- mimes end --> \\
+    ],
+];
+// <-- mimes end --> \\
 
     // this is auto generated, do not touch!
     // <-- extensions start --> \
     private static $extensions = [
-        '3dml'                     => ['text/vnd.in3d.3dml'],
-        '3ds'                      => ['image/x-3ds'],
-        '3g2'                      => ['video/3gpp2'],
-        '3gp'                      => ['video/3gpp'],
-        '3gpp'                     => ['audio/3gpp', 'video/3gpp'],
-        '7z'                       => ['application/x-7z-compressed'],
-        'aab'                      => ['application/x-authorware-bin'],
-        'aac'                      => ['audio/x-aac'],
-        'aam'                      => ['application/x-authorware-map'],
-        'aas'                      => ['application/x-authorware-seg'],
-        'abw'                      => ['application/x-abiword'],
-        'ac'                       => ['application/pkix-attr-cert'],
-        'acc'                      => ['application/vnd.americandynamics.acc'],
-        'ace'                      => ['application/x-ace-compressed'],
-        'acu'                      => ['application/vnd.acucobol'],
-        'acutc'                    => ['application/vnd.acucorp'],
-        'adp'                      => ['audio/adpcm'],
-        'aep'                      => ['application/vnd.audiograph'],
-        'afm'                      => ['application/x-font-type1'],
-        'afp'                      => ['application/vnd.ibm.modcap'],
-        'ahead'                    => ['application/vnd.ahead.space'],
-        'ai'                       => ['application/postscript'],
-        'aif'                      => ['audio/x-aiff'],
-        'aifc'                     => ['audio/x-aiff'],
-        'aiff'                     => ['audio/x-aiff'],
-        'air'                      => ['application/vnd.adobe.air-application-installer-package+zip'],
-        'ait'                      => ['application/vnd.dvb.ait'],
-        'ami'                      => ['application/vnd.amiga.ami'],
-        'apk'                      => ['application/vnd.android.package-archive'],
-        'apng'                     => ['image/apng'],
-        'appcache'                 => ['text/cache-manifest'],
-        'application'              => ['application/x-ms-application'],
-        'apr'                      => ['application/vnd.lotus-approach'],
-        'arc'                      => ['application/x-freearc'],
-        'arj'                      => ['application/x-arj'],
-        'asc'                      => ['application/pgp-signature'],
-        'asf'                      => ['video/x-ms-asf'],
-        'asm'                      => ['text/x-asm'],
-        'aso'                      => ['application/vnd.accpac.simply.aso'],
-        'asx'                      => ['video/x-ms-asf'],
-        'atc'                      => ['application/vnd.acucorp'],
-        'atom'                     => ['application/atom+xml'],
-        'atomcat'                  => ['application/atomcat+xml'],
-        'atomsvc'                  => ['application/atomsvc+xml'],
-        'atx'                      => ['application/vnd.antix.game-component'],
-        'au'                       => ['audio/basic'],
-        'avi'                      => ['video/x-msvideo'],
-        'aw'                       => ['application/applixware'],
-        'azf'                      => ['application/vnd.airzip.filesecure.azf'],
-        'azs'                      => ['application/vnd.airzip.filesecure.azs'],
-        'azv'                      => ['image/vnd.airzip.accelerator.azv'],
-        'azw'                      => ['application/vnd.amazon.ebook'],
-        'bat'                      => ['application/x-msdownload'],
-        'bcpio'                    => ['application/x-bcpio'],
-        'bdf'                      => ['application/x-font-bdf'],
-        'bdm'                      => ['application/vnd.syncml.dm+wbxml'],
-        'bdoc'                     => ['application/bdoc', 'application/x-bdoc'],
-        'bed'                      => ['application/vnd.realvnc.bed'],
-        'bh2'                      => ['application/vnd.fujitsu.oasysprs'],
-        'bin'                      => ['application/octet-stream'],
-        'blb'                      => ['application/x-blorb'],
-        'blorb'                    => ['application/x-blorb'],
-        'bmi'                      => ['application/vnd.bmi'],
-        'bmp'                      => ['image/bmp', 'image/x-ms-bmp'],
-        'book'                     => ['application/vnd.framemaker'],
-        'box'                      => ['application/vnd.previewsystems.box'],
-        'boz'                      => ['application/x-bzip2'],
-        'bpk'                      => ['application/octet-stream'],
-        'btif'                     => ['image/prs.btif'],
-        'buffer'                   => ['application/octet-stream'],
-        'bz'                       => ['application/x-bzip'],
-        'bz2'                      => ['application/x-bzip2'],
-        'c'                        => ['text/x-c'],
-        'c11amc'                   => ['application/vnd.cluetrust.cartomobile-config'],
-        'c11amz'                   => ['application/vnd.cluetrust.cartomobile-config-pkg'],
-        'c4d'                      => ['application/vnd.clonk.c4group'],
-        'c4f'                      => ['application/vnd.clonk.c4group'],
-        'c4g'                      => ['application/vnd.clonk.c4group'],
-        'c4p'                      => ['application/vnd.clonk.c4group'],
-        'c4u'                      => ['application/vnd.clonk.c4group'],
-        'cab'                      => ['application/vnd.ms-cab-compressed'],
-        'caf'                      => ['audio/x-caf'],
-        'cap'                      => ['application/vnd.tcpdump.pcap'],
-        'car'                      => ['application/vnd.curl.car'],
-        'cat'                      => ['application/vnd.ms-pki.seccat'],
-        'cb7'                      => ['application/x-cbr'],
-        'cba'                      => ['application/x-cbr'],
-        'cbr'                      => ['application/x-cbr'],
-        'cbt'                      => ['application/x-cbr'],
-        'cbz'                      => ['application/x-cbr'],
-        'cc'                       => ['text/x-c'],
-        'cco'                      => ['application/x-cocoa'],
-        'cct'                      => ['application/x-director'],
-        'ccxml'                    => ['application/ccxml+xml'],
-        'cdbcmsg'                  => ['application/vnd.contact.cmsg'],
-        'cdf'                      => ['application/x-netcdf'],
-        'cdkey'                    => ['application/vnd.mediastation.cdkey'],
-        'cdmia'                    => ['application/cdmi-capability'],
-        'cdmic'                    => ['application/cdmi-container'],
-        'cdmid'                    => ['application/cdmi-domain'],
-        'cdmio'                    => ['application/cdmi-object'],
-        'cdmiq'                    => ['application/cdmi-queue'],
-        'cdx'                      => ['chemical/x-cdx'],
-        'cdxml'                    => ['application/vnd.chemdraw+xml'],
-        'cdy'                      => ['application/vnd.cinderella'],
-        'cer'                      => ['application/pkix-cert'],
-        'cfs'                      => ['application/x-cfs-compressed'],
-        'cgm'                      => ['image/cgm'],
-        'chat'                     => ['application/x-chat'],
-        'chm'                      => ['application/vnd.ms-htmlhelp'],
-        'chrt'                     => ['application/vnd.kde.kchart'],
-        'cif'                      => ['chemical/x-cif'],
-        'cii'                      => ['application/vnd.anser-web-certificate-issue-initiation'],
-        'cil'                      => ['application/vnd.ms-artgalry'],
-        'cla'                      => ['application/vnd.claymore'],
-        'class'                    => ['application/java-vm'],
-        'clkk'                     => ['application/vnd.crick.clicker.keyboard'],
-        'clkp'                     => ['application/vnd.crick.clicker.palette'],
-        'clkt'                     => ['application/vnd.crick.clicker.template'],
-        'clkw'                     => ['application/vnd.crick.clicker.wordbank'],
-        'clkx'                     => ['application/vnd.crick.clicker'],
-        'clp'                      => ['application/x-msclip'],
-        'cmc'                      => ['application/vnd.cosmocaller'],
-        'cmdf'                     => ['chemical/x-cmdf'],
-        'cml'                      => ['chemical/x-cml'],
-        'cmp'                      => ['application/vnd.yellowriver-custom-menu'],
-        'cmx'                      => ['image/x-cmx'],
-        'cod'                      => ['application/vnd.rim.cod'],
-        'coffee'                   => ['text/coffeescript'],
-        'com'                      => ['application/x-msdownload'],
-        'conf'                     => ['text/plain'],
-        'cpio'                     => ['application/x-cpio'],
-        'cpp'                      => ['text/x-c'],
-        'cpt'                      => ['application/mac-compactpro'],
-        'crd'                      => ['application/x-mscardfile'],
-        'crl'                      => ['application/pkix-crl'],
-        'crt'                      => ['application/x-x509-ca-cert'],
-        'crx'                      => ['application/x-chrome-extension'],
-        'cryptonote'               => ['application/vnd.rig.cryptonote'],
-        'csh'                      => ['application/x-csh'],
-        'csl'                      => ['application/vnd.citationstyles.style+xml'],
-        'csml'                     => ['chemical/x-csml'],
-        'csp'                      => ['application/vnd.commonspace'],
-        'css'                      => ['text/css'],
-        'cst'                      => ['application/x-director'],
-        'csv'                      => ['text/csv'],
-        'cu'                       => ['application/cu-seeme'],
-        'curl'                     => ['text/vnd.curl'],
-        'cww'                      => ['application/prs.cww'],
-        'cxt'                      => ['application/x-director'],
-        'cxx'                      => ['text/x-c'],
-        'dae'                      => ['model/vnd.collada+xml'],
-        'daf'                      => ['application/vnd.mobius.daf'],
-        'dart'                     => ['application/vnd.dart'],
-        'dataless'                 => ['application/vnd.fdsn.seed'],
-        'davmount'                 => ['application/davmount+xml'],
-        'dbk'                      => ['application/docbook+xml'],
-        'dcr'                      => ['application/x-director'],
-        'dcurl'                    => ['text/vnd.curl.dcurl'],
-        'dd2'                      => ['application/vnd.oma.dd2+xml'],
-        'ddd'                      => ['application/vnd.fujixerox.ddd'],
-        'deb'                      => ['application/octet-stream', 'application/x-debian-package'],
-        'def'                      => ['text/plain'],
-        'deploy'                   => ['application/octet-stream'],
-        'der'                      => ['application/x-x509-ca-cert'],
-        'dfac'                     => ['application/vnd.dreamfactory'],
-        'dgc'                      => ['application/x-dgc-compressed'],
-        'dic'                      => ['text/x-c'],
-        'dir'                      => ['application/x-director'],
-        'dis'                      => ['application/vnd.mobius.dis'],
-        'disposition-notification' => ['message/disposition-notification'],
-        'dist'                     => ['application/octet-stream'],
-        'distz'                    => ['application/octet-stream'],
-        'djv'                      => ['image/vnd.djvu'],
-        'djvu'                     => ['image/vnd.djvu'],
-        'dll'                      => ['application/octet-stream', 'application/x-msdownload'],
-        'dmg'                      => ['application/octet-stream', 'application/x-apple-diskimage'],
-        'dmp'                      => ['application/vnd.tcpdump.pcap'],
-        'dms'                      => ['application/octet-stream'],
-        'dna'                      => ['application/vnd.dna'],
-        'doc'                      => ['application/msword'],
-        'docm'                     => ['application/vnd.ms-word.document.macroenabled.12'],
-        'docx'                     => ['application/vnd.openxmlformats-officedocument.wordprocessingml.document'],
-        'dot'                      => ['application/msword'],
-        'dotm'                     => ['application/vnd.ms-word.template.macroenabled.12'],
-        'dotx'                     => ['application/vnd.openxmlformats-officedocument.wordprocessingml.template'],
-        'dp'                       => ['application/vnd.osgi.dp'],
-        'dpg'                      => ['application/vnd.dpgraph'],
-        'dra'                      => ['audio/vnd.dra'],
-        'drle'                     => ['image/dicom-rle'],
-        'dsc'                      => ['text/prs.lines.tag'],
-        'dssc'                     => ['application/dssc+der'],
-        'dtb'                      => ['application/x-dtbook+xml'],
-        'dtd'                      => ['application/xml-dtd'],
-        'dts'                      => ['audio/vnd.dts'],
-        'dtshd'                    => ['audio/vnd.dts.hd'],
-        'dump'                     => ['application/octet-stream'],
-        'dvb'                      => ['video/vnd.dvb.file'],
-        'dvi'                      => ['application/x-dvi'],
-        'dwf'                      => ['model/vnd.dwf'],
-        'dwg'                      => ['image/vnd.dwg'],
-        'dxf'                      => ['image/vnd.dxf'],
-        'dxp'                      => ['application/vnd.spotfire.dxp'],
-        'dxr'                      => ['application/x-director'],
-        'ear'                      => ['application/java-archive'],
-        'ecelp4800'                => ['audio/vnd.nuera.ecelp4800'],
-        'ecelp7470'                => ['audio/vnd.nuera.ecelp7470'],
-        'ecelp9600'                => ['audio/vnd.nuera.ecelp9600'],
-        'ecma'                     => ['application/ecmascript'],
-        'edm'                      => ['application/vnd.novadigm.edm'],
-        'edx'                      => ['application/vnd.novadigm.edx'],
-        'efif'                     => ['application/vnd.picsel'],
-        'ei6'                      => ['application/vnd.pg.osasli'],
-        'elc'                      => ['application/octet-stream'],
-        'emf'                      => ['application/x-msmetafile', 'image/emf'],
-        'eml'                      => ['message/rfc822'],
-        'emma'                     => ['application/emma+xml'],
-        'emz'                      => ['application/x-msmetafile'],
-        'eol'                      => ['audio/vnd.digital-winds'],
-        'eot'                      => ['application/vnd.ms-fontobject'],
-        'eps'                      => ['application/postscript'],
-        'epub'                     => ['application/epub+zip'],
-        'es'                       => ['application/ecmascript'],
-        'es3'                      => ['application/vnd.eszigno3+xml'],
-        'esa'                      => ['application/vnd.osgi.subsystem'],
-        'esf'                      => ['application/vnd.epson.esf'],
-        'et3'                      => ['application/vnd.eszigno3+xml'],
-        'etx'                      => ['text/x-setext'],
-        'eva'                      => ['application/x-eva'],
-        'evy'                      => ['application/x-envoy'],
-        'exe'                      => [
-            'application/octet-stream',
-            'application/x-msdos-program',
-            'application/x-msdownload',
-        ],
-        'exi'                      => ['application/exi'],
-        'exr'                      => ['image/aces'],
-        'ext'                      => ['application/vnd.novadigm.ext'],
-        'ez'                       => ['application/andrew-inset'],
-        'ez2'                      => ['application/vnd.ezpix-album'],
-        'ez3'                      => ['application/vnd.ezpix-package'],
-        'f'                        => ['text/x-fortran'],
-        'f4v'                      => ['video/x-f4v'],
-        'f77'                      => ['text/x-fortran'],
-        'f90'                      => ['text/x-fortran'],
-        'fbs'                      => ['image/vnd.fastbidsheet'],
-        'fcdt'                     => ['application/vnd.adobe.formscentral.fcdt'],
-        'fcs'                      => ['application/vnd.isac.fcs'],
-        'fdf'                      => ['application/vnd.fdf'],
-        'fe_launch'                => ['application/vnd.denovo.fcselayout-link'],
-        'fg5'                      => ['application/vnd.fujitsu.oasysgp'],
-        'fgd'                      => ['application/x-director'],
-        'fh'                       => ['image/x-freehand'],
-        'fh4'                      => ['image/x-freehand'],
-        'fh5'                      => ['image/x-freehand'],
-        'fh7'                      => ['image/x-freehand'],
-        'fhc'                      => ['image/x-freehand'],
-        'fig'                      => ['application/x-xfig'],
-        'fits'                     => ['image/fits'],
-        'flac'                     => ['audio/x-flac'],
-        'fli'                      => ['video/x-fli'],
-        'flo'                      => ['application/vnd.micrografx.flo'],
-        'flv'                      => ['video/x-flv'],
-        'flw'                      => ['application/vnd.kde.kivio'],
-        'flx'                      => ['text/vnd.fmi.flexstor'],
-        'fly'                      => ['text/vnd.fly'],
-        'fm'                       => ['application/vnd.framemaker'],
-        'fnc'                      => ['application/vnd.frogans.fnc'],
-        'for'                      => ['text/x-fortran'],
-        'fpx'                      => ['image/vnd.fpx'],
-        'frame'                    => ['application/vnd.framemaker'],
-        'fsc'                      => ['application/vnd.fsc.weblaunch'],
-        'fst'                      => ['image/vnd.fst'],
-        'ftc'                      => ['application/vnd.fluxtime.clip'],
-        'fti'                      => ['application/vnd.anser-web-funds-transfer-initiation'],
-        'fvt'                      => ['video/vnd.fvt'],
-        'fxp'                      => ['application/vnd.adobe.fxp'],
-        'fxpl'                     => ['application/vnd.adobe.fxp'],
-        'fzs'                      => ['application/vnd.fuzzysheet'],
-        'g2w'                      => ['application/vnd.geoplan'],
-        'g3'                       => ['image/g3fax'],
-        'g3w'                      => ['application/vnd.geospace'],
-        'gac'                      => ['application/vnd.groove-account'],
-        'gam'                      => ['application/x-tads'],
-        'gbr'                      => ['application/rpki-ghostbusters'],
-        'gca'                      => ['application/x-gca-compressed'],
-        'gdl'                      => ['model/vnd.gdl'],
-        'gdoc'                     => ['application/vnd.google-apps.document'],
-        'geo'                      => ['application/vnd.dynageo'],
-        'geojson'                  => ['application/geo+json'],
-        'gex'                      => ['application/vnd.geometry-explorer'],
-        'ggb'                      => ['application/vnd.geogebra.file'],
-        'ggt'                      => ['application/vnd.geogebra.tool'],
-        'ghf'                      => ['application/vnd.groove-help'],
-        'gif'                      => ['image/gif'],
-        'gim'                      => ['application/vnd.groove-identity-message'],
-        'glb'                      => ['model/gltf-binary'],
-        'gltf'                     => ['model/gltf+json'],
-        'gml'                      => ['application/gml+xml'],
-        'gmx'                      => ['application/vnd.gmx'],
-        'gnumeric'                 => ['application/x-gnumeric'],
-        'gph'                      => ['application/vnd.flographit'],
-        'gpx'                      => ['application/gpx+xml'],
-        'gqf'                      => ['application/vnd.grafeq'],
-        'gqs'                      => ['application/vnd.grafeq'],
-        'gram'                     => ['application/srgs'],
-        'gramps'                   => ['application/x-gramps-xml'],
-        'gre'                      => ['application/vnd.geometry-explorer'],
-        'grv'                      => ['application/vnd.groove-injector'],
-        'grxml'                    => ['application/srgs+xml'],
-        'gsf'                      => ['application/x-font-ghostscript'],
-        'gsheet'                   => ['application/vnd.google-apps.spreadsheet'],
-        'gslides'                  => ['application/vnd.google-apps.presentation'],
-        'gtar'                     => ['application/x-gtar'],
-        'gtm'                      => ['application/vnd.groove-tool-message'],
-        'gtw'                      => ['model/vnd.gtw'],
-        'gv'                       => ['text/vnd.graphviz'],
-        'gxf'                      => ['application/gxf'],
-        'gxt'                      => ['application/vnd.geonext'],
-        'gz'                       => ['application/gzip'],
-        'h'                        => ['text/x-c'],
-        'h261'                     => ['video/h261'],
-        'h263'                     => ['video/h263'],
-        'h264'                     => ['video/h264'],
-        'hal'                      => ['application/vnd.hal+xml'],
-        'hbci'                     => ['application/vnd.hbci'],
-        'hbs'                      => ['text/x-handlebars-template'],
-        'hdd'                      => ['application/x-virtualbox-hdd'],
-        'hdf'                      => ['application/x-hdf'],
-        'heic'                     => ['image/heic'],
-        'heics'                    => ['image/heic-sequence'],
-        'heif'                     => ['image/heif'],
-        'heifs'                    => ['image/heif-sequence'],
-        'hh'                       => ['text/x-c'],
-        'hjson'                    => ['application/hjson'],
-        'hlp'                      => ['application/winhlp'],
-        'hpgl'                     => ['application/vnd.hp-hpgl'],
-        'hpid'                     => ['application/vnd.hp-hpid'],
-        'hps'                      => ['application/vnd.hp-hps'],
-        'hqx'                      => ['application/mac-binhex40'],
-        'htc'                      => ['text/x-component'],
-        'htke'                     => ['application/vnd.kenameaapp'],
-        'htm'                      => ['text/html'],
-        'html'                     => ['text/html'],
-        'hvd'                      => ['application/vnd.yamaha.hv-dic'],
-        'hvp'                      => ['application/vnd.yamaha.hv-voice'],
-        'hvs'                      => ['application/vnd.yamaha.hv-script'],
-        'i2g'                      => ['application/vnd.intergeo'],
-        'icc'                      => ['application/vnd.iccprofile'],
-        'ice'                      => ['x-conference/x-cooltalk'],
-        'icm'                      => ['application/vnd.iccprofile'],
-        'ico'                      => ['image/vnd.microsoft.icon', 'image/x-icon'],
-        'ics'                      => ['text/calendar'],
-        'ief'                      => ['image/ief'],
-        'ifb'                      => ['text/calendar'],
-        'ifm'                      => ['application/vnd.shana.informed.formdata'],
-        'iges'                     => ['model/iges'],
-        'igl'                      => ['application/vnd.igloader'],
-        'igm'                      => ['application/vnd.insors.igm'],
-        'igs'                      => ['model/iges'],
-        'igx'                      => ['application/vnd.micrografx.igx'],
-        'iif'                      => ['application/vnd.shana.informed.interchange'],
-        'img'                      => ['application/octet-stream'],
-        'imp'                      => ['application/vnd.accpac.simply.imp'],
-        'ims'                      => ['application/vnd.ms-ims'],
-        'in'                       => ['text/plain'],
-        'ini'                      => ['text/plain'],
-        'ink'                      => ['application/inkml+xml'],
-        'inkml'                    => ['application/inkml+xml'],
-        'install'                  => ['application/x-install-instructions'],
-        'iota'                     => ['application/vnd.astraea-software.iota'],
-        'ipfix'                    => ['application/ipfix'],
-        'ipk'                      => ['application/vnd.shana.informed.package'],
-        'irm'                      => ['application/vnd.ibm.rights-management'],
-        'irp'                      => ['application/vnd.irepository.package+xml'],
-        'iso'                      => ['application/octet-stream', 'application/x-iso9660-image'],
-        'itp'                      => ['application/vnd.shana.informed.formtemplate'],
-        'ivp'                      => ['application/vnd.immervision-ivp'],
-        'ivu'                      => ['application/vnd.immervision-ivu'],
-        'jad'                      => ['text/vnd.sun.j2me.app-descriptor'],
-        'jade'                     => ['text/jade'],
-        'jam'                      => ['application/vnd.jam'],
-        'jar'                      => ['application/java-archive'],
-        'jardiff'                  => ['application/x-java-archive-diff'],
-        'java'                     => ['text/x-java-source'],
-        'jisp'                     => ['application/vnd.jisp'],
-        'jls'                      => ['image/jls'],
-        'jlt'                      => ['application/vnd.hp-jlyt'],
-        'jng'                      => ['image/x-jng'],
-        'jnlp'                     => ['application/x-java-jnlp-file'],
-        'joda'                     => ['application/vnd.joost.joda-archive'],
-        'jp2'                      => ['image/jp2'],
-        'jpe'                      => ['image/jpeg'],
-        'jpeg'                     => ['image/jpeg'],
-        'jpf'                      => ['image/jpx'],
-        'jpg'                      => ['image/jpeg'],
-        'jpg2'                     => ['image/jp2'],
-        'jpgm'                     => ['video/jpm'],
-        'jpgv'                     => ['video/jpeg'],
-        'jpm'                      => ['image/jpm', 'video/jpm'],
-        'jpx'                      => ['image/jpx'],
-        'js'                       => ['application/javascript'],
-        'json'                     => ['application/json'],
-        'json5'                    => ['application/json5'],
-        'jsonld'                   => ['application/ld+json'],
-        'jsonml'                   => ['application/jsonml+json'],
-        'jsx'                      => ['text/jsx'],
-        'kar'                      => ['audio/midi'],
-        'karbon'                   => ['application/vnd.kde.karbon'],
-        'keynote'                  => ['application/vnd.apple.keynote'],
-        'kfo'                      => ['application/vnd.kde.kformula'],
-        'kia'                      => ['application/vnd.kidspiration'],
-        'kml'                      => ['application/vnd.google-earth.kml+xml'],
-        'kmz'                      => ['application/vnd.google-earth.kmz'],
-        'kne'                      => ['application/vnd.kinar'],
-        'knp'                      => ['application/vnd.kinar'],
-        'kon'                      => ['application/vnd.kde.kontour'],
-        'kpr'                      => ['application/vnd.kde.kpresenter'],
-        'kpt'                      => ['application/vnd.kde.kpresenter'],
-        'kpxx'                     => ['application/vnd.ds-keypoint'],
-        'ksp'                      => ['application/vnd.kde.kspread'],
-        'ktr'                      => ['application/vnd.kahootz'],
-        'ktx'                      => ['image/ktx'],
-        'ktz'                      => ['application/vnd.kahootz'],
-        'kwd'                      => ['application/vnd.kde.kword'],
-        'kwt'                      => ['application/vnd.kde.kword'],
-        'lasxml'                   => ['application/vnd.las.las+xml'],
-        'latex'                    => ['application/x-latex'],
-        'lbd'                      => ['application/vnd.llamagraphics.life-balance.desktop'],
-        'lbe'                      => ['application/vnd.llamagraphics.life-balance.exchange+xml'],
-        'les'                      => ['application/vnd.hhe.lesson-player'],
-        'less'                     => ['text/less'],
-        'lha'                      => ['application/x-lzh-compressed'],
-        'link66'                   => ['application/vnd.route66.link66+xml'],
-        'list'                     => ['text/plain'],
-        'list3820'                 => ['application/vnd.ibm.modcap'],
-        'listafp'                  => ['application/vnd.ibm.modcap'],
-        'litcoffee'                => ['text/coffeescript'],
-        'lnk'                      => ['application/x-ms-shortcut'],
-        'log'                      => ['text/plain'],
-        'lostxml'                  => ['application/lost+xml'],
-        'lrf'                      => ['application/octet-stream'],
-        'lrm'                      => ['application/vnd.ms-lrm'],
-        'ltf'                      => ['application/vnd.frogans.ltf'],
-        'lua'                      => ['text/x-lua'],
-        'luac'                     => ['application/x-lua-bytecode'],
-        'lvp'                      => ['audio/vnd.lucent.voice'],
-        'lwp'                      => ['application/vnd.lotus-wordpro'],
-        'lzh'                      => ['application/x-lzh-compressed'],
-        'm13'                      => ['application/x-msmediaview'],
-        'm14'                      => ['application/x-msmediaview'],
-        'm1v'                      => ['video/mpeg'],
-        'm21'                      => ['application/mp21'],
-        'm2a'                      => ['audio/mpeg'],
-        'm2v'                      => ['video/mpeg'],
-        'm3a'                      => ['audio/mpeg'],
-        'm3u'                      => ['audio/x-mpegurl'],
-        'm3u8'                     => ['application/vnd.apple.mpegurl'],
-        'm4a'                      => ['audio/mp4', 'audio/x-m4a'],
-        'm4p'                      => ['application/mp4'],
-        'm4u'                      => ['video/vnd.mpegurl'],
-        'm4v'                      => ['video/x-m4v'],
-        'ma'                       => ['application/mathematica'],
-        'mads'                     => ['application/mads+xml'],
-        'mag'                      => ['application/vnd.ecowin.chart'],
-        'maker'                    => ['application/vnd.framemaker'],
-        'man'                      => ['text/troff'],
-        'manifest'                 => ['text/cache-manifest'],
-        'map'                      => ['application/json'],
-        'mar'                      => ['application/octet-stream'],
-        'markdown'                 => ['text/markdown'],
-        'mathml'                   => ['application/mathml+xml'],
-        'mb'                       => ['application/mathematica'],
-        'mbk'                      => ['application/vnd.mobius.mbk'],
-        'mbox'                     => ['application/mbox'],
-        'mc1'                      => ['application/vnd.medcalcdata'],
-        'mcd'                      => ['application/vnd.mcd'],
-        'mcurl'                    => ['text/vnd.curl.mcurl'],
-        'md'                       => ['text/markdown'],
-        'mdb'                      => ['application/x-msaccess'],
-        'mdi'                      => ['image/vnd.ms-modi'],
-        'me'                       => ['text/troff'],
-        'mesh'                     => ['model/mesh'],
-        'meta4'                    => ['application/metalink4+xml'],
-        'metalink'                 => ['application/metalink+xml'],
-        'mets'                     => ['application/mets+xml'],
-        'mfm'                      => ['application/vnd.mfmp'],
-        'mft'                      => ['application/rpki-manifest'],
-        'mgp'                      => ['application/vnd.osgeo.mapguide.package'],
-        'mgz'                      => ['application/vnd.proteus.magazine'],
-        'mid'                      => ['audio/midi'],
-        'midi'                     => ['audio/midi'],
-        'mie'                      => ['application/x-mie'],
-        'mif'                      => ['application/vnd.mif'],
-        'mime'                     => ['message/rfc822'],
-        'mj2'                      => ['video/mj2'],
-        'mjp2'                     => ['video/mj2'],
-        'mjs'                      => ['application/javascript'],
-        'mk3d'                     => ['video/x-matroska'],
-        'mka'                      => ['audio/x-matroska'],
-        'mkd'                      => ['text/x-markdown'],
-        'mks'                      => ['video/x-matroska'],
-        'mkv'                      => ['video/x-matroska'],
-        'mlp'                      => ['application/vnd.dolby.mlp'],
-        'mmd'                      => ['application/vnd.chipnuts.karaoke-mmd'],
-        'mmf'                      => ['application/vnd.smaf'],
-        'mml'                      => ['text/mathml'],
-        'mmr'                      => ['image/vnd.fujixerox.edmics-mmr'],
-        'mng'                      => ['video/x-mng'],
-        'mny'                      => ['application/x-msmoney'],
-        'mobi'                     => ['application/x-mobipocket-ebook'],
-        'mods'                     => ['application/mods+xml'],
-        'mov'                      => ['video/quicktime'],
-        'movie'                    => ['video/x-sgi-movie'],
-        'mp2'                      => ['audio/mpeg'],
-        'mp21'                     => ['application/mp21'],
-        'mp2a'                     => ['audio/mpeg'],
-        'mp3'                      => ['audio/mp3', 'audio/mpeg'],
-        'mp4'                      => ['video/mp4'],
-        'mp4a'                     => ['audio/mp4'],
-        'mp4s'                     => ['application/mp4'],
-        'mp4v'                     => ['video/mp4'],
-        'mpc'                      => ['application/vnd.mophun.certificate'],
-        'mpd'                      => ['application/dash+xml'],
-        'mpe'                      => ['video/mpeg'],
-        'mpeg'                     => ['video/mpeg'],
-        'mpg'                      => ['video/mpeg'],
-        'mpg4'                     => ['video/mp4'],
-        'mpga'                     => ['audio/mpeg'],
-        'mpkg'                     => ['application/vnd.apple.installer+xml'],
-        'mpm'                      => ['application/vnd.blueice.multipass'],
-        'mpn'                      => ['application/vnd.mophun.application'],
-        'mpp'                      => ['application/vnd.ms-project'],
-        'mpt'                      => ['application/vnd.ms-project'],
-        'mpy'                      => ['application/vnd.ibm.minipay'],
-        'mqy'                      => ['application/vnd.mobius.mqy'],
-        'mrc'                      => ['application/marc'],
-        'mrcx'                     => ['application/marcxml+xml'],
-        'ms'                       => ['text/troff'],
-        'mscml'                    => ['application/mediaservercontrol+xml'],
-        'mseed'                    => ['application/vnd.fdsn.mseed'],
-        'mseq'                     => ['application/vnd.mseq'],
-        'msf'                      => ['application/vnd.epson.msf'],
-        'msg'                      => ['application/vnd.ms-outlook'],
-        'msh'                      => ['model/mesh'],
-        'msi'                      => ['application/octet-stream', 'application/x-msdownload'],
-        'msl'                      => ['application/vnd.mobius.msl'],
-        'msm'                      => ['application/octet-stream'],
-        'msp'                      => ['application/octet-stream'],
-        'msty'                     => ['application/vnd.muvee.style'],
-        'mts'                      => ['model/vnd.mts'],
-        'mus'                      => ['application/vnd.musician'],
-        'musicxml'                 => ['application/vnd.recordare.musicxml+xml'],
-        'mvb'                      => ['application/x-msmediaview'],
-        'mwf'                      => ['application/vnd.mfer'],
-        'mxf'                      => ['application/mxf'],
-        'mxl'                      => ['application/vnd.recordare.musicxml'],
-        'mxml'                     => ['application/xv+xml'],
-        'mxs'                      => ['application/vnd.triscape.mxs'],
-        'mxu'                      => ['video/vnd.mpegurl'],
-        'n-gage'                   => ['application/vnd.nokia.n-gage.symbian.install'],
-        'n3'                       => ['text/n3'],
-        'nb'                       => ['application/mathematica'],
-        'nbp'                      => ['application/vnd.wolfram.player'],
-        'nc'                       => ['application/x-netcdf'],
-        'ncx'                      => ['application/x-dtbncx+xml'],
-        'nfo'                      => ['text/x-nfo'],
-        'ngdat'                    => ['application/vnd.nokia.n-gage.data'],
-        'nitf'                     => ['application/vnd.nitf'],
-        'nlu'                      => ['application/vnd.neurolanguage.nlu'],
-        'nml'                      => ['application/vnd.enliven'],
-        'nnd'                      => ['application/vnd.noblenet-directory'],
-        'nns'                      => ['application/vnd.noblenet-sealer'],
-        'nnw'                      => ['application/vnd.noblenet-web'],
-        'npx'                      => ['image/vnd.net-fpx'],
-        'nsc'                      => ['application/x-conference'],
-        'nsf'                      => ['application/vnd.lotus-notes'],
-        'ntf'                      => ['application/vnd.nitf'],
-        'numbers'                  => ['application/vnd.apple.numbers'],
-        'nzb'                      => ['application/x-nzb'],
-        'oa2'                      => ['application/vnd.fujitsu.oasys2'],
-        'oa3'                      => ['application/vnd.fujitsu.oasys3'],
-        'oas'                      => ['application/vnd.fujitsu.oasys'],
-        'obd'                      => ['application/x-msbinder'],
-        'obj'                      => ['application/x-tgif'],
-        'oda'                      => ['application/oda'],
-        'odb'                      => ['application/vnd.oasis.opendocument.database'],
-        'odc'                      => ['application/vnd.oasis.opendocument.chart'],
-        'odf'                      => ['application/vnd.oasis.opendocument.formula'],
-        'odft'                     => ['application/vnd.oasis.opendocument.formula-template'],
-        'odg'                      => ['application/vnd.oasis.opendocument.graphics'],
-        'odi'                      => ['application/vnd.oasis.opendocument.image'],
-        'odm'                      => ['application/vnd.oasis.opendocument.text-master'],
-        'odp'                      => ['application/vnd.oasis.opendocument.presentation'],
-        'ods'                      => ['application/vnd.oasis.opendocument.spreadsheet'],
-        'odt'                      => ['application/vnd.oasis.opendocument.text'],
-        'oga'                      => ['audio/ogg'],
-        'ogg'                      => ['audio/ogg'],
-        'ogv'                      => ['video/ogg'],
-        'ogx'                      => ['application/ogg'],
-        'omdoc'                    => ['application/omdoc+xml'],
-        'onepkg'                   => ['application/onenote'],
-        'onetmp'                   => ['application/onenote'],
-        'onetoc'                   => ['application/onenote'],
-        'onetoc2'                  => ['application/onenote'],
-        'opf'                      => ['application/oebps-package+xml'],
-        'opml'                     => ['text/x-opml'],
-        'oprc'                     => ['application/vnd.palm'],
-        'org'                      => ['application/vnd.lotus-organizer', 'text/x-org'],
-        'osf'                      => ['application/vnd.yamaha.openscoreformat'],
-        'osfpvg'                   => ['application/vnd.yamaha.openscoreformat.osfpvg+xml'],
-        'otc'                      => ['application/vnd.oasis.opendocument.chart-template'],
-        'otf'                      => ['font/otf'],
-        'otg'                      => ['application/vnd.oasis.opendocument.graphics-template'],
-        'oth'                      => ['application/vnd.oasis.opendocument.text-web'],
-        'oti'                      => ['application/vnd.oasis.opendocument.image-template'],
-        'otp'                      => ['application/vnd.oasis.opendocument.presentation-template'],
-        'ots'                      => ['application/vnd.oasis.opendocument.spreadsheet-template'],
-        'ott'                      => ['application/vnd.oasis.opendocument.text-template'],
-        'ova'                      => ['application/x-virtualbox-ova'],
-        'ovf'                      => ['application/x-virtualbox-ovf'],
-        'owl'                      => ['application/rdf+xml'],
-        'oxps'                     => ['application/oxps'],
-        'oxt'                      => ['application/vnd.openofficeorg.extension'],
-        'p'                        => ['text/x-pascal'],
-        'p10'                      => ['application/pkcs10'],
-        'p12'                      => ['application/x-pkcs12'],
-        'p7b'                      => ['application/x-pkcs7-certificates'],
-        'p7c'                      => ['application/pkcs7-mime'],
-        'p7m'                      => ['application/pkcs7-mime'],
-        'p7r'                      => ['application/x-pkcs7-certreqresp'],
-        'p7s'                      => ['application/pkcs7-signature'],
-        'p8'                       => ['application/pkcs8'],
-        'pac'                      => ['application/x-ns-proxy-autoconfig'],
-        'pages'                    => ['application/vnd.apple.pages'],
-        'pas'                      => ['text/x-pascal'],
-        'paw'                      => ['application/vnd.pawaafile'],
-        'pbd'                      => ['application/vnd.powerbuilder6'],
-        'pbm'                      => ['image/x-portable-bitmap'],
-        'pcap'                     => ['application/vnd.tcpdump.pcap'],
-        'pcf'                      => ['application/x-font-pcf'],
-        'pcl'                      => ['application/vnd.hp-pcl'],
-        'pclxl'                    => ['application/vnd.hp-pclxl'],
-        'pct'                      => ['image/x-pict'],
-        'pcurl'                    => ['application/vnd.curl.pcurl'],
-        'pcx'                      => ['image/vnd.zbrush.pcx', 'image/x-pcx'],
-        'pdb'                      => ['application/vnd.palm', 'application/x-pilot'],
-        'pde'                      => ['text/x-processing'],
-        'pdf'                      => ['application/pdf'],
-        'pem'                      => ['application/x-x509-ca-cert'],
-        'pfa'                      => ['application/x-font-type1'],
-        'pfb'                      => ['application/x-font-type1'],
-        'pfm'                      => ['application/x-font-type1'],
-        'pfr'                      => ['application/font-tdpfr'],
-        'pfx'                      => ['application/x-pkcs12'],
-        'pgm'                      => ['image/x-portable-graymap'],
-        'pgn'                      => ['application/x-chess-pgn'],
-        'pgp'                      => ['application/pgp-encrypted'],
-        'php'                      => ['application/x-httpd-php'],
-        'pic'                      => ['image/x-pict'],
-        'pkg'                      => ['application/octet-stream'],
-        'pki'                      => ['application/pkixcmp'],
-        'pkipath'                  => ['application/pkix-pkipath'],
-        'pkpass'                   => ['application/vnd.apple.pkpass'],
-        'pl'                       => ['application/x-perl'],
-        'plb'                      => ['application/vnd.3gpp.pic-bw-large'],
-        'plc'                      => ['application/vnd.mobius.plc'],
-        'plf'                      => ['application/vnd.pocketlearn'],
-        'pls'                      => ['application/pls+xml'],
-        'pm'                       => ['application/x-perl'],
-        'pml'                      => ['application/vnd.ctc-posml'],
-        'png'                      => ['image/png'],
-        'pnm'                      => ['image/x-portable-anymap'],
-        'portpkg'                  => ['application/vnd.macports.portpkg'],
-        'pot'                      => ['application/vnd.ms-powerpoint'],
-        'potm'                     => ['application/vnd.ms-powerpoint.template.macroenabled.12'],
-        'potx'                     => ['application/vnd.openxmlformats-officedocument.presentationml.template'],
-        'ppam'                     => ['application/vnd.ms-powerpoint.addin.macroenabled.12'],
-        'ppd'                      => ['application/vnd.cups-ppd'],
-        'ppm'                      => ['image/x-portable-pixmap'],
-        'pps'                      => ['application/vnd.ms-powerpoint'],
-        'ppsm'                     => ['application/vnd.ms-powerpoint.slideshow.macroenabled.12'],
-        'ppsx'                     => ['application/vnd.openxmlformats-officedocument.presentationml.slideshow'],
-        'ppt'                      => ['application/vnd.ms-powerpoint'],
-        'pptm'                     => ['application/vnd.ms-powerpoint.presentation.macroenabled.12'],
-        'pptx'                     => ['application/vnd.openxmlformats-officedocument.presentationml.presentation'],
-        'pqa'                      => ['application/vnd.palm'],
-        'prc'                      => ['application/x-mobipocket-ebook', 'application/x-pilot'],
-        'pre'                      => ['application/vnd.lotus-freelance'],
-        'prf'                      => ['application/pics-rules'],
-        'ps'                       => ['application/postscript'],
-        'psb'                      => ['application/vnd.3gpp.pic-bw-small'],
-        'psd'                      => ['image/vnd.adobe.photoshop'],
-        'psf'                      => ['application/x-font-linux-psf'],
-        'pskcxml'                  => ['application/pskc+xml'],
-        'pti'                      => ['image/prs.pti'],
-        'ptid'                     => ['application/vnd.pvi.ptid1'],
-        'pub'                      => ['application/x-mspublisher'],
-        'pvb'                      => ['application/vnd.3gpp.pic-bw-var'],
-        'pwn'                      => ['application/vnd.3m.post-it-notes'],
-        'pya'                      => ['audio/vnd.ms-playready.media.pya'],
-        'pyv'                      => ['video/vnd.ms-playready.media.pyv'],
-        'qam'                      => ['application/vnd.epson.quickanime'],
-        'qbo'                      => ['application/vnd.intu.qbo'],
-        'qfx'                      => ['application/vnd.intu.qfx'],
-        'qps'                      => ['application/vnd.publishare-delta-tree'],
-        'qt'                       => ['video/quicktime'],
-        'qwd'                      => ['application/vnd.quark.quarkxpress'],
-        'qwt'                      => ['application/vnd.quark.quarkxpress'],
-        'qxb'                      => ['application/vnd.quark.quarkxpress'],
-        'qxd'                      => ['application/vnd.quark.quarkxpress'],
-        'qxl'                      => ['application/vnd.quark.quarkxpress'],
-        'qxt'                      => ['application/vnd.quark.quarkxpress'],
-        'ra'                       => ['audio/x-pn-realaudio', 'audio/x-realaudio'],
-        'ram'                      => ['audio/x-pn-realaudio'],
-        'raml'                     => ['application/raml+yaml'],
-        'rar'                      => ['application/x-rar-compressed'],
-        'ras'                      => ['image/x-cmu-raster'],
-        'rcprofile'                => ['application/vnd.ipunplugged.rcprofile'],
-        'rdf'                      => ['application/rdf+xml'],
-        'rdz'                      => ['application/vnd.data-vision.rdz'],
-        'rep'                      => ['application/vnd.businessobjects'],
-        'res'                      => ['application/x-dtbresource+xml'],
-        'rgb'                      => ['image/x-rgb'],
-        'rif'                      => ['application/reginfo+xml'],
-        'rip'                      => ['audio/vnd.rip'],
-        'ris'                      => ['application/x-research-info-systems'],
-        'rl'                       => ['application/resource-lists+xml'],
-        'rlc'                      => ['image/vnd.fujixerox.edmics-rlc'],
-        'rld'                      => ['application/resource-lists-diff+xml'],
-        'rm'                       => ['application/vnd.rn-realmedia'],
-        'rmi'                      => ['audio/midi'],
-        'rmp'                      => ['audio/x-pn-realaudio-plugin'],
-        'rms'                      => ['application/vnd.jcp.javame.midlet-rms'],
-        'rmvb'                     => ['application/vnd.rn-realmedia-vbr'],
-        'rnc'                      => ['application/relax-ng-compact-syntax'],
-        'rng'                      => ['application/xml'],
-        'roa'                      => ['application/rpki-roa'],
-        'roff'                     => ['text/troff'],
-        'rp9'                      => ['application/vnd.cloanto.rp9'],
-        'rpm'                      => ['application/x-redhat-package-manager'],
-        'rpss'                     => ['application/vnd.nokia.radio-presets'],
-        'rpst'                     => ['application/vnd.nokia.radio-preset'],
-        'rq'                       => ['application/sparql-query'],
-        'rs'                       => ['application/rls-services+xml'],
-        'rsd'                      => ['application/rsd+xml'],
-        'rss'                      => ['application/rss+xml'],
-        'rtf'                      => ['application/rtf', 'text/rtf'],
-        'rtx'                      => ['text/richtext'],
-        'run'                      => ['application/x-makeself'],
-        's'                        => ['text/x-asm'],
-        's3m'                      => ['audio/s3m'],
-        'saf'                      => ['application/vnd.yamaha.smaf-audio'],
-        'sass'                     => ['text/x-sass'],
-        'sbml'                     => ['application/sbml+xml'],
-        'sc'                       => ['application/vnd.ibm.secure-container'],
-        'scd'                      => ['application/x-msschedule'],
-        'scm'                      => ['application/vnd.lotus-screencam'],
-        'scq'                      => ['application/scvp-cv-request'],
-        'scs'                      => ['application/scvp-cv-response'],
-        'scss'                     => ['text/x-scss'],
-        'scurl'                    => ['text/vnd.curl.scurl'],
-        'sda'                      => ['application/vnd.stardivision.draw'],
-        'sdc'                      => ['application/vnd.stardivision.calc'],
-        'sdd'                      => ['application/vnd.stardivision.impress'],
-        'sdkd'                     => ['application/vnd.solent.sdkm+xml'],
-        'sdkm'                     => ['application/vnd.solent.sdkm+xml'],
-        'sdp'                      => ['application/sdp'],
-        'sdw'                      => ['application/vnd.stardivision.writer'],
-        'sea'                      => ['application/x-sea'],
-        'see'                      => ['application/vnd.seemail'],
-        'seed'                     => ['application/vnd.fdsn.seed'],
-        'sema'                     => ['application/vnd.sema'],
-        'semd'                     => ['application/vnd.semd'],
-        'semf'                     => ['application/vnd.semf'],
-        'ser'                      => ['application/java-serialized-object'],
-        'setpay'                   => ['application/set-payment-initiation'],
-        'setreg'                   => ['application/set-registration-initiation'],
-        'sfd-hdstx'                => ['application/vnd.hydrostatix.sof-data'],
-        'sfs'                      => ['application/vnd.spotfire.sfs'],
-        'sfv'                      => ['text/x-sfv'],
-        'sgi'                      => ['image/sgi'],
-        'sgl'                      => ['application/vnd.stardivision.writer-global'],
-        'sgm'                      => ['text/sgml'],
-        'sgml'                     => ['text/sgml'],
-        'sh'                       => ['application/x-sh'],
-        'shar'                     => ['application/x-shar'],
-        'shex'                     => ['text/shex'],
-        'shf'                      => ['application/shf+xml'],
-        'shtml'                    => ['text/html'],
-        'sid'                      => ['image/x-mrsid-image'],
-        'sig'                      => ['application/pgp-signature'],
-        'sil'                      => ['audio/silk'],
-        'silo'                     => ['model/mesh'],
-        'sis'                      => ['application/vnd.symbian.install'],
-        'sisx'                     => ['application/vnd.symbian.install'],
-        'sit'                      => ['application/x-stuffit'],
-        'sitx'                     => ['application/x-stuffitx'],
-        'skd'                      => ['application/vnd.koan'],
-        'skm'                      => ['application/vnd.koan'],
-        'skp'                      => ['application/vnd.koan'],
-        'skt'                      => ['application/vnd.koan'],
-        'sldm'                     => ['application/vnd.ms-powerpoint.slide.macroenabled.12'],
-        'sldx'                     => ['application/vnd.openxmlformats-officedocument.presentationml.slide'],
-        'slim'                     => ['text/slim'],
-        'slm'                      => ['text/slim'],
-        'slt'                      => ['application/vnd.epson.salt'],
-        'sm'                       => ['application/vnd.stepmania.stepchart'],
-        'smf'                      => ['application/vnd.stardivision.math'],
-        'smi'                      => ['application/smil+xml'],
-        'smil'                     => ['application/smil+xml'],
-        'smv'                      => ['video/x-smv'],
-        'smzip'                    => ['application/vnd.stepmania.package'],
-        'snd'                      => ['audio/basic'],
-        'snf'                      => ['application/x-font-snf'],
-        'so'                       => ['application/octet-stream'],
-        'spc'                      => ['application/x-pkcs7-certificates'],
-        'spf'                      => ['application/vnd.yamaha.smaf-phrase'],
-        'spl'                      => ['application/x-futuresplash'],
-        'spot'                     => ['text/vnd.in3d.spot'],
-        'spp'                      => ['application/scvp-vp-response'],
-        'spq'                      => ['application/scvp-vp-request'],
-        'spx'                      => ['audio/ogg'],
-        'sql'                      => ['application/x-sql'],
-        'src'                      => ['application/x-wais-source'],
-        'srt'                      => ['application/x-subrip'],
-        'sru'                      => ['application/sru+xml'],
-        'srx'                      => ['application/sparql-results+xml'],
-        'ssdl'                     => ['application/ssdl+xml'],
-        'sse'                      => ['application/vnd.kodak-descriptor'],
-        'ssf'                      => ['application/vnd.epson.ssf'],
-        'ssml'                     => ['application/ssml+xml'],
-        'st'                       => ['application/vnd.sailingtracker.track'],
-        'stc'                      => ['application/vnd.sun.xml.calc.template'],
-        'std'                      => ['application/vnd.sun.xml.draw.template'],
-        'stf'                      => ['application/vnd.wt.stf'],
-        'sti'                      => ['application/vnd.sun.xml.impress.template'],
-        'stk'                      => ['application/hyperstudio'],
-        'stl'                      => ['application/vnd.ms-pki.stl'],
-        'str'                      => ['application/vnd.pg.format'],
-        'stw'                      => ['application/vnd.sun.xml.writer.template'],
-        'styl'                     => ['text/stylus'],
-        'stylus'                   => ['text/stylus'],
-        'sub'                      => ['image/vnd.dvb.subtitle', 'text/vnd.dvb.subtitle'],
-        'sus'                      => ['application/vnd.sus-calendar'],
-        'susp'                     => ['application/vnd.sus-calendar'],
-        'sv4cpio'                  => ['application/x-sv4cpio'],
-        'sv4crc'                   => ['application/x-sv4crc'],
-        'svc'                      => ['application/vnd.dvb.service'],
-        'svd'                      => ['application/vnd.svd'],
-        'svg'                      => ['image/svg+xml'],
-        'svgz'                     => ['image/svg+xml'],
-        'swa'                      => ['application/x-director'],
-        'swf'                      => ['application/x-shockwave-flash'],
-        'swi'                      => ['application/vnd.aristanetworks.swi'],
-        'sxc'                      => ['application/vnd.sun.xml.calc'],
-        'sxd'                      => ['application/vnd.sun.xml.draw'],
-        'sxg'                      => ['application/vnd.sun.xml.writer.global'],
-        'sxi'                      => ['application/vnd.sun.xml.impress'],
-        'sxm'                      => ['application/vnd.sun.xml.math'],
-        'sxw'                      => ['application/vnd.sun.xml.writer'],
-        't'                        => ['text/troff'],
-        't3'                       => ['application/x-t3vm-image'],
-        't38'                      => ['image/t38'],
-        'taglet'                   => ['application/vnd.mynfc'],
-        'tao'                      => ['application/vnd.tao.intent-module-archive'],
-        'tap'                      => ['image/vnd.tencent.tap'],
-        'tar'                      => ['application/x-tar'],
-        'tcap'                     => ['application/vnd.3gpp2.tcap'],
-        'tcl'                      => ['application/x-tcl'],
-        'teacher'                  => ['application/vnd.smart.teacher'],
-        'tei'                      => ['application/tei+xml'],
-        'teicorpus'                => ['application/tei+xml'],
-        'tex'                      => ['application/x-tex'],
-        'texi'                     => ['application/x-texinfo'],
-        'texinfo'                  => ['application/x-texinfo'],
-        'text'                     => ['text/plain'],
-        'tfi'                      => ['application/thraud+xml'],
-        'tfm'                      => ['application/x-tex-tfm'],
-        'tfx'                      => ['image/tiff-fx'],
-        'tga'                      => ['image/x-tga'],
-        'thmx'                     => ['application/vnd.ms-officetheme'],
-        'tif'                      => ['image/tiff'],
-        'tiff'                     => ['image/tiff'],
-        'tk'                       => ['application/x-tcl'],
-        'tmo'                      => ['application/vnd.tmobile-livetv'],
-        'torrent'                  => ['application/x-bittorrent'],
-        'tpl'                      => ['application/vnd.groove-tool-template'],
-        'tpt'                      => ['application/vnd.trid.tpt'],
-        'tr'                       => ['text/troff'],
-        'tra'                      => ['application/vnd.trueapp'],
-        'trm'                      => ['application/x-msterminal'],
-        'ts'                       => ['video/mp2t'],
-        'tsd'                      => ['application/timestamped-data'],
-        'tsv'                      => ['text/tab-separated-values'],
-        'ttc'                      => ['font/collection'],
-        'ttf'                      => ['font/ttf'],
-        'ttl'                      => ['text/turtle'],
-        'twd'                      => ['application/vnd.simtech-mindmapper'],
-        'twds'                     => ['application/vnd.simtech-mindmapper'],
-        'txd'                      => ['application/vnd.genomatix.tuxedo'],
-        'txf'                      => ['application/vnd.mobius.txf'],
-        'txt'                      => ['text/plain'],
-        'u32'                      => ['application/x-authorware-bin'],
-        'u8dsn'                    => ['message/global-delivery-status'],
-        'u8hdr'                    => ['message/global-headers'],
-        'u8mdn'                    => ['message/global-disposition-notification'],
-        'u8msg'                    => ['message/global'],
-        'udeb'                     => ['application/x-debian-package'],
-        'ufd'                      => ['application/vnd.ufdl'],
-        'ufdl'                     => ['application/vnd.ufdl'],
-        'ulx'                      => ['application/x-glulx'],
-        'umj'                      => ['application/vnd.umajin'],
-        'unityweb'                 => ['application/vnd.unity'],
-        'uoml'                     => ['application/vnd.uoml+xml'],
-        'uri'                      => ['text/uri-list'],
-        'uris'                     => ['text/uri-list'],
-        'urls'                     => ['text/uri-list'],
-        'ustar'                    => ['application/x-ustar'],
-        'utz'                      => ['application/vnd.uiq.theme'],
-        'uu'                       => ['text/x-uuencode'],
-        'uva'                      => ['audio/vnd.dece.audio'],
-        'uvd'                      => ['application/vnd.dece.data'],
-        'uvf'                      => ['application/vnd.dece.data'],
-        'uvg'                      => ['image/vnd.dece.graphic'],
-        'uvh'                      => ['video/vnd.dece.hd'],
-        'uvi'                      => ['image/vnd.dece.graphic'],
-        'uvm'                      => ['video/vnd.dece.mobile'],
-        'uvp'                      => ['video/vnd.dece.pd'],
-        'uvs'                      => ['video/vnd.dece.sd'],
-        'uvt'                      => ['application/vnd.dece.ttml+xml'],
-        'uvu'                      => ['video/vnd.uvvu.mp4'],
-        'uvv'                      => ['video/vnd.dece.video'],
-        'uvva'                     => ['audio/vnd.dece.audio'],
-        'uvvd'                     => ['application/vnd.dece.data'],
-        'uvvf'                     => ['application/vnd.dece.data'],
-        'uvvg'                     => ['image/vnd.dece.graphic'],
-        'uvvh'                     => ['video/vnd.dece.hd'],
-        'uvvi'                     => ['image/vnd.dece.graphic'],
-        'uvvm'                     => ['video/vnd.dece.mobile'],
-        'uvvp'                     => ['video/vnd.dece.pd'],
-        'uvvs'                     => ['video/vnd.dece.sd'],
-        'uvvt'                     => ['application/vnd.dece.ttml+xml'],
-        'uvvu'                     => ['video/vnd.uvvu.mp4'],
-        'uvvv'                     => ['video/vnd.dece.video'],
-        'uvvx'                     => ['application/vnd.dece.unspecified'],
-        'uvvz'                     => ['application/vnd.dece.zip'],
-        'uvx'                      => ['application/vnd.dece.unspecified'],
-        'uvz'                      => ['application/vnd.dece.zip'],
-        'vbox'                     => ['application/x-virtualbox-vbox'],
-        'vbox-extpack'             => ['application/x-virtualbox-vbox-extpack'],
-        'vcard'                    => ['text/vcard'],
-        'vcd'                      => ['application/x-cdlink'],
-        'vcf'                      => ['text/x-vcard'],
-        'vcg'                      => ['application/vnd.groove-vcard'],
-        'vcs'                      => ['text/x-vcalendar'],
-        'vcx'                      => ['application/vnd.vcx'],
-        'vdi'                      => ['application/x-virtualbox-vdi'],
-        'vhd'                      => ['application/x-virtualbox-vhd'],
-        'vis'                      => ['application/vnd.visionary'],
-        'viv'                      => ['video/vnd.vivo'],
-        'vmdk'                     => ['application/x-virtualbox-vmdk'],
-        'vob'                      => ['video/x-ms-vob'],
-        'vor'                      => ['application/vnd.stardivision.writer'],
-        'vox'                      => ['application/x-authorware-bin'],
-        'vrml'                     => ['model/vrml'],
-        'vsd'                      => ['application/vnd.visio'],
-        'vsf'                      => ['application/vnd.vsf'],
-        'vss'                      => ['application/vnd.visio'],
-        'vst'                      => ['application/vnd.visio'],
-        'vsw'                      => ['application/vnd.visio'],
-        'vtf'                      => ['image/vnd.valve.source.texture'],
-        'vtt'                      => ['text/vtt'],
-        'vtu'                      => ['model/vnd.vtu'],
-        'vxml'                     => ['application/voicexml+xml'],
-        'w3d'                      => ['application/x-director'],
-        'wad'                      => ['application/x-doom'],
-        'wadl'                     => ['application/vnd.sun.wadl+xml'],
-        'war'                      => ['application/java-archive'],
-        'wasm'                     => ['application/wasm'],
-        'wav'                      => ['audio/wav', 'audio/wave', 'audio/x-wav'],
-        'wax'                      => ['audio/x-ms-wax'],
-        'wbmp'                     => ['image/vnd.wap.wbmp'],
-        'wbs'                      => ['application/vnd.criticaltools.wbs+xml'],
-        'wbxml'                    => ['application/vnd.wap.wbxml'],
-        'wcm'                      => ['application/vnd.ms-works'],
-        'wdb'                      => ['application/vnd.ms-works'],
-        'wdp'                      => ['image/vnd.ms-photo'],
-        'weba'                     => ['audio/webm'],
-        'webapp'                   => ['application/x-web-app-manifest+json'],
-        'webm'                     => ['video/webm'],
-        'webmanifest'              => ['application/manifest+json'],
-        'webp'                     => ['image/webp'],
-        'wg'                       => ['application/vnd.pmi.widget'],
-        'wgt'                      => ['application/widget'],
-        'wks'                      => ['application/vnd.ms-works'],
-        'wm'                       => ['video/x-ms-wm'],
-        'wma'                      => ['audio/x-ms-wma'],
-        'wmd'                      => ['application/x-ms-wmd'],
-        'wmf'                      => ['application/x-msmetafile', 'image/wmf'],
-        'wml'                      => ['text/vnd.wap.wml'],
-        'wmlc'                     => ['application/vnd.wap.wmlc'],
-        'wmls'                     => ['text/vnd.wap.wmlscript'],
-        'wmlsc'                    => ['application/vnd.wap.wmlscriptc'],
-        'wmv'                      => ['video/x-ms-wmv'],
-        'wmx'                      => ['video/x-ms-wmx'],
-        'wmz'                      => ['application/x-ms-wmz', 'application/x-msmetafile'],
-        'woff'                     => ['font/woff'],
-        'woff2'                    => ['font/woff2'],
-        'wpd'                      => ['application/vnd.wordperfect'],
-        'wpl'                      => ['application/vnd.ms-wpl'],
-        'wps'                      => ['application/vnd.ms-works'],
-        'wqd'                      => ['application/vnd.wqd'],
-        'wri'                      => ['application/x-mswrite'],
-        'wrl'                      => ['model/vrml'],
-        'wsc'                      => ['message/vnd.wfa.wsc'],
-        'wsdl'                     => ['application/wsdl+xml'],
-        'wspolicy'                 => ['application/wspolicy+xml'],
-        'wtb'                      => ['application/vnd.webturbo'],
-        'wvx'                      => ['video/x-ms-wvx'],
-        'x32'                      => ['application/x-authorware-bin'],
-        'x3d'                      => ['model/x3d+xml'],
-        'x3db'                     => ['model/x3d+binary'],
-        'x3dbz'                    => ['model/x3d+binary'],
-        'x3dv'                     => ['model/x3d+vrml'],
-        'x3dvz'                    => ['model/x3d+vrml'],
-        'x3dz'                     => ['model/x3d+xml'],
-        'xaml'                     => ['application/xaml+xml'],
-        'xap'                      => ['application/x-silverlight-app'],
-        'xar'                      => ['application/vnd.xara'],
-        'xbap'                     => ['application/x-ms-xbap'],
-        'xbd'                      => ['application/vnd.fujixerox.docuworks.binder'],
-        'xbm'                      => ['image/x-xbitmap'],
-        'xdf'                      => ['application/xcap-diff+xml'],
-        'xdm'                      => ['application/vnd.syncml.dm+xml'],
-        'xdp'                      => ['application/vnd.adobe.xdp+xml'],
-        'xdssc'                    => ['application/dssc+xml'],
-        'xdw'                      => ['application/vnd.fujixerox.docuworks'],
-        'xenc'                     => ['application/xenc+xml'],
-        'xer'                      => ['application/patch-ops-error+xml'],
-        'xfdf'                     => ['application/vnd.adobe.xfdf'],
-        'xfdl'                     => ['application/vnd.xfdl'],
-        'xht'                      => ['application/xhtml+xml'],
-        'xhtml'                    => ['application/xhtml+xml'],
-        'xhvml'                    => ['application/xv+xml'],
-        'xif'                      => ['image/vnd.xiff'],
-        'xla'                      => ['application/vnd.ms-excel'],
-        'xlam'                     => ['application/vnd.ms-excel.addin.macroenabled.12'],
-        'xlc'                      => ['application/vnd.ms-excel'],
-        'xlf'                      => ['application/x-xliff+xml'],
-        'xlm'                      => ['application/vnd.ms-excel'],
-        'xls'                      => ['application/vnd.ms-excel'],
-        'xlsb'                     => ['application/vnd.ms-excel.sheet.binary.macroenabled.12'],
-        'xlsm'                     => ['application/vnd.ms-excel.sheet.macroenabled.12'],
-        'xlsx'                     => ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'],
-        'xlt'                      => ['application/vnd.ms-excel'],
-        'xltm'                     => ['application/vnd.ms-excel.template.macroenabled.12'],
-        'xltx'                     => ['application/vnd.openxmlformats-officedocument.spreadsheetml.template'],
-        'xlw'                      => ['application/vnd.ms-excel'],
-        'xm'                       => ['audio/xm'],
-        'xml'                      => ['application/xml', 'text/xml'],
-        'xo'                       => ['application/vnd.olpc-sugar'],
-        'xop'                      => ['application/xop+xml'],
-        'xpi'                      => ['application/x-xpinstall'],
-        'xpl'                      => ['application/xproc+xml'],
-        'xpm'                      => ['image/x-xpixmap'],
-        'xpr'                      => ['application/vnd.is-xpr'],
-        'xps'                      => ['application/vnd.ms-xpsdocument'],
-        'xpw'                      => ['application/vnd.intercon.formnet'],
-        'xpx'                      => ['application/vnd.intercon.formnet'],
-        'xsd'                      => ['application/xml'],
-        'xsl'                      => ['application/xml'],
-        'xslt'                     => ['application/xslt+xml'],
-        'xsm'                      => ['application/vnd.syncml+xml'],
-        'xspf'                     => ['application/xspf+xml'],
-        'xul'                      => ['application/vnd.mozilla.xul+xml'],
-        'xvm'                      => ['application/xv+xml'],
-        'xvml'                     => ['application/xv+xml'],
-        'xwd'                      => ['image/x-xwindowdump'],
-        'xyz'                      => ['chemical/x-xyz'],
-        'xz'                       => ['application/x-xz'],
-        'yaml'                     => ['text/yaml'],
-        'yang'                     => ['application/yang'],
-        'yin'                      => ['application/yin+xml'],
-        'yml'                      => ['text/yaml'],
-        'ymp'                      => ['text/x-suse-ymp'],
-        'z1'                       => ['application/x-zmachine'],
-        'z2'                       => ['application/x-zmachine'],
-        'z3'                       => ['application/x-zmachine'],
-        'z4'                       => ['application/x-zmachine'],
-        'z5'                       => ['application/x-zmachine'],
-        'z6'                       => ['application/x-zmachine'],
-        'z7'                       => ['application/x-zmachine'],
-        'z8'                       => ['application/x-zmachine'],
-        'zaz'                      => ['application/vnd.zzazz.deck+xml'],
-        'zip'                      => ['application/zip'],
-        'zir'                      => ['application/vnd.zul'],
-        'zirz'                     => ['application/vnd.zul'],
-        'zmm'                      => ['application/vnd.handheld-entertainment+xml'],
-        '123'                      => ['application/vnd.lotus-1-2-3'],
-    ];
-    // <-- extensions end --> \\
+    '3dml' =>  ['text/vnd.in3d.3dml'],
+    '3ds' =>  ['image/x-3ds'],
+    '3g2' =>  ['video/3gpp2'],
+    '3gp' =>  ['video/3gpp'],
+    '3gpp' =>  ['audio/3gpp','video/3gpp'],
+    '7z' =>  ['application/x-7z-compressed'],
+    'aab' =>  ['application/x-authorware-bin'],
+    'aac' =>  ['audio/x-aac'],
+    'aam' =>  ['application/x-authorware-map'],
+    'aas' =>  ['application/x-authorware-seg'],
+    'abw' =>  ['application/x-abiword'],
+    'ac' =>  ['application/pkix-attr-cert'],
+    'acc' =>  ['application/vnd.americandynamics.acc'],
+    'ace' =>  ['application/x-ace-compressed'],
+    'acu' =>  ['application/vnd.acucobol'],
+    'acutc' =>  ['application/vnd.acucorp'],
+    'adp' =>  ['audio/adpcm'],
+    'aep' =>  ['application/vnd.audiograph'],
+    'afm' =>  ['application/x-font-type1'],
+    'afp' =>  ['application/vnd.ibm.modcap'],
+    'ahead' =>  ['application/vnd.ahead.space'],
+    'ai' =>  ['application/postscript'],
+    'aif' =>  ['audio/x-aiff'],
+    'aifc' =>  ['audio/x-aiff'],
+    'aiff' =>  ['audio/x-aiff'],
+    'air' =>  ['application/vnd.adobe.air-application-installer-package+zip'],
+    'ait' =>  ['application/vnd.dvb.ait'],
+    'ami' =>  ['application/vnd.amiga.ami'],
+    'apk' =>  ['application/vnd.android.package-archive'],
+    'apng' =>  ['image/apng'],
+    'appcache' =>  ['text/cache-manifest'],
+    'application' =>  ['application/x-ms-application'],
+    'apr' =>  ['application/vnd.lotus-approach'],
+    'arc' =>  ['application/x-freearc'],
+    'arj' =>  ['application/x-arj'],
+    'asc' =>  ['application/pgp-signature'],
+    'asf' =>  ['video/x-ms-asf'],
+    'asm' =>  ['text/x-asm'],
+    'aso' =>  ['application/vnd.accpac.simply.aso'],
+    'asx' =>  ['video/x-ms-asf'],
+    'atc' =>  ['application/vnd.acucorp'],
+    'atom' =>  ['application/atom+xml'],
+    'atomcat' =>  ['application/atomcat+xml'],
+    'atomsvc' =>  ['application/atomsvc+xml'],
+    'atx' =>  ['application/vnd.antix.game-component'],
+    'au' =>  ['audio/basic'],
+    'avi' =>  ['video/x-msvideo'],
+    'aw' =>  ['application/applixware'],
+    'azf' =>  ['application/vnd.airzip.filesecure.azf'],
+    'azs' =>  ['application/vnd.airzip.filesecure.azs'],
+    'azv' =>  ['image/vnd.airzip.accelerator.azv'],
+    'azw' =>  ['application/vnd.amazon.ebook'],
+    'bat' =>  ['application/x-msdownload'],
+    'bcpio' =>  ['application/x-bcpio'],
+    'bdf' =>  ['application/x-font-bdf'],
+    'bdm' =>  ['application/vnd.syncml.dm+wbxml'],
+    'bdoc' =>  ['application/bdoc','application/x-bdoc'],
+    'bed' =>  ['application/vnd.realvnc.bed'],
+    'bh2' =>  ['application/vnd.fujitsu.oasysprs'],
+    'bin' =>  ['application/octet-stream'],
+    'blb' =>  ['application/x-blorb'],
+    'blorb' =>  ['application/x-blorb'],
+    'bmi' =>  ['application/vnd.bmi'],
+    'bmp' =>  ['image/bmp','image/x-ms-bmp'],
+    'book' =>  ['application/vnd.framemaker'],
+    'box' =>  ['application/vnd.previewsystems.box'],
+    'boz' =>  ['application/x-bzip2'],
+    'bpk' =>  ['application/octet-stream'],
+    'btif' =>  ['image/prs.btif'],
+    'buffer' =>  ['application/octet-stream'],
+    'bz' =>  ['application/x-bzip'],
+    'bz2' =>  ['application/x-bzip2'],
+    'c' =>  ['text/x-c'],
+    'c11amc' =>  ['application/vnd.cluetrust.cartomobile-config'],
+    'c11amz' =>  ['application/vnd.cluetrust.cartomobile-config-pkg'],
+    'c4d' =>  ['application/vnd.clonk.c4group'],
+    'c4f' =>  ['application/vnd.clonk.c4group'],
+    'c4g' =>  ['application/vnd.clonk.c4group'],
+    'c4p' =>  ['application/vnd.clonk.c4group'],
+    'c4u' =>  ['application/vnd.clonk.c4group'],
+    'cab' =>  ['application/vnd.ms-cab-compressed'],
+    'caf' =>  ['audio/x-caf'],
+    'cap' =>  ['application/vnd.tcpdump.pcap'],
+    'car' =>  ['application/vnd.curl.car'],
+    'cat' =>  ['application/vnd.ms-pki.seccat'],
+    'cb7' =>  ['application/x-cbr'],
+    'cba' =>  ['application/x-cbr'],
+    'cbr' =>  ['application/x-cbr'],
+    'cbt' =>  ['application/x-cbr'],
+    'cbz' =>  ['application/x-cbr'],
+    'cc' =>  ['text/x-c'],
+    'cco' =>  ['application/x-cocoa'],
+    'cct' =>  ['application/x-director'],
+    'ccxml' =>  ['application/ccxml+xml'],
+    'cdbcmsg' =>  ['application/vnd.contact.cmsg'],
+    'cdf' =>  ['application/x-netcdf'],
+    'cdkey' =>  ['application/vnd.mediastation.cdkey'],
+    'cdmia' =>  ['application/cdmi-capability'],
+    'cdmic' =>  ['application/cdmi-container'],
+    'cdmid' =>  ['application/cdmi-domain'],
+    'cdmio' =>  ['application/cdmi-object'],
+    'cdmiq' =>  ['application/cdmi-queue'],
+    'cdx' =>  ['chemical/x-cdx'],
+    'cdxml' =>  ['application/vnd.chemdraw+xml'],
+    'cdy' =>  ['application/vnd.cinderella'],
+    'cer' =>  ['application/pkix-cert'],
+    'cfs' =>  ['application/x-cfs-compressed'],
+    'cgm' =>  ['image/cgm'],
+    'chat' =>  ['application/x-chat'],
+    'chm' =>  ['application/vnd.ms-htmlhelp'],
+    'chrt' =>  ['application/vnd.kde.kchart'],
+    'cif' =>  ['chemical/x-cif'],
+    'cii' =>  ['application/vnd.anser-web-certificate-issue-initiation'],
+    'cil' =>  ['application/vnd.ms-artgalry'],
+    'cla' =>  ['application/vnd.claymore'],
+    'class' =>  ['application/java-vm'],
+    'clkk' =>  ['application/vnd.crick.clicker.keyboard'],
+    'clkp' =>  ['application/vnd.crick.clicker.palette'],
+    'clkt' =>  ['application/vnd.crick.clicker.template'],
+    'clkw' =>  ['application/vnd.crick.clicker.wordbank'],
+    'clkx' =>  ['application/vnd.crick.clicker'],
+    'clp' =>  ['application/x-msclip'],
+    'cmc' =>  ['application/vnd.cosmocaller'],
+    'cmdf' =>  ['chemical/x-cmdf'],
+    'cml' =>  ['chemical/x-cml'],
+    'cmp' =>  ['application/vnd.yellowriver-custom-menu'],
+    'cmx' =>  ['image/x-cmx'],
+    'cod' =>  ['application/vnd.rim.cod'],
+    'coffee' =>  ['text/coffeescript'],
+    'com' =>  ['application/x-msdownload'],
+    'conf' =>  ['text/plain'],
+    'cpio' =>  ['application/x-cpio'],
+    'cpp' =>  ['text/x-c'],
+    'cpt' =>  ['application/mac-compactpro'],
+    'crd' =>  ['application/x-mscardfile'],
+    'crl' =>  ['application/pkix-crl'],
+    'crt' =>  ['application/x-x509-ca-cert'],
+    'crx' =>  ['application/x-chrome-extension'],
+    'cryptonote' =>  ['application/vnd.rig.cryptonote'],
+    'csh' =>  ['application/x-csh'],
+    'csl' =>  ['application/vnd.citationstyles.style+xml'],
+    'csml' =>  ['chemical/x-csml'],
+    'csp' =>  ['application/vnd.commonspace'],
+    'css' =>  ['text/css'],
+    'cst' =>  ['application/x-director'],
+    'csv' =>  ['text/csv'],
+    'cu' =>  ['application/cu-seeme'],
+    'curl' =>  ['text/vnd.curl'],
+    'cww' =>  ['application/prs.cww'],
+    'cxt' =>  ['application/x-director'],
+    'cxx' =>  ['text/x-c'],
+    'dae' =>  ['model/vnd.collada+xml'],
+    'daf' =>  ['application/vnd.mobius.daf'],
+    'dart' =>  ['application/vnd.dart'],
+    'dataless' =>  ['application/vnd.fdsn.seed'],
+    'davmount' =>  ['application/davmount+xml'],
+    'dbk' =>  ['application/docbook+xml'],
+    'dcr' =>  ['application/x-director'],
+    'dcurl' =>  ['text/vnd.curl.dcurl'],
+    'dd2' =>  ['application/vnd.oma.dd2+xml'],
+    'ddd' =>  ['application/vnd.fujixerox.ddd'],
+    'deb' =>  ['application/octet-stream','application/x-debian-package'],
+    'def' =>  ['text/plain'],
+    'deploy' =>  ['application/octet-stream'],
+    'der' =>  ['application/x-x509-ca-cert'],
+    'dfac' =>  ['application/vnd.dreamfactory'],
+    'dgc' =>  ['application/x-dgc-compressed'],
+    'dic' =>  ['text/x-c'],
+    'dir' =>  ['application/x-director'],
+    'dis' =>  ['application/vnd.mobius.dis'],
+    'disposition-notification' =>  ['message/disposition-notification'],
+    'dist' =>  ['application/octet-stream'],
+    'distz' =>  ['application/octet-stream'],
+    'djv' =>  ['image/vnd.djvu'],
+    'djvu' =>  ['image/vnd.djvu'],
+    'dll' =>  ['application/octet-stream','application/x-msdownload'],
+    'dmg' =>  ['application/octet-stream','application/x-apple-diskimage'],
+    'dmp' =>  ['application/vnd.tcpdump.pcap'],
+    'dms' =>  ['application/octet-stream'],
+    'dna' =>  ['application/vnd.dna'],
+    'doc' =>  ['application/msword'],
+    'docm' =>  ['application/vnd.ms-word.document.macroenabled.12'],
+    'docx' =>  ['application/vnd.openxmlformats-officedocument.wordprocessingml.document'],
+    'dot' =>  ['application/msword'],
+    'dotm' =>  ['application/vnd.ms-word.template.macroenabled.12'],
+    'dotx' =>  ['application/vnd.openxmlformats-officedocument.wordprocessingml.template'],
+    'dp' =>  ['application/vnd.osgi.dp'],
+    'dpg' =>  ['application/vnd.dpgraph'],
+    'dra' =>  ['audio/vnd.dra'],
+    'drle' =>  ['image/dicom-rle'],
+    'dsc' =>  ['text/prs.lines.tag'],
+    'dssc' =>  ['application/dssc+der'],
+    'dtb' =>  ['application/x-dtbook+xml'],
+    'dtd' =>  ['application/xml-dtd'],
+    'dts' =>  ['audio/vnd.dts'],
+    'dtshd' =>  ['audio/vnd.dts.hd'],
+    'dump' =>  ['application/octet-stream'],
+    'dvb' =>  ['video/vnd.dvb.file'],
+    'dvi' =>  ['application/x-dvi'],
+    'dwf' =>  ['model/vnd.dwf'],
+    'dwg' =>  ['image/vnd.dwg'],
+    'dxf' =>  ['image/vnd.dxf'],
+    'dxp' =>  ['application/vnd.spotfire.dxp'],
+    'dxr' =>  ['application/x-director'],
+    'ear' =>  ['application/java-archive'],
+    'ecelp4800' =>  ['audio/vnd.nuera.ecelp4800'],
+    'ecelp7470' =>  ['audio/vnd.nuera.ecelp7470'],
+    'ecelp9600' =>  ['audio/vnd.nuera.ecelp9600'],
+    'ecma' =>  ['application/ecmascript'],
+    'edm' =>  ['application/vnd.novadigm.edm'],
+    'edx' =>  ['application/vnd.novadigm.edx'],
+    'efif' =>  ['application/vnd.picsel'],
+    'ei6' =>  ['application/vnd.pg.osasli'],
+    'elc' =>  ['application/octet-stream'],
+    'emf' =>  ['application/x-msmetafile','image/emf'],
+    'eml' =>  ['message/rfc822'],
+    'emma' =>  ['application/emma+xml'],
+    'emz' =>  ['application/x-msmetafile'],
+    'eol' =>  ['audio/vnd.digital-winds'],
+    'eot' =>  ['application/vnd.ms-fontobject'],
+    'eps' =>  ['application/postscript'],
+    'epub' =>  ['application/epub+zip'],
+    'es' =>  ['application/ecmascript'],
+    'es3' =>  ['application/vnd.eszigno3+xml'],
+    'esa' =>  ['application/vnd.osgi.subsystem'],
+    'esf' =>  ['application/vnd.epson.esf'],
+    'et3' =>  ['application/vnd.eszigno3+xml'],
+    'etx' =>  ['text/x-setext'],
+    'eva' =>  ['application/x-eva'],
+    'evy' =>  ['application/x-envoy'],
+    'exe' =>  ['application/octet-stream','application/x-msdos-program','application/x-msdownload'],
+    'exi' =>  ['application/exi'],
+    'exr' =>  ['image/aces'],
+    'ext' =>  ['application/vnd.novadigm.ext'],
+    'ez' =>  ['application/andrew-inset'],
+    'ez2' =>  ['application/vnd.ezpix-album'],
+    'ez3' =>  ['application/vnd.ezpix-package'],
+    'f' =>  ['text/x-fortran'],
+    'f4v' =>  ['video/x-f4v'],
+    'f77' =>  ['text/x-fortran'],
+    'f90' =>  ['text/x-fortran'],
+    'fbs' =>  ['image/vnd.fastbidsheet'],
+    'fcdt' =>  ['application/vnd.adobe.formscentral.fcdt'],
+    'fcs' =>  ['application/vnd.isac.fcs'],
+    'fdf' =>  ['application/vnd.fdf'],
+    'fe_launch' =>  ['application/vnd.denovo.fcselayout-link'],
+    'fg5' =>  ['application/vnd.fujitsu.oasysgp'],
+    'fgd' =>  ['application/x-director'],
+    'fh' =>  ['image/x-freehand'],
+    'fh4' =>  ['image/x-freehand'],
+    'fh5' =>  ['image/x-freehand'],
+    'fh7' =>  ['image/x-freehand'],
+    'fhc' =>  ['image/x-freehand'],
+    'fig' =>  ['application/x-xfig'],
+    'fits' =>  ['image/fits'],
+    'flac' =>  ['audio/x-flac'],
+    'fli' =>  ['video/x-fli'],
+    'flo' =>  ['application/vnd.micrografx.flo'],
+    'flv' =>  ['video/x-flv'],
+    'flw' =>  ['application/vnd.kde.kivio'],
+    'flx' =>  ['text/vnd.fmi.flexstor'],
+    'fly' =>  ['text/vnd.fly'],
+    'fm' =>  ['application/vnd.framemaker'],
+    'fnc' =>  ['application/vnd.frogans.fnc'],
+    'for' =>  ['text/x-fortran'],
+    'fpx' =>  ['image/vnd.fpx'],
+    'frame' =>  ['application/vnd.framemaker'],
+    'fsc' =>  ['application/vnd.fsc.weblaunch'],
+    'fst' =>  ['image/vnd.fst'],
+    'ftc' =>  ['application/vnd.fluxtime.clip'],
+    'fti' =>  ['application/vnd.anser-web-funds-transfer-initiation'],
+    'fvt' =>  ['video/vnd.fvt'],
+    'fxp' =>  ['application/vnd.adobe.fxp'],
+    'fxpl' =>  ['application/vnd.adobe.fxp'],
+    'fzs' =>  ['application/vnd.fuzzysheet'],
+    'g2w' =>  ['application/vnd.geoplan'],
+    'g3' =>  ['image/g3fax'],
+    'g3w' =>  ['application/vnd.geospace'],
+    'gac' =>  ['application/vnd.groove-account'],
+    'gam' =>  ['application/x-tads'],
+    'gbr' =>  ['application/rpki-ghostbusters'],
+    'gca' =>  ['application/x-gca-compressed'],
+    'gdl' =>  ['model/vnd.gdl'],
+    'gdoc' =>  ['application/vnd.google-apps.document'],
+    'geo' =>  ['application/vnd.dynageo'],
+    'geojson' =>  ['application/geo+json'],
+    'gex' =>  ['application/vnd.geometry-explorer'],
+    'ggb' =>  ['application/vnd.geogebra.file'],
+    'ggt' =>  ['application/vnd.geogebra.tool'],
+    'ghf' =>  ['application/vnd.groove-help'],
+    'gif' =>  ['image/gif'],
+    'gim' =>  ['application/vnd.groove-identity-message'],
+    'glb' =>  ['model/gltf-binary'],
+    'gltf' =>  ['model/gltf+json'],
+    'gml' =>  ['application/gml+xml'],
+    'gmx' =>  ['application/vnd.gmx'],
+    'gnumeric' =>  ['application/x-gnumeric'],
+    'gph' =>  ['application/vnd.flographit'],
+    'gpx' =>  ['application/gpx+xml'],
+    'gqf' =>  ['application/vnd.grafeq'],
+    'gqs' =>  ['application/vnd.grafeq'],
+    'gram' =>  ['application/srgs'],
+    'gramps' =>  ['application/x-gramps-xml'],
+    'gre' =>  ['application/vnd.geometry-explorer'],
+    'grv' =>  ['application/vnd.groove-injector'],
+    'grxml' =>  ['application/srgs+xml'],
+    'gsf' =>  ['application/x-font-ghostscript'],
+    'gsheet' =>  ['application/vnd.google-apps.spreadsheet'],
+    'gslides' =>  ['application/vnd.google-apps.presentation'],
+    'gtar' =>  ['application/x-gtar'],
+    'gtm' =>  ['application/vnd.groove-tool-message'],
+    'gtw' =>  ['model/vnd.gtw'],
+    'gv' =>  ['text/vnd.graphviz'],
+    'gxf' =>  ['application/gxf'],
+    'gxt' =>  ['application/vnd.geonext'],
+    'gz' =>  ['application/gzip'],
+    'h' =>  ['text/x-c'],
+    'h261' =>  ['video/h261'],
+    'h263' =>  ['video/h263'],
+    'h264' =>  ['video/h264'],
+    'hal' =>  ['application/vnd.hal+xml'],
+    'hbci' =>  ['application/vnd.hbci'],
+    'hbs' =>  ['text/x-handlebars-template'],
+    'hdd' =>  ['application/x-virtualbox-hdd'],
+    'hdf' =>  ['application/x-hdf'],
+    'heic' =>  ['image/heic'],
+    'heics' =>  ['image/heic-sequence'],
+    'heif' =>  ['image/heif'],
+    'heifs' =>  ['image/heif-sequence'],
+    'hh' =>  ['text/x-c'],
+    'hjson' =>  ['application/hjson'],
+    'hlp' =>  ['application/winhlp'],
+    'hpgl' =>  ['application/vnd.hp-hpgl'],
+    'hpid' =>  ['application/vnd.hp-hpid'],
+    'hps' =>  ['application/vnd.hp-hps'],
+    'hqx' =>  ['application/mac-binhex40'],
+    'htc' =>  ['text/x-component'],
+    'htke' =>  ['application/vnd.kenameaapp'],
+    'htm' =>  ['text/html'],
+    'html' =>  ['text/html'],
+    'hvd' =>  ['application/vnd.yamaha.hv-dic'],
+    'hvp' =>  ['application/vnd.yamaha.hv-voice'],
+    'hvs' =>  ['application/vnd.yamaha.hv-script'],
+    'i2g' =>  ['application/vnd.intergeo'],
+    'icc' =>  ['application/vnd.iccprofile'],
+    'ice' =>  ['x-conference/x-cooltalk'],
+    'icm' =>  ['application/vnd.iccprofile'],
+    'ico' =>  ['image/vnd.microsoft.icon','image/x-icon'],
+    'ics' =>  ['text/calendar'],
+    'ief' =>  ['image/ief'],
+    'ifb' =>  ['text/calendar'],
+    'ifm' =>  ['application/vnd.shana.informed.formdata'],
+    'iges' =>  ['model/iges'],
+    'igl' =>  ['application/vnd.igloader'],
+    'igm' =>  ['application/vnd.insors.igm'],
+    'igs' =>  ['model/iges'],
+    'igx' =>  ['application/vnd.micrografx.igx'],
+    'iif' =>  ['application/vnd.shana.informed.interchange'],
+    'img' =>  ['application/octet-stream'],
+    'imp' =>  ['application/vnd.accpac.simply.imp'],
+    'ims' =>  ['application/vnd.ms-ims'],
+    'in' =>  ['text/plain'],
+    'ini' =>  ['text/plain'],
+    'ink' =>  ['application/inkml+xml'],
+    'inkml' =>  ['application/inkml+xml'],
+    'install' =>  ['application/x-install-instructions'],
+    'iota' =>  ['application/vnd.astraea-software.iota'],
+    'ipfix' =>  ['application/ipfix'],
+    'ipk' =>  ['application/vnd.shana.informed.package'],
+    'irm' =>  ['application/vnd.ibm.rights-management'],
+    'irp' =>  ['application/vnd.irepository.package+xml'],
+    'iso' =>  ['application/octet-stream','application/x-iso9660-image'],
+    'itp' =>  ['application/vnd.shana.informed.formtemplate'],
+    'ivp' =>  ['application/vnd.immervision-ivp'],
+    'ivu' =>  ['application/vnd.immervision-ivu'],
+    'jad' =>  ['text/vnd.sun.j2me.app-descriptor'],
+    'jade' =>  ['text/jade'],
+    'jam' =>  ['application/vnd.jam'],
+    'jar' =>  ['application/java-archive'],
+    'jardiff' =>  ['application/x-java-archive-diff'],
+    'java' =>  ['text/x-java-source'],
+    'jisp' =>  ['application/vnd.jisp'],
+    'jls' =>  ['image/jls'],
+    'jlt' =>  ['application/vnd.hp-jlyt'],
+    'jng' =>  ['image/x-jng'],
+    'jnlp' =>  ['application/x-java-jnlp-file'],
+    'joda' =>  ['application/vnd.joost.joda-archive'],
+    'jp2' =>  ['image/jp2'],
+    'jpe' =>  ['image/jpeg'],
+    'jpeg' =>  ['image/jpeg'],
+    'jpf' =>  ['image/jpx'],
+    'jpg' =>  ['image/jpeg'],
+    'jpg2' =>  ['image/jp2'],
+    'jpgm' =>  ['video/jpm'],
+    'jpgv' =>  ['video/jpeg'],
+    'jpm' =>  ['image/jpm','video/jpm'],
+    'jpx' =>  ['image/jpx'],
+    'js' =>  ['application/javascript'],
+    'json' =>  ['application/json'],
+    'json5' =>  ['application/json5'],
+    'jsonld' =>  ['application/ld+json'],
+    'jsonml' =>  ['application/jsonml+json'],
+    'jsx' =>  ['text/jsx'],
+    'kar' =>  ['audio/midi'],
+    'karbon' =>  ['application/vnd.kde.karbon'],
+    'keynote' =>  ['application/vnd.apple.keynote'],
+    'kfo' =>  ['application/vnd.kde.kformula'],
+    'kia' =>  ['application/vnd.kidspiration'],
+    'kml' =>  ['application/vnd.google-earth.kml+xml'],
+    'kmz' =>  ['application/vnd.google-earth.kmz'],
+    'kne' =>  ['application/vnd.kinar'],
+    'knp' =>  ['application/vnd.kinar'],
+    'kon' =>  ['application/vnd.kde.kontour'],
+    'kpr' =>  ['application/vnd.kde.kpresenter'],
+    'kpt' =>  ['application/vnd.kde.kpresenter'],
+    'kpxx' =>  ['application/vnd.ds-keypoint'],
+    'ksp' =>  ['application/vnd.kde.kspread'],
+    'ktr' =>  ['application/vnd.kahootz'],
+    'ktx' =>  ['image/ktx'],
+    'ktz' =>  ['application/vnd.kahootz'],
+    'kwd' =>  ['application/vnd.kde.kword'],
+    'kwt' =>  ['application/vnd.kde.kword'],
+    'lasxml' =>  ['application/vnd.las.las+xml'],
+    'latex' =>  ['application/x-latex'],
+    'lbd' =>  ['application/vnd.llamagraphics.life-balance.desktop'],
+    'lbe' =>  ['application/vnd.llamagraphics.life-balance.exchange+xml'],
+    'les' =>  ['application/vnd.hhe.lesson-player'],
+    'less' =>  ['text/less'],
+    'lha' =>  ['application/x-lzh-compressed'],
+    'link66' =>  ['application/vnd.route66.link66+xml'],
+    'list' =>  ['text/plain'],
+    'list3820' =>  ['application/vnd.ibm.modcap'],
+    'listafp' =>  ['application/vnd.ibm.modcap'],
+    'litcoffee' =>  ['text/coffeescript'],
+    'lnk' =>  ['application/x-ms-shortcut'],
+    'log' =>  ['text/plain'],
+    'lostxml' =>  ['application/lost+xml'],
+    'lrf' =>  ['application/octet-stream'],
+    'lrm' =>  ['application/vnd.ms-lrm'],
+    'ltf' =>  ['application/vnd.frogans.ltf'],
+    'lua' =>  ['text/x-lua'],
+    'luac' =>  ['application/x-lua-bytecode'],
+    'lvp' =>  ['audio/vnd.lucent.voice'],
+    'lwp' =>  ['application/vnd.lotus-wordpro'],
+    'lzh' =>  ['application/x-lzh-compressed'],
+    'm13' =>  ['application/x-msmediaview'],
+    'm14' =>  ['application/x-msmediaview'],
+    'm1v' =>  ['video/mpeg'],
+    'm21' =>  ['application/mp21'],
+    'm2a' =>  ['audio/mpeg'],
+    'm2v' =>  ['video/mpeg'],
+    'm3a' =>  ['audio/mpeg'],
+    'm3u' =>  ['audio/x-mpegurl'],
+    'm3u8' =>  ['application/vnd.apple.mpegurl'],
+    'm4a' =>  ['audio/mp4','audio/x-m4a'],
+    'm4p' =>  ['application/mp4'],
+    'm4u' =>  ['video/vnd.mpegurl'],
+    'm4v' =>  ['video/x-m4v'],
+    'ma' =>  ['application/mathematica'],
+    'mads' =>  ['application/mads+xml'],
+    'mag' =>  ['application/vnd.ecowin.chart'],
+    'maker' =>  ['application/vnd.framemaker'],
+    'man' =>  ['text/troff'],
+    'manifest' =>  ['text/cache-manifest'],
+    'map' =>  ['application/json'],
+    'mar' =>  ['application/octet-stream'],
+    'markdown' =>  ['text/markdown'],
+    'mathml' =>  ['application/mathml+xml'],
+    'mb' =>  ['application/mathematica'],
+    'mbk' =>  ['application/vnd.mobius.mbk'],
+    'mbox' =>  ['application/mbox'],
+    'mc1' =>  ['application/vnd.medcalcdata'],
+    'mcd' =>  ['application/vnd.mcd'],
+    'mcurl' =>  ['text/vnd.curl.mcurl'],
+    'md' =>  ['text/markdown'],
+    'mdb' =>  ['application/x-msaccess'],
+    'mdi' =>  ['image/vnd.ms-modi'],
+    'me' =>  ['text/troff'],
+    'mesh' =>  ['model/mesh'],
+    'meta4' =>  ['application/metalink4+xml'],
+    'metalink' =>  ['application/metalink+xml'],
+    'mets' =>  ['application/mets+xml'],
+    'mfm' =>  ['application/vnd.mfmp'],
+    'mft' =>  ['application/rpki-manifest'],
+    'mgp' =>  ['application/vnd.osgeo.mapguide.package'],
+    'mgz' =>  ['application/vnd.proteus.magazine'],
+    'mid' =>  ['audio/midi'],
+    'midi' =>  ['audio/midi'],
+    'mie' =>  ['application/x-mie'],
+    'mif' =>  ['application/vnd.mif'],
+    'mime' =>  ['message/rfc822'],
+    'mj2' =>  ['video/mj2'],
+    'mjp2' =>  ['video/mj2'],
+    'mjs' =>  ['application/javascript'],
+    'mk3d' =>  ['video/x-matroska'],
+    'mka' =>  ['audio/x-matroska'],
+    'mkd' =>  ['text/x-markdown'],
+    'mks' =>  ['video/x-matroska'],
+    'mkv' =>  ['video/x-matroska'],
+    'mlp' =>  ['application/vnd.dolby.mlp'],
+    'mmd' =>  ['application/vnd.chipnuts.karaoke-mmd'],
+    'mmf' =>  ['application/vnd.smaf'],
+    'mml' =>  ['text/mathml'],
+    'mmr' =>  ['image/vnd.fujixerox.edmics-mmr'],
+    'mng' =>  ['video/x-mng'],
+    'mny' =>  ['application/x-msmoney'],
+    'mobi' =>  ['application/x-mobipocket-ebook'],
+    'mods' =>  ['application/mods+xml'],
+    'mov' =>  ['video/quicktime'],
+    'movie' =>  ['video/x-sgi-movie'],
+    'mp2' =>  ['audio/mpeg'],
+    'mp21' =>  ['application/mp21'],
+    'mp2a' =>  ['audio/mpeg'],
+    'mp3' =>  ['audio/mp3','audio/mpeg'],
+    'mp4' =>  ['video/mp4'],
+    'mp4a' =>  ['audio/mp4'],
+    'mp4s' =>  ['application/mp4'],
+    'mp4v' =>  ['video/mp4'],
+    'mpc' =>  ['application/vnd.mophun.certificate'],
+    'mpd' =>  ['application/dash+xml'],
+    'mpe' =>  ['video/mpeg'],
+    'mpeg' =>  ['video/mpeg'],
+    'mpg' =>  ['video/mpeg'],
+    'mpg4' =>  ['video/mp4'],
+    'mpga' =>  ['audio/mpeg'],
+    'mpkg' =>  ['application/vnd.apple.installer+xml'],
+    'mpm' =>  ['application/vnd.blueice.multipass'],
+    'mpn' =>  ['application/vnd.mophun.application'],
+    'mpp' =>  ['application/vnd.ms-project'],
+    'mpt' =>  ['application/vnd.ms-project'],
+    'mpy' =>  ['application/vnd.ibm.minipay'],
+    'mqy' =>  ['application/vnd.mobius.mqy'],
+    'mrc' =>  ['application/marc'],
+    'mrcx' =>  ['application/marcxml+xml'],
+    'ms' =>  ['text/troff'],
+    'mscml' =>  ['application/mediaservercontrol+xml'],
+    'mseed' =>  ['application/vnd.fdsn.mseed'],
+    'mseq' =>  ['application/vnd.mseq'],
+    'msf' =>  ['application/vnd.epson.msf'],
+    'msg' =>  ['application/vnd.ms-outlook'],
+    'msh' =>  ['model/mesh'],
+    'msi' =>  ['application/octet-stream','application/x-msdownload'],
+    'msl' =>  ['application/vnd.mobius.msl'],
+    'msm' =>  ['application/octet-stream'],
+    'msp' =>  ['application/octet-stream'],
+    'msty' =>  ['application/vnd.muvee.style'],
+    'mts' =>  ['model/vnd.mts'],
+    'mus' =>  ['application/vnd.musician'],
+    'musicxml' =>  ['application/vnd.recordare.musicxml+xml'],
+    'mvb' =>  ['application/x-msmediaview'],
+    'mwf' =>  ['application/vnd.mfer'],
+    'mxf' =>  ['application/mxf'],
+    'mxl' =>  ['application/vnd.recordare.musicxml'],
+    'mxml' =>  ['application/xv+xml'],
+    'mxs' =>  ['application/vnd.triscape.mxs'],
+    'mxu' =>  ['video/vnd.mpegurl'],
+    'n-gage' =>  ['application/vnd.nokia.n-gage.symbian.install'],
+    'n3' =>  ['text/n3'],
+    'nb' =>  ['application/mathematica'],
+    'nbp' =>  ['application/vnd.wolfram.player'],
+    'nc' =>  ['application/x-netcdf'],
+    'ncx' =>  ['application/x-dtbncx+xml'],
+    'nfo' =>  ['text/x-nfo'],
+    'ngdat' =>  ['application/vnd.nokia.n-gage.data'],
+    'nitf' =>  ['application/vnd.nitf'],
+    'nlu' =>  ['application/vnd.neurolanguage.nlu'],
+    'nml' =>  ['application/vnd.enliven'],
+    'nnd' =>  ['application/vnd.noblenet-directory'],
+    'nns' =>  ['application/vnd.noblenet-sealer'],
+    'nnw' =>  ['application/vnd.noblenet-web'],
+    'npx' =>  ['image/vnd.net-fpx'],
+    'nsc' =>  ['application/x-conference'],
+    'nsf' =>  ['application/vnd.lotus-notes'],
+    'ntf' =>  ['application/vnd.nitf'],
+    'numbers' =>  ['application/vnd.apple.numbers'],
+    'nzb' =>  ['application/x-nzb'],
+    'oa2' =>  ['application/vnd.fujitsu.oasys2'],
+    'oa3' =>  ['application/vnd.fujitsu.oasys3'],
+    'oas' =>  ['application/vnd.fujitsu.oasys'],
+    'obd' =>  ['application/x-msbinder'],
+    'obj' =>  ['application/x-tgif'],
+    'oda' =>  ['application/oda'],
+    'odb' =>  ['application/vnd.oasis.opendocument.database'],
+    'odc' =>  ['application/vnd.oasis.opendocument.chart'],
+    'odf' =>  ['application/vnd.oasis.opendocument.formula'],
+    'odft' =>  ['application/vnd.oasis.opendocument.formula-template'],
+    'odg' =>  ['application/vnd.oasis.opendocument.graphics'],
+    'odi' =>  ['application/vnd.oasis.opendocument.image'],
+    'odm' =>  ['application/vnd.oasis.opendocument.text-master'],
+    'odp' =>  ['application/vnd.oasis.opendocument.presentation'],
+    'ods' =>  ['application/vnd.oasis.opendocument.spreadsheet'],
+    'odt' =>  ['application/vnd.oasis.opendocument.text'],
+    'oga' =>  ['audio/ogg'],
+    'ogg' =>  ['audio/ogg'],
+    'ogv' =>  ['video/ogg'],
+    'ogx' =>  ['application/ogg'],
+    'omdoc' =>  ['application/omdoc+xml'],
+    'onepkg' =>  ['application/onenote'],
+    'onetmp' =>  ['application/onenote'],
+    'onetoc' =>  ['application/onenote'],
+    'onetoc2' =>  ['application/onenote'],
+    'opf' =>  ['application/oebps-package+xml'],
+    'opml' =>  ['text/x-opml'],
+    'oprc' =>  ['application/vnd.palm'],
+    'org' =>  ['application/vnd.lotus-organizer','text/x-org'],
+    'osf' =>  ['application/vnd.yamaha.openscoreformat'],
+    'osfpvg' =>  ['application/vnd.yamaha.openscoreformat.osfpvg+xml'],
+    'otc' =>  ['application/vnd.oasis.opendocument.chart-template'],
+    'otf' =>  ['font/otf'],
+    'otg' =>  ['application/vnd.oasis.opendocument.graphics-template'],
+    'oth' =>  ['application/vnd.oasis.opendocument.text-web'],
+    'oti' =>  ['application/vnd.oasis.opendocument.image-template'],
+    'otp' =>  ['application/vnd.oasis.opendocument.presentation-template'],
+    'ots' =>  ['application/vnd.oasis.opendocument.spreadsheet-template'],
+    'ott' =>  ['application/vnd.oasis.opendocument.text-template'],
+    'ova' =>  ['application/x-virtualbox-ova'],
+    'ovf' =>  ['application/x-virtualbox-ovf'],
+    'owl' =>  ['application/rdf+xml'],
+    'oxps' =>  ['application/oxps'],
+    'oxt' =>  ['application/vnd.openofficeorg.extension'],
+    'p' =>  ['text/x-pascal'],
+    'p10' =>  ['application/pkcs10'],
+    'p12' =>  ['application/x-pkcs12'],
+    'p7b' =>  ['application/x-pkcs7-certificates'],
+    'p7c' =>  ['application/pkcs7-mime'],
+    'p7m' =>  ['application/pkcs7-mime'],
+    'p7r' =>  ['application/x-pkcs7-certreqresp'],
+    'p7s' =>  ['application/pkcs7-signature'],
+    'p8' =>  ['application/pkcs8'],
+    'pac' =>  ['application/x-ns-proxy-autoconfig'],
+    'pages' =>  ['application/vnd.apple.pages'],
+    'pas' =>  ['text/x-pascal'],
+    'paw' =>  ['application/vnd.pawaafile'],
+    'pbd' =>  ['application/vnd.powerbuilder6'],
+    'pbm' =>  ['image/x-portable-bitmap'],
+    'pcap' =>  ['application/vnd.tcpdump.pcap'],
+    'pcf' =>  ['application/x-font-pcf'],
+    'pcl' =>  ['application/vnd.hp-pcl'],
+    'pclxl' =>  ['application/vnd.hp-pclxl'],
+    'pct' =>  ['image/x-pict'],
+    'pcurl' =>  ['application/vnd.curl.pcurl'],
+    'pcx' =>  ['image/vnd.zbrush.pcx','image/x-pcx'],
+    'pdb' =>  ['application/vnd.palm','application/x-pilot'],
+    'pde' =>  ['text/x-processing'],
+    'pdf' =>  ['application/pdf'],
+    'pem' =>  ['application/x-x509-ca-cert'],
+    'pfa' =>  ['application/x-font-type1'],
+    'pfb' =>  ['application/x-font-type1'],
+    'pfm' =>  ['application/x-font-type1'],
+    'pfr' =>  ['application/font-tdpfr'],
+    'pfx' =>  ['application/x-pkcs12'],
+    'pgm' =>  ['image/x-portable-graymap'],
+    'pgn' =>  ['application/x-chess-pgn'],
+    'pgp' =>  ['application/pgp-encrypted'],
+    'php' =>  ['application/x-httpd-php'],
+    'pic' =>  ['image/x-pict'],
+    'pkg' =>  ['application/octet-stream'],
+    'pki' =>  ['application/pkixcmp'],
+    'pkipath' =>  ['application/pkix-pkipath'],
+    'pkpass' =>  ['application/vnd.apple.pkpass'],
+    'pl' =>  ['application/x-perl'],
+    'plb' =>  ['application/vnd.3gpp.pic-bw-large'],
+    'plc' =>  ['application/vnd.mobius.plc'],
+    'plf' =>  ['application/vnd.pocketlearn'],
+    'pls' =>  ['application/pls+xml'],
+    'pm' =>  ['application/x-perl'],
+    'pml' =>  ['application/vnd.ctc-posml'],
+    'png' =>  ['image/png'],
+    'pnm' =>  ['image/x-portable-anymap'],
+    'portpkg' =>  ['application/vnd.macports.portpkg'],
+    'pot' =>  ['application/vnd.ms-powerpoint'],
+    'potm' =>  ['application/vnd.ms-powerpoint.template.macroenabled.12'],
+    'potx' =>  ['application/vnd.openxmlformats-officedocument.presentationml.template'],
+    'ppam' =>  ['application/vnd.ms-powerpoint.addin.macroenabled.12'],
+    'ppd' =>  ['application/vnd.cups-ppd'],
+    'ppm' =>  ['image/x-portable-pixmap'],
+    'pps' =>  ['application/vnd.ms-powerpoint'],
+    'ppsm' =>  ['application/vnd.ms-powerpoint.slideshow.macroenabled.12'],
+    'ppsx' =>  ['application/vnd.openxmlformats-officedocument.presentationml.slideshow'],
+    'ppt' =>  ['application/vnd.ms-powerpoint'],
+    'pptm' =>  ['application/vnd.ms-powerpoint.presentation.macroenabled.12'],
+    'pptx' =>  ['application/vnd.openxmlformats-officedocument.presentationml.presentation'],
+    'pqa' =>  ['application/vnd.palm'],
+    'prc' =>  ['application/x-mobipocket-ebook','application/x-pilot'],
+    'pre' =>  ['application/vnd.lotus-freelance'],
+    'prf' =>  ['application/pics-rules'],
+    'ps' =>  ['application/postscript'],
+    'psb' =>  ['application/vnd.3gpp.pic-bw-small'],
+    'psd' =>  ['image/vnd.adobe.photoshop'],
+    'psf' =>  ['application/x-font-linux-psf'],
+    'pskcxml' =>  ['application/pskc+xml'],
+    'pti' =>  ['image/prs.pti'],
+    'ptid' =>  ['application/vnd.pvi.ptid1'],
+    'pub' =>  ['application/x-mspublisher'],
+    'pvb' =>  ['application/vnd.3gpp.pic-bw-var'],
+    'pwn' =>  ['application/vnd.3m.post-it-notes'],
+    'pya' =>  ['audio/vnd.ms-playready.media.pya'],
+    'pyv' =>  ['video/vnd.ms-playready.media.pyv'],
+    'qam' =>  ['application/vnd.epson.quickanime'],
+    'qbo' =>  ['application/vnd.intu.qbo'],
+    'qfx' =>  ['application/vnd.intu.qfx'],
+    'qps' =>  ['application/vnd.publishare-delta-tree'],
+    'qt' =>  ['video/quicktime'],
+    'qwd' =>  ['application/vnd.quark.quarkxpress'],
+    'qwt' =>  ['application/vnd.quark.quarkxpress'],
+    'qxb' =>  ['application/vnd.quark.quarkxpress'],
+    'qxd' =>  ['application/vnd.quark.quarkxpress'],
+    'qxl' =>  ['application/vnd.quark.quarkxpress'],
+    'qxt' =>  ['application/vnd.quark.quarkxpress'],
+    'ra' =>  ['audio/x-pn-realaudio','audio/x-realaudio'],
+    'ram' =>  ['audio/x-pn-realaudio'],
+    'raml' =>  ['application/raml+yaml'],
+    'rar' =>  ['application/x-rar-compressed'],
+    'ras' =>  ['image/x-cmu-raster'],
+    'rcprofile' =>  ['application/vnd.ipunplugged.rcprofile'],
+    'rdf' =>  ['application/rdf+xml'],
+    'rdz' =>  ['application/vnd.data-vision.rdz'],
+    'rep' =>  ['application/vnd.businessobjects'],
+    'res' =>  ['application/x-dtbresource+xml'],
+    'rgb' =>  ['image/x-rgb'],
+    'rif' =>  ['application/reginfo+xml'],
+    'rip' =>  ['audio/vnd.rip'],
+    'ris' =>  ['application/x-research-info-systems'],
+    'rl' =>  ['application/resource-lists+xml'],
+    'rlc' =>  ['image/vnd.fujixerox.edmics-rlc'],
+    'rld' =>  ['application/resource-lists-diff+xml'],
+    'rm' =>  ['application/vnd.rn-realmedia'],
+    'rmi' =>  ['audio/midi'],
+    'rmp' =>  ['audio/x-pn-realaudio-plugin'],
+    'rms' =>  ['application/vnd.jcp.javame.midlet-rms'],
+    'rmvb' =>  ['application/vnd.rn-realmedia-vbr'],
+    'rnc' =>  ['application/relax-ng-compact-syntax'],
+    'rng' =>  ['application/xml'],
+    'roa' =>  ['application/rpki-roa'],
+    'roff' =>  ['text/troff'],
+    'rp9' =>  ['application/vnd.cloanto.rp9'],
+    'rpm' =>  ['application/x-redhat-package-manager'],
+    'rpss' =>  ['application/vnd.nokia.radio-presets'],
+    'rpst' =>  ['application/vnd.nokia.radio-preset'],
+    'rq' =>  ['application/sparql-query'],
+    'rs' =>  ['application/rls-services+xml'],
+    'rsd' =>  ['application/rsd+xml'],
+    'rss' =>  ['application/rss+xml'],
+    'rtf' =>  ['application/rtf','text/rtf'],
+    'rtx' =>  ['text/richtext'],
+    'run' =>  ['application/x-makeself'],
+    's' =>  ['text/x-asm'],
+    's3m' =>  ['audio/s3m'],
+    'saf' =>  ['application/vnd.yamaha.smaf-audio'],
+    'sass' =>  ['text/x-sass'],
+    'sbml' =>  ['application/sbml+xml'],
+    'sc' =>  ['application/vnd.ibm.secure-container'],
+    'scd' =>  ['application/x-msschedule'],
+    'scm' =>  ['application/vnd.lotus-screencam'],
+    'scq' =>  ['application/scvp-cv-request'],
+    'scs' =>  ['application/scvp-cv-response'],
+    'scss' =>  ['text/x-scss'],
+    'scurl' =>  ['text/vnd.curl.scurl'],
+    'sda' =>  ['application/vnd.stardivision.draw'],
+    'sdc' =>  ['application/vnd.stardivision.calc'],
+    'sdd' =>  ['application/vnd.stardivision.impress'],
+    'sdkd' =>  ['application/vnd.solent.sdkm+xml'],
+    'sdkm' =>  ['application/vnd.solent.sdkm+xml'],
+    'sdp' =>  ['application/sdp'],
+    'sdw' =>  ['application/vnd.stardivision.writer'],
+    'sea' =>  ['application/x-sea'],
+    'see' =>  ['application/vnd.seemail'],
+    'seed' =>  ['application/vnd.fdsn.seed'],
+    'sema' =>  ['application/vnd.sema'],
+    'semd' =>  ['application/vnd.semd'],
+    'semf' =>  ['application/vnd.semf'],
+    'ser' =>  ['application/java-serialized-object'],
+    'setpay' =>  ['application/set-payment-initiation'],
+    'setreg' =>  ['application/set-registration-initiation'],
+    'sfd-hdstx' =>  ['application/vnd.hydrostatix.sof-data'],
+    'sfs' =>  ['application/vnd.spotfire.sfs'],
+    'sfv' =>  ['text/x-sfv'],
+    'sgi' =>  ['image/sgi'],
+    'sgl' =>  ['application/vnd.stardivision.writer-global'],
+    'sgm' =>  ['text/sgml'],
+    'sgml' =>  ['text/sgml'],
+    'sh' =>  ['application/x-sh'],
+    'shar' =>  ['application/x-shar'],
+    'shex' =>  ['text/shex'],
+    'shf' =>  ['application/shf+xml'],
+    'shtml' =>  ['text/html'],
+    'sid' =>  ['image/x-mrsid-image'],
+    'sig' =>  ['application/pgp-signature'],
+    'sil' =>  ['audio/silk'],
+    'silo' =>  ['model/mesh'],
+    'sis' =>  ['application/vnd.symbian.install'],
+    'sisx' =>  ['application/vnd.symbian.install'],
+    'sit' =>  ['application/x-stuffit'],
+    'sitx' =>  ['application/x-stuffitx'],
+    'skd' =>  ['application/vnd.koan'],
+    'skm' =>  ['application/vnd.koan'],
+    'skp' =>  ['application/vnd.koan'],
+    'skt' =>  ['application/vnd.koan'],
+    'sldm' =>  ['application/vnd.ms-powerpoint.slide.macroenabled.12'],
+    'sldx' =>  ['application/vnd.openxmlformats-officedocument.presentationml.slide'],
+    'slim' =>  ['text/slim'],
+    'slm' =>  ['text/slim'],
+    'slt' =>  ['application/vnd.epson.salt'],
+    'sm' =>  ['application/vnd.stepmania.stepchart'],
+    'smf' =>  ['application/vnd.stardivision.math'],
+    'smi' =>  ['application/smil+xml'],
+    'smil' =>  ['application/smil+xml'],
+    'smv' =>  ['video/x-smv'],
+    'smzip' =>  ['application/vnd.stepmania.package'],
+    'snd' =>  ['audio/basic'],
+    'snf' =>  ['application/x-font-snf'],
+    'so' =>  ['application/octet-stream'],
+    'spc' =>  ['application/x-pkcs7-certificates'],
+    'spf' =>  ['application/vnd.yamaha.smaf-phrase'],
+    'spl' =>  ['application/x-futuresplash'],
+    'spot' =>  ['text/vnd.in3d.spot'],
+    'spp' =>  ['application/scvp-vp-response'],
+    'spq' =>  ['application/scvp-vp-request'],
+    'spx' =>  ['audio/ogg'],
+    'sql' =>  ['application/x-sql'],
+    'src' =>  ['application/x-wais-source'],
+    'srt' =>  ['application/x-subrip'],
+    'sru' =>  ['application/sru+xml'],
+    'srx' =>  ['application/sparql-results+xml'],
+    'ssdl' =>  ['application/ssdl+xml'],
+    'sse' =>  ['application/vnd.kodak-descriptor'],
+    'ssf' =>  ['application/vnd.epson.ssf'],
+    'ssml' =>  ['application/ssml+xml'],
+    'st' =>  ['application/vnd.sailingtracker.track'],
+    'stc' =>  ['application/vnd.sun.xml.calc.template'],
+    'std' =>  ['application/vnd.sun.xml.draw.template'],
+    'stf' =>  ['application/vnd.wt.stf'],
+    'sti' =>  ['application/vnd.sun.xml.impress.template'],
+    'stk' =>  ['application/hyperstudio'],
+    'stl' =>  ['application/vnd.ms-pki.stl'],
+    'str' =>  ['application/vnd.pg.format'],
+    'stw' =>  ['application/vnd.sun.xml.writer.template'],
+    'styl' =>  ['text/stylus'],
+    'stylus' =>  ['text/stylus'],
+    'sub' =>  ['image/vnd.dvb.subtitle','text/vnd.dvb.subtitle'],
+    'sus' =>  ['application/vnd.sus-calendar'],
+    'susp' =>  ['application/vnd.sus-calendar'],
+    'sv4cpio' =>  ['application/x-sv4cpio'],
+    'sv4crc' =>  ['application/x-sv4crc'],
+    'svc' =>  ['application/vnd.dvb.service'],
+    'svd' =>  ['application/vnd.svd'],
+    'svg' =>  ['image/svg+xml'],
+    'svgz' =>  ['image/svg+xml'],
+    'swa' =>  ['application/x-director'],
+    'swf' =>  ['application/x-shockwave-flash'],
+    'swi' =>  ['application/vnd.aristanetworks.swi'],
+    'sxc' =>  ['application/vnd.sun.xml.calc'],
+    'sxd' =>  ['application/vnd.sun.xml.draw'],
+    'sxg' =>  ['application/vnd.sun.xml.writer.global'],
+    'sxi' =>  ['application/vnd.sun.xml.impress'],
+    'sxm' =>  ['application/vnd.sun.xml.math'],
+    'sxw' =>  ['application/vnd.sun.xml.writer'],
+    't' =>  ['text/troff'],
+    't3' =>  ['application/x-t3vm-image'],
+    't38' =>  ['image/t38'],
+    'taglet' =>  ['application/vnd.mynfc'],
+    'tao' =>  ['application/vnd.tao.intent-module-archive'],
+    'tap' =>  ['image/vnd.tencent.tap'],
+    'tar' =>  ['application/x-tar'],
+    'tcap' =>  ['application/vnd.3gpp2.tcap'],
+    'tcl' =>  ['application/x-tcl'],
+    'teacher' =>  ['application/vnd.smart.teacher'],
+    'tei' =>  ['application/tei+xml'],
+    'teicorpus' =>  ['application/tei+xml'],
+    'tex' =>  ['application/x-tex'],
+    'texi' =>  ['application/x-texinfo'],
+    'texinfo' =>  ['application/x-texinfo'],
+    'text' =>  ['text/plain'],
+    'tfi' =>  ['application/thraud+xml'],
+    'tfm' =>  ['application/x-tex-tfm'],
+    'tfx' =>  ['image/tiff-fx'],
+    'tga' =>  ['image/x-tga'],
+    'thmx' =>  ['application/vnd.ms-officetheme'],
+    'tif' =>  ['image/tiff'],
+    'tiff' =>  ['image/tiff'],
+    'tk' =>  ['application/x-tcl'],
+    'tmo' =>  ['application/vnd.tmobile-livetv'],
+    'torrent' =>  ['application/x-bittorrent'],
+    'tpl' =>  ['application/vnd.groove-tool-template'],
+    'tpt' =>  ['application/vnd.trid.tpt'],
+    'tr' =>  ['text/troff'],
+    'tra' =>  ['application/vnd.trueapp'],
+    'trm' =>  ['application/x-msterminal'],
+    'ts' =>  ['video/mp2t'],
+    'tsd' =>  ['application/timestamped-data'],
+    'tsv' =>  ['text/tab-separated-values'],
+    'ttc' =>  ['font/collection'],
+    'ttf' =>  ['font/ttf'],
+    'ttl' =>  ['text/turtle'],
+    'twd' =>  ['application/vnd.simtech-mindmapper'],
+    'twds' =>  ['application/vnd.simtech-mindmapper'],
+    'txd' =>  ['application/vnd.genomatix.tuxedo'],
+    'txf' =>  ['application/vnd.mobius.txf'],
+    'txt' =>  ['text/plain'],
+    'u32' =>  ['application/x-authorware-bin'],
+    'u8dsn' =>  ['message/global-delivery-status'],
+    'u8hdr' =>  ['message/global-headers'],
+    'u8mdn' =>  ['message/global-disposition-notification'],
+    'u8msg' =>  ['message/global'],
+    'udeb' =>  ['application/x-debian-package'],
+    'ufd' =>  ['application/vnd.ufdl'],
+    'ufdl' =>  ['application/vnd.ufdl'],
+    'ulx' =>  ['application/x-glulx'],
+    'umj' =>  ['application/vnd.umajin'],
+    'unityweb' =>  ['application/vnd.unity'],
+    'uoml' =>  ['application/vnd.uoml+xml'],
+    'uri' =>  ['text/uri-list'],
+    'uris' =>  ['text/uri-list'],
+    'urls' =>  ['text/uri-list'],
+    'ustar' =>  ['application/x-ustar'],
+    'utz' =>  ['application/vnd.uiq.theme'],
+    'uu' =>  ['text/x-uuencode'],
+    'uva' =>  ['audio/vnd.dece.audio'],
+    'uvd' =>  ['application/vnd.dece.data'],
+    'uvf' =>  ['application/vnd.dece.data'],
+    'uvg' =>  ['image/vnd.dece.graphic'],
+    'uvh' =>  ['video/vnd.dece.hd'],
+    'uvi' =>  ['image/vnd.dece.graphic'],
+    'uvm' =>  ['video/vnd.dece.mobile'],
+    'uvp' =>  ['video/vnd.dece.pd'],
+    'uvs' =>  ['video/vnd.dece.sd'],
+    'uvt' =>  ['application/vnd.dece.ttml+xml'],
+    'uvu' =>  ['video/vnd.uvvu.mp4'],
+    'uvv' =>  ['video/vnd.dece.video'],
+    'uvva' =>  ['audio/vnd.dece.audio'],
+    'uvvd' =>  ['application/vnd.dece.data'],
+    'uvvf' =>  ['application/vnd.dece.data'],
+    'uvvg' =>  ['image/vnd.dece.graphic'],
+    'uvvh' =>  ['video/vnd.dece.hd'],
+    'uvvi' =>  ['image/vnd.dece.graphic'],
+    'uvvm' =>  ['video/vnd.dece.mobile'],
+    'uvvp' =>  ['video/vnd.dece.pd'],
+    'uvvs' =>  ['video/vnd.dece.sd'],
+    'uvvt' =>  ['application/vnd.dece.ttml+xml'],
+    'uvvu' =>  ['video/vnd.uvvu.mp4'],
+    'uvvv' =>  ['video/vnd.dece.video'],
+    'uvvx' =>  ['application/vnd.dece.unspecified'],
+    'uvvz' =>  ['application/vnd.dece.zip'],
+    'uvx' =>  ['application/vnd.dece.unspecified'],
+    'uvz' =>  ['application/vnd.dece.zip'],
+    'vbox' =>  ['application/x-virtualbox-vbox'],
+    'vbox-extpack' =>  ['application/x-virtualbox-vbox-extpack'],
+    'vcard' =>  ['text/vcard'],
+    'vcd' =>  ['application/x-cdlink'],
+    'vcf' =>  ['text/x-vcard'],
+    'vcg' =>  ['application/vnd.groove-vcard'],
+    'vcs' =>  ['text/x-vcalendar'],
+    'vcx' =>  ['application/vnd.vcx'],
+    'vdi' =>  ['application/x-virtualbox-vdi'],
+    'vhd' =>  ['application/x-virtualbox-vhd'],
+    'vis' =>  ['application/vnd.visionary'],
+    'viv' =>  ['video/vnd.vivo'],
+    'vmdk' =>  ['application/x-virtualbox-vmdk'],
+    'vob' =>  ['video/x-ms-vob'],
+    'vor' =>  ['application/vnd.stardivision.writer'],
+    'vox' =>  ['application/x-authorware-bin'],
+    'vrml' =>  ['model/vrml'],
+    'vsd' =>  ['application/vnd.visio'],
+    'vsf' =>  ['application/vnd.vsf'],
+    'vss' =>  ['application/vnd.visio'],
+    'vst' =>  ['application/vnd.visio'],
+    'vsw' =>  ['application/vnd.visio'],
+    'vtf' =>  ['image/vnd.valve.source.texture'],
+    'vtt' =>  ['text/vtt'],
+    'vtu' =>  ['model/vnd.vtu'],
+    'vxml' =>  ['application/voicexml+xml'],
+    'w3d' =>  ['application/x-director'],
+    'wad' =>  ['application/x-doom'],
+    'wadl' =>  ['application/vnd.sun.wadl+xml'],
+    'war' =>  ['application/java-archive'],
+    'wasm' =>  ['application/wasm'],
+    'wav' =>  ['audio/wav','audio/wave','audio/x-wav'],
+    'wax' =>  ['audio/x-ms-wax'],
+    'wbmp' =>  ['image/vnd.wap.wbmp'],
+    'wbs' =>  ['application/vnd.criticaltools.wbs+xml'],
+    'wbxml' =>  ['application/vnd.wap.wbxml'],
+    'wcm' =>  ['application/vnd.ms-works'],
+    'wdb' =>  ['application/vnd.ms-works'],
+    'wdp' =>  ['image/vnd.ms-photo'],
+    'weba' =>  ['audio/webm'],
+    'webapp' =>  ['application/x-web-app-manifest+json'],
+    'webm' =>  ['video/webm'],
+    'webmanifest' =>  ['application/manifest+json'],
+    'webp' =>  ['image/webp'],
+    'wg' =>  ['application/vnd.pmi.widget'],
+    'wgt' =>  ['application/widget'],
+    'wks' =>  ['application/vnd.ms-works'],
+    'wm' =>  ['video/x-ms-wm'],
+    'wma' =>  ['audio/x-ms-wma'],
+    'wmd' =>  ['application/x-ms-wmd'],
+    'wmf' =>  ['application/x-msmetafile','image/wmf'],
+    'wml' =>  ['text/vnd.wap.wml'],
+    'wmlc' =>  ['application/vnd.wap.wmlc'],
+    'wmls' =>  ['text/vnd.wap.wmlscript'],
+    'wmlsc' =>  ['application/vnd.wap.wmlscriptc'],
+    'wmv' =>  ['video/x-ms-wmv'],
+    'wmx' =>  ['video/x-ms-wmx'],
+    'wmz' =>  ['application/x-ms-wmz','application/x-msmetafile'],
+    'woff' =>  ['font/woff'],
+    'woff2' =>  ['font/woff2'],
+    'wpd' =>  ['application/vnd.wordperfect'],
+    'wpl' =>  ['application/vnd.ms-wpl'],
+    'wps' =>  ['application/vnd.ms-works'],
+    'wqd' =>  ['application/vnd.wqd'],
+    'wri' =>  ['application/x-mswrite'],
+    'wrl' =>  ['model/vrml'],
+    'wsc' =>  ['message/vnd.wfa.wsc'],
+    'wsdl' =>  ['application/wsdl+xml'],
+    'wspolicy' =>  ['application/wspolicy+xml'],
+    'wtb' =>  ['application/vnd.webturbo'],
+    'wvx' =>  ['video/x-ms-wvx'],
+    'x32' =>  ['application/x-authorware-bin'],
+    'x3d' =>  ['model/x3d+xml'],
+    'x3db' =>  ['model/x3d+binary'],
+    'x3dbz' =>  ['model/x3d+binary'],
+    'x3dv' =>  ['model/x3d+vrml'],
+    'x3dvz' =>  ['model/x3d+vrml'],
+    'x3dz' =>  ['model/x3d+xml'],
+    'xaml' =>  ['application/xaml+xml'],
+    'xap' =>  ['application/x-silverlight-app'],
+    'xar' =>  ['application/vnd.xara'],
+    'xbap' =>  ['application/x-ms-xbap'],
+    'xbd' =>  ['application/vnd.fujixerox.docuworks.binder'],
+    'xbm' =>  ['image/x-xbitmap'],
+    'xdf' =>  ['application/xcap-diff+xml'],
+    'xdm' =>  ['application/vnd.syncml.dm+xml'],
+    'xdp' =>  ['application/vnd.adobe.xdp+xml'],
+    'xdssc' =>  ['application/dssc+xml'],
+    'xdw' =>  ['application/vnd.fujixerox.docuworks'],
+    'xenc' =>  ['application/xenc+xml'],
+    'xer' =>  ['application/patch-ops-error+xml'],
+    'xfdf' =>  ['application/vnd.adobe.xfdf'],
+    'xfdl' =>  ['application/vnd.xfdl'],
+    'xht' =>  ['application/xhtml+xml'],
+    'xhtml' =>  ['application/xhtml+xml'],
+    'xhvml' =>  ['application/xv+xml'],
+    'xif' =>  ['image/vnd.xiff'],
+    'xla' =>  ['application/vnd.ms-excel'],
+    'xlam' =>  ['application/vnd.ms-excel.addin.macroenabled.12'],
+    'xlc' =>  ['application/vnd.ms-excel'],
+    'xlf' =>  ['application/x-xliff+xml'],
+    'xlm' =>  ['application/vnd.ms-excel'],
+    'xls' =>  ['application/vnd.ms-excel'],
+    'xlsb' =>  ['application/vnd.ms-excel.sheet.binary.macroenabled.12'],
+    'xlsm' =>  ['application/vnd.ms-excel.sheet.macroenabled.12'],
+    'xlsx' =>  ['application/vnd.openxmlformats-officedocument.spreadsheetml.sheet'],
+    'xlt' =>  ['application/vnd.ms-excel'],
+    'xltm' =>  ['application/vnd.ms-excel.template.macroenabled.12'],
+    'xltx' =>  ['application/vnd.openxmlformats-officedocument.spreadsheetml.template'],
+    'xlw' =>  ['application/vnd.ms-excel'],
+    'xm' =>  ['audio/xm'],
+    'xml' =>  ['application/xml','text/xml'],
+    'xo' =>  ['application/vnd.olpc-sugar'],
+    'xop' =>  ['application/xop+xml'],
+    'xpi' =>  ['application/x-xpinstall'],
+    'xpl' =>  ['application/xproc+xml'],
+    'xpm' =>  ['image/x-xpixmap'],
+    'xpr' =>  ['application/vnd.is-xpr'],
+    'xps' =>  ['application/vnd.ms-xpsdocument'],
+    'xpw' =>  ['application/vnd.intercon.formnet'],
+    'xpx' =>  ['application/vnd.intercon.formnet'],
+    'xsd' =>  ['application/xml'],
+    'xsl' =>  ['application/xml'],
+    'xslt' =>  ['application/xslt+xml'],
+    'xsm' =>  ['application/vnd.syncml+xml'],
+    'xspf' =>  ['application/xspf+xml'],
+    'xul' =>  ['application/vnd.mozilla.xul+xml'],
+    'xvm' =>  ['application/xv+xml'],
+    'xvml' =>  ['application/xv+xml'],
+    'xwd' =>  ['image/x-xwindowdump'],
+    'xyz' =>  ['chemical/x-xyz'],
+    'xz' =>  ['application/x-xz'],
+    'yaml' =>  ['text/yaml'],
+    'yang' =>  ['application/yang'],
+    'yin' =>  ['application/yin+xml'],
+    'yml' =>  ['text/yaml'],
+    'ymp' =>  ['text/x-suse-ymp'],
+    'z1' =>  ['application/x-zmachine'],
+    'z2' =>  ['application/x-zmachine'],
+    'z3' =>  ['application/x-zmachine'],
+    'z4' =>  ['application/x-zmachine'],
+    'z5' =>  ['application/x-zmachine'],
+    'z6' =>  ['application/x-zmachine'],
+    'z7' =>  ['application/x-zmachine'],
+    'z8' =>  ['application/x-zmachine'],
+    'zaz' =>  ['application/vnd.zzazz.deck+xml'],
+    'zip' =>  ['application/zip'],
+    'zir' =>  ['application/vnd.zul'],
+    'zirz' =>  ['application/vnd.zul'],
+    'zmm' =>  ['application/vnd.handheld-entertainment+xml'],
+    '123' =>  ['application/vnd.lotus-1-2-3'],
+];
+// <-- extensions end --> \\
 
     /**
      * Check whether mime-type is supported
@@ -11445,7 +11442,14 @@ class MimeType
      * @return bool
      */
     public static function isSupported(string $mime) :bool {
-        return (bool)(self::$mimes[$mime] ?? false);
+        $delimPos = strpos($mime, "/");
+        if (!$delimPos) {
+            return false;
+        }
+        $group = substr($mime, 0, $delimPos);
+        $type  = substr($mime, $delimPos + 1);
+
+        return isset(self::$mimes[$group]) && isset(self::$mimes[$group][$type]);
     }
 
     /**
@@ -11461,16 +11465,44 @@ class MimeType
      * } | null
      */
     public static function getInfo(string $mime) :?array {
-        return self::$mimes[$mime] ?? null;
+        $delimPos = strpos($mime, "/");
+        if (!$delimPos) {
+            return null;
+        }
+        $group = substr($mime, 0, $delimPos);
+        $type  = substr($mime, $delimPos + 1);
+
+        if (empty(self::$mimes[$group])) {
+            return null;
+        }
+
+        return self::$mimes[$group][$type] ?? null;
     }
 
     /**
      * Return the plain list of supported mime-types
      *
+     * @param string $group Mime group - the one going before the slash
+     *
      * @return string[]
      */
-    public static function getSupportedMimes() :array {
-        return \array_keys(self::$mimes);
+    public static function getSupportedMimes(string $group = null) :array {
+        $result = [];
+
+        if ($group === null) {
+            foreach (self::$mimes as $group => $mimes) {
+                foreach ($mimes as $type => $data) {
+                    $result[] = $group . "/" . $type;
+                }
+            }
+        }
+        else if (isset(self::$mimes[$group])) {
+            foreach (self::$mimes[$group] as $type=>$data){
+                $result[] = $group . "/" . $type;
+            }
+        }
+
+        return $result;
     }
 
     /**
@@ -11487,7 +11519,7 @@ class MimeType
     /**
      * Return known relative mime-types.<br/>
      * <b>NOTE: there can be more than one mime-type </b>
-     *w
+     *
      * @param string $extension
      *
      * @return array|null

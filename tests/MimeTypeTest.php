@@ -9,7 +9,9 @@ final class MimeTypeTest extends TestCase
 {
     public function testIsSupported() {
         $this->assertTrue(MimeType::isSupported("text/plain"));
+        $this->assertFalse(MimeType::isSupported("text0/plain"));
         $this->assertFalse(MimeType::isSupported("text/plain0"));
+        $this->assertFalse(MimeType::isSupported("textplain"));
     }
 
     public function testIsSupportedExtension() {
@@ -19,6 +21,10 @@ final class MimeTypeTest extends TestCase
     }
 
     public function testGetInfo() {
+        $this->assertNull(MimeType::getInfo("text0/plain"));
+        $this->assertNull(MimeType::getInfo("text/plain0"));
+        $this->assertNull(MimeType::getInfo("textplain"));
+
         $this->assertEquals(
             MimeType::getInfo("text/plain"),
             [
@@ -74,6 +80,21 @@ final class MimeTypeTest extends TestCase
             }
         }
 
+        $this->assertFalse($notString);
+        $this->assertTrue(count($list) >= 2070);
+
+        $this->assertIsArray(MimeType::getSupportedMimes('inexistentGroup'));
+        $this->assertEquals(0, count(MimeType::getSupportedMimes('inexistentGroup')));
+
+        $list = MimeType::getSupportedMimes("text");
+
+        $notString = false;
+        foreach ($list as $item) {
+            if (!\is_string($item)) {
+                $notString = true;
+                break;
+            }
+        }
         $this->assertFalse($notString);
     }
 }

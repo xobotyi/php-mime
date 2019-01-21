@@ -36,7 +36,7 @@ if ($statusCode !== 200) {
 echo "\rFetching mime DB ... OK\n";
 
 echo "Decoding DB ...";
-$mimes = json_decode($data, true);
+$rawMimes = json_decode($data, true);
 
 if (json_last_error()) {
     echo "\rDecoding DB ... ERROR\n\nUnable to decode fetched JSON, got error: " . json_last_error() . "(" . json_last_error_msg() . ")\n";
@@ -44,20 +44,41 @@ if (json_last_error()) {
 }
 echo "\rDecoding DB ... OK\n";
 
+$mimes      = [];
 $extensions = [];
 
+$groupsCount     = 0;
+$mimeTypesCount  = 0;
+$extensionsCount = 0;
+
 echo "\nPreparing mimes ...";
-foreach ($mimes as $type => $typeData) {
+foreach ($rawMimes as $rawType => $typeData) {
+    $delimPos = strpos($rawType, "/");
+    $group    = substr($rawType, 0, $delimPos);
+    $type     = substr($rawType, $delimPos + 1);
+
+    if (empty($mimes[$group])) {
+        $mimes[$group] = [];
+        $groupsCount++;
+    }
+
+    $mimes[$group][$type] = $typeData;
+    $mimeTypesCount++;
+
     if (empty($typeData['extensions'])) {
         //        echo "{$type} has no associated extension\n";
         continue;
     }
 
     foreach ($typeData['extensions'] as $ext) {
-        is_array($extensions[$ext] ?? null) ? $extensions[$ext][] = $type : $extensions[$ext] = [$type];
+        is_array($extensions[$ext] ?? null) ? $extensions[$ext][] = $rawType : $extensions[$ext] = [$rawType];
+        $extensionsCount++;
     }
 }
 
+foreach ($mimes as $group => &$types) {
+    ksort($types);
+}
 ksort($mimes);
 ksort($extensions);
 
@@ -70,7 +91,7 @@ $mimeType = preg_replace("~(.*// <-- extensions start --> \\\\)(.*)(// <-- exten
 
 file_put_contents("./src/MimeType.php", $mimeType);
 
-echo "\nProcessed " . count($mimes) . " mimetypes and " . count($extensions) . " extensions";
+echo "\nProcessed {$mimeTypesCount} mimetypes (composed by {$groupsCount} groups) and " . count($extensions) . " extensions";
 echo "\nDONE!";
 exit(0);
 
@@ -81,32 +102,38 @@ exit(0);
 function mimesExporter(array $array) :string {
     $result = "";
 
-    foreach ($array as $key => $value) {
-        $val = "";
+    foreach ($array as $group => $types) {
+        $result .= "    '{$group}' => [\n";
 
-        if (isset($value['compressible'])) {
-            $val .= "        'compressible' => true,\n";
-        }
-        else {
-            $val .= "        'compressible' => false,\n";
+        foreach ($types as $key => $value) {
+            $val = "";
+
+            if (isset($value['compressible'])) {
+                $val .= "            'compressible' => true,\n";
+            }
+            else {
+                $val .= "            'compressible' => false,\n";
+            }
+
+            if (isset($value['source'])) {
+                $val .= "            'source' => '" . addslashes($value['source']) . "',\n";
+            }
+
+            if (isset($value['charset'])) {
+                $val .= "            'charset' => '" . addslashes($value['charset']) . "',\n";
+            }
+
+            if (isset($value['extensions'])) {
+                $val .= "            'extensions' => ['" . implode("','", $value['extensions']) . "'],\n";
+            }
+            else {
+                $val .= "            'extensions' => [],\n";
+            }
+
+            $result .= "        '{$key}' => [\n{$val}";
+            $result .= "        ],\n";
         }
 
-        if (isset($value['source'])) {
-            $val .= "        'source' => '" . addslashes($value['source']) . "',\n";
-        }
-
-        if (isset($value['charset'])) {
-            $val .= "        'charset' => '" . addslashes($value['charset']) . "',\n";
-        }
-
-        if (isset($value['extensions'])) {
-            $val .= "        'extensions' => ['" . implode("','", $value['extensions']) . "'],\n";
-        }
-        else {
-            $val .= "        'extensions' => [],\n";
-        }
-
-        $result .= "    '{$key}' => [\n{$val}";
         $result .= "    ],\n";
     }
 

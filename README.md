@@ -27,8 +27,9 @@ MimeType::getExtensionMimes('wav'); // ['audio/wav', 'audio/wave', 'audio/x-wav'
 ```
 
 ### API
-##### MimeType::isSupported()
-_Description:_ Check whether mime-type is supported.
+##### MimeType::isSupported(string $type)
+_Description:_ Check whether mime-type is supported.  
+_Parameters:_ **$type** - mime-type to check.  
 _Return:_ boolean
 
 ##### MimeType::getInfo()
@@ -42,12 +43,14 @@ _Return:_ associative array with next structure:
 - `compressible` - whether a file of this type can be gzipped.
 - `charset` - the default charset associated with this type, if any.
 
-##### MimeType::getSupportedMimes()
+##### MimeType::getSupportedMimes(string $group = null)
 _Description:_ Return the plain list of supported mime-types.  
-_Return:_ plain array of strings
+_Parameters:_ **$group** - group of mime-types to return (group is string before the slash, 4ex: text, video).  
+_Return:_ plain array of strings.
 
-##### MimeType::isSupportedExtension()
+##### MimeType::isSupportedExtension(string $extension)
 _Description:_ Check whether file extension is supported.  
+_Parameters:_ **$extension** - extension to check (without leading dot).  
 _Return:_ bool
 
 ##### MimeType::getExtensionMimes()
