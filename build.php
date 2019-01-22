@@ -18,18 +18,21 @@ curl_setopt_array($curl, [
     CURLOPT_HEADER         => false,
     CURLOPT_FOLLOWLOCATION => true,
 ]);
-if (strtoupper(substr(PHP_OS, 0, 3)) === 'WIN') {
-    curl_setopt_array($curl, [
-        CURLOPT_SSL_VERIFYPEER => false,
-        CURLOPT_SSL_VERIFYHOST => false,
-    ]);
-}
 
 $data       = curl_exec($curl);
 $statusCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
 
 if ($statusCode !== 200) {
     echo "\rFetching mime DB ... ERROR\n\nUnable to fetch mime db, got non 200 response\n";
+
+    if (!get_cfg_var('curl.cainfo') || !get_cfg_var('openssl.cafile')) {
+        echo "Looks like you haven't configured your curl.cacert in php.ini\n\n" .
+             "- Grab the latest cert from https://curl.haxx.se/docs/caextract.html\n" .
+             "- Store it somewhere\n" .
+             "- Put the path to the cacert.pem in `curl.cainfo` setting int your php.ini\n" .
+             "- Tour TLS should work now\n";
+    }
+
     exit(2);
 }
 
