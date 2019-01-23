@@ -21,33 +21,27 @@ final class MimeTypeTest extends TestCase
     }
 
     public function testGetInfo() {
-        $this->assertNull(MimeType::getInfo("text0/plain"));
-        $this->assertNull(MimeType::getInfo("text/plain0"));
-        $this->assertNull(MimeType::getInfo("textplain"));
+        $this->assertNull(MimeType::getExtensions("text0/plain"));
+        $this->assertNull(MimeType::getExtensions("text/plain0"));
+        $this->assertNull(MimeType::getExtensions("textplain"));
 
         $this->assertEquals(
-            MimeType::getInfo("text/plain"),
-            [
-                'compressible' => true,
-                'source'       => 'iana',
-                'extensions'   => ['txt', 'text', 'conf', 'def', 'list', 'log', 'in', 'ini'],
-            ]
+            MimeType::getExtensions("text/plain"),
+            ['asc', 'conf', 'def', 'in', 'list', 'log', 'text', 'txt']
         );
         $this->assertEquals(
-            MimeType::getInfo("application/json"),
-            [
-                'compressible' => true,
-                'source'       => 'iana',
-                'charset'      => 'UTF-8',
-                'extensions'   => ['json', 'map'],
-            ]
+            MimeType::getExtensions("application/json"),
+            ['json', 'map']
         );
     }
 
     public function testExtensionMimes() {
+        $this->assertNull(MimeType::getExtensionMimes("wave"));
+        $this->assertNull(MimeType::getExtensions("txt0"));
+
         $this->assertEquals(
             MimeType::getExtensionMimes("wav"),
-            ['audio/wav', 'audio/wave', 'audio/x-wav']
+            ['audio/vnd.wave', 'audio/wav', 'audio/wave', 'audio/x-wav']
         );
         $this->assertEquals(
             MimeType::getExtensionMimes("wadl"),

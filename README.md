@@ -22,7 +22,7 @@ composer require xobotyi/php-mime-type
 
 use xobotyi\MimeType;
 
-MimeType::getInfo('text/plain')['extensions']; // ['txt', 'text', 'conf', 'def', 'list', 'log', 'in', 'ini']
+MimeType::getExtensions('text/plain'); // ['txt', 'text', 'conf', 'def', 'list', 'log', 'in', 'ini']
 MimeType::getExtensionMimes('wav'); // ['audio/wav', 'audio/wave', 'audio/x-wav']
 ```
 
@@ -32,16 +32,9 @@ _Description:_ Check whether mime-type is supported.
 _Parameters:_ **$type** - mime-type to check.  
 _Return:_ boolean
 
-##### MimeType::getInfo()
-_Description:_ Return the mime-type information.  
-_Return:_ associative array with next structure:  
-- `source` - where the mime type is defined. If not set, it's probably a custom media type.
-    - `apache` - [Apache common media types](http://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types)
-    - `iana` - [IANA-defined media types](http://www.iana.org/assignments/media-types/media-types.xhtml)
-    - `nginx` - [nginx media types](http://hg.nginx.org/nginx/raw-file/default/conf/mime.types)
-- `extensions` - known extensions associated with this mime type.
-- `compressible` - whether a file of this type can be gzipped.
-- `charset` - the default charset associated with this type, if any.
+##### MimeType::getExtensions(string $mime)
+_Description:_ Return the mime-type's associated extensions.  
+_Return:_ plain array of strings or null if mime-type is unknown 
 
 ##### MimeType::getSupportedMimes(string $group = null)
 _Description:_ Return the plain list of supported mime-types.  
@@ -60,4 +53,4 @@ This is made for return values monotony, due to some extensions are associated w
 
 ##### MimeType::getSupportedExtensions()
 _Description:_ Return the plain list of supported file extensions.  
-_Return:_ plain array of strings ot numbers (some file extensions are numbers only so the treated as integer)
+_Return:_ plain array of strings or numbers (some file extensions are numbers only so the treated as integer)

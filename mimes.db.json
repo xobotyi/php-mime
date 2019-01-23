@@ -1,0 +1,6503 @@
+{
+    "application": {
+        "1d-interleaved-parityfec": [],
+        "3gpdash-qoe-report+xml": [],
+        "3gpp-ims+xml": [],
+        "a2l": [],
+        "acrobat": [
+            "pdf"
+        ],
+        "activemessage": [],
+        "activity+json": [],
+        "alto-costmap+json": [],
+        "alto-costmapfilter+json": [],
+        "alto-directory+json": [],
+        "alto-endpointcost+json": [],
+        "alto-endpointcostparams+json": [],
+        "alto-endpointprop+json": [],
+        "alto-endpointpropparams+json": [],
+        "alto-error+json": [],
+        "alto-networkmap+json": [],
+        "alto-networkmapfilter+json": [],
+        "aml": [],
+        "andrew-inset": [
+            "ez"
+        ],
+        "annodex": [
+            "anx"
+        ],
+        "applefile": [],
+        "applixware": [
+            "aw"
+        ],
+        "atf": [],
+        "atfx": [],
+        "atom+xml": [
+            "atom"
+        ],
+        "atomcat+xml": [
+            "atomcat"
+        ],
+        "atomdeleted+xml": [],
+        "atomicmail": [],
+        "atomsvc+xml": [
+            "atomsvc"
+        ],
+        "atxml": [],
+        "auth-policy+xml": [],
+        "bacnet-xdd+zip": [],
+        "batch-smtp": [],
+        "bdoc": [
+            "bdoc"
+        ],
+        "beep+xml": [],
+        "calendar+json": [],
+        "calendar+xml": [],
+        "call-completion": [],
+        "cals-1840": [],
+        "cbor": [],
+        "cccex": [],
+        "ccmp+xml": [],
+        "ccxml+xml": [
+            "ccxml"
+        ],
+        "cdfx+xml": [],
+        "cdmi-capability": [
+            "cdmia"
+        ],
+        "cdmi-container": [
+            "cdmic"
+        ],
+        "cdmi-domain": [
+            "cdmid"
+        ],
+        "cdmi-object": [
+            "cdmio"
+        ],
+        "cdmi-queue": [
+            "cdmiq"
+        ],
+        "cdni": [],
+        "cdr": [
+            "cdr"
+        ],
+        "cea": [],
+        "cea-2018+xml": [],
+        "cellml+xml": [],
+        "cfw": [],
+        "clue_info+xml": [],
+        "cms": [],
+        "cnrp+xml": [],
+        "coap-group+json": [],
+        "coap-payload": [],
+        "commonground": [],
+        "conference-info+xml": [],
+        "coreldraw": [
+            "cdr"
+        ],
+        "cose": [],
+        "cose-key": [],
+        "cose-key-set": [],
+        "cpl+xml": [],
+        "csrattrs": [],
+        "csta+xml": [],
+        "cstadata+xml": [],
+        "csvm+json": [],
+        "cu-seeme": [
+            "cu"
+        ],
+        "cwt": [],
+        "cybercash": [],
+        "dart": [],
+        "dash+xml": [
+            "mpd"
+        ],
+        "dashdelta": [],
+        "davmount+xml": [
+            "davmount"
+        ],
+        "dbase": [
+            "dbf"
+        ],
+        "dbf": [
+            "dbf"
+        ],
+        "dca-rft": [],
+        "dcd": [],
+        "dec-dx": [],
+        "dialog-info+xml": [],
+        "dicom": [
+            "dcm"
+        ],
+        "dicom+json": [],
+        "dicom+xml": [],
+        "dii": [],
+        "dit": [],
+        "dns": [],
+        "dns+json": [],
+        "dns-message": [],
+        "docbook+xml": [
+            "dbk",
+            "docbook"
+        ],
+        "dskpp+xml": [],
+        "dssc+der": [
+            "dssc"
+        ],
+        "dssc+xml": [
+            "xdssc"
+        ],
+        "dvcs": [],
+        "ecmascript": [
+            "ecma",
+            "es"
+        ],
+        "edi-consent": [],
+        "edi-x12": [],
+        "edifact": [],
+        "efi": [],
+        "emergencycalldata.comment+xml": [],
+        "emergencycalldata.control+xml": [],
+        "emergencycalldata.deviceinfo+xml": [],
+        "emergencycalldata.ecall.msd": [],
+        "emergencycalldata.providerinfo+xml": [],
+        "emergencycalldata.serviceinfo+xml": [],
+        "emergencycalldata.subscriberinfo+xml": [],
+        "emergencycalldata.veds+xml": [],
+        "emf": [
+            "emf"
+        ],
+        "emma+xml": [
+            "emma"
+        ],
+        "emotionml+xml": [],
+        "encaprtp": [],
+        "epp+xml": [],
+        "epub+zip": [
+            "epub"
+        ],
+        "eshop": [],
+        "exi": [
+            "exi"
+        ],
+        "fastinfoset": [],
+        "fastsoap": [],
+        "fdt+xml": [],
+        "fhir+json": [],
+        "fhir+xml": [],
+        "fido.trusted-apps+json": [],
+        "fits": [],
+        "font-sfnt": [],
+        "font-tdpfr": [
+            "pfr"
+        ],
+        "font-woff": [
+            "woff"
+        ],
+        "framework-attributes+xml": [],
+        "futuresplash": [
+            "spl",
+            "swf"
+        ],
+        "geo+json": [
+            "geo.json",
+            "geojson"
+        ],
+        "geo+json-seq": [],
+        "geopackage+sqlite3": [],
+        "geoxacml+xml": [],
+        "gltf-buffer": [],
+        "gml+xml": [
+            "gml"
+        ],
+        "gnunet-directory": [
+            "gnd"
+        ],
+        "gpx": [
+            "gpx"
+        ],
+        "gpx+xml": [
+            "gpx"
+        ],
+        "gxf": [
+            "gxf"
+        ],
+        "gzip": [
+            "gz"
+        ],
+        "h224": [],
+        "held+xml": [],
+        "hjson": [
+            "hjson"
+        ],
+        "http": [],
+        "hyperstudio": [
+            "stk"
+        ],
+        "ibe-key-request+xml": [],
+        "ibe-pkg-reply+xml": [],
+        "ibe-pp-data": [],
+        "ico": [
+            "ico"
+        ],
+        "ics": [
+            "ics",
+            "vcs"
+        ],
+        "iges": [],
+        "illustrator": [
+            "ai"
+        ],
+        "im-iscomposing+xml": [],
+        "index": [],
+        "index.cmd": [],
+        "index.obj": [],
+        "index.response": [],
+        "index.vnd": [],
+        "inkml+xml": [
+            "ink",
+            "inkml"
+        ],
+        "iotp": [],
+        "ipfix": [
+            "ipfix"
+        ],
+        "ipp": [],
+        "isup": [],
+        "its+xml": [],
+        "java": [
+            "class"
+        ],
+        "java-archive": [
+            "ear",
+            "jar",
+            "war"
+        ],
+        "java-byte-code": [
+            "class"
+        ],
+        "java-serialized-object": [
+            "ser"
+        ],
+        "java-vm": [
+            "class"
+        ],
+        "javascript": [
+            "js",
+            "jsm",
+            "mjs"
+        ],
+        "jf2feed+json": [],
+        "jose": [],
+        "jose+json": [],
+        "jrd+json": [
+            "jrd"
+        ],
+        "json": [
+            "json",
+            "map"
+        ],
+        "json-patch+json": [
+            "json-patch"
+        ],
+        "json-seq": [],
+        "json5": [
+            "json5"
+        ],
+        "jsonml+json": [
+            "jsonml"
+        ],
+        "jwk+json": [],
+        "jwk-set+json": [],
+        "jwt": [],
+        "kpml-request+xml": [],
+        "kpml-response+xml": [],
+        "ld+json": [
+            "jsonld"
+        ],
+        "lgr+xml": [],
+        "link-format": [],
+        "load-control+xml": [],
+        "lost+xml": [
+            "lostxml"
+        ],
+        "lostsync+xml": [],
+        "lotus123": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "lxf": [],
+        "m3u": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "mac-binhex40": [
+            "hqx"
+        ],
+        "mac-compactpro": [
+            "cpt"
+        ],
+        "macwriteii": [],
+        "mads+xml": [
+            "mads"
+        ],
+        "manifest+json": [
+            "webmanifest"
+        ],
+        "marc": [
+            "mrc"
+        ],
+        "marcxml+xml": [
+            "mrcx"
+        ],
+        "mathematica": [
+            "ma",
+            "mb",
+            "nb"
+        ],
+        "mathml+xml": [
+            "mathml",
+            "mml"
+        ],
+        "mathml-content+xml": [],
+        "mathml-presentation+xml": [],
+        "mbms-associated-procedure-description+xml": [],
+        "mbms-deregister+xml": [],
+        "mbms-envelope+xml": [],
+        "mbms-msk+xml": [],
+        "mbms-msk-response+xml": [],
+        "mbms-protection-description+xml": [],
+        "mbms-reception-report+xml": [],
+        "mbms-register+xml": [],
+        "mbms-register-response+xml": [],
+        "mbms-schedule+xml": [],
+        "mbms-user-service-description+xml": [],
+        "mbox": [
+            "mbox"
+        ],
+        "mdb": [
+            "mdb"
+        ],
+        "media-policy-dataset+xml": [],
+        "media_control+xml": [],
+        "mediaservercontrol+xml": [
+            "mscml"
+        ],
+        "merge-patch+json": [],
+        "metalink+xml": [
+            "metalink"
+        ],
+        "metalink4+xml": [
+            "meta4"
+        ],
+        "mets+xml": [
+            "mets"
+        ],
+        "mf4": [],
+        "mikey": [],
+        "mmt-usd+xml": [],
+        "mods+xml": [
+            "mods"
+        ],
+        "moss-keys": [],
+        "moss-signature": [],
+        "mosskey-data": [],
+        "mosskey-request": [],
+        "mp21": [
+            "m21",
+            "mp21"
+        ],
+        "mp4": [
+            "mp4s"
+        ],
+        "mpeg4-generic": [],
+        "mpeg4-iod": [],
+        "mpeg4-iod-xmt": [],
+        "mrb-consumer+xml": [],
+        "mrb-publish+xml": [],
+        "ms-tnef": [
+            "tnef",
+            "tnf"
+        ],
+        "msaccess": [
+            "mdb"
+        ],
+        "msc-ivr+xml": [],
+        "msc-mixer+xml": [],
+        "msexcel": [
+            "xla",
+            "xlc",
+            "xld",
+            "xll",
+            "xlm",
+            "xls",
+            "xlt",
+            "xlw"
+        ],
+        "mspowerpoint": [
+            "pot",
+            "pps",
+            "ppt",
+            "ppz"
+        ],
+        "msword": [
+            "doc",
+            "dot"
+        ],
+        "msword-template": [
+            "dot"
+        ],
+        "mud+json": [],
+        "mxf": [
+            "mxf"
+        ],
+        "n-quads": [],
+        "n-triples": [],
+        "nappdf": [
+            "pdf"
+        ],
+        "nasdata": [],
+        "news-checkgroups": [],
+        "news-groupinfo": [],
+        "news-transmission": [],
+        "nlsml+xml": [],
+        "node": [],
+        "nss": [],
+        "ocsp-request": [],
+        "ocsp-response": [],
+        "octet-stream": [
+            "bin",
+            "bpk",
+            "buffer",
+            "deb",
+            "deploy",
+            "dist",
+            "distz",
+            "dll",
+            "dmg",
+            "dump",
+            "elc",
+            "exe",
+            "img",
+            "iso",
+            "mar",
+            "msi",
+            "msm",
+            "msp",
+            "pkg",
+            "so"
+        ],
+        "oda": [
+            "oda"
+        ],
+        "odx": [],
+        "oebps-package+xml": [
+            "opf"
+        ],
+        "ogg": [
+            "ogx"
+        ],
+        "omdoc+xml": [
+            "omdoc"
+        ],
+        "onenote": [
+            "onepkg",
+            "onetmp",
+            "onetoc",
+            "onetoc2"
+        ],
+        "owl+xml": [
+            "owx"
+        ],
+        "oxps": [
+            "oxps",
+            "xps"
+        ],
+        "p2p-overlay+xml": [],
+        "parityfec": [],
+        "passport": [],
+        "patch-ops-error+xml": [
+            "xer"
+        ],
+        "pcap": [
+            "cap",
+            "dmp",
+            "pcap"
+        ],
+        "pdf": [
+            "pdf"
+        ],
+        "pdx": [],
+        "pgp": [
+            "asc",
+            "gpg",
+            "pgp"
+        ],
+        "pgp-encrypted": [
+            "asc",
+            "gpg",
+            "pgp"
+        ],
+        "pgp-keys": [
+            "asc",
+            "gpg",
+            "pgp",
+            "pkr",
+            "skr"
+        ],
+        "pgp-signature": [
+            "asc",
+            "gpg",
+            "pgp",
+            "sig"
+        ],
+        "photoshop": [
+            "psd"
+        ],
+        "pics-rules": [
+            "prf"
+        ],
+        "pidf+xml": [],
+        "pidf-diff+xml": [],
+        "pkcs10": [
+            "p10"
+        ],
+        "pkcs12": [
+            "p12",
+            "pfx"
+        ],
+        "pkcs7-mime": [
+            "p7c",
+            "p7m"
+        ],
+        "pkcs7-signature": [
+            "p7s"
+        ],
+        "pkcs8": [
+            "p8"
+        ],
+        "pkcs8-encrypted": [
+            "p8e"
+        ],
+        "pkix-attr-cert": [
+            "ac"
+        ],
+        "pkix-cert": [
+            "cer"
+        ],
+        "pkix-crl": [
+            "crl"
+        ],
+        "pkix-pkipath": [
+            "pkipath"
+        ],
+        "pkixcmp": [
+            "pki"
+        ],
+        "pls": [
+            "pls"
+        ],
+        "pls+xml": [
+            "pls"
+        ],
+        "poc-settings+xml": [],
+        "postscript": [
+            "ai",
+            "eps",
+            "ps"
+        ],
+        "powerpoint": [
+            "pot",
+            "pps",
+            "ppt",
+            "ppz"
+        ],
+        "ppsp-tracker+json": [],
+        "problem+json": [],
+        "problem+xml": [],
+        "provenance+xml": [],
+        "prs.alvestrand.titrax-sheet": [],
+        "prs.cww": [
+            "cww"
+        ],
+        "prs.hpub+zip": [],
+        "prs.nprend": [],
+        "prs.plucker": [],
+        "prs.rdf-xml-crypt": [],
+        "prs.xsf+xml": [],
+        "pskc+xml": [
+            "pskcxml"
+        ],
+        "qsig": [],
+        "ram": [
+            "ram"
+        ],
+        "raml+yaml": [
+            "raml"
+        ],
+        "raptorfec": [],
+        "rdap+json": [],
+        "rdf+xml": [
+            "owl",
+            "rdf",
+            "rdfs"
+        ],
+        "reginfo+xml": [
+            "rif"
+        ],
+        "relax-ng-compact-syntax": [
+            "rnc"
+        ],
+        "remote-printing": [],
+        "reputon+json": [],
+        "resource-lists+xml": [
+            "rl"
+        ],
+        "resource-lists-diff+xml": [
+            "rld"
+        ],
+        "rfc+xml": [],
+        "riscos": [],
+        "rlmi+xml": [],
+        "rls-services+xml": [
+            "rs"
+        ],
+        "route-apd+xml": [],
+        "route-s-tsid+xml": [],
+        "route-usd+xml": [],
+        "rpki-ghostbusters": [
+            "gbr"
+        ],
+        "rpki-manifest": [
+            "mft"
+        ],
+        "rpki-publication": [],
+        "rpki-roa": [
+            "roa"
+        ],
+        "rpki-updown": [],
+        "rsd+xml": [
+            "rsd"
+        ],
+        "rss+xml": [
+            "rss"
+        ],
+        "rtf": [
+            "rtf"
+        ],
+        "rtploopback": [],
+        "rtx": [],
+        "samlassertion+xml": [],
+        "samlmetadata+xml": [],
+        "sbml+xml": [
+            "sbml"
+        ],
+        "scaip+xml": [],
+        "scim+json": [],
+        "scvp-cv-request": [
+            "scq"
+        ],
+        "scvp-cv-response": [
+            "scs"
+        ],
+        "scvp-vp-request": [
+            "spq"
+        ],
+        "scvp-vp-response": [
+            "spp"
+        ],
+        "sdp": [
+            "sdp"
+        ],
+        "secevent+jwt": [],
+        "senml+cbor": [],
+        "senml+json": [],
+        "senml+xml": [],
+        "senml-exi": [],
+        "sensml+cbor": [],
+        "sensml+json": [],
+        "sensml+xml": [],
+        "sensml-exi": [],
+        "sep+xml": [],
+        "sep-exi": [],
+        "session-info": [],
+        "set-payment": [],
+        "set-payment-initiation": [
+            "setpay"
+        ],
+        "set-registration": [],
+        "set-registration-initiation": [
+            "setreg"
+        ],
+        "sgml": [],
+        "sgml-open-catalog": [],
+        "shf+xml": [
+            "shf"
+        ],
+        "sieve": [
+            "siv"
+        ],
+        "simple-filter+xml": [],
+        "simple-message-summary": [],
+        "simplesymbolcontainer": [],
+        "slate": [],
+        "smil": [
+            "kino",
+            "smi",
+            "smil",
+            "sml"
+        ],
+        "smil+xml": [
+            "kino",
+            "smi",
+            "smil",
+            "sml"
+        ],
+        "smpte336m": [],
+        "soap+fastinfoset": [],
+        "soap+xml": [],
+        "sparql-query": [
+            "rq"
+        ],
+        "sparql-results+xml": [
+            "srx"
+        ],
+        "spirits-event+xml": [],
+        "sql": [
+            "sql"
+        ],
+        "srgs": [
+            "gram"
+        ],
+        "srgs+xml": [
+            "grxml"
+        ],
+        "sru+xml": [
+            "sru"
+        ],
+        "ssdl+xml": [
+            "ssdl"
+        ],
+        "ssml+xml": [
+            "ssml"
+        ],
+        "stix+json": [],
+        "stuffit": [
+            "sit"
+        ],
+        "tamp-apex-update": [],
+        "tamp-apex-update-confirm": [],
+        "tamp-community-update": [],
+        "tamp-community-update-confirm": [],
+        "tamp-error": [],
+        "tamp-sequence-adjust": [],
+        "tamp-sequence-adjust-confirm": [],
+        "tamp-status-query": [],
+        "tamp-status-response": [],
+        "tamp-update": [],
+        "tamp-update-confirm": [],
+        "tar": [],
+        "taxii+json": [],
+        "tei+xml": [
+            "tei",
+            "teicorpus"
+        ],
+        "thraud+xml": [
+            "tfi"
+        ],
+        "timestamp-query": [],
+        "timestamp-reply": [],
+        "timestamped-data": [
+            "tsd"
+        ],
+        "tlsrpt+gzip": [],
+        "tlsrpt+json": [],
+        "tnauthlist": [],
+        "trickle-ice-sdpfrag": [],
+        "trig": [
+            "trig"
+        ],
+        "ttml+xml": [],
+        "tve-trigger": [],
+        "ulpfec": [],
+        "urc-grpsheet+xml": [],
+        "urc-ressheet+xml": [],
+        "urc-targetdesc+xml": [],
+        "urc-uisocketdesc+xml": [],
+        "vcard+json": [],
+        "vcard+xml": [],
+        "vemmi": [],
+        "vividence.scriptfile": [],
+        "vnd.1000minds.decision-model+xml": [],
+        "vnd.3gpp-prose+xml": [],
+        "vnd.3gpp-prose-pc3ch+xml": [],
+        "vnd.3gpp-v2x-local-service-information": [],
+        "vnd.3gpp.access-transfer-events+xml": [],
+        "vnd.3gpp.bsf+xml": [],
+        "vnd.3gpp.gmop+xml": [],
+        "vnd.3gpp.mc-signalling-ear": [],
+        "vnd.3gpp.mcdata-payload": [],
+        "vnd.3gpp.mcdata-signalling": [],
+        "vnd.3gpp.mcptt-affiliation-command+xml": [],
+        "vnd.3gpp.mcptt-floor-request+xml": [],
+        "vnd.3gpp.mcptt-info+xml": [],
+        "vnd.3gpp.mcptt-location-info+xml": [],
+        "vnd.3gpp.mcptt-mbms-usage-info+xml": [],
+        "vnd.3gpp.mcptt-signed+xml": [],
+        "vnd.3gpp.mid-call+xml": [],
+        "vnd.3gpp.pic-bw-large": [
+            "plb"
+        ],
+        "vnd.3gpp.pic-bw-small": [
+            "psb"
+        ],
+        "vnd.3gpp.pic-bw-var": [
+            "pvb"
+        ],
+        "vnd.3gpp.sms": [],
+        "vnd.3gpp.sms+xml": [],
+        "vnd.3gpp.srvcc-ext+xml": [],
+        "vnd.3gpp.srvcc-info+xml": [],
+        "vnd.3gpp.state-and-event-info+xml": [],
+        "vnd.3gpp.ussd+xml": [],
+        "vnd.3gpp2.bcmcsinfo+xml": [],
+        "vnd.3gpp2.sms": [],
+        "vnd.3gpp2.tcap": [
+            "tcap"
+        ],
+        "vnd.3lightssoftware.imagescal": [],
+        "vnd.3m.post-it-notes": [
+            "pwn"
+        ],
+        "vnd.accpac.simply.aso": [
+            "aso"
+        ],
+        "vnd.accpac.simply.imp": [
+            "imp"
+        ],
+        "vnd.acucobol": [
+            "acu"
+        ],
+        "vnd.acucorp": [
+            "acutc",
+            "atc"
+        ],
+        "vnd.adobe.air-application-installer-package+zip": [
+            "air"
+        ],
+        "vnd.adobe.flash.movie": [
+            "spl",
+            "swf"
+        ],
+        "vnd.adobe.formscentral.fcdt": [
+            "fcdt"
+        ],
+        "vnd.adobe.fxp": [
+            "fxp",
+            "fxpl"
+        ],
+        "vnd.adobe.illustrator": [
+            "ai"
+        ],
+        "vnd.adobe.partial-upload": [],
+        "vnd.adobe.xdp+xml": [
+            "xdp"
+        ],
+        "vnd.adobe.xfdf": [
+            "xfdf"
+        ],
+        "vnd.aether.imp": [],
+        "vnd.afpc.afplinedata": [],
+        "vnd.afpc.modca": [],
+        "vnd.ah-barcode": [],
+        "vnd.ahead.space": [
+            "ahead"
+        ],
+        "vnd.airzip.filesecure.azf": [
+            "azf"
+        ],
+        "vnd.airzip.filesecure.azs": [
+            "azs"
+        ],
+        "vnd.amadeus+json": [],
+        "vnd.amazon.ebook": [
+            "azw"
+        ],
+        "vnd.amazon.mobi8-ebook": [],
+        "vnd.americandynamics.acc": [
+            "acc"
+        ],
+        "vnd.amiga.ami": [
+            "ami"
+        ],
+        "vnd.amundsen.maze+xml": [],
+        "vnd.android.package-archive": [
+            "apk"
+        ],
+        "vnd.anki": [],
+        "vnd.anser-web-certificate-issue-initiation": [
+            "cii"
+        ],
+        "vnd.anser-web-funds-transfer-initiation": [
+            "fti"
+        ],
+        "vnd.antix.game-component": [
+            "atx"
+        ],
+        "vnd.apache.thrift.binary": [],
+        "vnd.apache.thrift.compact": [],
+        "vnd.apache.thrift.json": [],
+        "vnd.api+json": [],
+        "vnd.apothekende.reservation+json": [],
+        "vnd.appimage": [
+            "appimage"
+        ],
+        "vnd.apple.installer+xml": [
+            "mpkg"
+        ],
+        "vnd.apple.keynote": [
+            "key"
+        ],
+        "vnd.apple.mpegurl": [
+            "m3u",
+            "m3u8"
+        ],
+        "vnd.apple.numbers": [
+            "numbers"
+        ],
+        "vnd.apple.pages": [
+            "pages"
+        ],
+        "vnd.apple.pkpass": [
+            "pkpass"
+        ],
+        "vnd.arastra.swi": [],
+        "vnd.aristanetworks.swi": [
+            "swi"
+        ],
+        "vnd.artisan+json": [],
+        "vnd.artsquare": [],
+        "vnd.astraea-software.iota": [
+            "iota"
+        ],
+        "vnd.audiograph": [
+            "aep"
+        ],
+        "vnd.autopackage": [],
+        "vnd.avalon+json": [],
+        "vnd.avistar+xml": [],
+        "vnd.balsamiq.bmml+xml": [],
+        "vnd.balsamiq.bmpr": [],
+        "vnd.banana-accounting": [],
+        "vnd.bbf.usp.msg": [],
+        "vnd.bbf.usp.msg+json": [],
+        "vnd.bekitzur-stech+json": [],
+        "vnd.bint.med-content": [],
+        "vnd.biopax.rdf+xml": [],
+        "vnd.blink-idb-value-wrapper": [],
+        "vnd.blueice.multipass": [
+            "mpm"
+        ],
+        "vnd.bluetooth.ep.oob": [],
+        "vnd.bluetooth.le.oob": [],
+        "vnd.bmi": [
+            "bmi"
+        ],
+        "vnd.businessobjects": [
+            "rep"
+        ],
+        "vnd.byu.uapi+json": [],
+        "vnd.cab-jscript": [],
+        "vnd.canon-cpdl": [],
+        "vnd.canon-lips": [],
+        "vnd.capasystems-pg+json": [],
+        "vnd.cendio.thinlinc.clientconf": [],
+        "vnd.century-systems.tcp_stream": [],
+        "vnd.chemdraw+xml": [
+            "cdxml"
+        ],
+        "vnd.chess-pgn": [
+            "pgn"
+        ],
+        "vnd.chipnuts.karaoke-mmd": [
+            "mmd"
+        ],
+        "vnd.cinderella": [
+            "cdy"
+        ],
+        "vnd.cirpack.isdn-ext": [],
+        "vnd.citationstyles.style+xml": [
+            "csl"
+        ],
+        "vnd.claymore": [
+            "cla"
+        ],
+        "vnd.cloanto.rp9": [
+            "rp9"
+        ],
+        "vnd.clonk.c4group": [
+            "c4d",
+            "c4f",
+            "c4g",
+            "c4p",
+            "c4u"
+        ],
+        "vnd.cluetrust.cartomobile-config": [
+            "c11amc"
+        ],
+        "vnd.cluetrust.cartomobile-config-pkg": [
+            "c11amz"
+        ],
+        "vnd.coffeescript": [
+            "coffee"
+        ],
+        "vnd.collabio.xodocuments.document": [],
+        "vnd.collabio.xodocuments.document-template": [],
+        "vnd.collabio.xodocuments.presentation": [],
+        "vnd.collabio.xodocuments.presentation-template": [],
+        "vnd.collabio.xodocuments.spreadsheet": [],
+        "vnd.collabio.xodocuments.spreadsheet-template": [],
+        "vnd.collection+json": [],
+        "vnd.collection.doc+json": [],
+        "vnd.collection.next+json": [],
+        "vnd.comicbook+zip": [
+            "cbz"
+        ],
+        "vnd.comicbook-rar": [
+            "cbr"
+        ],
+        "vnd.commerce-battelle": [],
+        "vnd.commonspace": [
+            "csp"
+        ],
+        "vnd.contact.cmsg": [
+            "cdbcmsg"
+        ],
+        "vnd.corel-draw": [
+            "cdr"
+        ],
+        "vnd.coreos.ignition+json": [],
+        "vnd.cosmocaller": [
+            "cmc"
+        ],
+        "vnd.crick.clicker": [
+            "clkx"
+        ],
+        "vnd.crick.clicker.keyboard": [
+            "clkk"
+        ],
+        "vnd.crick.clicker.palette": [
+            "clkp"
+        ],
+        "vnd.crick.clicker.template": [
+            "clkt"
+        ],
+        "vnd.crick.clicker.wordbank": [
+            "clkw"
+        ],
+        "vnd.criticaltools.wbs+xml": [
+            "wbs"
+        ],
+        "vnd.ctc-posml": [
+            "pml"
+        ],
+        "vnd.ctct.ws+xml": [],
+        "vnd.cups-pdf": [],
+        "vnd.cups-postscript": [],
+        "vnd.cups-ppd": [
+            "ppd"
+        ],
+        "vnd.cups-raster": [],
+        "vnd.cups-raw": [],
+        "vnd.curl": [],
+        "vnd.curl.car": [
+            "car"
+        ],
+        "vnd.curl.pcurl": [
+            "pcurl"
+        ],
+        "vnd.cyan.dean.root+xml": [],
+        "vnd.cybank": [],
+        "vnd.d2l.coursepackage1p0+zip": [],
+        "vnd.dart": [
+            "dart"
+        ],
+        "vnd.data-vision.rdz": [
+            "rdz"
+        ],
+        "vnd.datapackage+json": [],
+        "vnd.dataresource+json": [],
+        "vnd.debian.binary-package": [
+            "deb",
+            "udeb"
+        ],
+        "vnd.dece.data": [
+            "uvd",
+            "uvf",
+            "uvvd",
+            "uvvf"
+        ],
+        "vnd.dece.ttml+xml": [
+            "uvt",
+            "uvvt"
+        ],
+        "vnd.dece.unspecified": [
+            "uvvx",
+            "uvx"
+        ],
+        "vnd.dece.zip": [
+            "uvvz",
+            "uvz"
+        ],
+        "vnd.denovo.fcselayout-link": [
+            "fe_launch"
+        ],
+        "vnd.desmume.movie": [],
+        "vnd.dir-bi.plate-dl-nosuffix": [],
+        "vnd.dm.delegation+xml": [],
+        "vnd.dna": [
+            "dna"
+        ],
+        "vnd.document+json": [],
+        "vnd.dolby.mlp": [
+            "mlp"
+        ],
+        "vnd.dolby.mobile.1": [],
+        "vnd.dolby.mobile.2": [],
+        "vnd.doremir.scorecloud-binary-document": [],
+        "vnd.dpgraph": [
+            "dpg"
+        ],
+        "vnd.dreamfactory": [
+            "dfac"
+        ],
+        "vnd.drive+json": [],
+        "vnd.ds-keypoint": [
+            "kpxx"
+        ],
+        "vnd.dtg.local": [],
+        "vnd.dtg.local.flash": [],
+        "vnd.dtg.local.html": [],
+        "vnd.dvb.ait": [
+            "ait"
+        ],
+        "vnd.dvb.dvbj": [],
+        "vnd.dvb.esgcontainer": [],
+        "vnd.dvb.ipdcdftnotifaccess": [],
+        "vnd.dvb.ipdcesgaccess": [],
+        "vnd.dvb.ipdcesgaccess2": [],
+        "vnd.dvb.ipdcesgpdd": [],
+        "vnd.dvb.ipdcroaming": [],
+        "vnd.dvb.iptv.alfec-base": [],
+        "vnd.dvb.iptv.alfec-enhancement": [],
+        "vnd.dvb.notif-aggregate-root+xml": [],
+        "vnd.dvb.notif-container+xml": [],
+        "vnd.dvb.notif-generic+xml": [],
+        "vnd.dvb.notif-ia-msglist+xml": [],
+        "vnd.dvb.notif-ia-registration-request+xml": [],
+        "vnd.dvb.notif-ia-registration-response+xml": [],
+        "vnd.dvb.notif-init+xml": [],
+        "vnd.dvb.pfr": [],
+        "vnd.dvb.service": [
+            "svc"
+        ],
+        "vnd.dxr": [],
+        "vnd.dynageo": [
+            "geo"
+        ],
+        "vnd.dzr": [],
+        "vnd.easykaraoke.cdgdownload": [],
+        "vnd.ecdis-update": [],
+        "vnd.ecip.rlp": [],
+        "vnd.ecowin.chart": [
+            "mag"
+        ],
+        "vnd.ecowin.filerequest": [],
+        "vnd.ecowin.fileupdate": [],
+        "vnd.ecowin.series": [],
+        "vnd.ecowin.seriesrequest": [],
+        "vnd.ecowin.seriesupdate": [],
+        "vnd.efi.img": [],
+        "vnd.efi.iso": [],
+        "vnd.emclient.accessrequest+xml": [],
+        "vnd.emusic-emusic_package": [
+            "emp"
+        ],
+        "vnd.enliven": [
+            "nml"
+        ],
+        "vnd.enphase.envoy": [],
+        "vnd.eprints.data+xml": [],
+        "vnd.epson.esf": [
+            "esf"
+        ],
+        "vnd.epson.msf": [
+            "msf"
+        ],
+        "vnd.epson.quickanime": [
+            "qam"
+        ],
+        "vnd.epson.salt": [
+            "slt"
+        ],
+        "vnd.epson.ssf": [
+            "ssf"
+        ],
+        "vnd.ericsson.quickcall": [],
+        "vnd.espass-espass+zip": [],
+        "vnd.eszigno3+xml": [
+            "es3",
+            "et3"
+        ],
+        "vnd.etsi.aoc+xml": [],
+        "vnd.etsi.asic-e+zip": [],
+        "vnd.etsi.asic-s+zip": [],
+        "vnd.etsi.cug+xml": [],
+        "vnd.etsi.iptvcommand+xml": [],
+        "vnd.etsi.iptvdiscovery+xml": [],
+        "vnd.etsi.iptvprofile+xml": [],
+        "vnd.etsi.iptvsad-bc+xml": [],
+        "vnd.etsi.iptvsad-cod+xml": [],
+        "vnd.etsi.iptvsad-npvr+xml": [],
+        "vnd.etsi.iptvservice+xml": [],
+        "vnd.etsi.iptvsync+xml": [],
+        "vnd.etsi.iptvueprofile+xml": [],
+        "vnd.etsi.mcid+xml": [],
+        "vnd.etsi.mheg5": [],
+        "vnd.etsi.overload-control-policy-dataset+xml": [],
+        "vnd.etsi.pstn+xml": [],
+        "vnd.etsi.sci+xml": [],
+        "vnd.etsi.simservs+xml": [],
+        "vnd.etsi.timestamp-token": [],
+        "vnd.etsi.tsl+xml": [],
+        "vnd.etsi.tsl.der": [],
+        "vnd.eudora.data": [],
+        "vnd.evolv.ecig.profile": [],
+        "vnd.evolv.ecig.settings": [],
+        "vnd.evolv.ecig.theme": [],
+        "vnd.exstream-empower+zip": [],
+        "vnd.ezpix-album": [
+            "ez2"
+        ],
+        "vnd.ezpix-package": [
+            "ez3"
+        ],
+        "vnd.f-secure.mobile": [],
+        "vnd.fastcopy-disk-image": [],
+        "vnd.fdf": [
+            "fdf"
+        ],
+        "vnd.fdsn.mseed": [
+            "mseed"
+        ],
+        "vnd.fdsn.seed": [
+            "dataless",
+            "seed"
+        ],
+        "vnd.ffsns": [],
+        "vnd.filmit.zfc": [],
+        "vnd.fints": [],
+        "vnd.firemonkeys.cloudcell": [],
+        "vnd.flatpak": [
+            "flatpak",
+            "xdgapp"
+        ],
+        "vnd.flatpak.ref": [
+            "flatpakref"
+        ],
+        "vnd.flatpak.repo": [
+            "flatpakrepo"
+        ],
+        "vnd.flographit": [
+            "gph"
+        ],
+        "vnd.fluxtime.clip": [
+            "ftc"
+        ],
+        "vnd.font-fontforge-sfd": [],
+        "vnd.framemaker": [
+            "book",
+            "fm",
+            "frame",
+            "maker"
+        ],
+        "vnd.frogans.fnc": [
+            "fnc"
+        ],
+        "vnd.frogans.ltf": [
+            "ltf"
+        ],
+        "vnd.fsc.weblaunch": [
+            "fsc"
+        ],
+        "vnd.fujitsu.oasys": [
+            "oas"
+        ],
+        "vnd.fujitsu.oasys2": [
+            "oa2"
+        ],
+        "vnd.fujitsu.oasys3": [
+            "oa3"
+        ],
+        "vnd.fujitsu.oasysgp": [
+            "fg5"
+        ],
+        "vnd.fujitsu.oasysprs": [
+            "bh2"
+        ],
+        "vnd.fujixerox.art-ex": [],
+        "vnd.fujixerox.art4": [],
+        "vnd.fujixerox.ddd": [
+            "ddd"
+        ],
+        "vnd.fujixerox.docuworks": [
+            "xdw"
+        ],
+        "vnd.fujixerox.docuworks.binder": [
+            "xbd"
+        ],
+        "vnd.fujixerox.docuworks.container": [],
+        "vnd.fujixerox.hbpl": [],
+        "vnd.fut-misnet": [],
+        "vnd.futoin+cbor": [],
+        "vnd.futoin+json": [],
+        "vnd.fuzzysheet": [
+            "fzs"
+        ],
+        "vnd.genomatix.tuxedo": [
+            "txd"
+        ],
+        "vnd.geo+json": [
+            "geo.json",
+            "geojson"
+        ],
+        "vnd.geocube+xml": [],
+        "vnd.geogebra.file": [
+            "ggb"
+        ],
+        "vnd.geogebra.tool": [
+            "ggt"
+        ],
+        "vnd.geometry-explorer": [
+            "gex",
+            "gre"
+        ],
+        "vnd.geonext": [
+            "gxt"
+        ],
+        "vnd.geoplan": [
+            "g2w"
+        ],
+        "vnd.geospace": [
+            "g3w"
+        ],
+        "vnd.gerber": [],
+        "vnd.globalplatform.card-content-mgt": [],
+        "vnd.globalplatform.card-content-mgt-response": [],
+        "vnd.gmx": [
+            "gmx"
+        ],
+        "vnd.google-apps.document": [
+            "gdoc"
+        ],
+        "vnd.google-apps.presentation": [
+            "gslides"
+        ],
+        "vnd.google-apps.spreadsheet": [
+            "gsheet"
+        ],
+        "vnd.google-earth.kml+xml": [
+            "kml"
+        ],
+        "vnd.google-earth.kmz": [
+            "kmz"
+        ],
+        "vnd.gov.sk.e-form+xml": [],
+        "vnd.gov.sk.e-form+zip": [],
+        "vnd.gov.sk.xmldatacontainer+xml": [],
+        "vnd.grafeq": [
+            "gqf",
+            "gqs"
+        ],
+        "vnd.gridmp": [],
+        "vnd.groove-account": [
+            "gac"
+        ],
+        "vnd.groove-help": [
+            "ghf"
+        ],
+        "vnd.groove-identity-message": [
+            "gim"
+        ],
+        "vnd.groove-injector": [
+            "grv"
+        ],
+        "vnd.groove-tool-message": [
+            "gtm"
+        ],
+        "vnd.groove-tool-template": [
+            "tpl"
+        ],
+        "vnd.groove-vcard": [
+            "vcg"
+        ],
+        "vnd.haansoft-hwp": [
+            "hwp"
+        ],
+        "vnd.haansoft-hwt": [
+            "hwt"
+        ],
+        "vnd.hal+json": [],
+        "vnd.hal+xml": [
+            "hal"
+        ],
+        "vnd.handheld-entertainment+xml": [
+            "zmm"
+        ],
+        "vnd.hbci": [
+            "hbci"
+        ],
+        "vnd.hc+json": [],
+        "vnd.hcl-bireports": [],
+        "vnd.hdt": [],
+        "vnd.heroku+json": [],
+        "vnd.hhe.lesson-player": [
+            "les"
+        ],
+        "vnd.hp-hpgl": [
+            "hpgl"
+        ],
+        "vnd.hp-hpid": [
+            "hpid"
+        ],
+        "vnd.hp-hps": [
+            "hps"
+        ],
+        "vnd.hp-jlyt": [
+            "jlt"
+        ],
+        "vnd.hp-pcl": [
+            "pcl"
+        ],
+        "vnd.hp-pclxl": [
+            "pclxl"
+        ],
+        "vnd.httphone": [],
+        "vnd.hydrostatix.sof-data": [
+            "sfd-hdstx"
+        ],
+        "vnd.hyper+json": [],
+        "vnd.hyper-item+json": [],
+        "vnd.hyperdrive+json": [],
+        "vnd.hzn-3d-crossword": [],
+        "vnd.ibm.afplinedata": [],
+        "vnd.ibm.electronic-media": [],
+        "vnd.ibm.minipay": [
+            "mpy"
+        ],
+        "vnd.ibm.modcap": [
+            "afp",
+            "list3820",
+            "listafp"
+        ],
+        "vnd.ibm.rights-management": [
+            "irm"
+        ],
+        "vnd.ibm.secure-container": [
+            "sc"
+        ],
+        "vnd.iccprofile": [
+            "icc",
+            "icm"
+        ],
+        "vnd.ieee.1905": [],
+        "vnd.igloader": [
+            "igl"
+        ],
+        "vnd.imagemeter.folder+zip": [],
+        "vnd.imagemeter.image+zip": [],
+        "vnd.immervision-ivp": [
+            "ivp"
+        ],
+        "vnd.immervision-ivu": [
+            "ivu"
+        ],
+        "vnd.ims.imsccv1p1": [],
+        "vnd.ims.imsccv1p2": [],
+        "vnd.ims.imsccv1p3": [],
+        "vnd.ims.lis.v2.result+json": [],
+        "vnd.ims.lti.v2.toolconsumerprofile+json": [],
+        "vnd.ims.lti.v2.toolproxy+json": [],
+        "vnd.ims.lti.v2.toolproxy.id+json": [],
+        "vnd.ims.lti.v2.toolsettings+json": [],
+        "vnd.ims.lti.v2.toolsettings.simple+json": [],
+        "vnd.informedcontrol.rms+xml": [],
+        "vnd.informix-visionary": [],
+        "vnd.infotech.project": [],
+        "vnd.infotech.project+xml": [],
+        "vnd.innopath.wamp.notification": [],
+        "vnd.insors.igm": [
+            "igm"
+        ],
+        "vnd.intercon.formnet": [
+            "xpw",
+            "xpx"
+        ],
+        "vnd.intergeo": [
+            "i2g"
+        ],
+        "vnd.intertrust.digibox": [],
+        "vnd.intertrust.nncp": [],
+        "vnd.intu.qbo": [
+            "qbo"
+        ],
+        "vnd.intu.qfx": [
+            "qfx"
+        ],
+        "vnd.iptc.g2.catalogitem+xml": [],
+        "vnd.iptc.g2.conceptitem+xml": [],
+        "vnd.iptc.g2.knowledgeitem+xml": [],
+        "vnd.iptc.g2.newsitem+xml": [],
+        "vnd.iptc.g2.newsmessage+xml": [],
+        "vnd.iptc.g2.packageitem+xml": [],
+        "vnd.iptc.g2.planningitem+xml": [],
+        "vnd.ipunplugged.rcprofile": [
+            "rcprofile"
+        ],
+        "vnd.irepository.package+xml": [
+            "irp"
+        ],
+        "vnd.is-xpr": [
+            "xpr"
+        ],
+        "vnd.isac.fcs": [
+            "fcs"
+        ],
+        "vnd.jam": [
+            "jam"
+        ],
+        "vnd.japannet-directory-service": [],
+        "vnd.japannet-jpnstore-wakeup": [],
+        "vnd.japannet-payment-wakeup": [],
+        "vnd.japannet-registration": [],
+        "vnd.japannet-registration-wakeup": [],
+        "vnd.japannet-setstore-wakeup": [],
+        "vnd.japannet-verification": [],
+        "vnd.japannet-verification-wakeup": [],
+        "vnd.jcp.javame.midlet-rms": [
+            "rms"
+        ],
+        "vnd.jisp": [
+            "jisp"
+        ],
+        "vnd.joost.joda-archive": [
+            "joda"
+        ],
+        "vnd.jsk.isdn-ngn": [],
+        "vnd.kahootz": [
+            "ktr",
+            "ktz"
+        ],
+        "vnd.kde.karbon": [
+            "karbon"
+        ],
+        "vnd.kde.kchart": [
+            "chrt"
+        ],
+        "vnd.kde.kformula": [
+            "kfo"
+        ],
+        "vnd.kde.kivio": [
+            "flw"
+        ],
+        "vnd.kde.kontour": [
+            "kon"
+        ],
+        "vnd.kde.kpresenter": [
+            "kpr",
+            "kpt"
+        ],
+        "vnd.kde.kspread": [
+            "ksp"
+        ],
+        "vnd.kde.kword": [
+            "kwd",
+            "kwt"
+        ],
+        "vnd.kenameaapp": [
+            "htke"
+        ],
+        "vnd.kidspiration": [
+            "kia"
+        ],
+        "vnd.kinar": [
+            "kne",
+            "knp"
+        ],
+        "vnd.koan": [
+            "skd",
+            "skm",
+            "skp",
+            "skt"
+        ],
+        "vnd.kodak-descriptor": [
+            "sse"
+        ],
+        "vnd.las.las+json": [],
+        "vnd.las.las+xml": [
+            "lasxml"
+        ],
+        "vnd.leap+json": [],
+        "vnd.liberty-request+xml": [],
+        "vnd.llamagraphics.life-balance.desktop": [
+            "lbd"
+        ],
+        "vnd.llamagraphics.life-balance.exchange+xml": [
+            "lbe"
+        ],
+        "vnd.lotus-1-2-3": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "vnd.lotus-approach": [
+            "apr"
+        ],
+        "vnd.lotus-freelance": [
+            "pre"
+        ],
+        "vnd.lotus-notes": [
+            "nsf"
+        ],
+        "vnd.lotus-organizer": [
+            "org"
+        ],
+        "vnd.lotus-screencam": [
+            "scm"
+        ],
+        "vnd.lotus-wordpro": [
+            "lwp"
+        ],
+        "vnd.macports.portpkg": [
+            "portpkg"
+        ],
+        "vnd.mapbox-vector-tile": [],
+        "vnd.marlin.drm.actiontoken+xml": [],
+        "vnd.marlin.drm.conftoken+xml": [],
+        "vnd.marlin.drm.license+xml": [],
+        "vnd.marlin.drm.mdcf": [],
+        "vnd.mason+json": [],
+        "vnd.maxmind.maxmind-db": [],
+        "vnd.mcd": [
+            "mcd"
+        ],
+        "vnd.medcalcdata": [
+            "mc1"
+        ],
+        "vnd.mediastation.cdkey": [
+            "cdkey"
+        ],
+        "vnd.meridian-slingshot": [],
+        "vnd.mfer": [
+            "mwf"
+        ],
+        "vnd.mfmp": [
+            "mfm"
+        ],
+        "vnd.micro+json": [],
+        "vnd.micrografx.flo": [
+            "flo"
+        ],
+        "vnd.micrografx.igx": [
+            "igx"
+        ],
+        "vnd.microsoft.portable-executable": [],
+        "vnd.microsoft.windows.thumbnail-cache": [],
+        "vnd.miele+json": [],
+        "vnd.mif": [
+            "mif"
+        ],
+        "vnd.minisoft-hp3000-save": [],
+        "vnd.mitsubishi.misty-guard.trustweb": [],
+        "vnd.mobius.daf": [
+            "daf"
+        ],
+        "vnd.mobius.dis": [
+            "dis"
+        ],
+        "vnd.mobius.mbk": [
+            "mbk"
+        ],
+        "vnd.mobius.mqy": [
+            "mqy"
+        ],
+        "vnd.mobius.msl": [
+            "msl"
+        ],
+        "vnd.mobius.plc": [
+            "plc"
+        ],
+        "vnd.mobius.txf": [
+            "txf"
+        ],
+        "vnd.mophun.application": [
+            "mpn"
+        ],
+        "vnd.mophun.certificate": [
+            "mpc"
+        ],
+        "vnd.motorola.flexsuite": [],
+        "vnd.motorola.flexsuite.adsi": [],
+        "vnd.motorola.flexsuite.fis": [],
+        "vnd.motorola.flexsuite.gotap": [],
+        "vnd.motorola.flexsuite.kmr": [],
+        "vnd.motorola.flexsuite.ttc": [],
+        "vnd.motorola.flexsuite.wem": [],
+        "vnd.motorola.iprm": [],
+        "vnd.mozilla.xul+xml": [
+            "xul"
+        ],
+        "vnd.ms-3mfdocument": [],
+        "vnd.ms-access": [
+            "mdb"
+        ],
+        "vnd.ms-artgalry": [
+            "cil"
+        ],
+        "vnd.ms-asf": [
+            "asf"
+        ],
+        "vnd.ms-cab-compressed": [
+            "cab"
+        ],
+        "vnd.ms-color.iccprofile": [],
+        "vnd.ms-excel": [
+            "xla",
+            "xlc",
+            "xld",
+            "xll",
+            "xlm",
+            "xls",
+            "xlt",
+            "xlw"
+        ],
+        "vnd.ms-excel.addin.macroenabled.12": [
+            "xlam"
+        ],
+        "vnd.ms-excel.sheet.binary.macroenabled.12": [
+            "xlsb"
+        ],
+        "vnd.ms-excel.sheet.macroenabled.12": [
+            "xlsm"
+        ],
+        "vnd.ms-excel.template.macroenabled.12": [
+            "xltm"
+        ],
+        "vnd.ms-fontobject": [
+            "eot"
+        ],
+        "vnd.ms-htmlhelp": [
+            "chm"
+        ],
+        "vnd.ms-ims": [
+            "ims"
+        ],
+        "vnd.ms-lrm": [
+            "lrm"
+        ],
+        "vnd.ms-office.activex+xml": [],
+        "vnd.ms-officetheme": [
+            "thmx"
+        ],
+        "vnd.ms-opentype": [],
+        "vnd.ms-outlook": [
+            "msg"
+        ],
+        "vnd.ms-package.obfuscated-opentype": [],
+        "vnd.ms-pki.seccat": [
+            "cat"
+        ],
+        "vnd.ms-pki.stl": [
+            "stl"
+        ],
+        "vnd.ms-playready.initiator+xml": [],
+        "vnd.ms-powerpoint": [
+            "pot",
+            "pps",
+            "ppt",
+            "ppz"
+        ],
+        "vnd.ms-powerpoint.addin.macroenabled.12": [
+            "ppam"
+        ],
+        "vnd.ms-powerpoint.presentation.macroenabled.12": [
+            "pptm"
+        ],
+        "vnd.ms-powerpoint.slide.macroenabled.12": [
+            "sldm"
+        ],
+        "vnd.ms-powerpoint.slideshow.macroenabled.12": [
+            "ppsm"
+        ],
+        "vnd.ms-powerpoint.template.macroenabled.12": [
+            "potm"
+        ],
+        "vnd.ms-printdevicecapabilities+xml": [],
+        "vnd.ms-printing.printticket+xml": [],
+        "vnd.ms-printschematicket+xml": [],
+        "vnd.ms-project": [
+            "mpp",
+            "mpt"
+        ],
+        "vnd.ms-publisher": [
+            "pub"
+        ],
+        "vnd.ms-tnef": [
+            "tnef",
+            "tnf"
+        ],
+        "vnd.ms-visio.drawing.macroenabled.main+xml": [
+            "vsdm"
+        ],
+        "vnd.ms-visio.drawing.main+xml": [
+            "vsdx"
+        ],
+        "vnd.ms-visio.stencil.macroenabled.main+xml": [
+            "vssm"
+        ],
+        "vnd.ms-visio.stencil.main+xml": [
+            "vssx"
+        ],
+        "vnd.ms-visio.template.macroenabled.main+xml": [
+            "vstm"
+        ],
+        "vnd.ms-visio.template.main+xml": [
+            "vstx"
+        ],
+        "vnd.ms-windows.devicepairing": [],
+        "vnd.ms-windows.nwprinting.oob": [],
+        "vnd.ms-windows.printerpairing": [],
+        "vnd.ms-windows.wsd.oob": [],
+        "vnd.ms-wmdrm.lic-chlg-req": [],
+        "vnd.ms-wmdrm.lic-resp": [],
+        "vnd.ms-wmdrm.meter-chlg-req": [],
+        "vnd.ms-wmdrm.meter-resp": [],
+        "vnd.ms-word": [
+            "doc"
+        ],
+        "vnd.ms-word.document.macroenabled.12": [
+            "docm"
+        ],
+        "vnd.ms-word.template.macroenabled.12": [
+            "dotm"
+        ],
+        "vnd.ms-works": [
+            "wcm",
+            "wdb",
+            "wks",
+            "wps",
+            "xlr"
+        ],
+        "vnd.ms-wpl": [
+            "wpl"
+        ],
+        "vnd.ms-xpsdocument": [
+            "oxps",
+            "xps"
+        ],
+        "vnd.msa-disk-image": [],
+        "vnd.msaccess": [
+            "mdb"
+        ],
+        "vnd.mseq": [
+            "mseq"
+        ],
+        "vnd.msign": [],
+        "vnd.multiad.creator": [],
+        "vnd.multiad.creator.cif": [],
+        "vnd.music-niff": [],
+        "vnd.musician": [
+            "mus"
+        ],
+        "vnd.muvee.style": [
+            "msty"
+        ],
+        "vnd.mynfc": [
+            "taglet"
+        ],
+        "vnd.ncd.control": [],
+        "vnd.ncd.reference": [],
+        "vnd.nearst.inv+json": [],
+        "vnd.nervana": [],
+        "vnd.netfpx": [],
+        "vnd.neurolanguage.nlu": [
+            "nlu"
+        ],
+        "vnd.nimn": [],
+        "vnd.nintendo.nitro.rom": [],
+        "vnd.nintendo.snes.rom": [
+            "sfc",
+            "smc"
+        ],
+        "vnd.nitf": [
+            "nitf",
+            "ntf"
+        ],
+        "vnd.noblenet-directory": [
+            "nnd"
+        ],
+        "vnd.noblenet-sealer": [
+            "nns"
+        ],
+        "vnd.noblenet-web": [
+            "nnw"
+        ],
+        "vnd.nokia.catalogs": [],
+        "vnd.nokia.conml+wbxml": [],
+        "vnd.nokia.conml+xml": [],
+        "vnd.nokia.iptv.config+xml": [],
+        "vnd.nokia.isds-radio-presets": [],
+        "vnd.nokia.landmark+wbxml": [],
+        "vnd.nokia.landmark+xml": [],
+        "vnd.nokia.landmarkcollection+xml": [],
+        "vnd.nokia.n-gage.ac+xml": [],
+        "vnd.nokia.n-gage.data": [
+            "ngdat"
+        ],
+        "vnd.nokia.n-gage.symbian.install": [
+            "n-gage"
+        ],
+        "vnd.nokia.ncd": [],
+        "vnd.nokia.pcd+wbxml": [],
+        "vnd.nokia.pcd+xml": [],
+        "vnd.nokia.radio-preset": [
+            "rpst"
+        ],
+        "vnd.nokia.radio-presets": [
+            "rpss"
+        ],
+        "vnd.novadigm.edm": [
+            "edm"
+        ],
+        "vnd.novadigm.edx": [
+            "edx"
+        ],
+        "vnd.novadigm.ext": [
+            "ext"
+        ],
+        "vnd.ntt-local.content-share": [],
+        "vnd.ntt-local.file-transfer": [],
+        "vnd.ntt-local.ogw_remote-access": [],
+        "vnd.ntt-local.sip-ta_remote": [],
+        "vnd.ntt-local.sip-ta_tcp_stream": [],
+        "vnd.oasis.docbook+xml": [
+            "dbk",
+            "docbook"
+        ],
+        "vnd.oasis.opendocument.chart": [
+            "odc"
+        ],
+        "vnd.oasis.opendocument.chart-template": [
+            "otc"
+        ],
+        "vnd.oasis.opendocument.database": [
+            "odb"
+        ],
+        "vnd.oasis.opendocument.formula": [
+            "odf"
+        ],
+        "vnd.oasis.opendocument.formula-template": [
+            "odft",
+            "otf"
+        ],
+        "vnd.oasis.opendocument.graphics": [
+            "odg"
+        ],
+        "vnd.oasis.opendocument.graphics-flat-xml": [
+            "fodg"
+        ],
+        "vnd.oasis.opendocument.graphics-template": [
+            "otg"
+        ],
+        "vnd.oasis.opendocument.image": [
+            "odi"
+        ],
+        "vnd.oasis.opendocument.image-template": [
+            "oti"
+        ],
+        "vnd.oasis.opendocument.presentation": [
+            "odp"
+        ],
+        "vnd.oasis.opendocument.presentation-flat-xml": [
+            "fodp"
+        ],
+        "vnd.oasis.opendocument.presentation-template": [
+            "otp"
+        ],
+        "vnd.oasis.opendocument.spreadsheet": [
+            "ods"
+        ],
+        "vnd.oasis.opendocument.spreadsheet-flat-xml": [
+            "fods"
+        ],
+        "vnd.oasis.opendocument.spreadsheet-template": [
+            "ots"
+        ],
+        "vnd.oasis.opendocument.text": [
+            "odt"
+        ],
+        "vnd.oasis.opendocument.text-flat-xml": [
+            "fodt"
+        ],
+        "vnd.oasis.opendocument.text-master": [
+            "odm"
+        ],
+        "vnd.oasis.opendocument.text-template": [
+            "ott"
+        ],
+        "vnd.oasis.opendocument.text-web": [
+            "oth"
+        ],
+        "vnd.obn": [],
+        "vnd.ocf+cbor": [],
+        "vnd.oftn.l10n+json": [],
+        "vnd.oipf.contentaccessdownload+xml": [],
+        "vnd.oipf.contentaccessstreaming+xml": [],
+        "vnd.oipf.cspg-hexbinary": [],
+        "vnd.oipf.dae.svg+xml": [],
+        "vnd.oipf.dae.xhtml+xml": [],
+        "vnd.oipf.mippvcontrolmessage+xml": [],
+        "vnd.oipf.pae.gem": [],
+        "vnd.oipf.spdiscovery+xml": [],
+        "vnd.oipf.spdlist+xml": [],
+        "vnd.oipf.ueprofile+xml": [],
+        "vnd.oipf.userprofile+xml": [],
+        "vnd.olpc-sugar": [
+            "xo"
+        ],
+        "vnd.oma-scws-config": [],
+        "vnd.oma-scws-http-request": [],
+        "vnd.oma-scws-http-response": [],
+        "vnd.oma.bcast.associated-procedure-parameter+xml": [],
+        "vnd.oma.bcast.drm-trigger+xml": [],
+        "vnd.oma.bcast.imd+xml": [],
+        "vnd.oma.bcast.ltkm": [],
+        "vnd.oma.bcast.notification+xml": [],
+        "vnd.oma.bcast.provisioningtrigger": [],
+        "vnd.oma.bcast.sgboot": [],
+        "vnd.oma.bcast.sgdd+xml": [],
+        "vnd.oma.bcast.sgdu": [],
+        "vnd.oma.bcast.simple-symbol-container": [],
+        "vnd.oma.bcast.smartcard-trigger+xml": [],
+        "vnd.oma.bcast.sprov+xml": [],
+        "vnd.oma.bcast.stkm": [],
+        "vnd.oma.cab-address-book+xml": [],
+        "vnd.oma.cab-feature-handler+xml": [],
+        "vnd.oma.cab-pcc+xml": [],
+        "vnd.oma.cab-subs-invite+xml": [],
+        "vnd.oma.cab-user-prefs+xml": [],
+        "vnd.oma.dcd": [],
+        "vnd.oma.dcdc": [],
+        "vnd.oma.dd2+xml": [
+            "dd2"
+        ],
+        "vnd.oma.drm.risd+xml": [],
+        "vnd.oma.group-usage-list+xml": [],
+        "vnd.oma.lwm2m+json": [],
+        "vnd.oma.lwm2m+tlv": [],
+        "vnd.oma.pal+xml": [],
+        "vnd.oma.poc.detailed-progress-report+xml": [],
+        "vnd.oma.poc.final-report+xml": [],
+        "vnd.oma.poc.groups+xml": [],
+        "vnd.oma.poc.invocation-descriptor+xml": [],
+        "vnd.oma.poc.optimized-progress-report+xml": [],
+        "vnd.oma.push": [],
+        "vnd.oma.scidm.messages+xml": [],
+        "vnd.oma.xcap-directory+xml": [],
+        "vnd.omads-email+xml": [],
+        "vnd.omads-file+xml": [],
+        "vnd.omads-folder+xml": [],
+        "vnd.omaloc-supl-init": [],
+        "vnd.onepager": [],
+        "vnd.onepagertamp": [],
+        "vnd.onepagertamx": [],
+        "vnd.onepagertat": [],
+        "vnd.onepagertatp": [],
+        "vnd.onepagertatx": [],
+        "vnd.openblox.game+xml": [],
+        "vnd.openblox.game-binary": [],
+        "vnd.openeye.oeb": [],
+        "vnd.openofficeorg.extension": [
+            "oxt"
+        ],
+        "vnd.openstreetmap.data+xml": [],
+        "vnd.openxmlformats-officedocument.custom-properties+xml": [],
+        "vnd.openxmlformats-officedocument.customxmlproperties+xml": [],
+        "vnd.openxmlformats-officedocument.drawing+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.chart+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.chartshapes+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.diagramcolors+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.diagramdata+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.diagramlayout+xml": [],
+        "vnd.openxmlformats-officedocument.drawingml.diagramstyle+xml": [],
+        "vnd.openxmlformats-officedocument.extended-properties+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.commentauthors+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.comments+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.handoutmaster+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.notesmaster+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.notesslide+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.presentation": [
+            "pptx"
+        ],
+        "vnd.openxmlformats-officedocument.presentationml.presentation.main+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.presprops+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.slide": [
+            "sldx"
+        ],
+        "vnd.openxmlformats-officedocument.presentationml.slide+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.slidelayout+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.slidemaster+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.slideshow": [
+            "ppsx"
+        ],
+        "vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.slideupdateinfo+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.tablestyles+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.tags+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.template": [
+            "potx"
+        ],
+        "vnd.openxmlformats-officedocument.presentationml.template.main+xml": [],
+        "vnd.openxmlformats-officedocument.presentationml.viewprops+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.calcchain+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.comments+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.connections+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.externallink+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.pivotcachedefinition+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.pivotcacherecords+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.pivottable+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.querytable+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.revisionheaders+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.revisionlog+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.sharedstrings+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.sheet": [
+            "xlsx"
+        ],
+        "vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.sheetmetadata+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.styles+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.table+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.tablesinglecells+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.template": [
+            "xltx"
+        ],
+        "vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.usernames+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.volatiledependencies+xml": [],
+        "vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml": [],
+        "vnd.openxmlformats-officedocument.theme+xml": [],
+        "vnd.openxmlformats-officedocument.themeoverride+xml": [],
+        "vnd.openxmlformats-officedocument.vmldrawing": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.comments+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.document": [
+            "docx"
+        ],
+        "vnd.openxmlformats-officedocument.wordprocessingml.document.glossary+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.endnotes+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.fonttable+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.footer+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.footnotes+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.numbering+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.settings+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.styles+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.template": [
+            "dotx"
+        ],
+        "vnd.openxmlformats-officedocument.wordprocessingml.template.main+xml": [],
+        "vnd.openxmlformats-officedocument.wordprocessingml.websettings+xml": [],
+        "vnd.openxmlformats-package.core-properties+xml": [],
+        "vnd.openxmlformats-package.digital-signature-xmlsignature+xml": [],
+        "vnd.openxmlformats-package.relationships+xml": [],
+        "vnd.oracle.resource+json": [],
+        "vnd.orange.indata": [],
+        "vnd.osa.netdeploy": [],
+        "vnd.osgeo.mapguide.package": [
+            "mgp"
+        ],
+        "vnd.osgi.bundle": [],
+        "vnd.osgi.dp": [
+            "dp"
+        ],
+        "vnd.osgi.subsystem": [
+            "esa"
+        ],
+        "vnd.otps.ct-kip+xml": [],
+        "vnd.oxli.countgraph": [],
+        "vnd.pagerduty+json": [],
+        "vnd.palm": [
+            "oprc",
+            "pdb",
+            "pqa",
+            "prc"
+        ],
+        "vnd.panoply": [],
+        "vnd.paos.xml": [],
+        "vnd.patentdive": [],
+        "vnd.pawaafile": [
+            "paw"
+        ],
+        "vnd.pcos": [],
+        "vnd.pg.format": [
+            "str"
+        ],
+        "vnd.pg.osasli": [
+            "ei6"
+        ],
+        "vnd.piaccess.application-licence": [],
+        "vnd.picsel": [
+            "efif"
+        ],
+        "vnd.pmi.widget": [
+            "wg"
+        ],
+        "vnd.poc.group-advertisement+xml": [],
+        "vnd.pocketlearn": [
+            "plf"
+        ],
+        "vnd.powerbuilder6": [
+            "pbd"
+        ],
+        "vnd.powerbuilder6-s": [],
+        "vnd.powerbuilder7": [],
+        "vnd.powerbuilder7-s": [],
+        "vnd.powerbuilder75": [],
+        "vnd.powerbuilder75-s": [],
+        "vnd.preminet": [],
+        "vnd.previewsystems.box": [
+            "box"
+        ],
+        "vnd.proteus.magazine": [
+            "mgz"
+        ],
+        "vnd.psfs": [],
+        "vnd.publishare-delta-tree": [
+            "qps"
+        ],
+        "vnd.pvi.ptid1": [
+            "ptid"
+        ],
+        "vnd.pwg-multiplexed": [],
+        "vnd.pwg-xhtml-print+xml": [],
+        "vnd.qualcomm.brew-app-res": [],
+        "vnd.quarantainenet": [],
+        "vnd.quark.quarkxpress": [
+            "qwd",
+            "qwt",
+            "qxb",
+            "qxd",
+            "qxl",
+            "qxt"
+        ],
+        "vnd.quobject-quoxdocument": [],
+        "vnd.radisys.moml+xml": [],
+        "vnd.radisys.msml+xml": [],
+        "vnd.radisys.msml-audit+xml": [],
+        "vnd.radisys.msml-audit-conf+xml": [],
+        "vnd.radisys.msml-audit-conn+xml": [],
+        "vnd.radisys.msml-audit-dialog+xml": [],
+        "vnd.radisys.msml-audit-stream+xml": [],
+        "vnd.radisys.msml-conf+xml": [],
+        "vnd.radisys.msml-dialog+xml": [],
+        "vnd.radisys.msml-dialog-base+xml": [],
+        "vnd.radisys.msml-dialog-fax-detect+xml": [],
+        "vnd.radisys.msml-dialog-fax-sendrecv+xml": [],
+        "vnd.radisys.msml-dialog-group+xml": [],
+        "vnd.radisys.msml-dialog-speech+xml": [],
+        "vnd.radisys.msml-dialog-transform+xml": [],
+        "vnd.rainstor.data": [],
+        "vnd.rapid": [],
+        "vnd.rar": [
+            "rar"
+        ],
+        "vnd.realvnc.bed": [
+            "bed"
+        ],
+        "vnd.recordare.musicxml": [
+            "mxl"
+        ],
+        "vnd.recordare.musicxml+xml": [
+            "musicxml"
+        ],
+        "vnd.renlearn.rlprint": [],
+        "vnd.restful+json": [],
+        "vnd.rig.cryptonote": [
+            "cryptonote"
+        ],
+        "vnd.rim.cod": [
+            "cod"
+        ],
+        "vnd.rn-realmedia": [
+            "rm",
+            "rmj",
+            "rmm",
+            "rms",
+            "rmvb",
+            "rmx"
+        ],
+        "vnd.rn-realmedia-vbr": [
+            "rm",
+            "rmj",
+            "rmm",
+            "rms",
+            "rmvb",
+            "rmx"
+        ],
+        "vnd.route66.link66+xml": [
+            "link66"
+        ],
+        "vnd.rs-274x": [],
+        "vnd.ruckus.download": [],
+        "vnd.s3sms": [],
+        "vnd.sailingtracker.track": [
+            "st"
+        ],
+        "vnd.sbm.cid": [],
+        "vnd.sbm.mid2": [],
+        "vnd.scribus": [],
+        "vnd.sdp": [
+            "sdp"
+        ],
+        "vnd.sealed.3df": [],
+        "vnd.sealed.csf": [],
+        "vnd.sealed.doc": [],
+        "vnd.sealed.eml": [],
+        "vnd.sealed.mht": [],
+        "vnd.sealed.net": [],
+        "vnd.sealed.ppt": [],
+        "vnd.sealed.tiff": [],
+        "vnd.sealed.xls": [],
+        "vnd.sealedmedia.softseal.html": [],
+        "vnd.sealedmedia.softseal.pdf": [],
+        "vnd.seemail": [
+            "see"
+        ],
+        "vnd.sema": [
+            "sema"
+        ],
+        "vnd.semd": [
+            "semd"
+        ],
+        "vnd.semf": [
+            "semf"
+        ],
+        "vnd.shana.informed.formdata": [
+            "ifm"
+        ],
+        "vnd.shana.informed.formtemplate": [
+            "itp"
+        ],
+        "vnd.shana.informed.interchange": [
+            "iif"
+        ],
+        "vnd.shana.informed.package": [
+            "ipk"
+        ],
+        "vnd.shootproof+json": [],
+        "vnd.sigrok.session": [],
+        "vnd.simtech-mindmapper": [
+            "twd",
+            "twds"
+        ],
+        "vnd.siren+json": [],
+        "vnd.smaf": [
+            "mmf",
+            "smaf"
+        ],
+        "vnd.smart.notebook": [],
+        "vnd.smart.teacher": [
+            "teacher"
+        ],
+        "vnd.snap": [
+            "snap"
+        ],
+        "vnd.software602.filler.form+xml": [],
+        "vnd.software602.filler.form-xml-zip": [],
+        "vnd.solent.sdkm+xml": [
+            "sdkd",
+            "sdkm"
+        ],
+        "vnd.spotfire.dxp": [
+            "dxp"
+        ],
+        "vnd.spotfire.sfs": [
+            "sfs"
+        ],
+        "vnd.sqlite3": [
+            "sqlite3"
+        ],
+        "vnd.squashfs": [
+            "sqsh"
+        ],
+        "vnd.sss-cod": [],
+        "vnd.sss-dtf": [],
+        "vnd.sss-ntf": [],
+        "vnd.stardivision.calc": [
+            "sdc"
+        ],
+        "vnd.stardivision.chart": [
+            "sds"
+        ],
+        "vnd.stardivision.draw": [
+            "sda"
+        ],
+        "vnd.stardivision.impress": [
+            "sdd",
+            "sdp"
+        ],
+        "vnd.stardivision.mail": [
+            "smd"
+        ],
+        "vnd.stardivision.math": [
+            "smf"
+        ],
+        "vnd.stardivision.writer": [
+            "sdw",
+            "sgl",
+            "vor"
+        ],
+        "vnd.stardivision.writer-global": [
+            "sdw",
+            "sgl",
+            "vor"
+        ],
+        "vnd.stepmania.package": [
+            "smzip"
+        ],
+        "vnd.stepmania.stepchart": [
+            "sm"
+        ],
+        "vnd.street-stream": [],
+        "vnd.sun.wadl+xml": [
+            "wadl"
+        ],
+        "vnd.sun.xml.base": [
+            "odb"
+        ],
+        "vnd.sun.xml.calc": [
+            "sxc"
+        ],
+        "vnd.sun.xml.calc.template": [
+            "stc"
+        ],
+        "vnd.sun.xml.draw": [
+            "sxd"
+        ],
+        "vnd.sun.xml.draw.template": [
+            "std"
+        ],
+        "vnd.sun.xml.impress": [
+            "sxi"
+        ],
+        "vnd.sun.xml.impress.template": [
+            "sti"
+        ],
+        "vnd.sun.xml.math": [
+            "sxm"
+        ],
+        "vnd.sun.xml.writer": [
+            "sxw"
+        ],
+        "vnd.sun.xml.writer.global": [
+            "sxg"
+        ],
+        "vnd.sun.xml.writer.template": [
+            "stw"
+        ],
+        "vnd.sus-calendar": [
+            "sus",
+            "susp"
+        ],
+        "vnd.svd": [
+            "svd"
+        ],
+        "vnd.swiftview-ics": [],
+        "vnd.symbian.install": [
+            "sis",
+            "sisx"
+        ],
+        "vnd.syncml+xml": [
+            "xsm"
+        ],
+        "vnd.syncml.dm+wbxml": [
+            "bdm"
+        ],
+        "vnd.syncml.dm+xml": [
+            "xdm"
+        ],
+        "vnd.syncml.dm.notification": [],
+        "vnd.syncml.dmddf+wbxml": [],
+        "vnd.syncml.dmddf+xml": [],
+        "vnd.syncml.dmtnds+wbxml": [],
+        "vnd.syncml.dmtnds+xml": [],
+        "vnd.syncml.ds.notification": [],
+        "vnd.tableschema+json": [],
+        "vnd.tao.intent-module-archive": [
+            "tao"
+        ],
+        "vnd.tcpdump.pcap": [
+            "cap",
+            "dmp",
+            "pcap"
+        ],
+        "vnd.think-cell.ppttc+json": [],
+        "vnd.tmd.mediaflex.api+xml": [],
+        "vnd.tml": [],
+        "vnd.tmobile-livetv": [
+            "tmo"
+        ],
+        "vnd.tri.onesource": [],
+        "vnd.trid.tpt": [
+            "tpt"
+        ],
+        "vnd.triscape.mxs": [
+            "mxs"
+        ],
+        "vnd.trueapp": [
+            "tra"
+        ],
+        "vnd.truedoc": [],
+        "vnd.ubisoft.webplayer": [],
+        "vnd.ufdl": [
+            "ufd",
+            "ufdl"
+        ],
+        "vnd.uiq.theme": [
+            "utz"
+        ],
+        "vnd.umajin": [
+            "umj"
+        ],
+        "vnd.unity": [
+            "unityweb"
+        ],
+        "vnd.uoml+xml": [
+            "uoml"
+        ],
+        "vnd.uplanet.alert": [],
+        "vnd.uplanet.alert-wbxml": [],
+        "vnd.uplanet.bearer-choice": [],
+        "vnd.uplanet.bearer-choice-wbxml": [],
+        "vnd.uplanet.cacheop": [],
+        "vnd.uplanet.cacheop-wbxml": [],
+        "vnd.uplanet.channel": [],
+        "vnd.uplanet.channel-wbxml": [],
+        "vnd.uplanet.list": [],
+        "vnd.uplanet.list-wbxml": [],
+        "vnd.uplanet.listcmd": [],
+        "vnd.uplanet.listcmd-wbxml": [],
+        "vnd.uplanet.signal": [],
+        "vnd.uri-map": [],
+        "vnd.valve.source.material": [],
+        "vnd.vcx": [
+            "vcx"
+        ],
+        "vnd.vd-study": [],
+        "vnd.vectorworks": [],
+        "vnd.vel+json": [],
+        "vnd.verimatrix.vcas": [],
+        "vnd.vidsoft.vidconference": [],
+        "vnd.visio": [
+            "vsd",
+            "vss",
+            "vst",
+            "vsw"
+        ],
+        "vnd.visionary": [
+            "vis"
+        ],
+        "vnd.vividence.scriptfile": [],
+        "vnd.vsf": [
+            "vsf"
+        ],
+        "vnd.wap.sic": [],
+        "vnd.wap.slc": [],
+        "vnd.wap.wbxml": [
+            "wbxml"
+        ],
+        "vnd.wap.wmlc": [
+            "wmlc"
+        ],
+        "vnd.wap.wmlscriptc": [
+            "wmlsc"
+        ],
+        "vnd.webturbo": [
+            "wtb"
+        ],
+        "vnd.wfa.p2p": [],
+        "vnd.wfa.wsc": [],
+        "vnd.windows.devicepairing": [],
+        "vnd.wmc": [],
+        "vnd.wmf.bootstrap": [],
+        "vnd.wolfram.mathematica": [],
+        "vnd.wolfram.mathematica.package": [],
+        "vnd.wolfram.player": [
+            "nbp"
+        ],
+        "vnd.wordperfect": [
+            "wp",
+            "wp4",
+            "wp5",
+            "wp6",
+            "wpd",
+            "wpp"
+        ],
+        "vnd.wqd": [
+            "wqd"
+        ],
+        "vnd.wrq-hp3000-labelled": [],
+        "vnd.wt.stf": [
+            "stf"
+        ],
+        "vnd.wv.csp+wbxml": [],
+        "vnd.wv.csp+xml": [],
+        "vnd.wv.ssp+xml": [],
+        "vnd.xacml+json": [],
+        "vnd.xara": [
+            "xar"
+        ],
+        "vnd.xdgapp": [
+            "flatpak",
+            "xdgapp"
+        ],
+        "vnd.xfdl": [
+            "xfdl"
+        ],
+        "vnd.xfdl.webform": [],
+        "vnd.xmi+xml": [],
+        "vnd.xmpie.cpkg": [],
+        "vnd.xmpie.dpkg": [],
+        "vnd.xmpie.plan": [],
+        "vnd.xmpie.ppkg": [],
+        "vnd.xmpie.xlim": [],
+        "vnd.yamaha.hv-dic": [
+            "hvd"
+        ],
+        "vnd.yamaha.hv-script": [
+            "hvs"
+        ],
+        "vnd.yamaha.hv-voice": [
+            "hvp"
+        ],
+        "vnd.yamaha.openscoreformat": [
+            "osf"
+        ],
+        "vnd.yamaha.openscoreformat.osfpvg+xml": [
+            "osfpvg"
+        ],
+        "vnd.yamaha.remote-setup": [],
+        "vnd.yamaha.smaf-audio": [
+            "saf"
+        ],
+        "vnd.yamaha.smaf-phrase": [
+            "spf"
+        ],
+        "vnd.yamaha.through-ngn": [],
+        "vnd.yamaha.tunnel-udpencap": [],
+        "vnd.yaoweme": [],
+        "vnd.yellowriver-custom-menu": [
+            "cmp"
+        ],
+        "vnd.youtube.yt": [
+            "yt"
+        ],
+        "vnd.zul": [
+            "zir",
+            "zirz"
+        ],
+        "vnd.zzazz.deck+xml": [
+            "zaz"
+        ],
+        "voicexml+xml": [
+            "vxml"
+        ],
+        "voucher-cms+json": [],
+        "vq-rtcpxr": [],
+        "wasm": [
+            "wasm"
+        ],
+        "watcherinfo+xml": [],
+        "webpush-options+json": [],
+        "whoispp-query": [],
+        "whoispp-response": [],
+        "widget": [
+            "wgt"
+        ],
+        "winhlp": [
+            "hlp"
+        ],
+        "wita": [],
+        "wk1": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "wmf": [
+            "wmf"
+        ],
+        "wordperfect": [
+            "wp",
+            "wp4",
+            "wp5",
+            "wp6",
+            "wpd",
+            "wpp"
+        ],
+        "wordperfect5.1": [],
+        "wsdl+xml": [
+            "wsdl"
+        ],
+        "wspolicy+xml": [
+            "wspolicy"
+        ],
+        "wwf": [
+            "wwf"
+        ],
+        "x-123": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "x-7z-compressed": [
+            "7z"
+        ],
+        "x-abiword": [
+            "abw",
+            "abw.crashed",
+            "abw.gz",
+            "zabw"
+        ],
+        "x-ace": [
+            "ace"
+        ],
+        "x-ace-compressed": [
+            "ace"
+        ],
+        "x-alz": [
+            "alz"
+        ],
+        "x-amf": [],
+        "x-amiga-disk-format": [
+            "adf"
+        ],
+        "x-amipro": [
+            "sam"
+        ],
+        "x-annodex": [
+            "anx"
+        ],
+        "x-aportisdoc": [
+            "pdb",
+            "pdc"
+        ],
+        "x-apple-diskimage": [
+            "dmg"
+        ],
+        "x-applix-spreadsheet": [
+            "as"
+        ],
+        "x-applix-word": [
+            "aw"
+        ],
+        "x-archive": [
+            "a",
+            "ar"
+        ],
+        "x-arj": [
+            "arj"
+        ],
+        "x-asp": [
+            "asp"
+        ],
+        "x-atari-2600-rom": [
+            "a26"
+        ],
+        "x-atari-7800-rom": [
+            "a78"
+        ],
+        "x-atari-lynx-rom": [
+            "lnx"
+        ],
+        "x-authorware-bin": [
+            "aab",
+            "u32",
+            "vox",
+            "x32"
+        ],
+        "x-authorware-map": [
+            "aam"
+        ],
+        "x-authorware-seg": [
+            "aas"
+        ],
+        "x-awk": [
+            "awk"
+        ],
+        "x-bcpio": [
+            "bcpio"
+        ],
+        "x-bdoc": [
+            "bdoc"
+        ],
+        "x-bittorrent": [
+            "torrent"
+        ],
+        "x-blender": [
+            "blend",
+            "blender"
+        ],
+        "x-blorb": [
+            "blb",
+            "blorb"
+        ],
+        "x-bsdiff": [
+            "bsdiff"
+        ],
+        "x-bzdvi": [
+            "dvi.bz2"
+        ],
+        "x-bzip": [
+            "bz",
+            "bz2"
+        ],
+        "x-bzip-compressed-tar": [
+            "tar.bz",
+            "tar.bz2",
+            "tb2",
+            "tbz",
+            "tbz2"
+        ],
+        "x-bzip2": [
+            "boz",
+            "bz",
+            "bz2"
+        ],
+        "x-bzpdf": [
+            "pdf.bz2"
+        ],
+        "x-bzpostscript": [
+            "ps.bz2"
+        ],
+        "x-cb7": [
+            "cb7"
+        ],
+        "x-cbr": [
+            "cb7",
+            "cba",
+            "cbr",
+            "cbt",
+            "cbz"
+        ],
+        "x-cbt": [
+            "cbt"
+        ],
+        "x-cbz": [
+            "cbz"
+        ],
+        "x-ccmx": [
+            "ccmx"
+        ],
+        "x-cd-image": [
+            "iso",
+            "iso9660"
+        ],
+        "x-cdlink": [
+            "vcd"
+        ],
+        "x-cdr": [
+            "cdr"
+        ],
+        "x-cdrdao-toc": [
+            "toc"
+        ],
+        "x-cfs-compressed": [
+            "cfs"
+        ],
+        "x-chat": [
+            "chat"
+        ],
+        "x-chess-pgn": [
+            "pgn"
+        ],
+        "x-chm": [
+            "chm"
+        ],
+        "x-chrome-extension": [
+            "crx"
+        ],
+        "x-cisco-vpn-settings": [
+            "pcf"
+        ],
+        "x-cocoa": [
+            "cco"
+        ],
+        "x-compress": [
+            "z"
+        ],
+        "x-compressed-tar": [
+            "tar.gz",
+            "tgz"
+        ],
+        "x-conference": [
+            "nsc"
+        ],
+        "x-coreldraw": [
+            "cdr"
+        ],
+        "x-cpio": [
+            "cpio"
+        ],
+        "x-cpio-compressed": [
+            "cpio.gz"
+        ],
+        "x-csh": [
+            "csh"
+        ],
+        "x-cue": [
+            "cue"
+        ],
+        "x-dar": [
+            "dar"
+        ],
+        "x-dbase": [
+            "dbf"
+        ],
+        "x-dbf": [
+            "dbf"
+        ],
+        "x-dc-rom": [
+            "dc"
+        ],
+        "x-deb": [
+            "deb",
+            "udeb"
+        ],
+        "x-debian-package": [
+            "deb",
+            "udeb"
+        ],
+        "x-designer": [
+            "ui"
+        ],
+        "x-desktop": [
+            "desktop",
+            "kdelnk"
+        ],
+        "x-dgc-compressed": [
+            "dgc"
+        ],
+        "x-dia-diagram": [
+            "dia"
+        ],
+        "x-dia-shape": [
+            "shape"
+        ],
+        "x-director": [
+            "cct",
+            "cst",
+            "cxt",
+            "dcr",
+            "dir",
+            "dxr",
+            "fgd",
+            "swa",
+            "w3d"
+        ],
+        "x-docbook+xml": [
+            "dbk",
+            "docbook"
+        ],
+        "x-doom": [
+            "wad"
+        ],
+        "x-doom-wad": [
+            "wad"
+        ],
+        "x-dtbncx+xml": [
+            "ncx"
+        ],
+        "x-dtbook+xml": [
+            "dtb"
+        ],
+        "x-dtbresource+xml": [
+            "res"
+        ],
+        "x-dvi": [
+            "dvi"
+        ],
+        "x-e-theme": [
+            "etheme"
+        ],
+        "x-egon": [
+            "egon"
+        ],
+        "x-emf": [
+            "emf"
+        ],
+        "x-envoy": [
+            "evy"
+        ],
+        "x-eva": [
+            "eva"
+        ],
+        "x-fd-file": [
+            "fd",
+            "qd"
+        ],
+        "x-fds-disk": [
+            "fds"
+        ],
+        "x-fictionbook": [
+            "fb2"
+        ],
+        "x-fictionbook+xml": [
+            "fb2"
+        ],
+        "x-flash-video": [
+            "flv"
+        ],
+        "x-fluid": [
+            "fl"
+        ],
+        "x-font-afm": [
+            "afm"
+        ],
+        "x-font-bdf": [
+            "bdf"
+        ],
+        "x-font-dos": [],
+        "x-font-framemaker": [],
+        "x-font-ghostscript": [
+            "gsf"
+        ],
+        "x-font-libgrx": [],
+        "x-font-linux-psf": [
+            "psf"
+        ],
+        "x-font-otf": [
+            "otf"
+        ],
+        "x-font-pcf": [
+            "pcf",
+            "pcf.gz",
+            "pcf.z"
+        ],
+        "x-font-snf": [
+            "snf"
+        ],
+        "x-font-speedo": [
+            "spd"
+        ],
+        "x-font-sunos-news": [],
+        "x-font-ttf": [
+            "ttf"
+        ],
+        "x-font-ttx": [
+            "ttx"
+        ],
+        "x-font-type1": [
+            "afm",
+            "gsf",
+            "pfa",
+            "pfb",
+            "pfm"
+        ],
+        "x-font-vfont": [],
+        "x-frame": [
+            "fm"
+        ],
+        "x-freearc": [
+            "arc"
+        ],
+        "x-futuresplash": [
+            "spl"
+        ],
+        "x-gameboy-color-rom": [
+            "cgb",
+            "gbc"
+        ],
+        "x-gameboy-rom": [
+            "gb",
+            "sgb"
+        ],
+        "x-gamecube-iso-image": [
+            "iso"
+        ],
+        "x-gamecube-rom": [
+            "iso"
+        ],
+        "x-gamegear-rom": [
+            "gg"
+        ],
+        "x-gba-rom": [
+            "agb",
+            "gba"
+        ],
+        "x-gca-compressed": [
+            "gca"
+        ],
+        "x-gedcom": [
+            "ged",
+            "gedcom"
+        ],
+        "x-genesis-32x-rom": [
+            "32x",
+            "mdx"
+        ],
+        "x-genesis-rom": [
+            "gen",
+            "smd"
+        ],
+        "x-gettext": [
+            "po"
+        ],
+        "x-gettext-translation": [
+            "gmo",
+            "mo"
+        ],
+        "x-glade": [
+            "glade"
+        ],
+        "x-glulx": [
+            "ulx"
+        ],
+        "x-gnome-app-info": [
+            "desktop",
+            "kdelnk"
+        ],
+        "x-gnucash": [
+            "gnc",
+            "gnucash",
+            "xac"
+        ],
+        "x-gnumeric": [
+            "gnumeric"
+        ],
+        "x-gnuplot": [
+            "gnuplot",
+            "gp",
+            "gplt"
+        ],
+        "x-go-sgf": [
+            "sgf"
+        ],
+        "x-gpx": [
+            "gpx"
+        ],
+        "x-gpx+xml": [
+            "gpx"
+        ],
+        "x-gramps-xml": [
+            "gramps"
+        ],
+        "x-graphite": [
+            "gra"
+        ],
+        "x-gtar": [
+            "gem",
+            "gtar",
+            "tar"
+        ],
+        "x-gtk-builder": [
+            "ui"
+        ],
+        "x-gz-font-linux-psf": [
+            "psf.gz"
+        ],
+        "x-gzdvi": [
+            "dvi.gz"
+        ],
+        "x-gzip": [
+            "gz"
+        ],
+        "x-gzpdf": [
+            "pdf.gz"
+        ],
+        "x-gzpostscript": [
+            "ps.gz"
+        ],
+        "x-hdf": [
+            "h4",
+            "h5",
+            "hdf",
+            "hdf4",
+            "hdf5"
+        ],
+        "x-hfe-file": [
+            "hfe"
+        ],
+        "x-hfe-floppy-image": [
+            "hfe"
+        ],
+        "x-httpd-php": [
+            "php"
+        ],
+        "x-hwp": [
+            "hwp"
+        ],
+        "x-hwt": [
+            "hwt"
+        ],
+        "x-ica": [
+            "ica"
+        ],
+        "x-install-instructions": [
+            "install"
+        ],
+        "x-ipynb+json": [
+            "ipynb"
+        ],
+        "x-iso9660-appimage": [
+            "appimage"
+        ],
+        "x-iso9660-image": [
+            "iso",
+            "iso9660"
+        ],
+        "x-it87": [
+            "it87"
+        ],
+        "x-iwork-keynote-sffkey": [
+            "key"
+        ],
+        "x-jar": [
+            "jar"
+        ],
+        "x-java": [
+            "class"
+        ],
+        "x-java-archive": [
+            "jar"
+        ],
+        "x-java-archive-diff": [
+            "jardiff"
+        ],
+        "x-java-class": [
+            "class"
+        ],
+        "x-java-jce-keystore": [
+            "jceks"
+        ],
+        "x-java-jnlp-file": [
+            "jnlp"
+        ],
+        "x-java-keystore": [
+            "jks",
+            "ks"
+        ],
+        "x-java-pack200": [
+            "pack"
+        ],
+        "x-java-vm": [
+            "class"
+        ],
+        "x-javascript": [
+            "js",
+            "jsm",
+            "mjs"
+        ],
+        "x-jbuilder-project": [
+            "jpr",
+            "jpx"
+        ],
+        "x-karbon": [
+            "karbon"
+        ],
+        "x-kchart": [
+            "chrt"
+        ],
+        "x-kexi-connectiondata": [
+            "kexic"
+        ],
+        "x-kexiproject-shortcut": [
+            "kexis"
+        ],
+        "x-kexiproject-sqlite": [
+            "kexi"
+        ],
+        "x-kexiproject-sqlite2": [
+            "kexi"
+        ],
+        "x-kexiproject-sqlite3": [
+            "kexi"
+        ],
+        "x-kformula": [
+            "kfo"
+        ],
+        "x-killustrator": [
+            "kil"
+        ],
+        "x-kivio": [
+            "flw"
+        ],
+        "x-kontour": [
+            "kon"
+        ],
+        "x-kpovmodeler": [
+            "kpm"
+        ],
+        "x-kpresenter": [
+            "kpr",
+            "kpt"
+        ],
+        "x-krita": [
+            "kra"
+        ],
+        "x-kspread": [
+            "ksp"
+        ],
+        "x-kugar": [
+            "kud"
+        ],
+        "x-kword": [
+            "kwd",
+            "kwt"
+        ],
+        "x-latex": [
+            "latex"
+        ],
+        "x-lha": [
+            "lha",
+            "lzh"
+        ],
+        "x-lhz": [
+            "lhz"
+        ],
+        "x-linguist": [
+            "ts"
+        ],
+        "x-lotus123": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "x-lrzip": [
+            "lrz"
+        ],
+        "x-lrzip-compressed-tar": [
+            "tar.lrz",
+            "tlrz"
+        ],
+        "x-lua-bytecode": [
+            "luac"
+        ],
+        "x-lyx": [
+            "lyx"
+        ],
+        "x-lz4": [
+            "lz4"
+        ],
+        "x-lz4-compressed-tar": [
+            "tar.lz4"
+        ],
+        "x-lzh-compressed": [
+            "lha",
+            "lzh"
+        ],
+        "x-lzip": [
+            "lz"
+        ],
+        "x-lzip-compressed-tar": [
+            "tar.lz"
+        ],
+        "x-lzma": [
+            "lzma"
+        ],
+        "x-lzma-compressed-tar": [
+            "tar.lzma",
+            "tlz"
+        ],
+        "x-lzop": [
+            "lzo"
+        ],
+        "x-lzpdf": [
+            "pdf.lz"
+        ],
+        "x-m4": [
+            "m4"
+        ],
+        "x-magicpoint": [
+            "mgp"
+        ],
+        "x-makeself": [
+            "run"
+        ],
+        "x-markaby": [
+            "mab"
+        ],
+        "x-mathematica": [
+            "nb"
+        ],
+        "x-mdb": [
+            "mdb"
+        ],
+        "x-mie": [
+            "mie"
+        ],
+        "x-mif": [
+            "mif"
+        ],
+        "x-mimearchive": [
+            "mht",
+            "mhtml"
+        ],
+        "x-mobipocket-ebook": [
+            "mobi",
+            "prc"
+        ],
+        "x-mpegurl": [],
+        "x-ms-application": [
+            "application"
+        ],
+        "x-ms-asx": [
+            "asx",
+            "wax",
+            "wmx",
+            "wvx"
+        ],
+        "x-ms-dos-executable": [
+            "exe"
+        ],
+        "x-ms-shortcut": [
+            "lnk"
+        ],
+        "x-ms-wim": [
+            "swm",
+            "wim"
+        ],
+        "x-ms-wmd": [
+            "wmd"
+        ],
+        "x-ms-wmz": [
+            "wmz"
+        ],
+        "x-ms-xbap": [
+            "xbap"
+        ],
+        "x-msaccess": [
+            "mdb"
+        ],
+        "x-msbinder": [
+            "obd"
+        ],
+        "x-mscardfile": [
+            "crd"
+        ],
+        "x-msclip": [
+            "clp"
+        ],
+        "x-msdos-program": [
+            "exe"
+        ],
+        "x-msdownload": [
+            "bat",
+            "com",
+            "dll",
+            "exe",
+            "msi"
+        ],
+        "x-msexcel": [
+            "xla",
+            "xlc",
+            "xld",
+            "xll",
+            "xlm",
+            "xls",
+            "xlt",
+            "xlw"
+        ],
+        "x-msi": [
+            "msi"
+        ],
+        "x-msmediaview": [
+            "m13",
+            "m14",
+            "mvb"
+        ],
+        "x-msmetafile": [
+            "emf",
+            "emz",
+            "wmf",
+            "wmz"
+        ],
+        "x-msmoney": [
+            "mny"
+        ],
+        "x-mspowerpoint": [
+            "pot",
+            "pps",
+            "ppt",
+            "ppz"
+        ],
+        "x-mspublisher": [
+            "pub"
+        ],
+        "x-msschedule": [
+            "scd"
+        ],
+        "x-msterminal": [
+            "trm"
+        ],
+        "x-mswinurl": [
+            "url"
+        ],
+        "x-msword": [
+            "doc"
+        ],
+        "x-mswrite": [
+            "wri"
+        ],
+        "x-msx-rom": [
+            "msx"
+        ],
+        "x-n64-rom": [
+            "n64",
+            "v64",
+            "z64"
+        ],
+        "x-navi-animation": [
+            "ani"
+        ],
+        "x-neo-geo-pocket-color-rom": [
+            "ngc"
+        ],
+        "x-neo-geo-pocket-rom": [
+            "ngp"
+        ],
+        "x-nes-rom": [
+            "nes",
+            "nez",
+            "unf",
+            "unif"
+        ],
+        "x-netcdf": [
+            "cdf",
+            "nc"
+        ],
+        "x-netshow-channel": [
+            "nsc"
+        ],
+        "x-nintendo-ds-rom": [
+            "nds"
+        ],
+        "x-ns-proxy-autoconfig": [
+            "pac"
+        ],
+        "x-nzb": [
+            "nzb"
+        ],
+        "x-object": [
+            "o"
+        ],
+        "x-ogg": [
+            "ogx"
+        ],
+        "x-oleo": [
+            "oleo"
+        ],
+        "x-pagemaker": [
+            "p65",
+            "pm",
+            "pm6",
+            "pmd"
+        ],
+        "x-pak": [
+            "pak"
+        ],
+        "x-palm-database": [
+            "oprc",
+            "pdb",
+            "pqa",
+            "prc"
+        ],
+        "x-par2": [
+            "par2"
+        ],
+        "x-partial-download": [
+            "crdownload",
+            "part",
+            "wkdownload"
+        ],
+        "x-pc-engine-rom": [
+            "pce"
+        ],
+        "x-pcap": [
+            "cap",
+            "dmp",
+            "pcap"
+        ],
+        "x-pdf": [
+            "pdf"
+        ],
+        "x-perl": [
+            "al",
+            "perl",
+            "pl",
+            "pm",
+            "pod",
+            "t"
+        ],
+        "x-photoshop": [
+            "psd"
+        ],
+        "x-php": [
+            "php",
+            "php3",
+            "php4",
+            "php5",
+            "phps"
+        ],
+        "x-pilot": [
+            "pdb",
+            "prc"
+        ],
+        "x-pkcs12": [
+            "p12",
+            "pfx"
+        ],
+        "x-pkcs7-certificates": [
+            "p7b",
+            "spc"
+        ],
+        "x-pkcs7-certreqresp": [
+            "p7r"
+        ],
+        "x-planperfect": [
+            "pln"
+        ],
+        "x-pocket-word": [
+            "psw"
+        ],
+        "x-pw": [
+            "pw"
+        ],
+        "x-python-bytecode": [
+            "pyc",
+            "pyo"
+        ],
+        "x-qpress": [
+            "qp"
+        ],
+        "x-qtiplot": [
+            "qti",
+            "qti.gz"
+        ],
+        "x-quattropro": [
+            "wb1",
+            "wb2",
+            "wb3"
+        ],
+        "x-quicktime-media-link": [
+            "qtl"
+        ],
+        "x-quicktimeplayer": [
+            "qtl"
+        ],
+        "x-qw": [
+            "qif"
+        ],
+        "x-rar": [
+            "rar"
+        ],
+        "x-rar-compressed": [
+            "rar"
+        ],
+        "x-raw-disk-image": [
+            "img",
+            "raw-disk-image"
+        ],
+        "x-raw-disk-image-xz-compressed": [
+            "img.xz",
+            "raw-disk-image.xz"
+        ],
+        "x-raw-floppy-disk-image": [
+            "fd",
+            "qd"
+        ],
+        "x-redhat-package-manager": [
+            "rpm"
+        ],
+        "x-reject": [
+            "rej"
+        ],
+        "x-research-info-systems": [
+            "ris"
+        ],
+        "x-rnc": [
+            "rnc"
+        ],
+        "x-rpm": [
+            "rpm"
+        ],
+        "x-ruby": [
+            "rb"
+        ],
+        "x-sami": [
+            "sami",
+            "smi"
+        ],
+        "x-sap-file": [
+            "sap"
+        ],
+        "x-saturn-rom": [
+            "bin",
+            "iso"
+        ],
+        "x-sdp": [
+            "sdp"
+        ],
+        "x-sea": [
+            "sea"
+        ],
+        "x-sega-cd-rom": [
+            "bin",
+            "iso"
+        ],
+        "x-sg1000-rom": [
+            "sg"
+        ],
+        "x-sh": [
+            "sh"
+        ],
+        "x-shar": [
+            "shar"
+        ],
+        "x-shared-library-la": [
+            "la"
+        ],
+        "x-sharedlib": [
+            "so"
+        ],
+        "x-shellscript": [
+            "sh"
+        ],
+        "x-shockwave-flash": [
+            "spl",
+            "swf"
+        ],
+        "x-shorten": [
+            "shn"
+        ],
+        "x-siag": [
+            "siag"
+        ],
+        "x-silverlight-app": [
+            "xap"
+        ],
+        "x-sit": [
+            "sit"
+        ],
+        "x-smaf": [
+            "mmf",
+            "smaf"
+        ],
+        "x-sms-rom": [
+            "sms"
+        ],
+        "x-snes-rom": [
+            "sfc",
+            "smc"
+        ],
+        "x-source-rpm": [
+            "spm",
+            "src.rpm"
+        ],
+        "x-spss-por": [
+            "por"
+        ],
+        "x-spss-sav": [
+            "sav",
+            "zsav"
+        ],
+        "x-spss-savefile": [
+            "sav",
+            "zsav"
+        ],
+        "x-sql": [
+            "sql"
+        ],
+        "x-sqlite2": [
+            "sqlite2"
+        ],
+        "x-sqlite3": [
+            "sqlite3"
+        ],
+        "x-srt": [
+            "srt"
+        ],
+        "x-stuffit": [
+            "sit"
+        ],
+        "x-stuffitx": [
+            "sitx"
+        ],
+        "x-subrip": [
+            "srt"
+        ],
+        "x-sv4cpio": [
+            "sv4cpio"
+        ],
+        "x-sv4crc": [
+            "sv4crc"
+        ],
+        "x-t3vm-image": [
+            "t3"
+        ],
+        "x-t602": [
+            "602"
+        ],
+        "x-tads": [
+            "gam"
+        ],
+        "x-tar": [
+            "gem",
+            "gtar",
+            "tar"
+        ],
+        "x-tarz": [
+            "tar.z",
+            "taz"
+        ],
+        "x-tcl": [
+            "tcl",
+            "tk"
+        ],
+        "x-tex": [
+            "cls",
+            "dtx",
+            "ins",
+            "latex",
+            "ltx",
+            "sty",
+            "tex"
+        ],
+        "x-tex-gf": [
+            "gf"
+        ],
+        "x-tex-pk": [
+            "pk"
+        ],
+        "x-tex-tfm": [
+            "tfm"
+        ],
+        "x-texinfo": [
+            "texi",
+            "texinfo"
+        ],
+        "x-tgif": [
+            "obj"
+        ],
+        "x-theme": [
+            "theme"
+        ],
+        "x-thomson-cartridge-memo7": [
+            "m7"
+        ],
+        "x-thomson-cassette": [
+            "k7"
+        ],
+        "x-thomson-sap-image": [
+            "sap"
+        ],
+        "x-trash": [
+            "bak",
+            "old",
+            "sik"
+        ],
+        "x-trig": [
+            "trig"
+        ],
+        "x-troff": [
+            "roff",
+            "t",
+            "tr"
+        ],
+        "x-troff-man": [
+            "man"
+        ],
+        "x-tzo": [
+            "tar.lzo",
+            "tzo"
+        ],
+        "x-ufraw": [
+            "ufraw"
+        ],
+        "x-ustar": [
+            "ustar"
+        ],
+        "x-virtual-boy-rom": [
+            "vb"
+        ],
+        "x-virtualbox-hdd": [
+            "hdd"
+        ],
+        "x-virtualbox-ova": [
+            "ova"
+        ],
+        "x-virtualbox-ovf": [
+            "ovf"
+        ],
+        "x-virtualbox-vbox": [
+            "vbox"
+        ],
+        "x-virtualbox-vbox-extpack": [
+            "vbox-extpack"
+        ],
+        "x-virtualbox-vdi": [
+            "vdi"
+        ],
+        "x-virtualbox-vhd": [
+            "vhd"
+        ],
+        "x-virtualbox-vmdk": [
+            "vmdk"
+        ],
+        "x-vnd.kde.kexi": [
+            "kexi"
+        ],
+        "x-wais-source": [
+            "src"
+        ],
+        "x-wbfs": [
+            "iso"
+        ],
+        "x-web-app-manifest+json": [
+            "webapp"
+        ],
+        "x-wia": [
+            "iso"
+        ],
+        "x-wii-iso-image": [
+            "iso"
+        ],
+        "x-wii-rom": [
+            "iso"
+        ],
+        "x-wii-wad": [
+            "wad"
+        ],
+        "x-windows-themepack": [
+            "themepack"
+        ],
+        "x-wmf": [
+            "wmf"
+        ],
+        "x-wonderswan-color-rom": [
+            "wsc"
+        ],
+        "x-wonderswan-rom": [
+            "ws"
+        ],
+        "x-wordperfect": [
+            "wp",
+            "wp4",
+            "wp5",
+            "wp6",
+            "wpd",
+            "wpp"
+        ],
+        "x-wpg": [
+            "wpg"
+        ],
+        "x-wwf": [
+            "wwf"
+        ],
+        "x-www-form-urlencoded": [],
+        "x-x509-ca-cert": [
+            "cert",
+            "crt",
+            "der",
+            "pem"
+        ],
+        "x-xar": [
+            "pkg",
+            "xar"
+        ],
+        "x-xbel": [
+            "xbel"
+        ],
+        "x-xfig": [
+            "fig"
+        ],
+        "x-xliff": [
+            "xlf",
+            "xliff"
+        ],
+        "x-xliff+xml": [
+            "xlf"
+        ],
+        "x-xpinstall": [
+            "xpi"
+        ],
+        "x-xspf+xml": [
+            "xspf"
+        ],
+        "x-xz": [
+            "xz"
+        ],
+        "x-xz-compressed-tar": [
+            "tar.xz",
+            "txz"
+        ],
+        "x-xzpdf": [
+            "pdf.xz"
+        ],
+        "x-yaml": [
+            "yaml",
+            "yml"
+        ],
+        "x-zip": [
+            "zip"
+        ],
+        "x-zip-compressed": [
+            "zip"
+        ],
+        "x-zip-compressed-fb2": [
+            "fb2.zip"
+        ],
+        "x-zmachine": [
+            "z1",
+            "z2",
+            "z3",
+            "z4",
+            "z5",
+            "z6",
+            "z7",
+            "z8"
+        ],
+        "x-zoo": [
+            "zoo"
+        ],
+        "x400-bp": [],
+        "xacml+xml": [],
+        "xaml+xml": [
+            "xaml"
+        ],
+        "xcap-att+xml": [],
+        "xcap-caps+xml": [],
+        "xcap-diff+xml": [
+            "xdf"
+        ],
+        "xcap-el+xml": [],
+        "xcap-error+xml": [],
+        "xcap-ns+xml": [],
+        "xcon-conference-info+xml": [],
+        "xcon-conference-info-diff+xml": [],
+        "xenc+xml": [
+            "xenc"
+        ],
+        "xhtml+xml": [
+            "xht",
+            "xhtml"
+        ],
+        "xhtml-voice+xml": [],
+        "xliff+xml": [
+            "xlf",
+            "xliff"
+        ],
+        "xml": [
+            "rng",
+            "xbl",
+            "xml",
+            "xsd"
+        ],
+        "xml-dtd": [
+            "dtd"
+        ],
+        "xml-external-parsed-entity": [
+            "ent"
+        ],
+        "xml-patch+xml": [],
+        "xmpp+xml": [],
+        "xop+xml": [
+            "xop"
+        ],
+        "xproc+xml": [
+            "xpl"
+        ],
+        "xps": [
+            "oxps",
+            "xps"
+        ],
+        "xslt+xml": [
+            "xsl",
+            "xslt"
+        ],
+        "xspf+xml": [
+            "xspf"
+        ],
+        "xv+xml": [
+            "mxml",
+            "xhvml",
+            "xvm",
+            "xvml"
+        ],
+        "yang": [
+            "yang"
+        ],
+        "yang-data+json": [],
+        "yang-data+xml": [],
+        "yang-patch+json": [],
+        "yang-patch+xml": [],
+        "yin+xml": [
+            "yin"
+        ],
+        "zip": [
+            "zip"
+        ],
+        "zlib": [
+            "zz"
+        ],
+        "zstd": []
+    },
+    "audio": {
+        "1d-interleaved-parityfec": [],
+        "32kadpcm": [],
+        "3gpp": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "3gpp-encrypted": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "3gpp2": [
+            "3g2",
+            "3gp2",
+            "3gpp2"
+        ],
+        "aac": [
+            "aac",
+            "adts",
+            "ass"
+        ],
+        "ac3": [
+            "ac3"
+        ],
+        "adpcm": [
+            "adp"
+        ],
+        "amr": [
+            "amr"
+        ],
+        "amr-encrypted": [
+            "amr"
+        ],
+        "amr-wb": [
+            "awb"
+        ],
+        "amr-wb+": [],
+        "amr-wb-encrypted": [
+            "awb"
+        ],
+        "annodex": [
+            "axa"
+        ],
+        "aptx": [],
+        "asc": [],
+        "atrac-advanced-lossless": [],
+        "atrac-x": [],
+        "atrac3": [],
+        "basic": [
+            "au",
+            "snd"
+        ],
+        "bv16": [],
+        "bv32": [],
+        "clearmode": [],
+        "cn": [],
+        "dat12": [],
+        "dls": [],
+        "dsr-es201108": [],
+        "dsr-es202050": [],
+        "dsr-es202211": [],
+        "dsr-es202212": [],
+        "dv": [],
+        "dvi4": [],
+        "eac3": [],
+        "encaprtp": [],
+        "evrc": [],
+        "evrc-qcp": [],
+        "evrc0": [],
+        "evrc1": [],
+        "evrcb": [],
+        "evrcb0": [],
+        "evrcb1": [],
+        "evrcnw": [],
+        "evrcnw0": [],
+        "evrcnw1": [],
+        "evrcwb": [],
+        "evrcwb0": [],
+        "evrcwb1": [],
+        "evs": [],
+        "flac": [
+            "flac"
+        ],
+        "fwdred": [],
+        "g711-0": [],
+        "g719": [],
+        "g722": [],
+        "g7221": [],
+        "g723": [],
+        "g726-16": [],
+        "g726-24": [],
+        "g726-32": [],
+        "g726-40": [],
+        "g728": [],
+        "g729": [],
+        "g7291": [],
+        "g729d": [],
+        "g729e": [],
+        "gsm": [],
+        "gsm-efr": [],
+        "gsm-hr-08": [],
+        "ilbc": [],
+        "imelody": [
+            "ime",
+            "imy"
+        ],
+        "ip-mr_v2.5": [],
+        "isac": [],
+        "l16": [],
+        "l20": [],
+        "l24": [],
+        "l8": [],
+        "lpc": [],
+        "m3u": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "m4a": [
+            "f4a",
+            "m4a"
+        ],
+        "melp": [],
+        "melp1200": [],
+        "melp2400": [],
+        "melp600": [],
+        "midi": [
+            "kar",
+            "mid",
+            "midi",
+            "rmi"
+        ],
+        "mobile-xmf": [
+            "xmf"
+        ],
+        "mp2": [
+            "mp2"
+        ],
+        "mp3": [
+            "mp3",
+            "mpga"
+        ],
+        "mp4": [
+            "f4a",
+            "m4a",
+            "mp4a"
+        ],
+        "mp4a-latm": [],
+        "mpa": [],
+        "mpa-robust": [],
+        "mpeg": [
+            "m2a",
+            "m3a",
+            "mp2",
+            "mp2a",
+            "mp3",
+            "mpga"
+        ],
+        "mpeg4-generic": [],
+        "mpegurl": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "musepack": [],
+        "ogg": [
+            "oga",
+            "ogg",
+            "opus",
+            "spx"
+        ],
+        "opus": [],
+        "parityfec": [],
+        "pcma": [],
+        "pcma-wb": [],
+        "pcmu": [],
+        "pcmu-wb": [],
+        "prs.sid": [
+            "psid",
+            "sid"
+        ],
+        "qcelp": [],
+        "raptorfec": [],
+        "red": [],
+        "rtp-enc-aescm128": [],
+        "rtp-midi": [],
+        "rtploopback": [],
+        "rtx": [],
+        "s3m": [
+            "s3m"
+        ],
+        "scpls": [
+            "pls"
+        ],
+        "silk": [
+            "sil"
+        ],
+        "smv": [],
+        "smv-qcp": [],
+        "smv0": [],
+        "sp-midi": [],
+        "speex": [],
+        "t140c": [],
+        "t38": [],
+        "telephone-event": [],
+        "tone": [],
+        "tta": [
+            "tta"
+        ],
+        "uemclip": [],
+        "ulpfec": [],
+        "usac": [
+            "loas",
+            "xhe"
+        ],
+        "vdvi": [],
+        "vmr-wb": [],
+        "vnd.3gpp.iufp": [],
+        "vnd.4sb": [],
+        "vnd.audible": [
+            "aa",
+            "aax"
+        ],
+        "vnd.audible.aax": [
+            "aa",
+            "aax"
+        ],
+        "vnd.audiokoz": [],
+        "vnd.celp": [],
+        "vnd.cisco.nse": [],
+        "vnd.cmles.radio-events": [],
+        "vnd.cns.anp1": [],
+        "vnd.cns.inf1": [],
+        "vnd.dece.audio": [
+            "uva",
+            "uvva"
+        ],
+        "vnd.digital-winds": [
+            "eol"
+        ],
+        "vnd.dlna.adts": [],
+        "vnd.dolby.heaac.1": [],
+        "vnd.dolby.heaac.2": [],
+        "vnd.dolby.mlp": [],
+        "vnd.dolby.mps": [],
+        "vnd.dolby.pl2": [],
+        "vnd.dolby.pl2x": [],
+        "vnd.dolby.pl2z": [],
+        "vnd.dolby.pulse.1": [],
+        "vnd.dra": [
+            "dra"
+        ],
+        "vnd.dts": [
+            "dts"
+        ],
+        "vnd.dts.hd": [
+            "dtshd"
+        ],
+        "vnd.dvb.file": [],
+        "vnd.everad.plj": [],
+        "vnd.hns.audio": [],
+        "vnd.lucent.voice": [
+            "lvp"
+        ],
+        "vnd.m-realaudio": [
+            "ra",
+            "rax"
+        ],
+        "vnd.ms-playready.media.pya": [
+            "pya"
+        ],
+        "vnd.nokia.mobile-xmf": [],
+        "vnd.nortel.vbk": [],
+        "vnd.nuera.ecelp4800": [
+            "ecelp4800"
+        ],
+        "vnd.nuera.ecelp7470": [
+            "ecelp7470"
+        ],
+        "vnd.nuera.ecelp9600": [
+            "ecelp9600"
+        ],
+        "vnd.octel.sbc": [],
+        "vnd.presonus.multitrack": [],
+        "vnd.qcelp": [],
+        "vnd.rhetorex.32kadpcm": [],
+        "vnd.rip": [
+            "rip"
+        ],
+        "vnd.rn-realaudio": [
+            "ra",
+            "rax"
+        ],
+        "vnd.sealedmedia.softseal.mpeg": [],
+        "vnd.vmx.cvsd": [],
+        "vnd.wave": [
+            "wav"
+        ],
+        "vorbis": [
+            "oga",
+            "ogg"
+        ],
+        "vorbis-config": [],
+        "wav": [
+            "wav"
+        ],
+        "wave": [
+            "wav"
+        ],
+        "webm": [
+            "weba"
+        ],
+        "wma": [
+            "wma"
+        ],
+        "x-aac": [
+            "aac",
+            "adts",
+            "ass"
+        ],
+        "x-aifc": [
+            "aifc",
+            "aiffc"
+        ],
+        "x-aiff": [
+            "aif",
+            "aifc",
+            "aiff"
+        ],
+        "x-aiffc": [
+            "aifc",
+            "aiffc"
+        ],
+        "x-amzxml": [
+            "amz"
+        ],
+        "x-annodex": [
+            "axa"
+        ],
+        "x-ape": [
+            "ape"
+        ],
+        "x-caf": [
+            "caf"
+        ],
+        "x-dts": [
+            "dts"
+        ],
+        "x-dtshd": [
+            "dtshd"
+        ],
+        "x-flac": [
+            "flac"
+        ],
+        "x-flac+ogg": [
+            "oga",
+            "ogg"
+        ],
+        "x-gsm": [
+            "gsm"
+        ],
+        "x-imelody": [
+            "ime",
+            "imy"
+        ],
+        "x-iriver-pla": [
+            "pla"
+        ],
+        "x-it": [
+            "it"
+        ],
+        "x-m3u": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "x-m4a": [
+            "f4a",
+            "m4a"
+        ],
+        "x-m4b": [
+            "f4b",
+            "m4b"
+        ],
+        "x-m4r": [
+            "m4r"
+        ],
+        "x-matroska": [
+            "mka"
+        ],
+        "x-midi": [
+            "kar",
+            "mid",
+            "midi"
+        ],
+        "x-minipsf": [
+            "minipsf"
+        ],
+        "x-mo3": [
+            "mo3"
+        ],
+        "x-mod": [
+            "669",
+            "m15",
+            "med",
+            "mod",
+            "mtm",
+            "ult",
+            "uni"
+        ],
+        "x-mp2": [
+            "mp2"
+        ],
+        "x-mp3": [
+            "mp3",
+            "mpga"
+        ],
+        "x-mp3-playlist": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "x-mpeg": [
+            "mp3",
+            "mpga"
+        ],
+        "x-mpegurl": [
+            "m3u",
+            "m3u8",
+            "vlc"
+        ],
+        "x-mpg": [
+            "mp3",
+            "mpga"
+        ],
+        "x-ms-asx": [
+            "asx",
+            "wax",
+            "wmx",
+            "wvx"
+        ],
+        "x-ms-wax": [
+            "wax"
+        ],
+        "x-ms-wma": [
+            "wma"
+        ],
+        "x-musepack": [
+            "mp+",
+            "mpc",
+            "mpp"
+        ],
+        "x-ogg": [
+            "oga",
+            "ogg",
+            "opus"
+        ],
+        "x-oggflac": [
+            "oga",
+            "ogg"
+        ],
+        "x-opus+ogg": [
+            "opus"
+        ],
+        "x-pn-audibleaudio": [
+            "aa",
+            "aax"
+        ],
+        "x-pn-realaudio": [
+            "ra",
+            "rax"
+        ],
+        "x-pn-realaudio-plugin": [
+            "rmp"
+        ],
+        "x-psf": [
+            "psf"
+        ],
+        "x-psflib": [
+            "psflib"
+        ],
+        "x-realaudio": [
+            "ra"
+        ],
+        "x-rn-3gpp-amr": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "x-rn-3gpp-amr-encrypted": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "x-rn-3gpp-amr-wb": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "x-rn-3gpp-amr-wb-encrypted": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "x-s3m": [
+            "s3m"
+        ],
+        "x-scpls": [
+            "pls"
+        ],
+        "x-shorten": [
+            "shn"
+        ],
+        "x-speex": [
+            "spx"
+        ],
+        "x-speex+ogg": [
+            "oga",
+            "ogg"
+        ],
+        "x-stm": [
+            "stm"
+        ],
+        "x-tta": [
+            "tta"
+        ],
+        "x-voc": [
+            "voc"
+        ],
+        "x-vorbis": [
+            "oga",
+            "ogg"
+        ],
+        "x-vorbis+ogg": [
+            "oga",
+            "ogg"
+        ],
+        "x-wav": [
+            "wav"
+        ],
+        "x-wavpack": [
+            "wv",
+            "wvp"
+        ],
+        "x-wavpack-correction": [
+            "wvc"
+        ],
+        "x-xi": [
+            "xi"
+        ],
+        "x-xm": [
+            "xm"
+        ],
+        "x-xmf": [
+            "xmf"
+        ],
+        "xm": [
+            "xm"
+        ],
+        "xmf": [
+            "xmf"
+        ]
+    },
+    "chemical": {
+        "x-cdx": [
+            "cdx"
+        ],
+        "x-cif": [
+            "cif"
+        ],
+        "x-cmdf": [
+            "cmdf"
+        ],
+        "x-cml": [
+            "cml"
+        ],
+        "x-csml": [
+            "csml"
+        ],
+        "x-pdb": [],
+        "x-xyz": [
+            "xyz"
+        ]
+    },
+    "flv-application": {
+        "octet-stream": [
+            "flv"
+        ]
+    },
+    "font": {
+        "collection": [
+            "ttc"
+        ],
+        "otf": [
+            "otf"
+        ],
+        "sfnt": [],
+        "ttf": [
+            "ttf"
+        ],
+        "woff": [
+            "woff"
+        ],
+        "woff2": [
+            "woff2"
+        ]
+    },
+    "image": {
+        "aces": [
+            "exr"
+        ],
+        "apng": [
+            "apng"
+        ],
+        "avci": [],
+        "avcs": [],
+        "bmp": [
+            "bmp",
+            "dib"
+        ],
+        "cdr": [
+            "cdr"
+        ],
+        "cgm": [
+            "cgm"
+        ],
+        "dicom-rle": [
+            "drle"
+        ],
+        "emf": [
+            "emf"
+        ],
+        "fax-g3": [
+            "g3"
+        ],
+        "fits": [
+            "fits"
+        ],
+        "g3fax": [
+            "g3"
+        ],
+        "gif": [
+            "gif"
+        ],
+        "heic": [
+            "heic",
+            "heif"
+        ],
+        "heic-sequence": [
+            "heic",
+            "heif"
+        ],
+        "heif": [
+            "heic",
+            "heif"
+        ],
+        "heif-sequence": [
+            "heic",
+            "heif"
+        ],
+        "ico": [
+            "ico"
+        ],
+        "icon": [
+            "ico"
+        ],
+        "ief": [
+            "ief"
+        ],
+        "jls": [
+            "jls"
+        ],
+        "jp2": [
+            "jp2",
+            "jpg2"
+        ],
+        "jpeg": [
+            "jpe",
+            "jpeg",
+            "jpg"
+        ],
+        "jpeg2000": [
+            "jp2",
+            "jpg2"
+        ],
+        "jpeg2000-image": [
+            "jp2",
+            "jpg2"
+        ],
+        "jpm": [
+            "jpgm",
+            "jpm"
+        ],
+        "jpx": [
+            "jpf",
+            "jpx"
+        ],
+        "ktx": [
+            "ktx"
+        ],
+        "naplps": [],
+        "openraster": [
+            "ora"
+        ],
+        "pdf": [
+            "pdf"
+        ],
+        "photoshop": [
+            "psd"
+        ],
+        "pjpeg": [
+            "jpe",
+            "jpeg",
+            "jpg"
+        ],
+        "png": [
+            "png"
+        ],
+        "prs.btif": [
+            "btif"
+        ],
+        "prs.pti": [
+            "pti"
+        ],
+        "psd": [
+            "psd"
+        ],
+        "pwg-raster": [],
+        "rle": [
+            "rle"
+        ],
+        "sgi": [
+            "sgi"
+        ],
+        "svg+xml": [
+            "svg",
+            "svgz"
+        ],
+        "svg+xml-compressed": [
+            "svgz"
+        ],
+        "t38": [
+            "t38"
+        ],
+        "tiff": [
+            "tif",
+            "tiff"
+        ],
+        "tiff-fx": [
+            "tfx"
+        ],
+        "vnd.adobe.photoshop": [
+            "psd"
+        ],
+        "vnd.airzip.accelerator.azv": [
+            "azv"
+        ],
+        "vnd.cns.inf2": [],
+        "vnd.dece.graphic": [
+            "uvg",
+            "uvi",
+            "uvvg",
+            "uvvi"
+        ],
+        "vnd.djvu": [
+            "djv",
+            "djvu"
+        ],
+        "vnd.djvu+multipage": [
+            "djv",
+            "djvu"
+        ],
+        "vnd.dvb.subtitle": [
+            "sub"
+        ],
+        "vnd.dwg": [
+            "dwg"
+        ],
+        "vnd.dxf": [
+            "dxf"
+        ],
+        "vnd.fastbidsheet": [
+            "fbs"
+        ],
+        "vnd.fpx": [
+            "fpx"
+        ],
+        "vnd.fst": [
+            "fst"
+        ],
+        "vnd.fujixerox.edmics-mmr": [
+            "mmr"
+        ],
+        "vnd.fujixerox.edmics-rlc": [
+            "rlc"
+        ],
+        "vnd.globalgraphics.pgb": [],
+        "vnd.microsoft.icon": [
+            "ico"
+        ],
+        "vnd.mix": [],
+        "vnd.mozilla.apng": [],
+        "vnd.ms-modi": [
+            "mdi"
+        ],
+        "vnd.ms-photo": [
+            "wdp"
+        ],
+        "vnd.net-fpx": [
+            "npx"
+        ],
+        "vnd.radiance": [],
+        "vnd.rn-realpix": [
+            "rp"
+        ],
+        "vnd.sealed.png": [],
+        "vnd.sealedmedia.softseal.gif": [],
+        "vnd.sealedmedia.softseal.jpg": [],
+        "vnd.svf": [],
+        "vnd.tencent.tap": [
+            "tap"
+        ],
+        "vnd.valve.source.texture": [
+            "vtf"
+        ],
+        "vnd.wap.wbmp": [
+            "wbmp"
+        ],
+        "vnd.xiff": [
+            "xif"
+        ],
+        "vnd.zbrush.pcx": [
+            "pcx"
+        ],
+        "webp": [
+            "webp"
+        ],
+        "wmf": [
+            "wmf"
+        ],
+        "x-3ds": [
+            "3ds"
+        ],
+        "x-adobe-dng": [
+            "dng"
+        ],
+        "x-applix-graphics": [
+            "ag"
+        ],
+        "x-bmp": [
+            "bmp",
+            "dib"
+        ],
+        "x-bzeps": [
+            "eps.bz2",
+            "epsf.bz2",
+            "epsi.bz2"
+        ],
+        "x-canon-cr2": [
+            "cr2"
+        ],
+        "x-canon-crw": [
+            "crw"
+        ],
+        "x-cdr": [
+            "cdr"
+        ],
+        "x-cmu-raster": [
+            "ras"
+        ],
+        "x-cmx": [
+            "cmx"
+        ],
+        "x-compressed-xcf": [
+            "xcf.bz2",
+            "xcf.gz"
+        ],
+        "x-dds": [
+            "dds"
+        ],
+        "x-djvu": [
+            "djv",
+            "djvu"
+        ],
+        "x-emf": [
+            "emf"
+        ],
+        "x-eps": [
+            "eps",
+            "epsf",
+            "epsi"
+        ],
+        "x-exr": [
+            "exr"
+        ],
+        "x-fits": [
+            "fits"
+        ],
+        "x-freehand": [
+            "fh",
+            "fh4",
+            "fh5",
+            "fh7",
+            "fhc"
+        ],
+        "x-fuji-raf": [
+            "raf"
+        ],
+        "x-gimp-gbr": [
+            "gbr"
+        ],
+        "x-gimp-gih": [
+            "gih"
+        ],
+        "x-gimp-pat": [
+            "pat"
+        ],
+        "x-gzeps": [
+            "eps.gz",
+            "epsf.gz",
+            "epsi.gz"
+        ],
+        "x-icb": [
+            "icb",
+            "tga",
+            "tpic",
+            "vda",
+            "vst"
+        ],
+        "x-icns": [
+            "icns"
+        ],
+        "x-ico": [
+            "ico"
+        ],
+        "x-icon": [
+            "ico"
+        ],
+        "x-iff": [
+            "iff",
+            "ilbm",
+            "lbm"
+        ],
+        "x-ilbm": [
+            "iff",
+            "ilbm",
+            "lbm"
+        ],
+        "x-jng": [
+            "jng"
+        ],
+        "x-jp2-codestream": [
+            "j2c",
+            "j2k",
+            "jpc"
+        ],
+        "x-jpeg2000-image": [
+            "jp2",
+            "jpg2"
+        ],
+        "x-kodak-dcr": [
+            "dcr"
+        ],
+        "x-kodak-k25": [
+            "k25"
+        ],
+        "x-kodak-kdc": [
+            "kdc"
+        ],
+        "x-lwo": [
+            "lwo",
+            "lwob"
+        ],
+        "x-lws": [
+            "lws"
+        ],
+        "x-macpaint": [
+            "pntg"
+        ],
+        "x-minolta-mrw": [
+            "mrw"
+        ],
+        "x-mrsid-image": [
+            "sid"
+        ],
+        "x-ms-bmp": [
+            "bmp",
+            "dib"
+        ],
+        "x-msod": [
+            "msod"
+        ],
+        "x-nikon-nef": [
+            "nef"
+        ],
+        "x-olympus-orf": [
+            "orf"
+        ],
+        "x-panasonic-raw": [
+            "raw"
+        ],
+        "x-panasonic-raw2": [
+            "rw2"
+        ],
+        "x-panasonic-rw": [
+            "raw"
+        ],
+        "x-panasonic-rw2": [
+            "rw2"
+        ],
+        "x-pcx": [
+            "pcx"
+        ],
+        "x-pentax-pef": [
+            "pef"
+        ],
+        "x-photo-cd": [
+            "pcd"
+        ],
+        "x-photoshop": [
+            "psd"
+        ],
+        "x-pict": [
+            "pct",
+            "pict",
+            "pict1",
+            "pict2"
+        ],
+        "x-portable-anymap": [
+            "pnm"
+        ],
+        "x-portable-bitmap": [
+            "pbm"
+        ],
+        "x-portable-graymap": [
+            "pgm"
+        ],
+        "x-portable-pixmap": [
+            "ppm"
+        ],
+        "x-psd": [
+            "psd"
+        ],
+        "x-quicktime": [
+            "qif",
+            "qtif"
+        ],
+        "x-rgb": [
+            "rgb"
+        ],
+        "x-sgi": [
+            "sgi"
+        ],
+        "x-sigma-x3f": [
+            "x3f"
+        ],
+        "x-skencil": [
+            "sk",
+            "sk1"
+        ],
+        "x-sony-arw": [
+            "arw"
+        ],
+        "x-sony-sr2": [
+            "sr2"
+        ],
+        "x-sony-srf": [
+            "srf"
+        ],
+        "x-sun-raster": [
+            "sun"
+        ],
+        "x-tga": [
+            "icb",
+            "tga",
+            "tpic",
+            "vda",
+            "vst"
+        ],
+        "x-win-bitmap": [
+            "cur"
+        ],
+        "x-win-metafile": [
+            "wmf"
+        ],
+        "x-wmf": [
+            "wmf"
+        ],
+        "x-xbitmap": [
+            "xbm"
+        ],
+        "x-xcf": [
+            "xcf"
+        ],
+        "x-xfig": [
+            "fig"
+        ],
+        "x-xpixmap": [
+            "xpm"
+        ],
+        "x-xpm": [
+            "xpm"
+        ],
+        "x-xwindowdump": [
+            "xwd"
+        ],
+        "x.djvu": [
+            "djv",
+            "djvu"
+        ]
+    },
+    "message": {
+        "cpim": [],
+        "delivery-status": [],
+        "disposition-notification": [
+            "disposition-notification"
+        ],
+        "external-body": [],
+        "feedback-report": [],
+        "global": [
+            "u8msg"
+        ],
+        "global-delivery-status": [
+            "u8dsn"
+        ],
+        "global-disposition-notification": [
+            "u8mdn"
+        ],
+        "global-headers": [
+            "u8hdr"
+        ],
+        "http": [],
+        "imdn+xml": [],
+        "news": [],
+        "partial": [],
+        "rfc822": [
+            "eml",
+            "mime"
+        ],
+        "s-http": [],
+        "sip": [],
+        "sipfrag": [],
+        "tracking-status": [],
+        "vnd.si.simp": [],
+        "vnd.wfa.wsc": [
+            "wsc"
+        ]
+    },
+    "model": {
+        "3mf": [],
+        "gltf+json": [
+            "gltf"
+        ],
+        "gltf-binary": [
+            "glb"
+        ],
+        "iges": [
+            "iges",
+            "igs"
+        ],
+        "mesh": [
+            "mesh",
+            "msh",
+            "silo"
+        ],
+        "stl": [
+            "stl"
+        ],
+        "vnd.collada+xml": [
+            "dae"
+        ],
+        "vnd.dwf": [
+            "dwf"
+        ],
+        "vnd.flatland.3dml": [],
+        "vnd.gdl": [
+            "gdl"
+        ],
+        "vnd.gs-gdl": [],
+        "vnd.gs.gdl": [],
+        "vnd.gtw": [
+            "gtw"
+        ],
+        "vnd.moml+xml": [],
+        "vnd.mts": [
+            "mts"
+        ],
+        "vnd.opengex": [],
+        "vnd.parasolid.transmit.binary": [],
+        "vnd.parasolid.transmit.text": [],
+        "vnd.rosette.annotated-data-model": [],
+        "vnd.usdz+zip": [],
+        "vnd.valve.source.compiled-map": [],
+        "vnd.vtu": [
+            "vtu"
+        ],
+        "vrml": [
+            "vrm",
+            "vrml",
+            "wrl"
+        ],
+        "x.stl-ascii": [
+            "stl"
+        ],
+        "x.stl-binary": [
+            "stl"
+        ],
+        "x3d+binary": [
+            "x3db",
+            "x3dbz"
+        ],
+        "x3d+fastinfoset": [],
+        "x3d+vrml": [
+            "x3dv",
+            "x3dvz"
+        ],
+        "x3d+xml": [
+            "x3d",
+            "x3dz"
+        ],
+        "x3d-vrml": []
+    },
+    "multipart": {
+        "alternative": [],
+        "appledouble": [],
+        "byteranges": [],
+        "digest": [],
+        "encrypted": [],
+        "form-data": [],
+        "header-set": [],
+        "mixed": [],
+        "multilingual": [],
+        "parallel": [],
+        "related": [],
+        "report": [],
+        "signed": [],
+        "vnd.bint.med-plus": [],
+        "voice-message": [],
+        "x-mixed-replace": []
+    },
+    "text": {
+        "1d-interleaved-parityfec": [],
+        "cache-manifest": [
+            "appcache",
+            "manifest"
+        ],
+        "calendar": [
+            "ics",
+            "ifb",
+            "vcs"
+        ],
+        "calender": [],
+        "cmd": [],
+        "coffeescript": [
+            "coffee",
+            "litcoffee"
+        ],
+        "css": [
+            "css"
+        ],
+        "csv": [
+            "csv"
+        ],
+        "csv-schema": [
+            "csvs"
+        ],
+        "directory": [
+            "gcrd",
+            "vcard",
+            "vcf",
+            "vct"
+        ],
+        "dns": [],
+        "ecmascript": [
+            "es"
+        ],
+        "encaprtp": [],
+        "enriched": [],
+        "fwdred": [],
+        "gedcom": [
+            "ged",
+            "gedcom"
+        ],
+        "google-video-pointer": [
+            "gvp"
+        ],
+        "grammar-ref-list": [],
+        "html": [
+            "htm",
+            "html",
+            "shtml"
+        ],
+        "ico": [
+            "ico"
+        ],
+        "jade": [
+            "jade"
+        ],
+        "javascript": [
+            "js",
+            "jsm",
+            "mjs"
+        ],
+        "jcr-cnd": [],
+        "jsx": [
+            "jsx"
+        ],
+        "less": [
+            "less"
+        ],
+        "markdown": [
+            "markdown",
+            "md",
+            "mkd"
+        ],
+        "mathml": [
+            "mml"
+        ],
+        "mizar": [],
+        "n3": [
+            "n3"
+        ],
+        "parameters": [],
+        "parityfec": [],
+        "plain": [
+            "asc",
+            "conf",
+            "def",
+            "in",
+            "list",
+            "log",
+            "text",
+            "txt"
+        ],
+        "provenance-notation": [],
+        "prs.fallenstein.rst": [],
+        "prs.lines.tag": [
+            "dsc"
+        ],
+        "prs.prop.logic": [],
+        "raptorfec": [],
+        "rdf": [
+            "owl",
+            "rdf",
+            "rdfs"
+        ],
+        "red": [],
+        "rfc822-headers": [],
+        "richtext": [
+            "rtx"
+        ],
+        "rss": [
+            "rss"
+        ],
+        "rtf": [
+            "rtf"
+        ],
+        "rtp-enc-aescm128": [],
+        "rtploopback": [],
+        "rtx": [],
+        "rust": [
+            "rs"
+        ],
+        "sgml": [
+            "sgm",
+            "sgml"
+        ],
+        "shex": [
+            "shex"
+        ],
+        "slim": [
+            "slim",
+            "slm"
+        ],
+        "spreadsheet": [
+            "slk",
+            "sylk"
+        ],
+        "strings": [],
+        "stylus": [
+            "styl",
+            "stylus"
+        ],
+        "t140": [],
+        "tab-separated-values": [
+            "tsv"
+        ],
+        "troff": [
+            "man",
+            "me",
+            "ms",
+            "roff",
+            "t",
+            "tr"
+        ],
+        "turtle": [
+            "ttl"
+        ],
+        "ulpfec": [],
+        "uri-list": [
+            "uri",
+            "uris",
+            "urls"
+        ],
+        "vcard": [
+            "gcrd",
+            "vcard",
+            "vcf",
+            "vct"
+        ],
+        "vnd.a": [],
+        "vnd.abc": [],
+        "vnd.ascii-art": [],
+        "vnd.curl": [
+            "curl"
+        ],
+        "vnd.curl.dcurl": [
+            "dcurl"
+        ],
+        "vnd.curl.mcurl": [
+            "mcurl"
+        ],
+        "vnd.curl.scurl": [
+            "scurl"
+        ],
+        "vnd.debian.copyright": [],
+        "vnd.dmclientscript": [],
+        "vnd.dvb.subtitle": [
+            "sub"
+        ],
+        "vnd.esmertec.theme-descriptor": [],
+        "vnd.fly": [
+            "fly"
+        ],
+        "vnd.fmi.flexstor": [
+            "flx"
+        ],
+        "vnd.gml": [],
+        "vnd.graphviz": [
+            "dot",
+            "gv"
+        ],
+        "vnd.hgl": [],
+        "vnd.in3d.3dml": [
+            "3dml"
+        ],
+        "vnd.in3d.spot": [
+            "spot"
+        ],
+        "vnd.iptc.newsml": [],
+        "vnd.iptc.nitf": [],
+        "vnd.latex-z": [],
+        "vnd.motorola.reflex": [],
+        "vnd.ms-mediapackage": [],
+        "vnd.net2phone.commcenter.command": [],
+        "vnd.qt.linguist": [
+            "ts"
+        ],
+        "vnd.radisys.msml-basic-layout": [],
+        "vnd.rn-realtext": [
+            "rt"
+        ],
+        "vnd.si.uricatalogue": [],
+        "vnd.sun.j2me.app-descriptor": [
+            "jad"
+        ],
+        "vnd.trolltech.linguist": [
+            "ts"
+        ],
+        "vnd.wap.si": [],
+        "vnd.wap.sl": [],
+        "vnd.wap.wml": [
+            "wml"
+        ],
+        "vnd.wap.wmlscript": [
+            "wmls"
+        ],
+        "vtt": [
+            "vtt"
+        ],
+        "x-adasrc": [
+            "adb",
+            "ads"
+        ],
+        "x-asm": [
+            "asm",
+            "s"
+        ],
+        "x-bibtex": [
+            "bib"
+        ],
+        "x-c": [
+            "c",
+            "cc",
+            "cpp",
+            "cxx",
+            "dic",
+            "h",
+            "hh"
+        ],
+        "x-c++hdr": [
+            "h++",
+            "hh",
+            "hp",
+            "hpp",
+            "hxx"
+        ],
+        "x-c++src": [
+            "c",
+            "c++",
+            "cc",
+            "cpp",
+            "cxx"
+        ],
+        "x-chdr": [
+            "h"
+        ],
+        "x-cmake": [
+            "cmake"
+        ],
+        "x-cobol": [
+            "cbl",
+            "cob"
+        ],
+        "x-comma-separated-values": [
+            "csv"
+        ],
+        "x-component": [
+            "htc"
+        ],
+        "x-csharp": [
+            "cs"
+        ],
+        "x-csrc": [
+            "c"
+        ],
+        "x-csv": [
+            "csv"
+        ],
+        "x-dbus-service": [
+            "service"
+        ],
+        "x-dcl": [
+            "dcl"
+        ],
+        "x-diff": [
+            "diff",
+            "patch"
+        ],
+        "x-dsl": [
+            "dsl"
+        ],
+        "x-dsrc": [
+            "d",
+            "di"
+        ],
+        "x-dtd": [
+            "dtd"
+        ],
+        "x-eiffel": [
+            "e",
+            "eif"
+        ],
+        "x-emacs-lisp": [
+            "el"
+        ],
+        "x-erlang": [
+            "erl"
+        ],
+        "x-fortran": [
+            "f",
+            "f90",
+            "f95",
+            "for"
+        ],
+        "x-genie": [
+            "gs"
+        ],
+        "x-gettext-translation": [
+            "po"
+        ],
+        "x-gettext-translation-template": [
+            "pot"
+        ],
+        "x-gherkin": [
+            "feature"
+        ],
+        "x-go": [
+            "go"
+        ],
+        "x-google-video-pointer": [
+            "gvp"
+        ],
+        "x-gwt-rpc": [],
+        "x-handlebars-template": [
+            "hbs"
+        ],
+        "x-haskell": [
+            "hs"
+        ],
+        "x-idl": [
+            "idl"
+        ],
+        "x-imelody": [
+            "ime",
+            "imy"
+        ],
+        "x-iptables": [
+            "iptables"
+        ],
+        "x-java": [
+            "java"
+        ],
+        "x-java-source": [
+            "java"
+        ],
+        "x-jquery-tmpl": [],
+        "x-ldif": [
+            "ldif"
+        ],
+        "x-lilypond": [
+            "ly"
+        ],
+        "x-literate-haskell": [
+            "lhs"
+        ],
+        "x-log": [
+            "log"
+        ],
+        "x-lua": [
+            "lua"
+        ],
+        "x-lyx": [
+            "lyx"
+        ],
+        "x-makefile": [
+            "mak",
+            "mk"
+        ],
+        "x-markdown": [
+            "markdown",
+            "md",
+            "mkd"
+        ],
+        "x-matlab": [
+            "m"
+        ],
+        "x-microdvd": [
+            "sub"
+        ],
+        "x-moc": [
+            "moc"
+        ],
+        "x-modelica": [
+            "mo"
+        ],
+        "x-mof": [
+            "mof"
+        ],
+        "x-mpsub": [
+            "sub"
+        ],
+        "x-mrml": [
+            "mrl",
+            "mrml"
+        ],
+        "x-ms-regedit": [
+            "reg"
+        ],
+        "x-mup": [
+            "mup",
+            "not"
+        ],
+        "x-nfo": [
+            "nfo"
+        ],
+        "x-objcsrc": [
+            "m"
+        ],
+        "x-ocaml": [
+            "ml",
+            "mli"
+        ],
+        "x-ocl": [
+            "ocl"
+        ],
+        "x-octave": [
+            "m"
+        ],
+        "x-ooc": [
+            "ooc"
+        ],
+        "x-opencl-src": [
+            "cl"
+        ],
+        "x-opml": [
+            "opml"
+        ],
+        "x-opml+xml": [
+            "opml"
+        ],
+        "x-org": [
+            "org"
+        ],
+        "x-pascal": [
+            "p",
+            "pas"
+        ],
+        "x-patch": [
+            "diff",
+            "patch"
+        ],
+        "x-perl": [
+            "al",
+            "perl",
+            "pl",
+            "pm",
+            "pod",
+            "t"
+        ],
+        "x-po": [
+            "po"
+        ],
+        "x-pot": [
+            "pot"
+        ],
+        "x-processing": [
+            "pde"
+        ],
+        "x-python": [
+            "py",
+            "pyx",
+            "wsgi"
+        ],
+        "x-python3": [
+            "py",
+            "py3",
+            "py3x"
+        ],
+        "x-qml": [
+            "qml",
+            "qmlproject",
+            "qmltypes"
+        ],
+        "x-reject": [
+            "rej"
+        ],
+        "x-rpm-spec": [
+            "spec"
+        ],
+        "x-sass": [
+            "sass"
+        ],
+        "x-scala": [
+            "scala"
+        ],
+        "x-scheme": [
+            "scm",
+            "ss"
+        ],
+        "x-scss": [
+            "scss"
+        ],
+        "x-setext": [
+            "etx"
+        ],
+        "x-sfv": [
+            "sfv"
+        ],
+        "x-sh": [
+            "sh"
+        ],
+        "x-sql": [
+            "sql"
+        ],
+        "x-ssa": [
+            "ass",
+            "ssa"
+        ],
+        "x-subviewer": [
+            "sub"
+        ],
+        "x-suse-ymp": [
+            "ymp"
+        ],
+        "x-svhdr": [
+            "svh"
+        ],
+        "x-svsrc": [
+            "sv"
+        ],
+        "x-systemd-unit": [
+            "automount",
+            "device",
+            "mount",
+            "path",
+            "scope",
+            "service",
+            "slice",
+            "socket",
+            "swap",
+            "target",
+            "timer"
+        ],
+        "x-tcl": [
+            "tcl",
+            "tk"
+        ],
+        "x-tex": [
+            "cls",
+            "dtx",
+            "ins",
+            "latex",
+            "ltx",
+            "sty",
+            "tex"
+        ],
+        "x-texinfo": [
+            "texi",
+            "texinfo"
+        ],
+        "x-troff": [
+            "roff",
+            "t",
+            "tr"
+        ],
+        "x-troff-me": [
+            "me"
+        ],
+        "x-troff-mm": [
+            "mm"
+        ],
+        "x-troff-ms": [
+            "ms"
+        ],
+        "x-twig": [
+            "twig"
+        ],
+        "x-txt2tags": [
+            "t2t"
+        ],
+        "x-uil": [
+            "uil"
+        ],
+        "x-uuencode": [
+            "uu",
+            "uue"
+        ],
+        "x-vala": [
+            "vala",
+            "vapi"
+        ],
+        "x-vcalendar": [
+            "ics",
+            "vcs"
+        ],
+        "x-vcard": [
+            "gcrd",
+            "vcard",
+            "vcf",
+            "vct"
+        ],
+        "x-verilog": [
+            "v"
+        ],
+        "x-vhdl": [
+            "vhd",
+            "vhdl"
+        ],
+        "x-xmi": [
+            "xmi"
+        ],
+        "x-xslfo": [
+            "fo",
+            "xslfo"
+        ],
+        "x-yaml": [
+            "yaml",
+            "yml"
+        ],
+        "x.gcode": [
+            "gcode"
+        ],
+        "xml": [
+            "rng",
+            "xbl",
+            "xml",
+            "xsd"
+        ],
+        "xml-external-parsed-entity": [
+            "ent"
+        ],
+        "yaml": [
+            "yaml",
+            "yml"
+        ]
+    },
+    "video": {
+        "1d-interleaved-parityfec": [],
+        "3gp": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "3gpp": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "3gpp-encrypted": [
+            "3ga",
+            "3gp",
+            "3gpp"
+        ],
+        "3gpp-tt": [],
+        "3gpp2": [
+            "3g2",
+            "3gp2",
+            "3gpp2"
+        ],
+        "annodex": [
+            "axv"
+        ],
+        "avi": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "bmpeg": [],
+        "bt656": [],
+        "celb": [],
+        "divx": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "dv": [
+            "dv"
+        ],
+        "encaprtp": [],
+        "fli": [
+            "flc",
+            "fli"
+        ],
+        "flv": [
+            "flv"
+        ],
+        "h261": [
+            "h261"
+        ],
+        "h263": [
+            "h263"
+        ],
+        "h263-1998": [],
+        "h263-2000": [],
+        "h264": [
+            "h264"
+        ],
+        "h264-rcdo": [],
+        "h264-svc": [],
+        "h265": [],
+        "iso.segment": [],
+        "jpeg": [
+            "jpgv"
+        ],
+        "jpeg2000": [],
+        "jpm": [
+            "jpgm",
+            "jpm"
+        ],
+        "mj2": [
+            "mj2",
+            "mjp2"
+        ],
+        "mp1s": [],
+        "mp2p": [],
+        "mp2t": [
+            "bdm",
+            "bdmv",
+            "clpi",
+            "cpi",
+            "m2t",
+            "m2ts",
+            "mpl",
+            "mpls",
+            "mts",
+            "ts"
+        ],
+        "mp4": [
+            "f4v",
+            "lrv",
+            "m4v",
+            "mp4"
+        ],
+        "mp4v-es": [
+            "f4v",
+            "lrv",
+            "m4v",
+            "mp4"
+        ],
+        "mpeg": [
+            "m2v",
+            "mp2",
+            "mpe",
+            "mpeg",
+            "mpg",
+            "vob"
+        ],
+        "mpeg-system": [
+            "mp2",
+            "mpe",
+            "mpeg",
+            "mpg",
+            "vob"
+        ],
+        "mpeg4-generic": [],
+        "mpv": [],
+        "msvideo": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "nv": [],
+        "ogg": [
+            "ogg",
+            "ogv"
+        ],
+        "parityfec": [],
+        "pointer": [],
+        "quicktime": [
+            "moov",
+            "mov",
+            "qt",
+            "qtvr"
+        ],
+        "raptorfec": [],
+        "raw": [],
+        "rtp-enc-aescm128": [],
+        "rtploopback": [],
+        "rtx": [],
+        "smpte291": [],
+        "smpte292m": [],
+        "ulpfec": [],
+        "vc1": [],
+        "vc2": [],
+        "vivo": [
+            "viv",
+            "vivo"
+        ],
+        "vnd.cctv": [],
+        "vnd.dece.hd": [
+            "uvh",
+            "uvvh"
+        ],
+        "vnd.dece.mobile": [
+            "uvm",
+            "uvvm"
+        ],
+        "vnd.dece.mp4": [],
+        "vnd.dece.pd": [
+            "uvp",
+            "uvvp"
+        ],
+        "vnd.dece.sd": [
+            "uvs",
+            "uvvs"
+        ],
+        "vnd.dece.video": [
+            "uvv",
+            "uvvv"
+        ],
+        "vnd.directv.mpeg": [],
+        "vnd.directv.mpeg-tts": [],
+        "vnd.divx": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "vnd.dlna.mpeg-tts": [],
+        "vnd.dvb.file": [
+            "dvb"
+        ],
+        "vnd.fvt": [
+            "fvt"
+        ],
+        "vnd.hns.video": [],
+        "vnd.iptvforum.1dparityfec-1010": [],
+        "vnd.iptvforum.1dparityfec-2005": [],
+        "vnd.iptvforum.2dparityfec-1010": [],
+        "vnd.iptvforum.2dparityfec-2005": [],
+        "vnd.iptvforum.ttsavc": [],
+        "vnd.iptvforum.ttsmpeg2": [],
+        "vnd.motorola.video": [],
+        "vnd.motorola.videop": [],
+        "vnd.mpegurl": [
+            "m1u",
+            "m4u",
+            "mxu"
+        ],
+        "vnd.ms-playready.media.pyv": [
+            "pyv"
+        ],
+        "vnd.nokia.interleaved-multimedia": [],
+        "vnd.nokia.mp4vr": [],
+        "vnd.nokia.videovoip": [],
+        "vnd.objectvideo": [],
+        "vnd.radgamettools.bink": [],
+        "vnd.radgamettools.smacker": [],
+        "vnd.rn-realvideo": [
+            "rv",
+            "rvx"
+        ],
+        "vnd.sealed.mpeg1": [],
+        "vnd.sealed.mpeg4": [],
+        "vnd.sealed.swf": [],
+        "vnd.sealedmedia.softseal.mov": [],
+        "vnd.uvvu.mp4": [
+            "uvu",
+            "uvvu"
+        ],
+        "vnd.vivo": [
+            "viv",
+            "vivo"
+        ],
+        "vp8": [],
+        "webm": [
+            "webm"
+        ],
+        "x-anim": [
+            "anim[1-9j]"
+        ],
+        "x-annodex": [
+            "axv"
+        ],
+        "x-avi": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "x-f4v": [
+            "f4v"
+        ],
+        "x-fli": [
+            "flc",
+            "fli"
+        ],
+        "x-flic": [
+            "flc",
+            "fli"
+        ],
+        "x-flv": [
+            "flv"
+        ],
+        "x-javafx": [
+            "fxm"
+        ],
+        "x-m4v": [
+            "f4v",
+            "lrv",
+            "m4v",
+            "mp4"
+        ],
+        "x-matroska": [
+            "mk3d",
+            "mks",
+            "mkv"
+        ],
+        "x-matroska-3d": [
+            "mk3d"
+        ],
+        "x-mjpeg": [
+            "mjpeg",
+            "mjpg"
+        ],
+        "x-mng": [
+            "mng"
+        ],
+        "x-mpeg": [
+            "mp2",
+            "mpe",
+            "mpeg",
+            "mpg",
+            "vob"
+        ],
+        "x-mpeg-system": [
+            "mp2",
+            "mpe",
+            "mpeg",
+            "mpg",
+            "vob"
+        ],
+        "x-mpeg2": [
+            "mp2",
+            "mpe",
+            "mpeg",
+            "mpg",
+            "vob"
+        ],
+        "x-mpegurl": [
+            "m1u",
+            "m4u",
+            "mxu"
+        ],
+        "x-ms-asf": [
+            "asf",
+            "asx"
+        ],
+        "x-ms-asf-plugin": [
+            "asf"
+        ],
+        "x-ms-vob": [
+            "vob"
+        ],
+        "x-ms-wax": [
+            "asx",
+            "wax",
+            "wmx",
+            "wvx"
+        ],
+        "x-ms-wm": [
+            "asf",
+            "wm"
+        ],
+        "x-ms-wmv": [
+            "wmv"
+        ],
+        "x-ms-wmx": [
+            "asx",
+            "wax",
+            "wmx",
+            "wvx"
+        ],
+        "x-ms-wvx": [
+            "asx",
+            "wax",
+            "wmx",
+            "wvx"
+        ],
+        "x-msvideo": [
+            "avf",
+            "avi",
+            "divx"
+        ],
+        "x-nsv": [
+            "nsv"
+        ],
+        "x-ogg": [
+            "ogg",
+            "ogv"
+        ],
+        "x-ogm": [
+            "ogm"
+        ],
+        "x-ogm+ogg": [
+            "ogm"
+        ],
+        "x-real-video": [
+            "rv",
+            "rvx"
+        ],
+        "x-sgi-movie": [
+            "movie"
+        ],
+        "x-smv": [
+            "smv"
+        ],
+        "x-theora": [
+            "ogg"
+        ],
+        "x-theora+ogg": [
+            "ogg"
+        ]
+    },
+    "x-conference": {
+        "x-cooltalk": [
+            "ice"
+        ]
+    },
+    "x-epoc": {
+        "x-sisx-app": [
+            "sisx"
+        ]
+    },
+    "x-shader": {
+        "x-fragment": [],
+        "x-vertex": []
+    },
+    "zz-application": {
+        "zz-winassoc-123": [
+            "123",
+            "wk1",
+            "wk3",
+            "wk4",
+            "wks"
+        ],
+        "zz-winassoc-cab": [
+            "cab"
+        ],
+        "zz-winassoc-cdr": [
+            "cdr"
+        ],
+        "zz-winassoc-doc": [
+            "doc"
+        ],
+        "zz-winassoc-hlp": [
+            "hlp"
+        ],
+        "zz-winassoc-mdb": [
+            "mdb"
+        ],
+        "zz-winassoc-uu": [
+            "uue"
+        ],
+        "zz-winassoc-xls": [
+            "xla",
+            "xlc",
+            "xld",
+            "xll",
+            "xlm",
+            "xls",
+            "xlt",
+            "xlw"
+        ]
+    }
+}

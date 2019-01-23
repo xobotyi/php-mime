@@ -1,140 +1,132 @@
 <?php
 declare(strict_types=1);
 
-$mimeDBtoFetch = "https://raw.githubusercontent.com/jshttp/mime-db/master/db.json";
+include_once __DIR__ . './parser/freedesktopParser.php';
+include_once __DIR__ . './parser/apacheParser.php';
+include_once __DIR__ . './parser/nginxParser.php';
+include_once __DIR__ . './parser/mimeDbParser.php';
 
-if (!function_exists('curl_init')) {
-    echo "CURL extension has to be enabled in your php.ini\n";
+$freedesktopMimesFile = "https://raw.github.com/minad/mimemagic/master/script/freedesktop.org.xml";
+$apacheMimesFile      = "https://svn.apache.org/repos/asf/httpd/httpd/trunk/docs/conf/mime.types";
+$nginxMimesFile       = "https://raw.github.com/nginx/nginx/master/conf/mime.types";
+$mimeDbMimesFile      = "https://raw.github.com/jshttp/mime-db/master/db.json";
+
+$mimetypesRaw = [];
+$mimetypes    = [];
+$extensions   = [];
+
+##
+#   Fetching DB's
+##
+$result = freedesktopParseMT($freedesktopMimesFile, $mimetypesRaw);
+if (!$result) {
+    echo "Failed to process freedesktop mimes db\n\n";
     exit(1);
 }
+echo "freedesktop mimes db parsed, added {$result['types']} types,  {$result['subtypes']} subtypes, {$result['extensions']} extensions\n\n";
 
-echo "Fetching mime DB ...";
-
-$curl = curl_init();
-curl_setopt_array($curl, [
-    CURLOPT_URL            => $mimeDBtoFetch,
-    CURLOPT_BINARYTRANSFER => true,
-    CURLOPT_RETURNTRANSFER => true,
-    CURLOPT_HEADER         => false,
-    CURLOPT_FOLLOWLOCATION => true,
-]);
-
-$data       = curl_exec($curl);
-$statusCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
-
-if ($statusCode !== 200) {
-    echo "\rFetching mime DB ... ERROR\n\nUnable to fetch mime db, got non 200 response\n";
-
-    if (!get_cfg_var('curl.cainfo') || !get_cfg_var('openssl.cafile')) {
-        echo "Looks like you haven't configured your curl.cacert in php.ini\n\n" .
-             "- Grab the latest cert from https://curl.haxx.se/docs/caextract.html\n" .
-             "- Store it somewhere\n" .
-             "- Put the path to the cacert.pem in `curl.cainfo` setting int your php.ini\n" .
-             "- Tour TLS should work now\n";
-    }
-
-    exit(2);
+$result = nginxParseMT($nginxMimesFile, $mimetypesRaw);
+if (!$result) {
+    echo "Failed to process nginx mimes db \n\n";
+    exit(1);
 }
+echo "nginx mimes db parsed, added {$result['types']} types,  {$result['subtypes']} subtypes, {$result['extensions']} extensions\n\n";
 
-echo "\rFetching mime DB ... OK\n";
-
-echo "Decoding DB ...";
-$rawMimes = json_decode($data, true);
-
-if (json_last_error()) {
-    echo "\rDecoding DB ... ERROR\n\nUnable to decode fetched JSON, got error: " . json_last_error() . "(" . json_last_error_msg() . ")\n";
-    exit(4);
+$result = apacheParseMT($apacheMimesFile, $mimetypesRaw);
+if (!$result) {
+    echo "Failed to process apache mimes db\n\n";
+    exit(1);
 }
-echo "\rDecoding DB ... OK\n";
+echo "apache mimes db parsed, added {$result['types']} types,  {$result['subtypes']} subtypes, {$result['extensions']} extensions\n\n";
 
-$mimes      = [];
-$extensions = [];
+$result = mimeDbParseMT($mimeDbMimesFile, $mimetypesRaw);
+if (!$result) {
+    echo "Failed to process mime-db\n\n";
+    exit(1);
+}
+echo "mime-db parsed, added {$result['types']} types,  {$result['subtypes']} subtypes, {$result['extensions']} extensions\n\n";
 
-$groupsCount     = 0;
-$mimeTypesCount  = 0;
+##
+#   Processing result DB
+##
+$typesCount      = 0;
+$subtypesCount   = 0;
 $extensionsCount = 0;
 
-echo "\nPreparing mimes ...";
-foreach ($rawMimes as $rawType => $typeData) {
-    $delimPos = strpos($rawType, "/");
-    $group    = substr($rawType, 0, $delimPos);
-    $type     = substr($rawType, $delimPos + 1);
+foreach ($mimetypesRaw as $typeRaw => $subtypes) {
+    $type = strtolower($typeRaw);
 
-    if (empty($mimes[$group])) {
-        $mimes[$group] = [];
-        $groupsCount++;
+    if (empty($mimetypes[$type])) {
+        $typesCount++;
+        $mimetypes[$type] = [];
     }
 
-    $mimes[$group][$type] = $typeData;
-    $mimeTypesCount++;
+    foreach ($subtypes as $subtypeRaw => $mtExtensions) {
+        $subtype = strtolower($subtypeRaw);
 
-    if (empty($typeData['extensions'])) {
-        //        echo "{$type} has no associated extension\n";
-        continue;
+        if (empty($mimetypes[$type][$subtype])) {
+            $subtypesCount++;
+            $mimetypes[$type][$subtype] = [];
+        }
+
+        foreach ($mtExtensions as $ext) {
+            $ext = strtolower($ext);
+
+            if (!in_array($ext, $mimetypes[$type][$subtype])) {
+                $extensionsCount++;
+                $mimetypes[$type][$subtype][] = $ext;
+            }
+        }
+
+        asort($mimetypes[$type][$subtype], SORT_STRING);
+        $mimetypes[$type][$subtype] = array_values($mimetypes[$type][$subtype]);
     }
+    ksort($mimetypes[$type], SORT_STRING);
+}
+ksort($mimetypes, SORT_STRING);
 
-    foreach ($typeData['extensions'] as $ext) {
-        is_array($extensions[$ext] ?? null) ? $extensions[$ext][] = $rawType : $extensions[$ext] = [$rawType];
-        $extensionsCount++;
+foreach ($mimetypes as $type => $subtypes) {
+    foreach ($subtypes as $subtype => $mtExtensions) {
+        $mt = $type . '/' . $subtype;
+
+        foreach ($mtExtensions as $ext) {
+            if (empty($extensions[$ext])) {
+                $extensions[$ext] = [];
+            }
+
+            if (!in_array($mt, $extensions[$ext])) {
+                $extensions[$ext][] = $mt;
+            }
+        }
     }
 }
 
-foreach ($mimes as $group => &$types) {
-    ksort($types);
+foreach ($extensions as $extension => $mt) {
+    $extensions[$extension] = array_values(array_unique($mt));
+    asort($extensions[$extension], SORT_STRING);
 }
-ksort($mimes);
-ksort($extensions);
 
-echo "\rPreparing mimes ... OK\n";
+echo "result DB size: {$typesCount} types,  {$subtypesCount} subtypes, {$extensionsCount} extensions\n\n";
 
-$mimeType = file_get_contents("./src/MimeType.php");
 
-$mimeType = preg_replace("~(.*// <-- mimes start --> \\\\)(.*)(// <-- mimes end --> \\\\.*)~si", "$1\n    private static \$mimes = " . mimesExporter($mimes) . ";\n$3", $mimeType);
-$mimeType = preg_replace("~(.*// <-- extensions start --> \\\\)(.*)(// <-- extensions end --> \\\\.*)~si", "$1\n    private static \$extensions = " . extensionsExporter($extensions) . ";\n$3", $mimeType);
+echo "writing result db to '" . __DIR__ . "/mimes.db.json'\n";
+file_put_contents("./mimes.db.json", json_encode($mimetypes, JSON_PRETTY_PRINT));
 
-file_put_contents("./src/MimeType.php", $mimeType);
+$sourceClass = file_get_contents("./src/MimeType.php");
+$sourceClass = preg_replace("~(.*// <-- mimes start --> \\\\)(.*)(// <-- mimes end --> \\\\.*)~si", "$1\n    private static \$mimes = " . exportMimeTypes($mimetypes) . ";\n$3", $sourceClass);
+$sourceClass = preg_replace("~(.*// <-- extensions start --> \\\\)(.*)(// <-- extensions end --> \\\\.*)~si", "$1\n    private static \$extensions = " . exportExtensions($extensions) . ";\n$3", $sourceClass);
+file_put_contents("./src/MimeType.php", $sourceClass);
 
-echo "\nProcessed {$mimeTypesCount} mimetypes (composed by {$groupsCount} groups) and " . count($extensions) . " extensions";
-echo "\nDONE!";
 exit(0);
 
-##
-#   END OF MAIN SCRIPT
-##
+function exportMimeTypes(array $mimetypes) :string {
+    $result = '';
 
-function mimesExporter(array $array) :string {
-    $result = "";
+    foreach ($mimetypes as $type => $subtypes) {
+        $result .= "    '{$type}' => [\n";
 
-    foreach ($array as $group => $types) {
-        $result .= "    '{$group}' => [\n";
-
-        foreach ($types as $key => $value) {
-            $val = "";
-
-            if (isset($value['compressible'])) {
-                $val .= "            'compressible' => true,\n";
-            }
-            else {
-                $val .= "            'compressible' => false,\n";
-            }
-
-            if (isset($value['source'])) {
-                $val .= "            'source' => '" . addslashes($value['source']) . "',\n";
-            }
-
-            if (isset($value['charset'])) {
-                $val .= "            'charset' => '" . addslashes($value['charset']) . "',\n";
-            }
-
-            if (isset($value['extensions'])) {
-                $val .= "            'extensions' => ['" . implode("','", $value['extensions']) . "'],\n";
-            }
-            else {
-                $val .= "            'extensions' => [],\n";
-            }
-
-            $result .= "        '{$key}' => [\n{$val}";
-            $result .= "        ],\n";
+        foreach ($subtypes as $subtype => $extensions) {
+            $result .= "        '{$subtype}' =>  [" . ($extensions ? "'" . implode("','", $extensions) . "'" : '') . "],\n";
         }
 
         $result .= "    ],\n";
@@ -143,11 +135,11 @@ function mimesExporter(array $array) :string {
     return "[\n{$result}]";
 }
 
-function extensionsExporter(array $array) :string {
+function exportExtensions(array $extensions) :string {
     $result = "";
 
-    foreach ($array as $key => $value) {
-        $result .= "    '{$key}' =>  ['" . implode("','", $value) . "'],\n";
+    foreach ($extensions as $ext => $mimetypes) {
+        $result .= "    '{$ext}' =>  ['" . implode("','", $mimetypes) . "'],\n";
     }
 
     return "[\n{$result}]";
